@@ -2,13 +2,14 @@
 title: ACDC - Highway to hell
 description: 
 published: 1
-date: 2022-07-24T07:40:13.457Z
+date: 2022-07-24T07:46:56.732Z
 tags: guitar, rock, s-h-i-t
 editor: markdown
 dateCreated: 2022-07-24T01:30:01.014Z
 ---
 
-Intro] (G in riff is really G5, A can be played as A5)
+```
+[Intro] (G in riff is really G5, A can be played as A5)
  
      A              D/F# G          D/F# G  D/F# G  D/F# A
 e|-----------------------------------------------------------------|
@@ -23,7 +24,7 @@ E|-------------------2-2-3-----------2-2-3---2-2-3---2-------------|
 [Verse 1]
  
 A A A          D/F# D/F# G            D/F# D/F# G
-      Livin' easy,         livin' free
+         Livin' easy,         livin' free
 D/F# D/F# G    D/F#   A A
      Season ticket on a one way ride
 A A A          D/F# D/F# G            D/F# D/F# G
@@ -122,5 +123,5 @@ D/F#     A   A   A  D/A
 to hell) Highway to hell
                                          A                            A N.C.
 An' I'm goin' down... all the way... whoa...... on the highway to hell
-
+```
 
