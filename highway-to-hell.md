@@ -2,13 +2,13 @@
 title: Highway to hell
 description: 
 published: 1
-date: 2022-07-24T00:23:18.167Z
+date: 2022-07-24T01:08:08.869Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-24T00:01:36.149Z
 ---
 
-```bash
+
 [Intro] 
  test
      A              D/F# G          D/F# G  D/F# G  D/F# A
@@ -125,4 +125,3 @@ to hell) Highway to hell
 An' I'm goin' down... all the way... whoa...... on the highway to hell
 
 
-```
