@@ -2,15 +2,14 @@
 title: ACDC - Highway to hell
 description: 
 published: 1
-date: 2022-07-24T07:19:49.152Z
+date: 2022-07-24T07:27:34.577Z
 tags: guitar, rock
 editor: markdown
 dateCreated: 2022-07-24T01:30:01.014Z
 ---
 
-# ACDC - Highway to hell
 
-Intro] (G in riff is really G5, A can be played as A5)
+[Intro] (G in riff is really G5, A can be played as A5)
  
      A              D/F# G          D/F# G  D/F# G  D/F# A
 e|-----------------------------------------------------------------|
