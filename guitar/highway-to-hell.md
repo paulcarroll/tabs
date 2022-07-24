@@ -2,7 +2,7 @@
 title: ACDC - Highway to hell
 description: 
 published: 1
-date: 2022-07-24T07:29:44.305Z
+date: 2022-07-24T07:31:09.940Z
 tags: guitar, rock
 editor: markdown
 dateCreated: 2022-07-24T01:30:01.014Z
@@ -10,9 +10,7 @@ dateCreated: 2022-07-24T01:30:01.014Z
 
 \[Intro\] (G in riff is really G5, A can be played as A5)
 
-```
- A              D/F# G          D/F# G  D/F# G  D/F# A
-```
+.     A              D/F# G          D/F# G  D/F# G  D/F# A
 
 e|-----------------------------------------------------------------|  
 B|---2-2-2-----------3-3-3-----------3-3-3---3-3-3---3---2-2-------|  
@@ -44,9 +42,7 @@ My friends are gonna be there too
 
 \[Chorus\]
 
-```
-       A   A   A  D/A      G
-```
+.       A   A   A  D/A      G
 
 I'm on the highway to hell  
 D/F# A A A D/A G  
@@ -78,9 +74,7 @@ I'm on my way to the promised land
 
 \[Chorus\]
 
-```
-       A   A   A  D/A      G
-```
+.      A   A   A  D/A      G
 
 I'm on the highway to hell  
 D/F# A A A D/A G  
@@ -103,9 +97,7 @@ Don't stop me
 
 \[Chorus\]
 
-```
 D/F#   A   A   A  D/A      G
-```
 
 I'm on the highway to hell  
 D/F# A A A D/A G  
