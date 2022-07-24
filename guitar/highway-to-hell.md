@@ -2,8 +2,8 @@
 title: ACDC - Highway to hell
 description: 
 published: 1
-date: 2022-07-24T07:31:09.940Z
-tags: guitar, rock
+date: 2022-07-24T07:35:22.363Z
+tags: guitar, rock, s-h-i-t
 editor: markdown
 dateCreated: 2022-07-24T01:30:01.014Z
 ---
