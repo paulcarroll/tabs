@@ -2,8 +2,8 @@
 title: Foo Fighters - My hero
 description: 
 published: true
-date: 2023-06-30T02:22:10.539Z
-tags: difficulty easy, boof learning
+date: 2023-06-30T02:27:48.647Z
+tags: group boof, tempo medium, difficulty easy, boof learning, boof priority
 editor: markdown
 dateCreated: 2023-06-29T10:51:52.215Z
 ---
