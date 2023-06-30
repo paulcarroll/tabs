@@ -1,9 +1,9 @@
 ---
-title: ACDC - Highway to hell
+title: ACDC - Highway to hellx
 description: 
-published: 1
-date: 2022-07-24T08:14:42.359Z
-tags: genre-rock, group-shit, type-guitar, band-acdc
+published: true
+date: 2022-07-24T11:53:52.529Z
+tags: group shit
 editor: markdown
 dateCreated: 2022-07-24T01:30:01.014Z
 ---
