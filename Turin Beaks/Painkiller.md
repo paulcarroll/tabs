@@ -8,8 +8,7 @@ editor: markdown
 dateCreated: 2022-07-25T11:53:45.462Z
 ---
 
-> [spotify](https://open.spotify.com/track/7axHs42nlsJhYTESxJsDFo?si=78kHlI6-QXut-V_HxIj1rw)
-{.is-info}
+- [Spotify - Painkiller](https://open.spotify.com/track/7axHs42nlsJhYTESxJsDFo?si=78kHlI6-QXut-V_HxIj1rw)
 
 
 ```
