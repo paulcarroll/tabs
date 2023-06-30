@@ -2,8 +2,8 @@
 title: Greenday - Hitchin' a ride
 description: 
 published: true
-date: 2022-07-25T12:57:36.539Z
-tags: group shit, group boof, difficulty easy, tempo lively
+date: 2023-06-30T01:17:26.717Z
+tags: group shit, group boof, difficulty easy, tempo lively, boof learning, boof priority
 editor: markdown
 dateCreated: 2022-07-25T12:57:34.350Z
 ---
