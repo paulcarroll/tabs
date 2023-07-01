@@ -102,7 +102,7 @@ Pull me out, pull me out
 
 ## Bridge
 
-        C
+&nbsp;       C
 You can say what you like
                           Em          D
 Just don't say I wouldn't die for it (ohohohoh)

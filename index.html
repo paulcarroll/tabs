@@ -1,9 +1,10 @@
 ---
 layout: home
+datatable: true
 ---
 
 <div class="page-list">
-	<table>
+	<table id="songs" class="display">
 		<thead>
 			<tr>
 				<th class="artist">Artist</th>
@@ -50,3 +51,14 @@ layout: home
 		</tbody>
 	</table>
 </div>
+
+<script>
+	$(document).ready(function() {
+		$('#songs').DataTable({
+			responsive: true,
+			paging: false
+		});
+	});
+</script>
+
+

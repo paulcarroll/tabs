@@ -89,8 +89,8 @@ D  Dsus4  D             D  Dsus4  D  Dsus4  D
 
 ## Solo
 
-| A           D/A |(D/A)    G  D/F# | x3
-| A           D/A |(D/A)    G
+A   D/A  (D/A)    G  D/F# | x3
+A   D/A  (D/A)    G
 
 ## Chorus 3
 
