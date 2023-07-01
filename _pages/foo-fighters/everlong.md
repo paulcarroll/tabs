@@ -3,6 +3,7 @@ group: Foo Fighters
 title: Everlong
 tags: [lively, learning, priority]
 layout: page
+tuning: drop-d
 links:
   - type: Spotify
     title: Everlong
@@ -17,8 +18,6 @@ links:
     title: Hits on guitar
     url: https://www.youtube.com/watch?v=ULEjgAIm3Do&ab_channel=HitsOnAcousticGuitar
 ---
-
-drop-d tuning
 
 ```chordpro
 Riff

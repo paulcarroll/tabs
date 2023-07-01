@@ -134,7 +134,7 @@ Em
   C
 Until we're grey and old
 
-     G                   D
+&nbsp;    G                   D
 Just say you won't let go
      Em                  C
 Just say you won't let go
@@ -172,12 +172,12 @@ Until we're grey and old
 
 ## Outro
 
-     G                   D
+&nbsp;    G                   D
 Just say you won't let go
      Em                  C
 Just say you won't let go
 
-     G                   D
+&nbsp;    G                   D
 Just say you won't let go
          Em                  C
 Oh, just say you won't let go

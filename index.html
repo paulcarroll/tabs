@@ -9,6 +9,7 @@ layout: home
 				<th class="artist">Artist</th>
 				<th class="title">Title</th>
 				<th class="capo">Capo</th>
+				<th class="tuning">Tuning</th>
 				<th class="tags">Tags</th>
 			</tr>
 		</thead>
@@ -26,6 +27,9 @@ layout: home
 						</td>
 						<td class="capo">
 							{{ node.capo }}
+						</td>
+						<td class="tuning">
+							{{ node.tuning }}
 						</td>
 						<td class="tags">
 							{% assign tags = node.tags %}
