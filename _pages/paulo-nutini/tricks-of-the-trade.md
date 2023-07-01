@@ -1,7 +1,7 @@
 ---
 group: Paulo Nutini
 title: Tricks of the trade
-tags: [easy, learnt, tempo quiet]
+tags: [easy, learnt, quiet]
 layout: page
 capo: 2
 links:
