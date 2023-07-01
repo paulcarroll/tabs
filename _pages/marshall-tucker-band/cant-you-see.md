@@ -1,7 +1,7 @@
 ---
 group: Marshall Tucker Band
 title: Can't you see
-tags: group boof, difficulty easy, temp slow, boof learnt
+tags: me, easy, slow, learnt
 layout: page
 links:
   - type: Spotify
@@ -46,7 +46,7 @@ Gonna buy me a ticket now,
 As far as I can, 
 Ain't never comin' back
 Take me Southbound, 
-All the way to Georgia now,
+All the way to Georgia now
 Till the train run out of track
 
 CHORUS repeat 5x's

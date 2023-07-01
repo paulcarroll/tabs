@@ -35,11 +35,11 @@ Reproductive glands a - and
 [Chorus]
  
 A        F#m           A              F#m
-He's the one who likes all our pretty songs,
+He's the one who likes all our pretty songs
        A              F#m         A                  F#m
-And he likes to sing along and he likes to shoot his gun,
+And he likes to sing along and he likes to shoot his gun
        B                 D      B                 D
-But he knows not what it means, knows not what it means when I say,
+But he knows not what it means, knows not what it means when I say
  
  
 [Bridge]
@@ -65,18 +65,18 @@ Tender age in bloom.
 [Chorus]
  
 A        F#m           A              F#m
-He's the one who likes all our pretty songs,
+He's the one who likes all our pretty songs
        A              F#m         A                  F#m
-And he likes to sing along and he likes to shoot his gun,
+And he likes to sing along and he likes to shoot his gun
        B                 D      B                 D
-But he knows not what it means, knows not what it means when I say,
+But he knows not what it means, knows not what it means when I say
  
 A        F#m           A              F#m
-He's the one who likes all our pretty songs,
+He's the one who likes all our pretty songs
        A              F#m         A                  F#m
-And he likes to sing along and he likes to shoot his gun,
+And he likes to sing along and he likes to shoot his gun
        B                 D      B                 D
-But he knows not what it means, knows not what it means when I say,
+But he knows not what it means, knows not what it means when I say
  
  
 [Bridge]
@@ -101,18 +101,18 @@ A   F   D   Bb C#
 [Chorus]
  
 A        F#m           A              F#m
-He's the one who likes all our pretty songs,
+He's the one who likes all our pretty songs
        A              F#m         A                  F#m
-And he likes to sing along and he likes to shoot his gun,
+And he likes to sing along and he likes to shoot his gun
        B                 D      B                 D
-But he knows not what it means, knows not what it means when I say,
+But he knows not what it means, knows not what it means when I say
  
 A        F#m           A              F#m
-He's the one who likes all our pretty songs,
+He's the one who likes all our pretty songs
        A              F#m         A                  F#m
-And he likes to sing along and he likes to shoot his gun,
+And he likes to sing along and he likes to shoot his gun
        B                 D      B                 D
-But he knows not what it means, knows not what it means when I say,
+But he knows not what it means, knows not what it means when I say
  
  
 [Outro]

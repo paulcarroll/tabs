@@ -1,7 +1,7 @@
 ---
 group: Wheatus
 title: Teenage dirtbag
-tags: group shit, group boof, difficulty easy, tempo lively, boof learnt
+tags: me, easy, lively, learnt
 layout: page
 links:
 ---
@@ -19,7 +19,7 @@ E|-0-0-x------------0-0-x-------------|
  
 [Verse 1]
     E          B
-Her name is Noelle,
+Her name is Noelle
 E            A
 I have a dream about her.
 E             B
@@ -27,11 +27,11 @@ She rings my bell.
       E              A
 I got gym class in half an hour.
 E            B
-Oh, how she rocks,
+Oh, how she rocks
    E              A
-In keds and tube socks,
+In keds and tube socks
     C#m          A          B
-But she doesn't know who I am,
+But she doesn't know who I am
     C#m          A      B
 And she doesn't give a damn about me.
  
@@ -58,7 +58,7 @@ E B E A E B E A
     E           B
 Her boyfriend's a dick
 E            A
-and he brings a gun to school,
+and he brings a gun to school
 E             B
 And he'd simply kick
   E              A
@@ -68,7 +68,7 @@ He lives on my block
 E            A
 And he drives an Iroc
     C#m          A          B
-But he doesn't know who I am,
+But he doesn't know who I am
     C#m          A          B
 And he doesn't give a damn about me.
  
@@ -96,7 +96,7 @@ E B E A
  
 [Verse 3]
 E             B
-Man, I feel like mould,
+Man, I feel like mould
   E              A
 It's prom night and I am lonely.
 E             B
@@ -104,7 +104,7 @@ Lo and behold:
   E              A
 She's walking over to me.
 E             B
-This must be fake,
+This must be fake
   E              A
 My lip starts to shake.
 C#m          A          B
@@ -114,7 +114,7 @@ And why does she give a damn about?
  
 [Chorus 3] (same chords but softer than previous choruses, possibly pluck certain notes)
        E          A         B      C#m    G#m
-I've got two tickets to Iron Maiden, baby,
+I've got two tickets to Iron Maiden, baby
      E          A         B      C#m     G#m
 Come with me Friday, don't say maybe.
 E         A       B    C#m   G#m   E  A (6/4) B C#m G#m A B

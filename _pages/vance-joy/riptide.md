@@ -1,6 +1,6 @@
 ---
 title: Vance Joy - Riptide
-tags: group shit, group boof, difficulty easy, tempo lively, boof learnt
+tags: me, easy, lively, learnt
 layout: page
 links:
 ---
@@ -63,6 +63,7 @@ I love you when you're singing that song, and I got a lump
 In my throat, 'cause you're gonna sing the words wrong
  
 [Interlude]
+```
   (C)
 e|-------3---------|
 B|-3h5-5-------5---|
@@ -70,7 +71,8 @@ G|-----------5-----|
 D|-----------------| x4
 A|-----------------|
 E|-----------------|
- 
+```
+
 [Bridge]
 Am                         G
 I just wanna, I just wanna know

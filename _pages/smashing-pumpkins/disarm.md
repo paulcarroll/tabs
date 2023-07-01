@@ -1,7 +1,7 @@
 ---
 group: Smashing Pumpkins
 title: Disarm
-tags: group boof, tempo lively, difficulty medium, boof learnt
+tags: me, lively, learnt
 layout: page
 links:
 ---

@@ -1,7 +1,7 @@
 ---
 group: Foo Fighters
 title: My hero
-tags: group boof, tempo medium, difficulty easy, boof learning, boof priority
+tags: me, easy, learning, priority
 layout: page
 links:
   - type: YouTube

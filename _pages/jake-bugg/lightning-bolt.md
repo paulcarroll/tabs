@@ -1,7 +1,7 @@
 ---
 group: Jake Bugg
 title: Lightning bolt
-tags: group boof, tempo lively, difficulty medium, boof learnt
+tags: me, lively, learnt
 layout: page
 links:
   - type: Spotify

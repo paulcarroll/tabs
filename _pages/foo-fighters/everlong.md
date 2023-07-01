@@ -1,7 +1,7 @@
 ---
 group: Foo Fighters
 title: Everlong
-tags: group boof, tempo lively, boof learning, difficulty medium, boof priority
+tags: me, lively, learning, priority
 layout: page
 links:
   - type: Spotify

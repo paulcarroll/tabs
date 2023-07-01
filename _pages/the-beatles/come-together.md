@@ -1,7 +1,7 @@
 ---
 group: The Beatles
 title: Come together
-tags: group boof, difficulty easy, tempo lively, boof learning, boof priority
+tags: me, easy, lively, learning, priority
 layout: page
 links:
   - type: Spotify
@@ -83,7 +83,7 @@ E-----------------2/7----------------------2/7-------7----7----7----7--
 
 [Verse]
 D5
-Here come old flat top, he come grooving up slowly,
+Here come old flat top, he come grooving up slowly
 D5
 He got Joo Joo eyeball, he one holy roller
 A5
@@ -124,9 +124,9 @@ Hold you in his armchair, you can feel his disease
  
 [Chorus]
      Bm.       A.    A7b5
-Come together, right now,
+Come together, right now
      Bm.       A.    A7b5
-Come together, right now,
+Come together, right now
      Bm.       A.    A7b5. A
 Come together, right now,  over me
 

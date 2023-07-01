@@ -1,7 +1,7 @@
 ---
 group: INXS
 title: Never tear us apart
-tags: group shit, group boof, tempo medium, difficulty easy, boof learnt
+tags: me, easy, learnt
 layout: page
 links:
   - type: Spotify
@@ -14,13 +14,13 @@ Am F Dm F
 
 
  	     Am               F
-Don't ask me, what you know is true,
+Don't ask me, what you know is true
               Dm          F
 Don't have to tell you, I love your precious heart.
 
 {start_of_chorus}
 C F       C       F         C     F
-I, I was standing, you were there,
+I, I was standing, you were there
                C    F               G
 Two worlds collided, and they could never tear us apart.
 
@@ -31,17 +31,17 @@ E------------------------------
 
 
           Am           F
-We could live, for a thousand years,
+We could live, for a thousand years
           Dm                 F
 But if I hurt you, I'd make wine from your tears.
     Am           F
-I told you, that we could fly,
+I told you, that we could fly
           Dm                   F
 'Cause we all have wings, but some of us don't know w-h-y.
 
 {start_of_chorus}
 C F       C       F         C     F
-I, I was standing, you were there,
+I, I was standing, you were there
                C    F               G
 Two worlds collided, and they could never, ever tear us apart...
 
@@ -54,13 +54,13 @@ Instrumental:
 Am F Dm F
 
 {start_of_chorus}
-I,             I was standing,             you were there,
+I,             I was standing,             you were there
  [Don�t ask me]          [you know its true]          [worlds colliding]
 
 Two worlds collided,               and they could never tear us apart...
                   [shining through]
 
-You,        you were standing,              you were there,
+You,        you were standing,              you were there
 [Don�t ask me]             [you know its true]        [worlds colliding]
 
 Two worlds collided,             and they could never tear us apart...

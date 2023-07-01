@@ -1,7 +1,7 @@
 ---
 group: Alice in Chains
 title: Down in a hole
-tags: group boof, difficulty easy, temp slow, boof learning
+tags: me, easy, slow, learning
 layout: page
 links: 
   - type: YouTube
@@ -49,7 +49,7 @@ Down in a hole,        losin' my soul
 C#m             B F#     C#m              B  F#
 Down in a hole,        losin' control
 C#m     B     G#m    B    F#
-I'd   like   to    fly,
+I'd   like   to    fly
 E                         G#m      F#  C#  G#m   F#  C#
 But my wings have been so denied
  
@@ -83,17 +83,17 @@ But my wings have been so denied
  
 [Verse 3]
 G#m      F#      C#       G#m
-Bury me softly in this womb,
+Bury me softly in this womb
 G#m            F#    C#       G#m
 Oh, I want to be inside of you
 G#m          F#       C#      G#m
-I give this part of me for you,
+I give this part of me for you
 G#m            F#    C#       G#m
 Oh, I want to be inside of you
 G#m                   F#   C#
 Sand rains down and here I sit
 G#m           F#
-Holding rare flowers,
+Holding rare flowers
 C#    G#m
 In a tomb
 G#m            F#     C#

@@ -1,7 +1,7 @@
 ---
 group: James Arthur
 title: Say you won't go
-tags: tempo medium, difficulty easy, group danielle, danielle learning
+tags: easy, danielle
 layout: page
 links:
   - type: Spotify

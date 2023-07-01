@@ -1,7 +1,7 @@
 ---
 group: Turin Breaks
 title: Painkiller
-tags: group boof, difficulty easy, temp slow, boof learnt
+tags: me, easy, slow, learnt
 layout: page
 links:
   - type: Spotify

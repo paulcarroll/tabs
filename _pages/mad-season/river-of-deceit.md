@@ -1,7 +1,7 @@
 ---
 group: Mad Season
 title: The river of deceit
-tags: group boof, difficulty easy, temp slow, boof learning
+tags: me, easy, slow, learning
 layout: page
 links:
   - type: Spotify

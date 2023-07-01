@@ -1,7 +1,7 @@
 ---
 group: James Arthur
 title: Train wreck
-tags: tempo medium, difficulty easy, group danielle, danielle learning
+tags: easy, danielle
 layout: page
 links:
   - type: Spotify

@@ -1,7 +1,7 @@
 ---
 group: Bon Iver
 title: Skinny love
-tags: group boof, temp slow, difficulty medium, boof learnt
+tags: me, slow, learnt
 layout: page
 links:
   - type: Spotify

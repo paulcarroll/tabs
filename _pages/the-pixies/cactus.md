@@ -1,7 +1,7 @@
 ---
 group: The Pixies
 title: Cactus
-tags: group boof, tempo medium, difficulty easy, boof learning, boof priority
+tags: me, easy, learning, priority
 layout: page
 links:
 ---

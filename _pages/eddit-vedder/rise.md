@@ -1,7 +1,7 @@
 ---
 group: Eddie Vedder
 title: Rise
-tags: group boof, tempo medium, boof learning, difficulty medium
+tags: me, learning
 layout: page
 links:
   - type: Spotify

@@ -1,7 +1,7 @@
 ---
 group: Eric Clapton
 title: Lonely stranger
-tags: group boof, boof learning, boof priority, difficulty hard, tempo quiet
+tags: me, learning, priority, hard, tempo quiet
 layout: page
 links:
   - type: Spotify

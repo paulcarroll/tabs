@@ -1,7 +1,7 @@
 ---
 group: Smashing Pumpkins
 title: Muzzle
-tags: group boof, tempo medium, difficulty easy, boof learning, boof priority
+tags: me, easy, learning, priority
 layout: page
 links:
   - type: YouTube
@@ -73,7 +73,7 @@ Time heals but I'm     forever broken
             A5
         and in my mind as I was floating
         Gadd2         Bm7add11
-        far above the clouds,
+        far above the clouds
              Dsus2
         some children laughed I'd fall for certain
             B7sus4

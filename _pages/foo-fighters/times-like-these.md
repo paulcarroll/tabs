@@ -1,7 +1,7 @@
 ---
 group: Foo Fighters
 title: Times like these
-tags: group shit, group boof, tempo lively, difficulty medium
+tags: me, lively
 layout: page
 links:
   - type: Spotify
@@ -12,20 +12,19 @@ links:
     url: https://www.youtube.com/watch?v=u8xKv3qlNbc
 ---
 
-
 D    xx0232     C    x32010
 Am   x02210     Em   022000
 Am7  x02213     Em7  022033
 
  a plain D while hammering the A (2nd fret) on the G sting.
-
+```
 e||---2-2-2---2-----2-----2-----2-2---||
 B||o--3-3-3---3-----3-----3-----3-3--o||
 G||---0-2-2-0-2---0-2---0-2---0-2-2---||
 D||---0-0-0-0-0---0-0---0-0---0-0-0---||
 A||o---------------------------------o||
 E||-----------------------------------|| 3x
-
+```
 
 D                Am    Am7
 I, I’m a one way motorway 
@@ -74,13 +73,14 @@ It’s times like these time and time again
 D...C...Em7...D...C...Em7....D intro
 
 lead part (mess around with it)
+```
 e|------------------------------------------|
 B|------------------------------------------|
 G|----------12--11----------12--11----------|
 D|--12--10----------12--10------------------|
 A|----------------------------------12--10--|
 E|------------------------------------------|
-
+```
 
 {start_of_chorus} 2x)
      C                    Em       Em7     D

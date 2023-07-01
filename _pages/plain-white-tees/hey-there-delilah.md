@@ -1,7 +1,7 @@
 ---
 group: Plain White Tees
 title: Hey there Delilah
-tags: tempo medium, difficulty easy, group danielle, danielle learning
+tags: easy, danielle
 layout: page
 links:
   - type: Spotify
@@ -16,7 +16,7 @@ C Em C Em
  
 [Verse]
 C
-  Hey there Delilah,
+  Hey there Delilah
           Em
 What’s it like in New York City? 
       C
@@ -58,7 +58,7 @@ What you do to me.
  
 [Verse]
 C
-  Hey there Delilah,
+  Hey there Delilah
        Em
 I know times are getting hard, 
            C
@@ -115,7 +115,7 @@ Delilah I can promise you,
      G
 That by the time that we get through, 
     Am
-The world will never ever be the same,
+The world will never ever be the same
               G
 And you’re to blame.
  
@@ -131,7 +131,7 @@ Like I do,
 F                  G              Am
   You’ll know it's all because of you, 
 F               G            Am
-  We can do whatever we want to,
+  We can do whatever we want to
 F             G               Am
   Hey there Delilah here's to you, 
                G
@@ -139,13 +139,13 @@ This one’s for you.
  
 [Chorus]
 C                      Am
-Oh it’s what you do to me,
+Oh it’s what you do to me
 C                      Am
-Oh it’s what you do to me,
+Oh it’s what you do to me
 C                      Am
-Oh it’s what you do to me,
+Oh it’s what you do to me
 C                      Am
-Oh it’s what you do to me,
+Oh it’s what you do to me
                C       Am
 What you do to me.
  

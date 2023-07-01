@@ -1,7 +1,7 @@
 ---
 group: ACDC
 title: Highway to hell
-tags: group shit
+tags: 
 layout: page
 ---
 

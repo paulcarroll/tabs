@@ -1,7 +1,7 @@
 ---
 group: You Am I
 title: Purple sneakers
-tags: group boof, tempo medium, difficulty medium, boof learnt
+tags: me, learnt
 layout: page
 links:
   - type: Spotify

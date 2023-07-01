@@ -1,7 +1,7 @@
 ---
 group: Smashing Pumpkins
 title: Here is no why
-tags: group boof, tempo medium, difficulty easy
+tags: me, easy
 layout: page
 links:
   - type: Spotify

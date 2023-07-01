@@ -1,7 +1,7 @@
 ---
 group: Eric Clapton
 title: Sanfransico Bay blues
-tags: group boof, tempo lively, difficulty medium
+tags: me, lively
 layout: page
 links:
   - type: Spotify

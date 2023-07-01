@@ -1,7 +1,7 @@
 ---
 group: Paulo Nutini
 title: Tricks of the trade
-tags: group boof, difficulty easy, boof learnt, tempo quiet
+tags: me, easy, learnt, tempo quiet
 layout: page
 links:
   - type: Spotify
@@ -25,7 +25,7 @@ I'm hoping and I'm wishing that
       G
 this bird won't fly away
 C
-We can see life hand in hand,
+We can see life hand in hand
      Em
 the green, the blue, the rough, the sand
     F

@@ -1,7 +1,7 @@
 ---
 group: Eric Clapton
 title: Running on faith
-tags: group boof, tempo medium, difficulty easy
+tags: me, easy
 layout: page
 links:
   - type: Spotify

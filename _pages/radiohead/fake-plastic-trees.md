@@ -1,7 +1,7 @@
 ---
 group: Radiohead
 title: Fake plastic trees
-tags: group boof, tempo medium, difficulty easy, boof learnt
+tags: me, easy, learnt
 layout: page
 links:
   - type: Spotify

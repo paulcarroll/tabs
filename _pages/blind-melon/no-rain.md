@@ -1,7 +1,7 @@
 ---
 group: Blind Melon
 title: No rain
-tags: group shit, group boof, tempo medium, difficulty easy, boof learnt
+tags: me, easy, learnt
 layout: page
 links: 
   - type: Spotify

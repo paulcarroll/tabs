@@ -1,7 +1,7 @@
 ---
 group: You Am I
 title: Cathy's clown
-tags: group boof, difficulty easy, tempo lively, boof learning
+tags: me, easy, lively, learning
 layout: page
 links:
   - type: YouTube
