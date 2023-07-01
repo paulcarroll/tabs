@@ -3,6 +3,7 @@ group: Eric Clapton
 title: Lonely stranger
 tags: [learning, priority, hard, quiet]
 layout: page
+columns: single
 links:
   - type: Spotify
     title: Lonely stranger

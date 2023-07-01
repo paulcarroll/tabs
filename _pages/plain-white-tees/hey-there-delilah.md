@@ -1,7 +1,7 @@
 ---
 group: Plain White Tees
 title: Hey there Delilah
-tags: [easy, danielle]
+tags: [easy]
 layout: page
 capo: 2
 links:

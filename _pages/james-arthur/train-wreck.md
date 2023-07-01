@@ -1,7 +1,7 @@
 ---
 group: James Arthur
 title: Train wreck
-tags: [easy, danielle]
+tags: [easy]
 layout: page
 capo: 2
 links:

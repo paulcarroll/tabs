@@ -27,6 +27,10 @@
     margin-top: 3rem;
     line-height: 1.2rem;
 
+    &.single {
+      column-count: 1;
+    }
+
     > h2 {
       font-size: 1.1rem;
       font-weight: bold;
