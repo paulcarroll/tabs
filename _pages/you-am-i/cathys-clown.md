@@ -5,6 +5,7 @@ tags: [easy, lively, learning]
 layout: page
 tuning: drop-d
 capo: 2
+tuning: drop-d
 links:
   - type: YouTube
     title: YouAmI live opera house
@@ -12,10 +13,6 @@ links:
 ---
 
 ```chordpro
-Tuning: Capo 2  DADGBe
- 
-Chord shapes for dropped tuning:
- 
 D5    00023x    Cadd9 x32030    E5 222xxx    A     x0222x
 DMaj7 000222    D#5   1113xx    F5 3335xx    Asus4 x0223x
  

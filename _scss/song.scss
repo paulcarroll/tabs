@@ -1,0 +1,40 @@
+
+.song {
+  h1 {
+    text-align: center;
+    margin-block-end: 0;
+  }
+
+  > h2 {
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: normal;
+    color: #777;
+    margin-block-start: 0;
+  }
+
+  .body {
+    column-count: 2;
+    column-gap: 10rem;
+    margin-top: 3rem;
+
+    h2 {
+      font-size: 1.1rem;
+      font-weight: bold;
+      margin-block-start: 2em;
+      margin-block-end: 0;
+    }
+
+    p {
+      white-space: pre-wrap;
+      font-family: monospace;
+      font-size: 1rem;
+      margin-block-start: .1em;
+    }
+
+    pre {
+      font-size: 1rem;
+    }
+  }
+}
+

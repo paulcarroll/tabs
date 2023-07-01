@@ -3,13 +3,12 @@ group: James Arthur
 title: Train wreck
 tags: [easy, danielle]
 layout: page
+capo: 2
 links:
   - type: Spotify
     title: Train wreck
     url: https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H?si=tfq_RzlJREmJufMYHYq19Q
 ---
-
-*Capo 2*
 
 ## Intro
 

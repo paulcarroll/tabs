@@ -3,11 +3,11 @@ group: Paulo Nutini
 title: Tricks of the trade
 tags: [easy, learnt, tempo quiet]
 layout: page
+capo: 2
 links:
   - type: Spotify
     title: Tricks of the trade
     url: https://open.spotify.com/track/0N79LrXEt9QrIc7JPQ2HYC?si=3dX97wvbRJ-dD1l2hs-0MA
-capo: 2
 ---
 
 ## Intro

@@ -3,11 +3,11 @@ group: Plain White Tees
 title: Hey there Delilah
 tags: [easy, danielle]
 layout: page
+capo: 2
 links:
   - type: Spotify
     title: Hey there Delilah
     url: https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH?si=444ggMeDTiav4Px1jxffMA
-capo: 2
 ---
 
 ## Intro

@@ -3,6 +3,7 @@ group: James Arthur
 title: Say you won't go
 tags: [easy, danielle]
 layout: page
+capo: 3
 links:
   - type: Spotify
     title: Say you won't go
@@ -11,8 +12,6 @@ links:
     title: Marty
     url: https://www.youtube.com/watch?v=LyNZTs04Dcg&ab_channel=MartyMusic
 ---
-
-*Capo: 3rd fret*
 
 ## Intro
 

@@ -32,7 +32,6 @@ links:
 --2---2/3---3/5------5-5-5-5-5-5-5---5-5-5-5-5------|
         But do you need somebody, to feel somebody?
 
-Chords used (relative to capo):
  D    Dmaj7   F#m  FmMaj7b5  Em  A Asus4  Bm
 -2-----2-------2----0--------0---0---0----2----------|
 -3-----2-------2----0--------0---2---3----3----------|

@@ -32,9 +32,9 @@ layout: home
 							{% if tags %}
 								{% for tag in tags %}
 									{% if tag == "priority" %}
-										<span class="tag priority">!!</span>
+										<span class="badge priority">!!</span>
 									{% else %}
-										<span class="tag">{{ tag }}</span>
+										<span class="badge">{{ tag }}</span>
 									{% endif %}
 								{% endfor %}
 							{% endif %}
