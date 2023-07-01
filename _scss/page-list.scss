@@ -2,6 +2,11 @@
 .page-list {
   table {
     width: 100%;
+
+    tr:hover td {
+      background-color: #111;
+      border-color: #111;
+    }
   }
 
   thead {
@@ -10,6 +15,7 @@
       font-weight: bold;
     }
   }
+
   .capo {
     width: 10rem;
     text-align: center;
