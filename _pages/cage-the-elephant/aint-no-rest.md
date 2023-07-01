@@ -1,7 +1,7 @@
 ---
 group: Cage the Elephant
 title: Ain't no rest for the wicked
-tags: me, lively, learning
+tags: [lively, learning]
 layout: page
 links:
   - type: Spotify

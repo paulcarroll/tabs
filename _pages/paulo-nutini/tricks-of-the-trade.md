@@ -1,7 +1,7 @@
 ---
 group: Paulo Nutini
 title: Tricks of the trade
-tags: me, easy, learnt, tempo quiet
+tags: [easy, learnt, tempo quiet]
 layout: page
 links:
   - type: Spotify

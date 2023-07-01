@@ -1,7 +1,7 @@
 ---
 group: INXS
 title: Never tear us apart
-tags: me, easy, learnt
+tags: [easy, learnt]
 layout: page
 links:
   - type: Spotify

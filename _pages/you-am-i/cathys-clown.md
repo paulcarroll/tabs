@@ -1,7 +1,7 @@
 ---
 group: You Am I
 title: Cathy's clown
-tags: me, easy, lively, learning
+tags: [easy, lively, learning]
 layout: page
 tuning: drop-d
 capo: 2

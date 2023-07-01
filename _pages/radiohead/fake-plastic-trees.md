@@ -1,7 +1,7 @@
 ---
 group: Radiohead
 title: Fake plastic trees
-tags: me, easy, learnt
+tags: [easy, learnt]
 layout: page
 links:
   - type: Spotify

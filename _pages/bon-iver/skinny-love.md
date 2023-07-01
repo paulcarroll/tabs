@@ -1,7 +1,7 @@
 ---
 group: Bon Iver
 title: Skinny love
-tags: me, slow, learnt
+tags: [slow, learnt]
 layout: page
 links:
   - type: Spotify

@@ -1,6 +1,6 @@
 ---
 title: Vance Joy - Riptide
-tags: me, easy, lively, learnt
+tags: [easy, lively, learnt]
 layout: page
 links:
 ---

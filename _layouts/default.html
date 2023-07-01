@@ -4,16 +4,8 @@
   <link href="/css/styles.css" rel="stylesheet">
   <body>
   	<div class="container"> 
-      <div class="sidebar">
-        {% include sidebar.html %}
-      </div>
-      <div class="content">
-        {% include navigation.html %}
-        <h1>{{ page.title }}</h1>
-        <section>
-          {{ content }}
-        </section>
-      </div>
+      {% include navigation.html %}
+      {{ content }}
     </div>
   </body>
 </html>

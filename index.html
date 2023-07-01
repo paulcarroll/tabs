@@ -1,0 +1,48 @@
+---
+layout: home
+---
+
+<div class="page-list">
+	<table>
+		<thead>
+			<tr>
+				<th class="artist">Artist</th>
+				<th class="title">Title</th>
+				<th class="capo">Capo</th>
+				<th class="tags">Tags</th>
+			</tr>
+		</thead>
+		<tbody>
+	  {% assign pages_list = site.pages %}
+	  {% for node in pages_list %}
+	    {% if node.title != null %}
+	      {% if node.layout == "page" %}
+					<tr>
+						<td class="artist">
+							{{ node.group }}
+						</td>
+						<td class="title">
+							<a class="nav-item" href="{{ node.url }}">{{ node.title }}</a>
+						</td>
+						<td class="capo">
+							{{ node.capo }}
+						</td>
+						<td class="tags">
+							{% assign tags = node.tags %}
+							{% if tags %}
+								{% for tag in tags %}
+									{% if tag == "priority" %}
+										<span class="tag priority">!!</span>
+									{% else %}
+										<span class="tag">{{ tag }}</span>
+									{% endif %}
+								{% endfor %}
+							{% endif %}
+						</td>
+					</tr>
+	      {% endif %}
+	    {% endif %}
+	  {% endfor %}
+		</tbody>
+	</table>
+</div>

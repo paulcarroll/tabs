@@ -1,7 +1,7 @@
 ---
 group: Smashing Pumpkins
 title: Here is no why
-tags: me, easy
+tags: [easy]
 layout: page
 links:
   - type: Spotify

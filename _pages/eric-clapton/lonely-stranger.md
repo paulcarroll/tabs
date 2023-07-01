@@ -1,7 +1,7 @@
 ---
 group: Eric Clapton
 title: Lonely stranger
-tags: me, learning, priority, hard, tempo quiet
+tags: [learning, priority, hard, tempo quiet]
 layout: page
 links:
   - type: Spotify

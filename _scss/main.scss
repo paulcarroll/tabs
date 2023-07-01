@@ -1,7 +1,85 @@
-@import url(//fonts.googleapis.com/css?family=Ubuntu:500&subset=latin,latin-ext);
-@import url('https://fonts.googleapis.com/css?family=Gelasio|Kulim+Park|Nanum+Myeongjo|Nanum+Gothic|Noto+Sans|Noto+Sans+KR|Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Roboto&display=swap');
+
+html {
+  font-size: 14px;
+}
 
 body {
-  
+  font-family: 'Open Sans';
+  font-size: 1.1rem;
+}
+
+.container {
+  max-width: 80rem;
+  margin: 0 auto;
+}
+
+.page-list {
+  table {
+    width: 100%;
+  }
+
+  thead {
+    th {
+      text-align: left;
+      font-weight: bold;
+    }
+  }
+  .capo {
+    width: 13rem;
+    text-align: center;
+  }
+}
+
+.song {
+  h1 {
+    text-align: center;
+    margin-block-end: 0;
+  }
+
+  > h2 {
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: normal;
+    color: #777;
+    margin-block-start: 0;
+  }
+
+  .body {
+    column-count: 2;
+    column-gap: 10rem;
+    margin-top: 3rem;
+
+    h2 {
+      font-size: 1.1rem;
+      font-weight: bold;
+      margin-block-start: 2em;
+      margin-block-end: 0;
+    }
+
+    p {
+      white-space: pre-wrap;
+      font-family: monospace;
+      font-size: 1rem;
+      margin-block-start: .1em;
+    }
+
+    pre {
+      font-size: 1rem;
+    }
+  }
+}
+
+.tag {
+  border-radius: .7rem;
+  background-color: cornflowerblue;
+  color: white;
+  font-size: .8rem;
+  font-weight: bold;
+  padding: .2rem .4rem;
+
+  &.priority {
+    background-color: red;
+  }
 }
 

@@ -1,7 +1,7 @@
 ---
 group: Turin Breaks
 title: Painkiller
-tags: me, easy, slow, learnt
+tags: [easy, slow, learnt]
 layout: page
 capo: 2
 links:

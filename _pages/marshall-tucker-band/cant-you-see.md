@@ -1,7 +1,7 @@
 ---
 group: Marshall Tucker Band
 title: Can't you see
-tags: me, easy, slow, learnt
+tags: [easy, slow, learnt]
 layout: page
 links:
   - type: Spotify

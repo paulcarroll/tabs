@@ -1,7 +1,7 @@
 ---
 group: Violent Femmes
 title: Blister in the sun
-tags: me, easy, lively, learnt
+tags: [easy, lively, learnt]
 layout: page
 links:
   - type: Spotify

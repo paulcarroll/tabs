@@ -1,7 +1,7 @@
 ---
 group: Alice in Chains
 title: Down in a hole
-tags: me, easy, slow, learning
+tags: [easy, slow, learning]
 layout: page
 links: 
   - type: YouTube

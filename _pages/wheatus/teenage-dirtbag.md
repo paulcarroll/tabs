@@ -1,7 +1,7 @@
 ---
 group: Wheatus
 title: Teenage dirtbag
-tags: me, easy, lively, learnt
+tags: [easy, lively, learnt]
 layout: page
 links:
 ---

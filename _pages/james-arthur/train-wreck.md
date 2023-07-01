@@ -1,7 +1,7 @@
 ---
 group: James Arthur
 title: Train wreck
-tags: easy, danielle
+tags: [easy, danielle]
 layout: page
 links:
   - type: Spotify

@@ -1,7 +1,7 @@
 ---
 group: Mad Season
 title: The river of deceit
-tags: me, easy, slow, learning
+tags: [easy, slow, learning]
 layout: page
 links:
   - type: Spotify

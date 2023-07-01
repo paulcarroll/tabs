@@ -1,7 +1,7 @@
 ---
 group: Soundgarden
 title: Blackhole sun
-tags: me, learning
+tags: [learning]
 layout: page
 capo: 3
 links:

@@ -1,7 +1,7 @@
 ---
 group: The Pixies
 title: Cactus
-tags: me, easy, learning, priority
+tags: [easy, learning, priority]
 layout: page
 links:
 ---

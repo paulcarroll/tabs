@@ -1,7 +1,7 @@
 ---
 group: Eddie Vedder
 title: Rise
-tags: me, learning
+tags: [learning]
 layout: page
 links:
   - type: Spotify

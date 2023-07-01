@@ -1,7 +1,7 @@
 ---
 group: Maria McKee
 title: Love is a red dress
-tags: me, tempo quiet
+tags: [quiet]
 layout: page
 links:
   - type: 

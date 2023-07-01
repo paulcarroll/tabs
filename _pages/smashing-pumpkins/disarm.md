@@ -1,7 +1,7 @@
 ---
 group: Smashing Pumpkins
 title: Disarm
-tags: me, lively, learnt
+tags: [lively, learnt]
 layout: page
 links:
 ---

@@ -1,7 +1,7 @@
 ---
 group: Blind Melon
 title: No rain
-tags: me, easy, learnt
+tags: [easy, learnt]
 layout: page
 links: 
   - type: Spotify

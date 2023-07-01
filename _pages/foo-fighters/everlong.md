@@ -1,7 +1,7 @@
 ---
 group: Foo Fighters
 title: Everlong
-tags: me, lively, learning, priority
+tags: [lively, learning, priority]
 layout: page
 links:
   - type: Spotify

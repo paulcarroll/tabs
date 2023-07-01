@@ -1,7 +1,7 @@
 ---
 group: Hothouse Flowers
 title: Sweet Marie
-tags: me, easy, slow
+tags: [easy, slow]
 layout: page
 links:
   - type: Spotify

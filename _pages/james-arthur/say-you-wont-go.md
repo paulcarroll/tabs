@@ -1,7 +1,7 @@
 ---
 group: James Arthur
 title: Say you won't go
-tags: easy, danielle
+tags: [easy, danielle]
 layout: page
 links:
   - type: Spotify

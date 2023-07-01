@@ -1,7 +1,7 @@
 ---
 group: Paulo Nutini
 title: New shoes
-tags: me, easy, lively
+tags: [easy, lively]
 layout: page
 links:
   - type: Spotify

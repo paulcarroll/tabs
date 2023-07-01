@@ -1,7 +1,7 @@
 ---
 group: Jake Bugg
 title: Lightning bolt
-tags: me, lively, learnt
+tags: [lively, learnt]
 layout: page
 links:
   - type: Spotify

@@ -1,7 +1,7 @@
 ---
 group: Foo Fighters
 title: My hero
-tags: me, easy, learning, priority
+tags: [easy, learning, priority]
 layout: page
 links:
   - type: YouTube

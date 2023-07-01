@@ -1,7 +1,7 @@
 ---
 group: Eric Clapton
 title: Sanfransico Bay blues
-tags: me, lively
+tags: [lively]
 layout: page
 links:
   - type: Spotify
