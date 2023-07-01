@@ -31,9 +31,9 @@ datatable: true
 							{% if tags %}
 								{% for tag in tags %}
 									{% if tag == "priority" %}
-										<span class="badge priority">!!</span>
+										<span class="badge badge-pill badge-danger">!!</span>
 									{% else %}
-										<span class="badge">{{ tag }}</span>
+										<span class="badge badge-pill badge-primary">{{ tag }}</span>
 									{% endif %}
 								{% endfor %}
 							{% endif %}

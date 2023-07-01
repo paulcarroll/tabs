@@ -1,5 +1,6 @@
 ---
-title: Vance Joy - Riptide
+group: Vance Joy
+title: Riptide
 tags: [easy, lively, learnt]
 layout: page
 links:

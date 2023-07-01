@@ -3,8 +3,15 @@ layout: default
 ---
 
 <div class="song">
-  <h1>{{ page.title }}</h1>
-  <h2>{{ page.group }}</h2>
+  <div class="song-nav">
+    <ul>
+      <li>
+        <a href="/">&lt;&lt; Home</a>
+      </li>
+    </ul>
+  </div>
+
+  <h1>{{ page.group }} - {{ page.title }}</h1>
 
   <div class="song-tuning">
     {% if page.capo %}
@@ -16,7 +23,7 @@ layout: default
     {% endif %}
   </div>  
 
-  <div class="body {{ page.columns }}">
+  <div class="song-body song-{{ page.columns }}">
     {{ content }}
   </div>
 </div>
