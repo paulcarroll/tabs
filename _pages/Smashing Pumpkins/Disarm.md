@@ -1,16 +1,11 @@
 ---
-title: Smashing Pumpkins - Disarm
-description: 
-published: true
-date: 2022-07-25T11:29:55.625Z
+group: Smashing Pumpkins
+title: Disarm
 tags: group boof, tempo lively, difficulty medium, boof learnt
-editor: markdown
-dateCreated: 2022-07-25T11:29:53.539Z
+layout: page
+links:
 ---
 
-
-
-```
 Em7              Cadd9     G                      Dsus/F#
 Disarm you with a smile and cut you like you want me to.
 Em7             Cadd9   G                     Dsus/F#
@@ -66,7 +61,4 @@ Dsus              Em7                 Cadd9
 
 
 
-
-
-```
 

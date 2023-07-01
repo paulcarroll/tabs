@@ -1,23 +1,16 @@
 ---
-title: Smashing Pumpkins - Here is no why
-description: 
-published: true
-date: 2022-07-25T11:01:31.072Z
+group: Smashing Pumpkins
+title: Here is no why
 tags: group boof, tempo medium, difficulty easy
-editor: markdown
-dateCreated: 2022-07-25T11:01:29.132Z
+layout: page
+links:
+  - type: Spotify
+    title: Here is no why
+    url: https://open.spotify.com/track/5INe9EN6cNF6axQ4A4BQfy?si=VRKmg072TxaHr_18gdK-Wg
+  - type: YouTube
+    title: Mig LP
+    url: https://www.youtube.com/watch?v=MD6dz_SEuu4
 ---
-
-
-> [spotify](https://open.spotify.com/track/5INe9EN6cNF6axQ4A4BQfy?si=VRKmg072TxaHr_18gdK-Wg)
-> [youtube - Mig LP](https://www.youtube.com/watch?v=MD6dz_SEuu4)
-{.is-info}
-
-
-
-```
-{t:Here is No Why}
-{st:The Smashing Pumpkins}
 
 
 [INTRO]: Amaj7, NOT A.
@@ -267,4 +260,3 @@ sitting still was never enough
 ||-x-x--x--0-----x-x--x--0-----x-x--x-------------------------------------|
 ||-x-x--x--x-----x-x--x--x-----x-x--x-------------------------------------|
 
-```

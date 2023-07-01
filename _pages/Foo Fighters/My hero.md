@@ -1,18 +1,15 @@
 ---
-title: Foo Fighters - My hero
-description: 
-published: true
-date: 2023-06-30T02:27:48.647Z
+group: Foo Fighters
+title: My hero
 tags: group boof, tempo medium, difficulty easy, boof learning, boof priority
-editor: markdown
-dateCreated: 2023-06-29T10:51:52.215Z
+layout: page
+links:
+  - type: YouTube
+    title: My hero
+    url: https://www.youtube.com/watch?v=K0ixfNX-8QU&ab_channel=HitsOnAcousticGuitar
 ---
 
 
-> https://www.youtube.com/watch?v=K0ixfNX-8QU&ab_channel=HitsOnAcousticGuitar
-
-
-```
 [Intro]
  
 C Am 6x
@@ -109,4 +106,3 @@ There goes my hero
             C
 He's ordinary
  
-```

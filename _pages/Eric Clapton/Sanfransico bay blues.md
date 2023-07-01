@@ -1,18 +1,15 @@
 ---
-title: Eric Clapton - Sanfransico Bay blues
-description: 
-published: true
-date: 2022-07-25T13:28:38.537Z
+group: Eric Clapton
+title: Sanfransico Bay blues
 tags: group boof, tempo lively, difficulty medium
-editor: markdown
-dateCreated: 2022-07-25T13:28:33.757Z
+layout: page
+links:
+  - type: Spotify
+    title: Sanfransico Bay blues
+    url: https://open.spotify.com/track/6nYnjk9PeOKXyDmRtACgWo?si=QMRitfBETZeqt10aC6NHmQ
 ---
 
-> [spotify](https://open.spotify.com/track/6nYnjk9PeOKXyDmRtACgWo?si=QMRitfBETZeqt10aC6NHmQ)
-{.is-info}
 
-
-```
 C  F  C  C7  F  C  C7
 
           C                         F                    C    C7
@@ -68,5 +65,4 @@ Walkin with my baby down by the San Francisco Bay
 Yeah, walkin with my baby down by the San Francisco Bay
 
 
-```
 

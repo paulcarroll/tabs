@@ -1,21 +1,18 @@
 ---
-title: Eric Clapton - Lonely stranger
-description: 
-published: true
-date: 2022-07-25T12:39:10.967Z
+group: Eric Clapton
+title: Lonely stranger
 tags: group boof, boof learning, boof priority, difficulty hard, tempo quiet
-editor: markdown
-dateCreated: 2022-07-25T12:38:30.926Z
+layout: page
+links:
+  - type: Spotify
+    title: Lonely stranger
+    url: https://open.spotify.com/track/5nZax8mmBCb4UYnW6ibvTb?si=z9hV9LbzRUuS5TRyRn9e2g
+  - type: YouTube
+    title: John Lee Blackmore
+    url: https://www.youtube.com/watch?v=tIpIb8m-sRE
 ---
 
 
-> [spotify](https://open.spotify.com/track/5nZax8mmBCb4UYnW6ibvTb?si=z9hV9LbzRUuS5TRyRn9e2g)
-> [youtube - john lee blackmore](https://www.youtube.com/watch?v=tIpIb8m-sRE)
-{.is-info}
-
-
-
-```
 E||--0-------------------0-------4h5-5--5/7-5h7--3-5-3-0h3p0---0---------|
 B||----3p2p0---0-----------3/5-5-----------------------------3---3/5\0---|
 G||----------2---0\1-----------------------------------------------------|
@@ -184,5 +181,3 @@ CHORUS
  
 Play ending
 
-
-```

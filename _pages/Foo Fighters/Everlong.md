@@ -1,24 +1,24 @@
 ---
-title: Foo Fighters - Everlong
-description: 
-published: true
-date: 2023-06-30T02:28:09.066Z
+group: Foo Fighters
+title: Everlong
 tags: group boof, tempo lively, boof learning, difficulty medium, boof priority
-editor: markdown
-dateCreated: 2022-07-25T10:51:12.233Z
+layout: page
+links:
+  - type: Spotify
+    title: Everlong
+    url: https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk?si=kmBmM-AmTOCZ0S_MCSR3yA
+  - type: YouTube
+    title: Nathan Wesley
+    url: https://www.youtube.com/watch?v=11X1W4kjSDg
+  - type: YouTube
+    title: GuitarZeroToHero - Mongy simple
+    url: https://www.youtube.com/watch?v=FcZxb7NhG34
+  - type: YouTube
+    title: Hits on guitar
+    url: https://www.youtube.com/watch?v=ULEjgAIm3Do&ab_channel=HitsOnAcousticGuitar
 ---
 
 
-> [spotify](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk?si=kmBmM-AmTOCZ0S_MCSR3yA)
-> [youtube - nathan wesley](https://www.youtube.com/watch?v=11X1W4kjSDg)
-> [youtube - guitarzerotohero - mongy simple](https://www.youtube.com/watch?v=FcZxb7NhG34)
-> [youtube - hits on guitar](https://www.youtube.com/watch?v=ULEjgAIm3Do&ab_channel=HitsOnAcousticGuitar)
-{.is-info}
-
-
-```
-{title:Everlong}
-{subtitle:Foo Fighters}
 drop-d tuning
 
 Riff
@@ -68,4 +68,4 @@ You've got to promise not to stop when I say when
 
 She sang
 
-```
+

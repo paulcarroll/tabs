@@ -1,21 +1,21 @@
 ---
-title: Eddie Vedder - Rise
-description: 
-published: true
-date: 2022-07-24T21:30:24.667Z
+group: Eddie Vedder
+title: Rise
 tags: group boof, tempo medium, boof learning, difficulty medium
-editor: markdown
-dateCreated: 2022-07-24T12:50:49.604Z
+layout: page
+links:
+  - type: Spotify
+    title: Rise
+    url: https://open.spotify.com/track/1bhpBRCLsVg3p7BWARbaDS?si=ZIsGmfGlRyOhJS9Lg1YAVw
+  - type: YouTube
+    title: Carlos Navarro
+    url: https://www.youtube.com/watch?v=LusERCmQQ_o&ab_channel=CarlosNavarroMusic
+  - type: YouTube
+    title: Truffle4321
+    url: https://www.youtube.com/watch?v=HihcoPEn1e8
 ---
 
 
-> - [spotify](https://open.spotify.com/track/1bhpBRCLsVg3p7BWARbaDS?si=ZIsGmfGlRyOhJS9Lg1YAVw)
-> - [youtube - carlos navarro](https://www.youtube.com/watch?v=LusERCmQQ_o&ab_channel=CarlosNavarroMusic)
-> - [youtube - truffle4321](https://www.youtube.com/watch?v=HihcoPEn1e8)
-{.is-info}
-
-
-```
      D   Dsus2   D5   G   G-5  G5  A   Gadd9   G6  Asus4  Dsus4
 e|---2-----0------x---3----3---3---0-----3-----3-----0------3---|
 b|---3-----3------3---0----2---3---2-----0-----5-----3------3---|
@@ -68,4 +68,4 @@ D (six bars)
 
 A  Asus4  A  G  G-5  G5  G-5  D 
 
-```
+

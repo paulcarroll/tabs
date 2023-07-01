@@ -1,19 +1,15 @@
 ---
-title: You Am I - Cathy's clown
-description: 
-published: true
-date: 2022-07-25T11:14:44.490Z
+group: You Am I
+title: Cathy's clown
 tags: group boof, difficulty easy, tempo lively, boof learning
-editor: markdown
-dateCreated: 2022-07-25T11:14:40.300Z
+layout: page
+links:
+  - type: YouTube
+    title: YouAmI live opera house
+    url: https://www.youtube.com/watch?v=xkGrYetTmjg
 ---
 
 
-> [youtube - youami live opera house](https://www.youtube.com/watch?v=xkGrYetTmjg)
-{.is-info}
-
-
-```
 Tuning: Capo 2  DADGBe
  
 Chord shapes for dropped tuning:
@@ -69,6 +65,4 @@ And she'll stack up like you stack vitamins
 D5  Cadd9  E5  D#5     x8
  
 Dmaj7
- 
-```
 

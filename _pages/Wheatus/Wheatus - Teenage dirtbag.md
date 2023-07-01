@@ -1,3 +1,11 @@
+---
+group: Wheatus
+title: Teenage dirtbag
+tags: group shit, group boof, difficulty easy, tempo lively, boof learnt
+layout: page
+links:
+---
+
 [Intro]
 E B E A E B E A
  

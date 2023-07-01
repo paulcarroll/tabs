@@ -1,19 +1,15 @@
 ---
-title: Eric Clapton - Running on faith
-description: 
-published: true
-date: 2022-07-25T12:48:17.594Z
+group: Eric Clapton
+title: Running on faith
 tags: group boof, tempo medium, difficulty easy
-editor: markdown
-dateCreated: 2022-07-25T12:48:14.629Z
+layout: page
+links:
+  - type: Spotify
+    title: Running on faith
+    url: https://open.spotify.com/track/64fZ1gcn7rEzbdibOP1inl?si=UE3Qm_KnTQyYlgKtpbs7sQ
 ---
 
 
-> [spotify](https://open.spotify.com/track/64fZ1gcn7rEzbdibOP1inl?si=UE3Qm_KnTQyYlgKtpbs7sQ)
-{.is-info}
-
-
-```
 G                D/F#       Em       D/F#
 Lately I've been running on faith
 G               D/F#     Em    G7
@@ -88,5 +84,4 @@ G           F           C
 Love comes over me for you
 
 
-```
 

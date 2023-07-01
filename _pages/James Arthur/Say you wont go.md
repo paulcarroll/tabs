@@ -1,20 +1,18 @@
 ---
-title: James Arthur - Say you won't go
-description: 
-published: true
-date: 2022-07-25T12:23:49.951Z
+group: James Arthur
+title: Say you won't go
 tags: tempo medium, difficulty easy, group danielle, danielle learning
-editor: markdown
-dateCreated: 2022-07-25T12:23:47.803Z
+layout: page
+links:
+  - type: Spotify
+    title: Say you won't go
+    url: https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh?si=CzYK0UF1RCqSmK2ACzMJfg
+  - type: YouTube
+    title: Marty
+    url: https://www.youtube.com/watch?v=LyNZTs04Dcg&ab_channel=MartyMusic
 ---
 
 
-> [spotify](https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh?si=CzYK0UF1RCqSmK2ACzMJfg)
-> [youtube - marty](https://www.youtube.com/watch?v=LyNZTs04Dcg&ab_channel=MartyMusic)
-{.is-info}
-
-
-```
 Capo: 3rd fret
 
 
@@ -181,5 +179,4 @@ G
 (end on single strum)
 
 
-```
 

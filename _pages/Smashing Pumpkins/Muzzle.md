@@ -1,22 +1,17 @@
 ---
-title: Smashing Pumpkins - Muzzle
-description: 
-published: true
-date: 2022-08-11T07:19:23.037Z
+group: Smashing Pumpkins
+title: Muzzle
 tags: group boof, tempo medium, difficulty easy, boof learning, boof priority
-editor: markdown
-dateCreated: 2022-07-24T12:06:25.755Z
+layout: page
+links:
+  - type: YouTube
+    title: Gutar Studio
+    url: https://www.youtube.com/watch?v=x_cDIzFvEHc&ab_channel=MattBrown%27sGuitarStudio
+    comment: Plays really well (electric) and introduces the drop b string tuning
+  - type: YouTube
+    title: Let's play all
+    url: https://www.youtube.com/watch?v=VSVSlOBSLCs&ab_channel=Let%27sPlayAll
 ---
-
-
-> [YouTube - Gutar Studio](https://www.youtube.com/watch?v=x_cDIzFvEHc&ab_channel=MattBrown%27sGuitarStudio) Plays really well (electric) and introduces the drop b string tuning
-> [youtube - let's play all](https://www.youtube.com/watch?v=VSVSlOBSLCs&ab_channel=Let%27sPlayAll)
-{.is-info}
-
-
-```
-Muzzle
-Album: Melon Collie...
 
 
 **SIMPLE TUNING: Just drop the B a full step to A**
@@ -124,4 +119,3 @@ Time heals but I'm     forever broken
         and I knew the silence of the world
 
 
-```

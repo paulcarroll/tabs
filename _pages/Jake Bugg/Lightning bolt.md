@@ -1,20 +1,20 @@
 ---
-title: Jake Bugg - Lighning bolt
-description: 
-published: true
-date: 2022-07-25T11:12:00.115Z
+group: Jake Bugg
+title: Lightning bolt
 tags: group boof, tempo lively, difficulty medium, boof learnt
-editor: markdown
-dateCreated: 2022-07-25T11:11:57.686Z
+layout: page
+links:
+  - type: Spotify
+    title: Lightning bolt
+    url: https://open.spotify.com/track/5s9sZ2i76iAZeFt5f9uUKP?si=TztiRp3OTKOLjr_Z5hiUHQ
+  - type: YouTube
+    title: Georgia Rose
+    url: https://www.youtube.com/watch?v=SXmZC_uh4qA&ab_channel=georgiarose16
+  - type: YouTube
+    title: Walk off the earth
+    url: https://www.youtube.com/watch?v=fBQ63fa6SJs&ab_channel=WalkofftheEarth
 ---
 
-> [spotify](https://open.spotify.com/track/5s9sZ2i76iAZeFt5f9uUKP?si=TztiRp3OTKOLjr_Z5hiUHQ)
-> [youtube - georgia rose](https://www.youtube.com/watch?v=SXmZC_uh4qA&ab_channel=georgiarose16)
-> [youtube - walk off the earth](https://www.youtube.com/watch?v=fBQ63fa6SJs&ab_channel=WalkofftheEarth)
-{.is-info}
-
-
-```
  E B A x4 
 
 E               B      A         E
@@ -117,4 +117,4 @@ And then she fled in the path of a lightning bolt
 
 Outro: E B A x3 E 
 
-```
+

@@ -1,22 +1,25 @@
 ---
-title: Mad Season - The river of deceit
-description: 
-published: true
-date: 2022-08-12T00:48:06.167Z
+group: Mad Season
+title: The river of deceit
 tags: group boof, difficulty easy, temp slow, boof learning
-editor: markdown
-dateCreated: 2022-07-24T12:38:55.407Z
+layout: page
+links:
+  - type: Spotify
+    title: The river of deceit
+    url: https://open.spotify.com/track/3e2fDgC93LGc9Lbdvr6I9k?si=PiD9_ycFRtadHk337mdE6Q
+  - type: YouTube
+    title: RPGuitarVids
+    url: https://www.youtube.com/watch?v=yB-wALhEBRg&ab_channel=rpguitarvideos
+    comment: Great breakdown on electric
+  - type: YouTube
+    title: Jake's guitar vids
+    url: https://www.youtube.com/watch?v=WINp3OOGVww
+  - type: YouTube
+    title: Nathan Wesley
+    url: https://www.youtube.com/watch?v=8RhcbbdkmMU&ab_channel=NathanWesleyArt
 ---
 
-> - [spotify](https://open.spotify.com/track/3e2fDgC93LGc9Lbdvr6I9k?si=PiD9_ycFRtadHk337mdE6Q)
-> - [youtube - rpguitarvids](https://www.youtube.com/watch?v=yB-wALhEBRg&ab_channel=rpguitarvideos) great breakdown on electric
-> - [youtube - jake's guitar vids](https://www.youtube.com/watch?v=WINp3OOGVww)
-> - [youtube - nathan wesley](https://www.youtube.com/watch?v=8RhcbbdkmMU&ab_channel=NathanWesleyArt)
-{.is-info}
 
-
-```
- 
 [Intro] x3
  
 e|---------------------------------------------------|------------------------|
@@ -105,6 +108,5 @@ F G                 F    G
 F        G
 Down, oh down x4
 
-```
 
 

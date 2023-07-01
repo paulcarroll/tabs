@@ -17,5 +17,9 @@ sass:
 plugins:
   - jekyll-sass-converter
 
+include:
+  - '*.md'
+  - '*.html'
+
 # exclude:
 #   - .sass-cache/

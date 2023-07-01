@@ -1,19 +1,14 @@
 ---
-title: Alice in Chains - Down in a hole
-description: 
-published: true
-date: 2022-07-25T10:43:38.438Z
+group: Alice in Chains
+title: Down in a hole
 tags: group boof, difficulty easy, temp slow, boof learning
-editor: markdown
-dateCreated: 2022-07-25T10:43:34.083Z
+layout: page
+links: 
+  - type: YouTube
+    title: Nathan Wesley
+    url: https://www.youtube.com/watch?v=R49TC3Prp-c
 ---
 
-
-> [youtube - nathan wesley](https://www.youtube.com/watch?v=R49TC3Prp-c)
-{.is-info}
-
-
-```
 [Intro] (repeat for verse)
  
 eb|-----------------|-3-----2---------|
@@ -120,5 +115,4 @@ But my wings have been so denied
 [Outro]
 | G#m      | F#  C#    | x3
   G#
-```
 

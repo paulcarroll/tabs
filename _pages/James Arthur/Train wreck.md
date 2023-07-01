@@ -1,18 +1,14 @@
 ---
-title: James Arthur - Train wreck
-description: 
-published: true
-date: 2022-07-25T12:21:58.245Z
+group: James Arthur
+title: Train wreck
 tags: tempo medium, difficulty easy, group danielle, danielle learning
-editor: markdown
-dateCreated: 2022-07-25T12:21:55.829Z
+layout: page
+links:
+  - type: Spotify
+    title: Train wreck
+    url: https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H?si=tfq_RzlJREmJufMYHYq19Q
 ---
 
-> [spotify](https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H?si=tfq_RzlJREmJufMYHYq19Q)
-{.is-info}
-
-
-```
 Capo 2
 
 [Intro]
@@ -149,6 +145,4 @@ Pull me out, pull me out
 Em D C Em
 
 
-
-```
 

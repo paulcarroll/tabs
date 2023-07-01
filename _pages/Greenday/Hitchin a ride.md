@@ -1,18 +1,14 @@
 ---
-title: Greenday - Hitchin' a ride
-description: 
-published: true
-date: 2023-06-30T01:17:26.717Z
+group: Greenday
+title: Hitchin' a ride
 tags: group shit, group boof, difficulty easy, tempo lively, boof learning, boof priority
-editor: markdown
-dateCreated: 2022-07-25T12:57:34.350Z
+layout: page
+links:
+  - type: Spotify
+    title: Hitchin' a ride
+    url: https://open.spotify.com/track/6WlmA3HPHuNIR2mxI8LkZF?si=nluZKae3TVOuKEncxSgOwg
 ---
 
-> [spotify](https://open.spotify.com/track/6WlmA3HPHuNIR2mxI8LkZF?si=nluZKae3TVOuKEncxSgOwg)
-{.is-info}
-
-
-```
 Intro: Play this twice for intro
 D|9--9--7--7--6--6--5-5-7-8   
 A|9--9--7--7--6--6--5-5-7-8 
@@ -121,5 +117,3 @@ D|-4-|
 
 
 
-
-```

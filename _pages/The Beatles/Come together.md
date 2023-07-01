@@ -1,23 +1,34 @@
 ---
-title: Beatles, The - Come together
-description: 
-published: true
-date: 2022-08-17T21:14:30.087Z
+group: The Beatles
+title: Come together
 tags: group boof, difficulty easy, tempo lively, boof learning, boof priority
-editor: markdown
-dateCreated: 2022-07-24T12:12:34.796Z
+layout: page
+links:
+  - type: Spotify
+    title: Come together
+    url: https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD?si=IxrexeflQhuDKxz6MQar8A
+  - type: 
+    title: Adam Pearce Music
+    url: https://www.youtube.com/watch?v=Qd_irL83ZBI
+    comment: Sensational acoustic version! (Drop-D tuning)
+    highlight: true
+  - type: 
+    title: Natew101
+    url: https://www.youtube.com/watch?v=9kz_e2_nfcw&ab_channel=natew101
+  - type: 
+    title: Bobby Phillips
+    url: https://www.youtube.com/watch?v=UcznnoqkCig&ab_channel=BobbyPhillipps
+  - type: 
+    title: Christopher James
+    url: https://www.youtube.com/watch?v=1sNkoyaZPfI&ab_channel=christopherjamesmus
+  - type: 
+    title: Alex Hammel
+    url: https://www.youtube.com/watch?v=0J8SoKIyJHs&ab_channel=AlexHamel
 ---
 
-> - [spotify](https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD?si=IxrexeflQhuDKxz6MQar8A)
-> - [youtube - Adam Pearce Music](https://www.youtube.com/watch?v=Qd_irL83ZBI) - Sensational acoustic version! (Drop-D tuning)
-> - [youtube natew101](https://www.youtube.com/watch?v=9kz_e2_nfcw&ab_channel=natew101)
-> - [youtube bobby phillips](https://www.youtube.com/watch?v=UcznnoqkCig&ab_channel=BobbyPhillipps)
-> - [youtube christopher james](https://www.youtube.com/watch?v=1sNkoyaZPfI&ab_channel=christopherjamesmus)
-> - [youtube alex hammel](https://www.youtube.com/watch?v=0J8SoKIyJHs&ab_channel=AlexHamel)
-{.is-info}
 
-```
 [Chords]
+```
    D5 
 ---0---
 ---2---
@@ -25,26 +36,31 @@ dateCreated: 2022-07-24T12:12:34.796Z
 ---0---
 -------
 -------
+```
 
 [Main riff]
-
+```
 e---------0--0----------------------0--0-------------------------------
 B---------2--2----------------------2--2-------------------------------
 G---------3--3-----------------7----3--3-------------------------------
 D---------0--0-----------------7----0--0-------------------------------
 A---7/2-----------------8v-----5-----------------8v--8-10-8-10-8-10-8--
 E-----------------2/7----------------------2/7-------7----7----7----7--
+```
 
 [Verse riff]
   Repeat D5     A* (riff)x4        [Muted strum "..be a joker he just do what he please"]
+```
 ---0------------0--0-----------------------------------------------------
 ---2------------0--0-----------------------------------------------------
 ---3------------2--4---------------X-------------------------------------
 ---0------------2--2---------------X-------------------------------------
 ----------------0--0--------5sX----X-------------------------------------
 ----------------------------5sX----X-------------------------------------
+```
 
 [Chorus riff chords]
+```
    Bm.     A6/9   A7b5.  A6/9
 ------------------------------
 -----------0-------------0----
@@ -52,8 +68,10 @@ E-----------------2/7----------------------2/7-------7----7----7----7--
 ---4-------2------7------2----
 ---2-------0------6------0----
 ------------------5-----------
+```
 
 [Solo]
+```
 [ Repeat x 4 ---------------]
 -------------------------------
 --s6-6--6-6--6-6--6-6----------
@@ -61,6 +79,7 @@ E-----------------2/7----------------------2/7-------7----7----7----7--
 -------------------------------
 -------------------------------
 -------------------------------
+```
 
 [Verse]
 D5
@@ -110,7 +129,6 @@ Come together, right now,
 Come together, right now,
      Bm.       A.    A7b5. A
 Come together, right now,  over me
-```
 
 
 

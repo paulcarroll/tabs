@@ -1,14 +1,11 @@
 ---
-title: The Pixies - Cactus
-description: 
-published: true
-date: 2023-06-30T02:24:35.151Z
+group: The Pixies
+title: Cactus
 tags: group boof, tempo medium, difficulty easy, boof learning, boof priority
-editor: markdown
-dateCreated: 2023-06-29T10:00:23.603Z
+layout: page
+links:
 ---
 
-# Cactus - Pixies, The
 
 ```
     E5      G5      Am  C   D
@@ -18,9 +15,8 @@ G|------------------2---0---2---|
 D|--2---2---5---5---2---2---0---|
 A|--2---4---5---7---0---3-------|
 E|--0---0---3---3-------0-------|
-     ^^^     ^^^
-(Blues it up in the first verse by adding these
-where appropriate)
+```
+*(Blues it up in the first verse by adding these where appropriate)*
  
 [Verse 1]
 E5
@@ -67,7 +63,7 @@ Sitting here wishing on a cement floor
 Just wishing that I had just something you wore
  
 [Outro]
- 
+``` 
 e|----------------------------------|
 B|-10--------------10-8-------------|
 G|----------------------9---7-------|

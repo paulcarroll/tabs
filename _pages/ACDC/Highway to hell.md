@@ -1,14 +1,10 @@
 ---
-title: ACDC - Highway to hell
-description: 
-published: true
-date: 2022-07-24T11:53:52.529Z
+group: ACDC
+title: Highway to hell
 tags: group shit
-editor: markdown
-dateCreated: 2022-07-24T01:30:01.014Z
+layout: page
 ---
 
-```
 [Intro] (G in riff is really G5, A can be played as A5)
  
      A              D/F# G          D/F# G  D/F# G  D/F# A
@@ -123,5 +119,4 @@ D/F#     A   A   A  D/A
 to hell) Highway to hell
                                          A                            A N.C.
 An' I'm goin' down... all the way... whoa...... on the highway to hell
-```
 

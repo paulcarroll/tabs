@@ -1,18 +1,15 @@
 ---
-title: Blind Melon - No rain
-description: 
-published: true
-date: 2022-07-25T11:51:41.022Z
+group: Blind Melon
+title: No rain
 tags: group shit, group boof, tempo medium, difficulty easy, boof learnt
-editor: markdown
-dateCreated: 2022-07-25T11:51:04.865Z
+layout: page
+links: 
+  - type: Spotify
+    title: No rain
+    url: https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT?si=dr_Uv1ltSIW0qW_T_d9-Rw
 ---
 
-> [spotify](https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT?si=dr_Uv1ltSIW0qW_T_d9-Rw)
-{.is-info}
 
-
-```
 Figure 1 ( played x 3 as the intro)
 *****************************************
                  E ////////
@@ -212,5 +209,4 @@ You know I'm really gonna really gonna
 have it made (I'll have it made)
 (I'll have it made) (I'll have it made)
 
-```
 

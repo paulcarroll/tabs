@@ -1,20 +1,16 @@
 ---
-title: Paulo Nutini - Tricks of the trade
-description: 
-published: true
-date: 2022-07-25T12:52:37.942Z
+group: Paulo Nutini
+title: Tricks of the trade
 tags: group boof, difficulty easy, boof learnt, tempo quiet
-editor: markdown
-dateCreated: 2022-07-25T12:52:34.445Z
+layout: page
+links:
+  - type: Spotify
+    title: Tricks of the trade
+    url: https://open.spotify.com/track/0N79LrXEt9QrIc7JPQ2HYC?si=3dX97wvbRJ-dD1l2hs-0MA
 ---
 
 
-> [spotify](https://open.spotify.com/track/0N79LrXEt9QrIc7JPQ2HYC?si=3dX97wvbRJ-dD1l2hs-0MA)
-{.is-info}
-
-
-```
-{capo:2}
+Capo: 2
 
  
 C  Em  F  F (2X)
@@ -84,6 +80,6 @@ legs to stand on
              C
 To keep us alive...
 
-```
+
 
 

@@ -1,20 +1,18 @@
 ---
-title: Foo Fighters - Times like these
-description: 
-published: true
-date: 2022-07-25T12:42:13.428Z
+group: Foo Fighters
+title: Times like these
 tags: group shit, group boof, tempo lively, difficulty medium
-editor: markdown
-dateCreated: 2022-07-25T12:41:47.614Z
+layout: page
+links:
+  - type: Spotify
+    title: Time like these
+    url: https://open.spotify.com/track/67vYdAAM3oGsEImCRfbtsF?si=RLlrL5XZRMyl2305EIp9hg
+  - type: YouTube
+    title: John Lee Blackmore
+    url: https://www.youtube.com/watch?v=u8xKv3qlNbc
 ---
 
-> [spotify](https://open.spotify.com/track/67vYdAAM3oGsEImCRfbtsF?si=RLlrL5XZRMyl2305EIp9hg)
-> [youtube - john lee blackmore](https://www.youtube.com/watch?v=u8xKv3qlNbc)
-{.is-info}
 
-
-
-```
 D    xx0232     C    x32010
 Am   x02210     Em   022000
 Am7  x02213     Em7  022033
@@ -98,5 +96,5 @@ It’s times like these time and time again
 C...Em7...D...C...Em7...D...
 C...Em7...D...C...Em7...D...C
 
-```
+
 

@@ -1,19 +1,15 @@
 ---
-title: INXS - Never tear us apart
-description: 
-published: true
-date: 2022-07-25T12:50:06.807Z
+group: INXS
+title: Never tear us apart
 tags: group shit, group boof, tempo medium, difficulty easy, boof learnt
-editor: markdown
-dateCreated: 2022-07-25T12:50:04.680Z
+layout: page
+links:
+  - type: Spotify
+    title: Never tear us apart
+    url: https://open.spotify.com/track/3pyTksNccLM1jRvzQ4zTke?si=IuQ1z9WpSiexwj-9Oi95dg
 ---
 
-> [spotify](https://open.spotify.com/track/3pyTksNccLM1jRvzQ4zTke?si=IuQ1z9WpSiexwj-9Oi95dg)
-{.is-info}
 
-
-
-```
 Am F Dm F
 
 
@@ -69,8 +65,5 @@ You,        you were standing,              you were there,
 
 Two worlds collided,             and they could never tear us apart...
                   [shining through]
-
-
-```
 
 

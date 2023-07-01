@@ -1,15 +1,11 @@
 ---
 title: Vance Joy - Riptide
-description: 
-published: true
-date: 2022-07-25T11:28:27.297Z
 tags: group shit, group boof, difficulty easy, tempo lively, boof learnt
-editor: markdown
-dateCreated: 2022-07-25T11:28:24.953Z
+layout: page
+links:
 ---
 
 
-```
 [Intro]
 Am G C
 Am G C
@@ -121,6 +117,3 @@ In my throat, 'cause you're gonna sing the words wrong yeah, I got a lump
       Am             G                       C
 In my throat, 'cause you're gonna sing the words wrong
 
-
-
-```

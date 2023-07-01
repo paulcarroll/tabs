@@ -1,18 +1,14 @@
 ---
-title: Radiohead - Fake plastic trees
-description: 
-published: true
-date: 2022-07-25T12:06:59.405Z
+group: Radiohead
+title: Fake plastic trees
 tags: group boof, tempo medium, difficulty easy, boof learnt
-editor: markdown
-dateCreated: 2022-07-25T12:06:57.193Z
+layout: page
+links:
+  - type: Spotify
+    title: Fake plastic trees
+    url: https://open.spotify.com/track/045sp2JToyTaaKyXkGejPy?si=8uMewWFMS5uee9ic-LxzcQ
 ---
 
-> [spotify](https://open.spotify.com/track/045sp2JToyTaaKyXkGejPy?si=8uMewWFMS5uee9ic-LxzcQ)
-{.is-info}
-
-
-```
 A                            F#m
 Her green plastic watering can 
                                D
@@ -87,6 +83,4 @@ All the time..
 All the time..
  
  
-
-```
 

@@ -1,20 +1,16 @@
 ---
-title: Paulo Nutini - New shoes
-description: 
-published: true
-date: 2022-07-25T13:01:28.688Z
+group: Paulo Nutini
+title: New shoes
 tags: group shit, group boof, difficulty easy, tempo lively
-editor: markdown
-dateCreated: 2022-07-25T13:01:26.596Z
+layout: page
+links:
+  - type: Spotify
+    title: New shoes
+    url: https://open.spotify.com/track/265Anh9hGoozFigjUVLUeD?si=Z14_kLi5RVGv9-7eC0UrMw
 ---
 
 
-> [spotify](https://open.spotify.com/track/265Anh9hGoozFigjUVLUeD?si=Z14_kLi5RVGv9-7eC0UrMw)
-{.is-info}
-
-
-```
-{capo:1}
+Capo: 1
 
 
 Intro 
@@ -126,5 +122,5 @@ and i don’t need an excuse,
            Dsus2 
 'cause i'm wearing my brand new shoes.
 
-```
+
 

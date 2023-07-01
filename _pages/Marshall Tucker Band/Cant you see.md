@@ -1,18 +1,15 @@
 ---
+group: Marshall Tucker Band
 title: Can't you see
-description: 
-published: true
-date: 2023-06-30T20:12:19.455Z
 tags: group boof, difficulty easy, temp slow, boof learnt
-editor: markdown
-dateCreated: 2022-07-25T13:22:42.154Z
+layout: page
+links:
+  - type: Spotify
+    title: Can't you see
+    url: https://open.spotify.com/track/4fUU9WKxEgJXyrZJsUA2iP?si=PSGzVVw2S3ORCX5ts516wA
 ---
 
-> [spotify](https://open.spotify.com/track/4fUU9WKxEgJXyrZJsUA2iP?si=PSGzVVw2S3ORCX5ts516wA)
-{.is-info}
 
-
-```
 Intro: D, C, G, D
 
 Verse 1
@@ -54,5 +51,4 @@ Till the train run out of track
 
 CHORUS repeat 5x's
 
-```
 

@@ -1,19 +1,14 @@
 ---
-title: Plain White Tees - Hey there Delilah
-description: 
-published: true
-date: 2022-07-25T12:19:45.959Z
+group: Plain White Tees
+title: Hey there Delilah
 tags: tempo medium, difficulty easy, group danielle, danielle learning
-editor: markdown
-dateCreated: 2022-07-25T12:19:43.332Z
+layout: page
+links:
+  - type: Spotify
+    title: Hey there Delilah
+    url: https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH?si=444ggMeDTiav4Px1jxffMA
 ---
 
-> [spotify](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH?si=444ggMeDTiav4Px1jxffMA)
-{.is-info}
-
-
-
-```
 Capo 2nd fret
  
 [Intro]
@@ -159,4 +154,3 @@ C    Am    x3
 C    C
 
 
-```

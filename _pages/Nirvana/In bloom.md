@@ -1,18 +1,18 @@
 ---
-title: Nirvana - In bloom
-description: 
-published: true
-date: 2023-06-29T11:17:37.037Z
+group: Nirvana
+title: In bloom
 tags: 
-editor: markdown
-dateCreated: 2023-06-29T10:48:36.100Z
+layout: page
+links:
+  - type: YouTube
+    title: Adam Pearce
+    url: https://www.youtube.com/watch?v=8HAxo0XSV28&list=RD8HAxo0XSV28&start_radio=1&ab_channel=AdamPearceMusic
+  - type: Web
+    title: Ultimate guitar
+    url: https://tabs.ultimate-guitar.com/tab/nirvana/in-bloom-chords-1171571
 ---
 
 
-> https://www.youtube.com/watch?v=8HAxo0XSV28&list=RD8HAxo0XSV28&start_radio=1&ab_channel=AdamPearceMusic
-> https://tabs.ultimate-guitar.com/tab/nirvana/in-bloom-chords-1171571
-
-```
 [Intro]
  
 A  F#   E  G    x2
@@ -124,4 +124,3 @@ Yeah.  Ooh.
 A F#   E  G      A
 Ooh.   Ooh.
  
-```

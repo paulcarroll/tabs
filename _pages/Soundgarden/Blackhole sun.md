@@ -1,21 +1,23 @@
 ---
-title: Soundgarden - Blackhole sun
-description: 
-published: true
-date: 2022-07-25T11:04:39.897Z
+group: Soundgarden
+title: Blackhole sun
 tags: group boof, tempo medium, boof learning, difficulty medium
-editor: markdown
-dateCreated: 2022-07-25T10:56:21.436Z
+layout: page
+links:
+  - type: Spotify
+    title: Blackhole sun
+    url: https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD?si=hCIfi-IVQmaPcNsiafg69Q
+  - type: 
+    title: Nathan Wesley ver 1 
+    url: https://www.youtube.com/watch?v=YRVIm8u_BaM
+    comment: Accurate to the recording
+  - type: 
+    title: Nathan Wesley ver 2
+    url: https://www.youtube.com/watch?v=Pt2TZSkmucU
+    comment: Easier to play
 ---
 
 
-> [spotify](https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD?si=hCIfi-IVQmaPcNsiafg69Q)
-> [youtube - nathan wesley ver #1 - accurate to the recording](https://www.youtube.com/watch?v=YRVIm8u_BaM)
-> [youtube - nathan wesley ver #2 - easier to play](https://www.youtube.com/watch?v=Pt2TZSkmucU)
-{.is-info}
-
-
-```
 Capo 3
  
 [Intro]
@@ -158,7 +160,5 @@ Won't you come,
            A   Em B  E D E
 Won't you come. 
 
-
-```
 
 

@@ -1,19 +1,14 @@
 ---
-title: Van Morrison - Brown eyed girl
-description: 
-published: true
-date: 2022-07-25T12:44:27.200Z
+group: Van Morrison
+title: Brown eyed girl
 tags: group shit, group boof, difficulty easy, tempo lively, boof learnt
-editor: markdown
-dateCreated: 2022-07-25T12:44:24.983Z
+layout: page
+links:
+  - type: Spotify 
+    title: Brown eyes girl
+    url: https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul?si=gJD8fhPLQumZOmJabqDfEg
 ---
 
-> [spotify](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul?si=gJD8fhPLQumZOmJabqDfEg)
-{.is-info}
-
-
-
-```
 
      G                  C                      G                   D
 e |--7--8--10----8--7-|-12--13--15---13--12-|--7--8--10----8--7-|--5--2--3--5-----|
@@ -94,5 +89,5 @@ Sha la la la la la la la te da,
 	Sha la la la la la la la te da, la te da.
 
 
-```
+
 

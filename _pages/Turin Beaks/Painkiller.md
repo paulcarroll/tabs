@@ -1,23 +1,18 @@
 ---
-title: Turin Breaks - Painkiller
-description: 
-published: true
-date: 2022-07-25T11:53:47.483Z
+group: Turin Breaks
+title: Painkiller
 tags: group boof, difficulty easy, temp slow, boof learnt
-editor: markdown
-dateCreated: 2022-07-25T11:53:45.462Z
+layout: page
+links:
+  - type: Spotify
+    title: Painkiller
+    url: https://open.spotify.com/track/7axHs42nlsJhYTESxJsDFo?si=78kHlI6-QXut-V_HxIj1rw
 ---
 
-- [Spotify - Painkiller](https://open.spotify.com/track/7axHs42nlsJhYTESxJsDFo?si=78kHlI6-QXut-V_HxIj1rw)
+Capo on 2nd fret
 
-
-```
-{capo:2}
-
-
-intro
+Intro
 G - F (x4)
-
 
 G                          F
 Batten up the hatches, here comes the cold
@@ -83,5 +78,4 @@ Leave all this misery behind
 D                 Bm    Cadd9                          
 Leave all this misery behind    (x3)
 
-```
 

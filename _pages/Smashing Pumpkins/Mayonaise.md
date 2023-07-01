@@ -1,21 +1,18 @@
 ---
-title: Smashing Pumpkins - Mayonaise
-description: 
-published: true
-date: 2022-07-25T12:15:10.322Z
+group: Smashing Pumpkins
+title: Mayonaise
 tags: group boof, tempo medium, boof learning, difficulty medium
-editor: markdown
-dateCreated: 2022-07-25T12:15:08.109Z
+layout: page
+links:
+  - type: YouTube
+    title: Luthdrix
+    url: https://www.youtube.com/watch?v=3nSwdHmpGQE
+  - type: YouTube
+    title: Smashing pumpkins acoustic live
+    url: https://www.youtube.com/watch?v=23NSK0j1pf8
 ---
 
 
-> [youtube - Luthdrix](https://www.youtube.com/watch?v=3nSwdHmpGQE)
-> [youtube - smashing pumpkins acoustic live](https://www.youtube.com/watch?v=23NSK0j1pf8)
-{.is-info}
-
-
-
-```
    A  F#m  D   B5  G   E
 e|-0---2---2---x---3---0---|
 B|-2---2---3---x---0---0---|
@@ -128,4 +125,5 @@ D              A  F#m           D      D
 I just want to be me and when I can, I will
 A           F#m               D      D
 Try to understand that when I can, I will
-```
+
+

@@ -1,18 +1,15 @@
 ---
-title: Maria McKee - Love is a red dress
-description: 
-published: true
-date: 2022-07-25T13:20:46.033Z
+group: Maria McKee
+title: Love is a red dress
 tags: group boof, difficulty medium, tempo quiet
-editor: markdown
-dateCreated: 2022-07-25T13:20:44.086Z
+layout: page
+links:
+  - type: 
+    title: 
+    url: 
 ---
 
-> [spotify](https://open.spotify.com/track/60CirPlTOEWOUBus7HxV3B?si=Rt0Hr0E-TGq7hW1ji1TEIw)
-{.is-info}
 
-
-```
 A    D  A    D  A    G   A   Asus2
      
 
@@ -91,4 +88,4 @@ G  D           A
    Give me the jack
 D   A   D   A   G   A
 
-```
+

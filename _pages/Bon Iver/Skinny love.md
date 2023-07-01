@@ -1,18 +1,15 @@
 ---
-title: Bon Iver - Skinny love
-description: 
-published: true
-date: 2022-07-25T11:47:52.557Z
+group: Bon Iver
+title: Skinny love
 tags: group boof, temp slow, difficulty medium, boof learnt
-editor: markdown
-dateCreated: 2022-07-25T11:47:11.723Z
+layout: page
+links:
+  - type: Spotify
+    title: Skinny love
+    url: https://open.spotify.com/track/5aIsJv8xeH5221JjlrPR1L?si=_TeSBSARQBu19KezPV69ag
 ---
 
-> [spotify](https://open.spotify.com/track/5aIsJv8xeH5221JjlrPR1L?si=_TeSBSARQBu19KezPV69ag)
-{.is-info}
 
-
-```
 Intro
 Am C x 3 G Am
 
@@ -89,5 +86,4 @@ Who will fall far behind?
 
 Play intro
 
-```
 

@@ -1,20 +1,18 @@
 ---
-title: Cage the Elephant - Ain't no rest for the wicked
-description: 
-published: true
-date: 2022-07-25T13:17:22.006Z
+group: Cage the Elephant
+title: Ain't no rest for the wicked
 tags: group boof, tempo lively, boof learning, difficulty medium
-editor: markdown
-dateCreated: 2022-07-25T13:16:48.541Z
+layout: page
+links:
+  - type: Spotify
+    title: Ain't no rest for the wicked
+    url: https://open.spotify.com/track/3kb72STxc2959ZqsTwu52i?si=1mWiklwhRxexWZFwMwfSKQ
+  - type: YouTube
+    title: Luke Waistead
+    url: https://www.youtube.com/watch?v=XJtQ7AkvWTU&list=RDMM&index=11&ab_channel=LukeWalstead
 ---
 
-> [spotify](https://open.spotify.com/track/3kb72STxc2959ZqsTwu52i?si=1mWiklwhRxexWZFwMwfSKQ)
-> [youtube - luke waistead](https://www.youtube.com/watch?v=XJtQ7AkvWTU&list=RDMM&index=11&ab_channel=LukeWalstead)
-{.is-info}
 
-
-
-```
 [Intro]
      G        Bb    C
 e|--3-3-3--x-x---1-----3--|
@@ -186,7 +184,5 @@ No there ain't no rest for the wicked,
          G                    Bb C F
 Until we close our eyes for good".
 
-
-```
 
 

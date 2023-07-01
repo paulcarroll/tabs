@@ -1,19 +1,14 @@
 ---
-title: Hothouse Flowers - Sweet Marie
-description: 
-published: true
-date: 2022-07-25T12:59:48.485Z
+group: Hothouse Flowers
+title: Sweet Marie
 tags: group boof, difficulty easy, temp slow
-editor: markdown
-dateCreated: 2022-07-25T12:59:46.417Z
+layout: page
+links:
+  - type: Spotify
+    title: Sweet marie
+    url: https://open.spotify.com/track/0hIs0FSZrZ441awQkRNv7l?si=qW7UHexHTCOFfnrduDW2RA
 ---
 
-> [spotify](https://open.spotify.com/track/0hIs0FSZrZ441awQkRNv7l?si=qW7UHexHTCOFfnrduDW2RA)
-{.is-info}
-
-
-
-```
 Intro: C Dm F
 
 (C)Found a note of (Dm)words this very (F)morning(C)
@@ -51,4 +46,3 @@ oh(Dm)sweet love I (F)do (G)
 (C)Sweet Ma(Dm)rie I'm a(F)live (3x)
 
 
-```

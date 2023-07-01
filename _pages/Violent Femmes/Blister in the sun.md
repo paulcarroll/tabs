@@ -1,23 +1,21 @@
 ---
-title: Violent Femmes - Blister in the sun
-description: 
-published: true
-date: 2022-07-25T12:46:07.769Z
+group: Violent Femmes
+title: Blister in the sun
 tags: group shit, group boof, difficulty easy, tempo lively, boof learnt
-editor: markdown
-dateCreated: 2022-07-25T12:46:05.129Z
+layout: page
+links:
+  - type: Spotify
+    title: Blister in the sun
+    url: https://open.spotify.com/track/5TM2eqdzfWPHklI7YnBmsD?si=Xs_LSLRpS5CDaSjmylw6pg
 ---
 
 
-> [spotify](https://open.spotify.com/track/5TM2eqdzfWPHklI7YnBmsD?si=Xs_LSLRpS5CDaSjmylw6pg)
-{.is-info}
-
-
-```
 Intro :	 
+```
 D|--------------|--------------|----------------| 	 
 A|-----2--3--2--|----2--23--2--|-----2--3--2----|  x4
 E|--3-----------|-3------------|--3----------3--|
+```
 
 	G            C       G          C     G       C         G
 	When I'm a walkin' I strut my stuff, then I'm so strung out,
@@ -72,4 +70,4 @@ Instrumental:
 Instrumental: 
 	 G C G C G C G, G C G C G C G.
 
-```
+
