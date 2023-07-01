@@ -8,9 +8,9 @@ layout: home
 			<tr>
 				<th class="artist">Artist</th>
 				<th class="title">Title</th>
+				<th class="tags">Tags</th>
 				<th class="capo">Capo</th>
 				<th class="tuning">Tuning</th>
-				<th class="tags">Tags</th>
 			</tr>
 		</thead>
 		<tbody>
@@ -25,12 +25,6 @@ layout: home
 						<td class="title">
 							<a class="nav-item" href="{{ node.url }}">{{ node.title }}</a>
 						</td>
-						<td class="capo">
-							{{ node.capo }}
-						</td>
-						<td class="tuning">
-							{{ node.tuning }}
-						</td>
 						<td class="tags">
 							{% assign tags = node.tags %}
 							{% if tags %}
@@ -42,6 +36,12 @@ layout: home
 									{% endif %}
 								{% endfor %}
 							{% endif %}
+						</td>
+						<td class="capo">
+							{{ node.capo }}
+						</td>
+						<td class="tuning">
+							{{ node.tuning }}
 						</td>
 					</tr>
 	      {% endif %}
