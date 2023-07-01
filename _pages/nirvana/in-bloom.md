@@ -12,16 +12,13 @@ links:
     url: https://tabs.ultimate-guitar.com/tab/nirvana/in-bloom-chords-1171571
 ---
 
+## Intro
 
-[Intro]
- 
 A  F#   E  G    x2
- 
 A   F   D   Bb G# x2
- 
- 
-[Verse 1]
- 
+
+## Verse 1
+
 A        F        D      Bb  G#
 Sell the kids for food.
 A       F       D       Bb  G#
@@ -30,28 +27,25 @@ A         F     D       Bb  G#
 Spring is here again.
 A    F       D      Bb  C#
 Reproductive glands a - and
- 
- 
-[Chorus]
- 
+
+## Chorus
+
 A        F#m           A              F#m
 He's the one who likes all our pretty songs
        A              F#m         A                  F#m
 And he likes to sing along and he likes to shoot his gun
        B                 D      B                 D
 But he knows not what it means, knows not what it means when I say
- 
- 
-[Bridge]
- 
+
+## Bridge
+
 A  F#  E  G
 Yeah.  Mm.
 A  F#  E  G
 Ooh.   Mm.
- 
- 
-[Verse 2]
- 
+
+## Verse 2
+
 A        F        D      Bb  G#
 We can have some more.
 A       F       D       Bb  G#
@@ -60,67 +54,61 @@ A         F     D       Bb  G#
 Bruises on the fruit.
 A      F       D      Bb  C#
 Tender age in bloom.
- 
- 
-[Chorus]
- 
+
+## Chorus 2
+
 A        F#m           A              F#m
 He's the one who likes all our pretty songs
        A              F#m         A                  F#m
 And he likes to sing along and he likes to shoot his gun
        B                 D      B                 D
 But he knows not what it means, knows not what it means when I say
- 
+
 A        F#m           A              F#m
 He's the one who likes all our pretty songs
        A              F#m         A                  F#m
 And he likes to sing along and he likes to shoot his gun
        B                 D      B                 D
 But he knows not what it means, knows not what it means when I say
- 
- 
-[Bridge]
- 
+
+## Bridge 2
+
 A  F#  E  G
 Yeah.  Mm.
 A  F#  E  G
 Ooh.   Mm.
- 
+
 A  F#  E  G
 Yeah.  Mm.
 A  F#  E  G
 Ooh.   Mm.
- 
- 
-[Solo]
- 
+
+## Solo
+
 A   F   D   Bb G# x3
 A   F   D   Bb C#
- 
- 
-[Chorus]
- 
+
+## Chorus 3
+
 A        F#m           A              F#m
 He's the one who likes all our pretty songs
        A              F#m         A                  F#m
 And he likes to sing along and he likes to shoot his gun
        B                 D      B                 D
 But he knows not what it means, knows not what it means when I say
- 
+
 A        F#m           A              F#m
 He's the one who likes all our pretty songs
        A              F#m         A                  F#m
 And he likes to sing along and he likes to shoot his gun
        B                 D      B                 D
 But he knows not what it means, knows not what it means when I say
- 
- 
-[Outro]
- 
+
+## Outro
+
 B                 D      B                 D
 Knows not what it means, knows not what it means and I say.
 A  F#  E  G
 Yeah.  Ooh.
 A F#   E  G      A
 Ooh.   Ooh.
- 

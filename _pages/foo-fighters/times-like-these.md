@@ -12,12 +12,15 @@ links:
     url: https://www.youtube.com/watch?v=u8xKv3qlNbc
 ---
 
+```chordpro
 D    xx0232     C    x32010
 Am   x02210     Em   022000
 Am7  x02213     Em7  022033
-
- a plain D while hammering the A (2nd fret) on the G sting.
 ```
+
+A plain D while hammering the A (2nd fret) on the G sting.
+
+```chordpro
 e||---2-2-2---2-----2-----2-----2-2---||
 B||o--3-3-3---3-----3-----3-----3-3--o||
 G||---0-2-2-0-2---0-2---0-2---0-2-2---||
@@ -26,27 +29,29 @@ A||o---------------------------------o||
 E||-----------------------------------|| 3x
 ```
 
+## Verse 1
+
 D                Am    Am7
-I, I’m a one way motorway 
-                 C            Em      Em7        D intro 
+I, I’m a one way motorway
+                 C            Em      Em7        D intro
 I’m the one that drives away, follows you back home
 D                    Am  Am7
 I, I’m a streetlight shining
-                  C                Em      Em7      D intro 
+                  C                Em      Em7      D intro
 I’m a white light blinding bright, burning off and on
 
+## Chorus 1
 
-{start_of_chorus}
-     C                    Em       Em7     D 
+&nbsp;    C                    Em       Em7     D
 It’s times like these you learn to live again
-     C                    Em       Em7     D 
+     C                    Em       Em7     D
 It’s times like these you give and give again
-     C                    Em       Em7     D 
+     C                    Em       Em7     D
 It’s times like these you learn to love again
      C                Em       Em7     D intro
 It’s times like these time and time again
 
-
+## Verse 2
 
 D                Am    Am7
 I, I’m a new day rising
@@ -57,23 +62,23 @@ I, I’m a little divided
              C            Em     Em7        D intro
 Do I stay or run away and leave it all behind
 
+## Chorus 2
 
-{start_of_chorus}
-     C                    Em       Em7     D
+&nbsp;    C                    Em       Em7     D
 It’s times like these you learn to live again
      C                    Em       Em7     D
 It’s times like these you give and give again
      C                    Em       Em7     D
 It’s times like these you learn to love again
-     C                Em       Em7     
+     C                Em       Em7
 It’s times like these time and time again
-
 
 (oooh part)
 D...C...Em7...D...C...Em7....D intro
 
 lead part (mess around with it)
-```
+
+```chordpro
 e|------------------------------------------|
 B|------------------------------------------|
 G|----------12--11----------12--11----------|
@@ -82,19 +87,20 @@ A|----------------------------------12--10--|
 E|------------------------------------------|
 ```
 
-{start_of_chorus} 2x)
-     C                    Em       Em7     D
+## Chorus 3
+
+*Note: Repeat twice*
+
+&nbsp;    C                    Em       Em7     D
 It’s times like these you learn to live again
      C                    Em       Em7     D
 It’s times like these you give and give again
      C                    Em       Em7     D
 It’s times like these you learn to love again
-     C                Em       Em7     
+     C                Em       Em7
 It’s times like these time and time again
 
-(outro)
+## Outro
+
 C...Em7...D...C...Em7...D...
 C...Em7...D...C...Em7...D...C
-
-
-

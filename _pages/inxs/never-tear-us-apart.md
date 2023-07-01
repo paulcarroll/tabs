@@ -9,28 +9,34 @@ links:
     url: https://open.spotify.com/track/3pyTksNccLM1jRvzQ4zTke?si=IuQ1z9WpSiexwj-9Oi95dg
 ---
 
+## Intro
 
 Am F Dm F
 
+## Verse 1
 
- 	     Am               F
+&nbsp;       Am               F
 Don't ask me, what you know is true
               Dm          F
 Don't have to tell you, I love your precious heart.
 
-{start_of_chorus}
+## Chorus 1
+
 C F       C       F         C     F
 I, I was standing, you were there
                C    F               G
 Two worlds collided, and they could never tear us apart.
 
-Riff: 	
+```chordpro
+Riff
 D------------------------------
 A--0--3--5--0-0-0-0-0-0-0------     x2
 E------------------------------
+```
 
+## Verse 2
 
-          Am           F
+&nbsp;         Am           F
 We could live, for a thousand years
           Dm                 F
 But if I hurt you, I'd make wine from your tears.
@@ -45,25 +51,27 @@ I, I was standing, you were there
                C    F               G
 Two worlds collided, and they could never, ever tear us apart...
 
-Riff: 	
+```chordpro
+Riff
 D------------------------------
 A--0--3--5--0-0-0-0-0-0-0------     x2
 E------------------------------
+```
 
-Instrumental: 
+## Instrumental
+
 Am F Dm F
 
-{start_of_chorus}
+## Chorus 2
+
 I,             I was standing,             you were there
- [Don�t ask me]          [you know its true]          [worlds colliding]
+ [Don't ask me]          [you know its true]          [worlds colliding]
 
 Two worlds collided,               and they could never tear us apart...
                   [shining through]
 
 You,        you were standing,              you were there
-[Don�t ask me]             [you know its true]        [worlds colliding]
+[Don't ask me]             [you know its true]        [worlds colliding]
 
 Two worlds collided,             and they could never tear us apart...
                   [shining through]
-
-

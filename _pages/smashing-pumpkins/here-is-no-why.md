@@ -12,8 +12,9 @@ links:
     url: https://www.youtube.com/watch?v=MD6dz_SEuu4
 ---
 
+## Intro
 
-[INTRO]: Amaj7, NOT A.
+```chordpro
 ||-x-------------x-------------x------------------------------------------|
 ||-2-----x-x--x--2-----x-x--x--2-----x-x--x------------------0-----x-x--x-|
 ||-1-----x-x--x--1-----x-x--x--1-----x-x--x--2h4p2\1-1h2-2/4-1-----x-x--x-|
@@ -34,9 +35,11 @@ links:
 ||-x--x-x-x-7-7-7-7--|
 ||-7/-9-7-5-5-5-5-7--|
 ||----------5-5-5-5--|
+```
 
+## Riff A
 
-[RIFF A]:
+```chordpro
 ||---x-------------x-------------x-------------x--------------------------|
 ||---2-----x-x--x--2-----x-x--x--2-----x-x--x--2-----x-x--x--0-----x-x--x-|
 ||---1-----x-x--x--1-----x-x--x--1-----x-x--x--1-----x-x--x--1-----x-x--x-|
@@ -51,11 +54,12 @@ links:
 ||---2----------|
 ||---2----------|
 ||---0--0--3p0--|
-
+```
 
 Repeat [RIFF A]:
 Mascara sure and lipstick lost ... glitter burned by restless thoughts
 
+```chordpro
 ||-------------------|
 ||-------------------|
 ||-9/11-9-7-7-7-7-6--|
@@ -179,15 +183,18 @@ Mascara sure and lipstick lost ... glitter burned by restless thoughts
 ||--4-----4-4-4--7--7--7--2---------7/-9-7-5-5-5-5-7----------------------|
 ||--2-----2-2-2--5--5--5--0------------------5-5-5-5----------------------|
           lost inside the dreams             of teen machines
+```
 
-[interlude leading up to solo]:
+## Interlude leading up to solo
+
 The useless drag, the empty days
 the lonely towers of long mistakes
 to forgotten faces and faded loves
 sitting still was never enough
 
-[SOLO]: Solo, credit goes to jhewitt@ifu.net for this part of the solo
-        thanx a bunch.
+## Solo
+
+```chordpro
 ||---------------------------------------------------------------------|
 ||--15b----------------------------------------------------------------|
 ||-------------------------15b--12h13-12-12h13p12------------------15--|b
@@ -259,4 +266,4 @@ sitting still was never enough
 ||-x-x--x--2-----x-x--x--2-----x-x--x--(slow)-----------------------------|
 ||-x-x--x--0-----x-x--x--0-----x-x--x-------------------------------------|
 ||-x-x--x--x-----x-x--x--x-----x-x--x-------------------------------------|
-
+```

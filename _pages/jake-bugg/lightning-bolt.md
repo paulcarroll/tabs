@@ -15,7 +15,11 @@ links:
     url: https://www.youtube.com/watch?v=fBQ63fa6SJs&ab_channel=WalkofftheEarth
 ---
 
- E B A x4 
+## Intro
+
+ E B A x4
+
+## Verse 1
 
 E               B      A         E
 Morning, it’s another pure grey morning
@@ -28,6 +32,8 @@ And I walk right into the path of a lightning bolt
 
 Link: E B A x2
 
+## Verse 2
+
 E             B    A         E
 Sirens of an ambulance comes howling
          B          A       E
@@ -38,6 +44,8 @@ No one blinks an eye
 And I look up to the sky in the path of a lighting bolt
 
 Link: E B A x2
+
+## Verse 3
 
 E               B      A      E
 Met her as the angels parted for her
@@ -50,6 +58,8 @@ When it’s you who’s standing in the path of a lightning bolt
 
 Link: E A B E E E
 
+## Chorus 1
+
 A                            Asus4
 Everyone I see just wants to walk with gritted teeth
 E
@@ -59,13 +69,15 @@ They say you gotta toe the line they want the water not the wine
            E               B             A            (E)
 But when I see the signs I jump on that lightning bolt
 
+## Guitar Break
 
-Guitar Break:
-
+```chordpro
   (E)       B     A          E
 e|-7-7-7-10-12-12-10-12-    -7-7-7-|
 B|---------------------- x4 -------|
+```
 
+## Verse 4
 
 E                B        A           E
 Chances, people tell you not to take chances
@@ -78,6 +90,8 @@ But I awoke suddenly in the path of a lightning bolt
 
 Link: E A B x2
 
+## Verse 5
+
 E                 B      A         E
 Fortune, people talking all about fortune
         B          A            E
@@ -89,6 +103,8 @@ Just another passer by in the path of a lightning bolt
 
 Link: E A B E E E
 
+## Chorus 2
+
 A                            Asus4
 Everyone I see just wants to walk with gritted teeth
 E
@@ -98,13 +114,15 @@ They say you gotta toe the line they want the water not the wine
            E               B             A            (E)
 But when I see the signs I jump on that lightning bolt
 
+## Guitar Break 2
 
-Guitar Break:
-
+```chordpro
   (E)       B     A          E
 e|-7-7-7-10-12-12-10-12-    -7-7-7-|
 B|---------------------- x4 -------|
+```
 
+## Verse 6
 
 E                     B     A            E
 It was silent, I was lying back gazing skyward
@@ -115,6 +133,6 @@ I remembered what she said
               E           B         A         E
 And then she fled in the path of a lightning bolt
 
-Outro: E B A x3 E 
+## Outro
 
-
+E B A x3 E

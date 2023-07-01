@@ -9,9 +9,11 @@ links:
     url: 
 ---
 
+## Intro
 
 A    D  A    D  A    G   A   Asus2
-     
+
+## Verse 1
 
 A  D        A     D A
 My heart is empty
@@ -20,19 +22,21 @@ Your eyes are dull
 A    D       A      D A
 Once we were hungry
 G   D          A     A7
-    Now we are full 
-             
-{start_of_chorus}
+    Now we are full
+
+## Chorus
+
 D               A        D A
 These ties that bind us
 B7                 D  Dsus4 D Dsus2
   Can't beat these chaaaaaains
 A  D       A       D A
 If love is shelter
-G           D           A    
+G           D           A
   I'm gonna walk in the rain
 D   A   D   A   G   A  Asus2
-   
+
+## Verse 2
 
 A  D        A     D A
 You were my angel
@@ -40,10 +44,11 @@ E             A    D
 Now you are real
 A    D       A      D A
 So like a stranger
-G           D           A    
+G           D           A
 Colder than steel
 
-{start_of_chorus}
+## Chorus 2
+
 D           A     D A
 The morning after
 B7              D  Dsus4  D  Dsus2
@@ -53,8 +58,9 @@ If love is a red dress
 G      D          A
   Well hang me in rags
 D   A   D   A   G   A   A7
-   
-{start_of_bridge}
+
+## Bridge
+
 D          A
 Ooooooooh  well
 E              Esus4 A    A7
@@ -66,7 +72,8 @@ In all this comfort
   G              A
 I can't take the strain
 D   A   D   A   G   A  Asus2
-   
+
+## Verse 3
 
 A  D         A     D A
 If we played even
@@ -76,8 +83,9 @@ A   D           A        D A
 But someone was cheatin'
 G     D         A   A7
   and it wasn't me
-   
-{start_of_chorus}
+
+## Chorus 3
+
 D               A      D A
 I played on the table
 B7                   D  Dsus4 D  Dsus2
@@ -87,5 +95,3 @@ If love is aces
 G  D           A
    Give me the jack
 D   A   D   A   G   A
-
-

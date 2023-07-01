@@ -13,7 +13,7 @@ links:
     url: https://www.youtube.com/watch?v=VSVSlOBSLCs&ab_channel=Let%27sPlayAll
 ---
 
-
+```chordpro
 **SIMPLE TUNING: Just drop the B a full step to A**
 
 Tune Down 1/2 Step and drop the B string to A: Eb Ab Db Gb Ab Eb
@@ -25,13 +25,12 @@ Gb|  2    0       2         2      4        1
 Db|  2    0       0         0      4        2
 Ab|  0    2       2         x      2        2
 Eb|  x    3       x         x      x        0
- 
- 
-[Intro]
+```
+
+## Verse
+
 A5           Gadd2   Bm7add11     A5        Gadd2    Bm7add11
 I  fear that I am     ordinary    just like everyone
- 
-[Verse]
 A5              Gadd2   Bm7add11       A5              Gadd2     Bm7add11
 To lie here and die among the sorrows adrift among the days
 Dsus2
@@ -44,12 +43,11 @@ as all things     must surely have to end
 and great loves    will one day have to part
             Gadd2         Bm7add11       Dsus2
 I know that I          am meant for this world
- 
-[Intro]
+
+## Verse 2
+
 A5          Gadd2     Bm7add11      A5                    Gadd2  Bm7add11
 My life has been extraordinary      blessed and cursed and won
- 
-[Verse]
 A5             Gadd2   Bm7add11
 Time heals but I'm     forever broken
         A5             Gadd2
@@ -66,9 +64,10 @@ Time heals but I'm     forever broken
         and great loves will one day have to part
         A5          Gadd2    Bm7add11
         I know that I     am meant for this
- 
-[Bridge]
-        Dsus2   B7sus4
+
+## Bridge
+
+&nbsp;       Dsus2   B7sus4
         world
             A5
         and in my mind as I was floating
@@ -78,9 +77,10 @@ Time heals but I'm     forever broken
         some children laughed I'd fall for certain
             B7sus4
         for thinking that I'd last
- 
-[Verse]
-         A5
+
+## Verse 3
+
+&nbsp;        A5
         forever
               Gadd2    Bm7add11         A5
         but I knew    exactly where I was
@@ -106,8 +106,10 @@ Time heals but I'm     forever broken
         and the world so hard to understand
                 Dsus2    B7sus4         A5    Gadd2  Bm7add11
         is the world you can't live without
- 
-     A5       Gadd2    Bm7add11         A5
+
+## Outro
+
+&nbsp;    A5       Gadd2    Bm7add11         A5
         and I knew the silence of the world
               Gadd2    Bm7add11         A5
         and I knew the silence of the world
@@ -117,5 +119,3 @@ Time heals but I'm     forever broken
         and I knew the silence of the world
                Gadd2   Bm7add11       A5
         and I knew the silence of the world
-
-

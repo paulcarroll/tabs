@@ -6,9 +6,11 @@ layout: page
 links:
 ---
 
-[Intro]
+## Intro
+
 E B E A E B E A
- 
+
+```chordpro 
 (Let top two open notes ring)
 e|--------0--------0--------0-------0-|
 B|--------0--------0--------0-------0-|
@@ -16,9 +18,11 @@ G|---------4-4-x-------------2-2-x----|
 D|-2-2-x---4-4-x----2-2-x----2-2-x----|
 A|-2-2-x---2-2-x----2-2-x----0-0-x----|
 E|-0-0-x------------0-0-x-------------|
- 
-[Verse 1]
-    E          B
+```
+
+## Verse 1
+
+&nbsp;   E          B
 Her name is Noelle
 E            A
 I have a dream about her.
@@ -34,28 +38,32 @@ In keds and tube socks
 But she doesn't know who I am
     C#m          A      B
 And she doesn't give a damn about me.
- 
-[Chorus 1]
- 
+
+## Chorus 1
+
+```chordpro
 e|----------------------------------------------------------|---------|
 B|----------------------------------------------------------|---------|
 G|--------2-2---4-4-------------------2-2---4-4-------------|---------|
 D|--2-2---2-2---4-4-----6-------2-2---2-2---4-4-----6-------|---------|
 A|--2-2---0-0---2-2---4-----6---2-2---0-0---2-2---4-----6---|---7---9-|
 E|--0-0-------------------4-----0-0-------------------4-----|-5---7---|
- 
-       E          A         B      C#m    G#m
+```
+
+&nbsp;      E          A         B      C#m    G#m
 'Cause I'm just a teenage dirtbag, baby.
      E          A         B      C#m     G#m
 Yeah I'm just a teenage dirtbag, baby.
 E         A       B    C#m   G#m   E  A (6/4) B C#m G#m A B
 Listen to Iron Maiden, baby, with me.
- 
-[Instrumental]
+
+## Instrumental
+
 E B E A E B E A
- 
-[Verse 2]
-    E           B
+
+## Verse 2
+
+&nbsp;   E           B
 Her boyfriend's a dick
 E            A
 and he brings a gun to school
@@ -71,30 +79,34 @@ And he drives an Iroc
 But he doesn't know who I am
     C#m          A          B
 And he doesn't give a damn about me.
- 
-[Chorus 2]
-       E          A         B      C#m    G#m
+
+## Chorus 2
+
+&nbsp;      E          A         B      C#m    G#m
 'Cause I'm just a teenage dirtbag, baby.
      E          A         B      C#m     G#m
 Yeah I'm just a teenage dirtbag, baby.
 E         A       B    C#m   G#m   E  A (6/4) B C#m G#m A B
 Listen to Iron Maiden, baby, with me.
- 
-[Bridge 1]
+
+## Bridge 1
+
 E  Asus2    E   Asus2         E    Asus2
         Yeeah, -------- Dirtbag, ----------
     C#m      G#m     A           B
 No, she doesn't know what she's missing.
- 
+
 E  Asus2    E   Asus2         E    Asus2
         Yeeah, -------- Dirtbag, ----------
     C#m      G#m     A           B
 No, she doesn't know what she's missing.
- 
-[Instrumental]
+
+## Instrumental 2
+
 E B E A
- 
-[Verse 3]
+
+## Verse 3
+
 E             B
 Man, I feel like mould
   E              A
@@ -111,27 +123,27 @@ C#m          A          B
 How does she know who I am?
     C#m          A          B
 And why does she give a damn about?
- 
-[Chorus 3] (same chords but softer than previous choruses, possibly pluck certain notes)
-       E          A         B      C#m    G#m
+
+## Chorus 3
+
+&nbsp;      E          A         B      C#m    G#m
 I've got two tickets to Iron Maiden, baby
      E          A         B      C#m     G#m
 Come with me Friday, don't say maybe.
 E         A       B    C#m   G#m   E  A (6/4) B C#m G#m A B
 I'm just a teenage dirtbag baby like you.
- 
-[Bridge 2]
+
+## Bridge 2
+
 E  Asus2    E   Asus2         E    Asus2
         Yeeah, -------- Dirtbag, ----------
     C#m      G#m     A           B
 No, she doesn't know what she's missing.
- 
 E  Asus2    E   Asus2         E    Asus2
         Yeeah, -------- Dirtbag, ----------
     C#m      G#m     A        B     E     B
 No, she doesn't know what she's     mis - sing.
- 
-[Outro]
+
+## Outro
+
 E B E    A (G#m) (F#m) E
-
-

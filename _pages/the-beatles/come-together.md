@@ -26,20 +26,9 @@ links:
     url: https://www.youtube.com/watch?v=0J8SoKIyJHs&ab_channel=AlexHamel
 ---
 
+## Main riff
 
-[Chords]
-```
-   D5 
----0---
----2---
----3---
----0---
--------
--------
-```
-
-[Main riff]
-```
+```chordpro
 e---------0--0----------------------0--0-------------------------------
 B---------2--2----------------------2--2-------------------------------
 G---------3--3-----------------7----3--3-------------------------------
@@ -48,9 +37,10 @@ A---7/2-----------------8v-----5-----------------8v--8-10-8-10-8-10-8--
 E-----------------2/7----------------------2/7-------7----7----7----7--
 ```
 
-[Verse riff]
+## Verse riff
+
+```chordpro
   Repeat D5     A* (riff)x4        [Muted strum "..be a joker he just do what he please"]
-```
 ---0------------0--0-----------------------------------------------------
 ---2------------0--0-----------------------------------------------------
 ---3------------2--4---------------X-------------------------------------
@@ -59,8 +49,9 @@ E-----------------2/7----------------------2/7-------7----7----7----7--
 ----------------------------5sX----X-------------------------------------
 ```
 
-[Chorus riff chords]
-```
+## Chorus riff chords
+
+```chordpro
    Bm.     A6/9   A7b5.  A6/9
 ------------------------------
 -----------0-------------0----
@@ -70,8 +61,9 @@ E-----------------2/7----------------------2/7-------7----7----7----7--
 ------------------5-----------
 ```
 
-[Solo]
-```
+## Solo
+
+```chordpro
 [ Repeat x 4 ---------------]
 -------------------------------
 --s6-6--6-6--6-6--6-6----------
@@ -81,7 +73,8 @@ E-----------------2/7----------------------2/7-------7----7----7----7--
 -------------------------------
 ```
 
-[Verse]
+## Verse
+
 D5
 Here come old flat top, he come grooving up slowly
 D5
@@ -91,44 +84,45 @@ He got hair down to his knee;
 [Verse riff out]
 Got to be a joker, he just do what he please.
 
-[Chorus]
-     Bm.       A.    A7b5. A
+## Chorus
+
+&nbsp;    Bm.       A.    A7b5. A
 Come together, right now,  over me
 [Main riff x 4]
 
-[Verse]
+## Verse 2
+
 D5
 He wear no shoe shine, he got toe jam football
 D5
 He got monkey finger, he shoot coca cola
-        A* (riff) 
+        A* (riff)
 He say, "I know you, you know me."
 [Verse riff out]
-One thing I can tell you is you got to be free 
- 
-[Chorus]
-     Bm.       A.    A7b5. A
+One thing I can tell you is you got to be free
+
+## Chorus 2
+
+&nbsp;    Bm.       A.    A7b5. A
 Come together, right now,  over me
 [Main riff x 4]
 
-[Verse] 
+## Verse 3
+
 D5
 He bag production, he got walrus gumboot
 D5
 He got O-no sideboard, he one spinal cracker
-       A* (riff) 
+       A* (riff)
 He got feet down below his knee
 [Verse riff out]
 Hold you in his armchair, you can feel his disease
- 
- 
-[Chorus]
-     Bm.       A.    A7b5
+
+## Chorus 3
+
+&nbsp;    Bm.       A.    A7b5
 Come together, right now
      Bm.       A.    A7b5
 Come together, right now
      Bm.       A.    A7b5. A
 Come together, right now,  over me
-
-
-

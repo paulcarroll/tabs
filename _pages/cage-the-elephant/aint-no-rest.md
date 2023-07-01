@@ -12,8 +12,9 @@ links:
     url: https://www.youtube.com/watch?v=XJtQ7AkvWTU&list=RDMM&index=11&ab_channel=LukeWalstead
 ---
 
+## Intro
 
-[Intro]
+```chordpro
      G        Bb    C
 e|--3-3-3--x-x---1-----3--|
 B|--3-3-3--x-x---3-----5--|
@@ -21,8 +22,11 @@ G|--4-4-4--x-x---3-----5--|x4
 D|--5-5-5--x-x---3-----5--|
 A|--5-5-5--x-x---1-----3--|
 E|--3-3-3--x-x---1-----3--|
+```
  
-[Verse]
+## Verse riff
+
+```chordpro
        G           Bb         C         Bb  F
 e|-----3-3-3--x-x-x-x--1-1-1--x-x-x-x--3-3-3--x-x-x-x--1-1--1-1----|
 B|-----3-3-3--x-x-x-x--3-3-3--x-x-x-x--5-5-5--x-x-x-x--3-3--1-1----|
@@ -30,8 +34,11 @@ G|-----4-4-4--x-x-x-x--3-3-3--x-x-x-x--5-5-5--x-x-x-x--3-3--2-2----|x4
 D|-----5-5-5--x-x-x-x--3-3-3--x-x-x-x--5-5-5--x-x-x-x--3-3--3-3----|
 A|-----5-5-5--x-x-x-x--1-1-1--x-x-x-x--3-3-3--x-x-x-x--1-1--3-3----|
 E|-----3-3-3--x-x-x-x--1-1-1--x-x-x-x--3-3-3--x-x-x-x--1-1--1-1----|
+```
  
-[Chorus]
+## Chorus riff
+
+```chordpro
      G       Bb  C  F
 e|--3-3-3--x-x---1--3--1----|
 B|--3-3-3--x-x---3--5--1----|
@@ -39,11 +46,11 @@ G|--4-4-4--x-x---3--5--2----|x8
 D|--5-5-5--x-x---3--5--3----|
 A|--5-5-5--x-x---1--3--3----|
 E|--3-3-3--x-x---1--3--1----|
- 
-[Lyrics]
- 
-[Verse]
-          G
+```
+
+## Verse 1
+
+&nbsp;         G
 I was walking down the street
                Bb
 When out the corner of my eye
@@ -67,8 +74,9 @@ I said "You're such a sweet young thing
 Why you do this to yourself?"
       C               Bb                F
 She looked at me and this is what she said
- 
-[Chorus]
+
+## Chorus 1
+
  G                                 Bb C F
 "Oh, there ain't no rest for the wicked
  G                  Bb C F
@@ -89,9 +97,10 @@ Though you know, I wish I could.
 No there ain't no rest for the wicked
          G                    Bb C F
 Until we close our eyes for good".
- 
-[Verse 2]
-          G
+
+## Verse 2
+
+&nbsp;         G
 Not even fifteen minutes later
                Bb
 I'm still walking down the street
@@ -115,8 +124,9 @@ I said "You can have my cash
 But first you know I got to ask
             C          Bb    F
 What made you want to live this kind of life?"
- 
-[Chorus]
+
+## Chorus 2
+
  G                                 Bb C F
 He said "There ain't no rest for the wicked
  G                     Bb C F
@@ -137,9 +147,10 @@ Though you know, I wish I could.
 No there ain't no rest for the wicked
          G                    Bb C F
 Until we close our eyes for good".
- 
-[Verse 3]
-          G
+
+## Verse 3
+
+&nbsp;         G
 Now a couple hours passed
                Bb
 And I was sitting at my house
@@ -161,8 +172,9 @@ But even still I can't say much
 Because I know we're all the same
             C          Bb    F
 Oh yes we all seek out to satisfy those thrills.
- 
-[Chorus]
+
+## Chorus
+
  G                                 Bb C F
 "Oh, there ain't no rest for the wicked
  G                  Bb C F
@@ -183,6 +195,3 @@ Though you know, we wish we could.
 No there ain't no rest for the wicked
          G                    Bb C F
 Until we close our eyes for good".
-
-
-

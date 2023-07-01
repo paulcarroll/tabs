@@ -6,6 +6,8 @@ layout: page
 links:
 ---
 
+## Verse 1
+
 Em7              Cadd9     G                      Dsus/F#
 Disarm you with a smile and cut you like you want me to.
 Em7             Cadd9   G                     Dsus/F#
@@ -15,7 +17,8 @@ you. Oh ho he is burned.
 Em7    Cadd9    G       Dsus   Cadd9
     Oh ho he is burned.
 
-{start_of_chorus}
+## Chorus
+
 Cadd9                     Em7    Dsus
     I used to be a little boy so old in my shoes.
 Cadd9                       Em7             Dsus
@@ -25,6 +28,7 @@ Cadd9                                 Em7    Dsus
 Cadd9                         Em7   D   Em7   D   Cadd9
     I send this smile over to you.
 
+## Verse 2
 
    Em7            Cadd9                        Dsus/F#
 Disarm you with a smile and leave you like you left me here.
@@ -35,7 +39,8 @@ Em7    Cadd9    G      Dsus/F#
 Em7    Cadd9    G      Dsus   Cadd9
     Oh ho he is burned burned burned.
 
-{start_of_chorus}
+## Chorus 2
+
 Cadd9                     Em7    Dsus
     I used to be a little boy so old in my shoes.
 Cadd9                       Em7            Dsus            Cadd9
@@ -45,7 +50,8 @@ Cadd9                                 Em7    Dsus
 Cadd9                         Dsus
     I send this smile over to you.
 
-outro
+## Outro
+
 Dsus             Em7                 Cadd9
     The killer in me is the killer in you
                                   Dsus
@@ -58,7 +64,3 @@ Dsus              Em7                 Cadd9
     The killer in me is the killer in you
                               D    Em7    D   Em7    D   Em7   Cadd9
     I send this smile over to you
-
-
-
-

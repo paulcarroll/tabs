@@ -3,6 +3,7 @@ group: Soundgarden
 title: Blackhole sun
 tags: me, learning
 layout: page
+capo: 3
 links:
   - type: Spotify
     title: Blackhole sun
@@ -17,16 +18,12 @@ links:
     comment: Easier to play
 ---
 
+## Intro
 
-Capo 3
- 
-[Intro]
- 
 E G D C#m C B
- 
- 
-[Verse 1]
- 
+
+## Verse 1
+
       E           G
 In my eyes, indisposed
        D             C#m
@@ -43,10 +40,9 @@ Neath the black the sky looks dead.
 Call my name through the cream
           E        D       F
 And I'll hear you scream again.
- 
- 
-[Chorus]
- 
+
+## Chorus
+
             C
 Black hole sun
            B
@@ -57,10 +53,9 @@ And wash away the rain.
 Black hole sun
            B               A               B
 Won't you come, won't you come, won't you come.
- 
- 
-[Verse 2]
- 
+
+## Verse 2
+
        E              G
 Stuttering, cold and damp
            D                C#m
@@ -77,10 +72,9 @@ And my youth I pray to keep.
 Heaven sent hell away
         E          D      F
 No one sings like you anymore.
- 
- 
-[Chorus]
- 
+
+## Chorus 2
+
             C
 Black hole sun
            B
@@ -91,7 +85,7 @@ And wash away the rain.
 Black hole sun
            B               A    G
 Won't you come, won't you come.
- 
+
             C
 Black hole sun
            B
@@ -110,18 +104,16 @@ Won't you come (Black hole sun, Black hole sun).
 Won't you come (Black hole sun, Black hole sun).
            A                Em              B
 Won't you come (Black hole sun, Black hole sun).
- 
- 
-[Bridge]
- 
+
+## Bridge
+
          E              G
 Hang my head, drown my fear
          D              C#m
 Till you all just disappear.
- 
- 
-[Chorus]
- 
+
+## Chorus 3
+
             C
 Black hole sun
            B
@@ -132,7 +124,7 @@ And wash away the rain.
 Black hole sun
            B               A    G
 Won't you come, won't you come.
- 
+
             C
 Black hole sun
            B
@@ -158,7 +150,4 @@ Won't you come (Black hole sun, Black hole sun).
            A   G B
 Won't you come
            A   Em B  E D E
-Won't you come. 
-
-
-
+Won't you come.

@@ -3,16 +3,18 @@ group: Turin Breaks
 title: Painkiller
 tags: me, easy, slow, learnt
 layout: page
+capo: 2
 links:
   - type: Spotify
     title: Painkiller
     url: https://open.spotify.com/track/7axHs42nlsJhYTESxJsDFo?si=78kHlI6-QXut-V_HxIj1rw
 ---
 
-Capo on 2nd fret
+## Intro
 
-Intro
 G - F (x4)
+
+## Verse
 
 G                          F
 Batten up the hatches, here comes the cold
@@ -27,19 +29,22 @@ The creaking in the walls and the banging in the bed
 G                          F                        G - C
 You give me so much love that it blows my brains out
 
-{start_of_chorus}
+## Chorus
+
 D       Bm   Cadd9                        D  
  Summer rain, dripping down your face again
         Bm   Cadd9                        D  
  Summer rain, praying someone feels the same
-          Bm           Cadd9                          
+          Bm           Cadd9
  Take the pain killer, cycle on your bicycle
-D                 Bm    Cadd9                          
+D                 Bm    Cadd9
 Leave all this misery behind
 
-instrumental
+## Instrumental
+
 G - F (x4)
 
+## Verse 2
 
 G         F             G                        F
 My love giving me head, feeling very guilty, breaking the bread
@@ -52,30 +57,31 @@ I can feel it creeping, it's making me old
 G                          F                        G - C
 You give me so much love that it blows my brains out
 
-{start_of_chorus}
+## Chorus 2
+
 D       Bm   Cadd9                        D  
  Summer rain, dripping down your face again
         Bm   Cadd9                        D  
  Summer rain, praying someone feels the same
-          Bm           Cadd9                          
+          Bm           Cadd9
  Take the pain killer, cycle on your bicycle
-D                 Bm    Cadd9                          
+D                 Bm    Cadd9
 Leave all this misery behind
 
-{start_of_bridge}
+## Bridge
+
 G      F G      F G      F G      C
 My love, my love, my love, my love
 
-{start_of_chorus}
+## Chorus 3
+
 D       Bm   Cadd9                        D  
  Summer rain, dripping down your face again
         Bm   Cadd9                        D  
  Summer rain, praying someone feels the same
-          Bm           Cadd9                          
+          Bm           Cadd9
  Take the pain killer, cycle on your bicycle
-D                 Bm    Cadd9                          
+D                 Bm    Cadd9
 Leave all this misery behind
-D                 Bm    Cadd9                          
+D                 Bm    Cadd9
 Leave all this misery behind    (x3)
-
-

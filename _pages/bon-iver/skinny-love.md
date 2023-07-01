@@ -10,9 +10,11 @@ links:
 ---
 
 
-Intro
+## Intro
+
 Am C x 3 G Am
 
+## Verse 1
 
 Am              C
 Come on skinny love just last the year
@@ -31,7 +33,8 @@ My, my, my, my, my, my, my, my
              G                    Am...
 Right in the moment this order's tall
 
-{start_of_chorus}
+## Chorus 1
+
   C
 I told you to be patient
   G             F
@@ -49,7 +52,7 @@ I'll be holding all the tickets
               G              F
 And you'll be owning all the fines
 
-
+## Verse 2
 
 Am              C
 Come on skinny love what happened here
@@ -60,7 +63,8 @@ My, my, my, my, my, my, my, my
                G                     Am
 Sullen load is full; so slow on the split
 
-{start_of_chorus}
+## Chorus 2
+
   C
 I told you to be patient
   G             F
@@ -84,6 +88,4 @@ Who will fight?
 C             G       F
 Who will fall far behind?
 
-Play intro
-
-
+*Play intro*

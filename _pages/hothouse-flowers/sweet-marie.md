@@ -9,40 +9,83 @@ links:
     url: https://open.spotify.com/track/0hIs0FSZrZ441awQkRNv7l?si=qW7UHexHTCOFfnrduDW2RA
 ---
 
-Intro: C Dm F
+## Intro
 
-(C)Found a note of (Dm)words this very (F)morning(C)
-Written on the (Dm)best paper you could (F)find(C)
-You left it on your (Dm)favourite (F)table (C)
-And I ex(Dm)pected your good(F)bye
-(C)It said (like) (Dm)something about separ(F)ation
-(C)It said for the (Dm)two of us only (F)good
-(C)It said like (Dm)fly in our own dir(F)ection
-And (C)spread our (Dm)souls across the (F)world
+C Dm F
 
-(C)Sweet Ma(Dm)rie I'm a(F)live (3x)
+## Verse 1
 
-(C)Last night I went a (Dm)walking down by the (F)lakeside
-(C)It was a hot balmy (Dm)night and three ducks flew (F)by
-(C)I came to a tree I said (Dm)hi can I (F)sit here
-(C)And listen to (Dm)the crickets(F)lullabye
-And I will make you a (C)basket (Sweet (Dm)Marie..)
-From the rushes by the (F)lakes
-Put your memories and (C)thoughts in it (Sweet (Dm)Marie..)
-Take as long as it might (F)take ooooh
+C               Dm              F       C
+Found a note of words this very morning
+               Dm                   F       C
+Written on the best paper you could find
+                    Dm        F      C
+You left it on your favourite table
+        Dm              F
+And I expected your goodbye
+C              Dm                   F
+It said (like) something about separation
+C               Dm             F
+It said for the two of us only good
+C            Dm                F
+It said like fly in our own direction
+    C          Dm               F
+And spread our souls across the world
+
+## Chorus 1
+
+C       Dm        F
+Sweet Marie I'm a live
+C       Dm        F
+Sweet Marie I'm a live
+C       Dm        F
+Sweet Marie I'm a live
+
+## Verse 2
+
+C                   Dm                  F
+Last night I went a walking down by the lakeside
+C                  Dm                         F
+It was a hot balmy night and three ducks flew by
+C                       Dm       F
+I came to a tree I said hi can I sit here
+C             Dm           F
+And listen to the crickets lullabye
+                      C             Dm
+And I will make you a basket (Sweet Marie..)
+                       F
+From the rushes by the lakes
+                      C                     Dm
+Put your memories and thoughts in it (Sweet Marie..)
+                         F
+Take as long as it might take ooooh
+
+## Bridge
 
 C Dm F G
 
-(C)Oh I hope you (Dm)find your good (F)fortune (G)
-(C)I hope you find (Dm)peace in everything you (F)do (G)
-I hope the (C)colours of the (Dm)rainbow
-Colour your (F)clothing
-And I know you'll find (C)love 
-oh(Dm)sweet love I (F)do (G)
+C             Dm             F        G
+Oh I hope you find your good fortune
+C               Dm                      F    G
+I hope you find peace in everything you do
+           C              Dm
+I hope the colours of the rainbow
+            F
+Colour your clothing
+                       C
+And I know you'll find love
+   Dm           F    G
+oh sweet love I do
+C                           Dm           F
+And I hope you'll get there safely now
+C                  Dm        F
+'cos I know you'll find your way
 
-(C)And I hope you'll get there (Dm)safely now (F)
-(C)'cos I know you'll (Dm)find your (F)way
+## Chorus 2
 
-(C)Sweet Ma(Dm)rie I'm a(F)live (3x)
-
-
+C       Dm        F
+Sweet Marie I'm a live
+C       Dm        F
+Sweet Marie I'm a live
+C       Dm        F
+Sweet Marie I'm a live

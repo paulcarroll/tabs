@@ -9,8 +9,11 @@ links:
     url: https://www.youtube.com/watch?v=R49TC3Prp-c
 ---
 
-[Intro] (repeat for verse)
-```
+## Intro
+
+*(repeat for verse)*
+
+```chordpro
 eb|-----------------|-3-----2---------|
 Bb|-0h1-------1-----|---3-------3-----|
 Gb|-----2-------2---|-----0-------2---| x4
@@ -19,7 +22,8 @@ Ab|-0-------0-------|-----------------|
 Eb|-----------------|-3---------------|
 ```
 
-[Verse 1]
+## Verse 1
+
 G#m      F#       C#      G#m    F#  C#
 Bury me softly in this womb
 G#m          F#       C#      G#m   F#  C#
@@ -42,8 +46,9 @@ G#m                         F#
 Look at me now, I'm a man
 C#                     G#m   F#  C#
 Who won't let himself be
- 
-[Chorus]
+
+## Chorus 1
+
 C#m             B F#     C#m              B  F#
 Down in a hole,        losin' my soul
 C#m             B F#     C#m              B  F#
@@ -52,8 +57,9 @@ C#m     B     G#m    B    F#
 I'd   like   to    fly
 E                         G#m      F#  C#  G#m   F#  C#
 But my wings have been so denied
- 
-[Verse 2]
+
+## Verse 2
+
 G#m                         F#
 Down in a hole and they've put all
     C#               G#m      F#   C#
@@ -70,8 +76,9 @@ G#m              F#
 I will speak no more
       C#       G#m        F#   C#
 Of my feelings beneath
- 
-[Chorus]
+
+## Chorus 2
+
 C#m             B  F#    C#m              B  F#
 Down in a hole,        losin' my soul
 C#m             B  F#    C#m              B  F#
@@ -80,8 +87,9 @@ C#m     B      G#m     B    F#
 I'd    like   to     fly
 E                         G#m      F# C#   G#m   F#  C#
 But my wings have been so denied
- 
-[Verse 3]
+
+## Verse 3
+
 G#m      F#      C#       G#m
 Bury me softly in this womb
 G#m            F#    C#       G#m
@@ -98,8 +106,9 @@ C#    G#m
 In a tomb
 G#m            F#     C#
 Oh, I want to be inside...
- 
-[Chorus]
+
+## Chorus 3
+
 C#m             B  F#    C#m              B  F#
 Down in a hole,        losin' my soul
 C#m             B  F#    C#m                B  F#
@@ -112,8 +121,8 @@ C#m     B      G#m      B    F#
 I'd    like   to      fly
     E                       G#m     F#  C#
 But my wings have been so denied
- 
-[Outro]
+
+## Outro
+
 | G#m      | F#  C#    | x3
   G#
-

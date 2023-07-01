@@ -9,13 +9,14 @@ links:
     url: https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H?si=tfq_RzlJREmJufMYHYq19Q
 ---
 
-Capo 2
+*Capo 2*
 
-[Intro]
+## Intro
+
 Em x4
- 
- 
-[Verse 1]
+
+## Verse 1
+
 Em
 Laying in the silence
 Am
@@ -32,14 +33,14 @@ Hey, should I pray
 Should I pray, yeah, to myself
                      N.C.
 To a God? To a saviour who can
- 
- 
-[Chorus]
+
+## Chorus
+
 Em          D
 Unbreak the broken
 Em          D      C
 Unsay these spoken words
- 
+
 Find hope in the hopeless
 G                          C
 Pull me out the train wreck
@@ -47,7 +48,7 @@ Pull me out the train wreck
 Unburn the ashes
         D             C
 Unchain the reactions now
- 
+
 I'm not ready to die not yet
 G               Em         C
 Pull me out the train wreck
@@ -57,9 +58,9 @@ Pull me out, pull me out
 Pull me out, pull me out
 Em           D
 Pull me out
- 
- 
-[Verse 2]
+
+## Verse 2
+
 Em
 Underneath our bad blood
 Em
@@ -74,14 +75,14 @@ It's not too late to build it back
 Is still a chance, still a chance
             N.C.
 And I would take those odds
- 
- 
-[Chorus]
+
+## Chorus 2
+
 C           D
 Unbreak the broken
 Em          D      C
 Unsay these spoken words
- 
+
 Find hope in the hopeless
 G
 Pull me out the train wreck
@@ -99,9 +100,9 @@ Pull me out, pull me out
 Pull me out, pull me out
         Em           D
 Pull me out, pull me out
- 
- 
-[Bridge]
+
+## Bridge
+
         C
 You can say what you like
                           Em          D
@@ -110,13 +111,13 @@ C
 I'm down on my knees
                         D
 And I need you to be my God
- 
+
 Be my help, be a saviour
      N.C.
 Who can
- 
- 
-[Chorus]
+
+## Chorus 3
+
 C           D
 Unbreak the broken
 Em          D        C
@@ -139,10 +140,7 @@ Pull me out, pull me out
 Pull me out, pull me out
         Em           D
 Pull me out, pull me out
- 
- 
-[Outro]
+
+## Outro
+
 Em D C Em
-
-
-

@@ -9,6 +9,7 @@ links:
     url: https://open.spotify.com/track/64fZ1gcn7rEzbdibOP1inl?si=UE3Qm_KnTQyYlgKtpbs7sQ
 ---
 
+## Verse 1
 
 G                D/F#       Em       D/F#
 Lately I've been running on faith
@@ -17,8 +18,9 @@ What else can a poor boy do
        C                       D
 But my world will be right
                      G     C     D     D7
-When Love comes over me 
+When Love comes over me
 
+## Verse 2
 
 G                D/F#          Em        D/F#
 Lately I've been talking in my sleep
@@ -29,7 +31,8 @@ Except my world wouldn't be right
                           G     C    G    G7
 When Love comes back your way 
 
-{start_of_chorus}
+## Chorus 1
+
 C           B7
 I've always been
 Em     G7                 C       C/B
@@ -39,6 +42,7 @@ seems like by now
                   C                     D      D7
 I find a love who cares, cares just for me
 
+## Verse 3
 
 G                D/F#       Em       D/F#
 Then we'd  go running on faith
@@ -49,13 +53,15 @@ And our world will be right
                      G     C     D     D7
 When Love comes over me and you
 
-Intrumental: 
+## Intrumental
+
 G     D/F#   Em    D/F#
 G     D/F#   Em    G7
 C     D
 G     C      G     G7
   
-{start_of_chorus}
+## Chorus 2
+
 C           B7
 I've always been
 Em     G7                 C       C/B
@@ -65,7 +71,8 @@ seems like by now
                   C                     D      D7
 I find a love who cares, cares just for me
 
-Outro:
+## Outro
+
 G            D/F#       Em       D/F#
 Then we'd go running on faith
 G          D/F#              Em      G7
@@ -73,7 +80,7 @@ All of our dreams would come true
         C                        D
 And our world will be right
                              F          C      [PAUSE]    F
-When Love comes over me with you              
+When Love comes over me with you
 G           F           C
 Love comes over me for you
 G           F           C
@@ -82,6 +89,3 @@ G           F           C
 Love comes over me for you
 G           F           C
 Love comes over me for you
-
-
-
