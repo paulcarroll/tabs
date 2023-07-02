@@ -1,7 +1,7 @@
 ---
 group: Foo Fighters
 title: Everlong
-tags: [lively, learning, priority]
+tags: [lively, learning, ]
 layout: page
 tuning: drop-d
 links:

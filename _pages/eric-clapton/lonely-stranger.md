@@ -1,7 +1,7 @@
 ---
 group: Eric Clapton
 title: Lonely stranger
-tags: [learning, priority, hard, quiet]
+tags: [learning, hard, quiet]
 layout: page
 columns: single
 links:

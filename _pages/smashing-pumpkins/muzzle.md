@@ -1,7 +1,7 @@
 ---
 group: Smashing Pumpkins
 title: Muzzle
-tags: [easy, learning, priority]
+tags: [easy, learning, ]
 layout: page
 links:
   - type: YouTube
