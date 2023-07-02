@@ -3,25 +3,40 @@ layout: default
 ---
 
 <div class="song">
-  <div class="song-nav">
-    <ul>
-      <li>
-        <a href="/">&lt;&lt; Home</a>
-      </li>
-    </ul>
+  <div class="song-header">
+    <div class="song-nav">
+      <ul>
+        <li>
+          <a href="/">&lt;&lt; Home</a>
+        </li>
+      </ul>
+    </div>
+
+    <div class="song-title">
+      <h1>{{ page.group }} - {{ page.title }}</h1>
+    </div>
+
+    <div class="song-extra">
+      <ul>
+        {% if page.capo %}
+        <li><strong>Capo: {{ page.capo }}</strong></li>
+        {% endif %}
+
+        {% if page.tuning %}
+        <li><strong>Tuning: {{ page.tuning }}</strong></li>
+        {% endif %}
+
+        {% assign links = page.links %}
+        {% if links %}
+          {% for link in links %}
+            <li>
+              <a href="{{ link.url }}" target="_blank"><span class="fab fa-{{ link.type | downcase }}"></span>{{ link.title }}</a>
+            </li>
+          {% endfor %}
+        {% endif %}
+      </ul>
+    </div>  
   </div>
-
-  <h1>{{ page.group }} - {{ page.title }}</h1>
-
-  <div class="song-tuning">
-    {% if page.capo %}
-    <strong>Capo: {{ page.capo }}</strong>
-    {% endif %}
-
-    {% if page.tuning %}
-    <strong>Tuning: {{ page.tuning }}</strong>
-    {% endif %}
-  </div>  
 
   <div class="song-body song-{{ page.columns }}">
     {{ content }}
