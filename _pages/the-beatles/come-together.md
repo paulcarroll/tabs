@@ -7,21 +7,21 @@ links:
   - type: Spotify
     title: Come together
     url: https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD?si=IxrexeflQhuDKxz6MQar8A
-  - type: 
+  - type: YouTube
     title: Adam Pearce Music
     url: https://www.youtube.com/watch?v=Qd_irL83ZBI
     comment: Sensational acoustic version! (Drop-D tuning)
     highlight: true
-  - type: 
+  - type: YouTube
     title: Natew101
     url: https://www.youtube.com/watch?v=9kz_e2_nfcw&ab_channel=natew101
-  - type: 
+  - type: YouTube
     title: Bobby Phillips
     url: https://www.youtube.com/watch?v=UcznnoqkCig&ab_channel=BobbyPhillipps
-  - type: 
+  - type: YouTube
     title: Christopher James
     url: https://www.youtube.com/watch?v=1sNkoyaZPfI&ab_channel=christopherjamesmus
-  - type: 
+  - type: YouTube
     title: Alex Hammel
     url: https://www.youtube.com/watch?v=0J8SoKIyJHs&ab_channel=AlexHamel
 ---
