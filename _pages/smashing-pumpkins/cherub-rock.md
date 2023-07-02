@@ -57,7 +57,7 @@ Who wants honey, as long as there's some money
 D   A          C
 Who wants that honey..
 
-## Verse 2
+## Verse
 
 &nbsp;                    Dmaj              Amaj          E riff
 Hipsters unite, come align for the big fight to rock for you -
@@ -68,7 +68,7 @@ But beware all those angels with their wings glued on
 C              G
   If you don't stare
 
-## Chorus 2
+## Chorus
 
 D   A     C  G      D    A
       C  G
@@ -117,7 +117,7 @@ Dmaj - Amaj - E
 Dmaj - Amaj - E
 Dmaj - Amaj - C - G
 
-## Verse 3
+## Verse
 
 D         A           C  G
   Tell me all of your secrets
@@ -128,7 +128,7 @@ D         A           C  G
   D             A                 C                   G
 I know I know I know, should have listened when I was told.
 
-## Chorus 3
+## Chorus
 
 D   A     C  G      D    A
       C  G

@@ -11,7 +11,7 @@ links:
 Am G C
 Am G C
 
-## Verse 1
+## Verse
 
 Am              G                C
 I was scared of dentists and the dark
@@ -40,7 +40,7 @@ I love you when you're singing that song, and I got a lump
       Am             G                       C
 In my throat, 'cause you're gonna sing the words wrong
 
-## Verse 2
+## Verse
 
 Am                 G                   C
 There's this movie that I think you'll like
@@ -51,14 +51,14 @@ This cowboy's running from himself
     Am                G                C
 And she's been living on the highest shelf
 
-## Pre-chorus 2
+## Pre-chorus
 
 Am   G    C
 Ooh, ooh, ooh
 Am   G             C
 Ooh, ooh, and they come unstuck
 
-## Chorus 2
+## Chorus
 
 Am    G                   C
 Lady, running down to the riptide, taken away
@@ -92,14 +92,14 @@ I just gotta, I just gotta know
 C                                Fmaj7
 I can't have it, I can't have it any other way
 
-## Pre-chorus 3
+## Pre-chorus
 
   Am          G                C
 I swear she's destined for the screen
 Am               G                 C
 Closest thing to Michelle Pfeiffer that you've ever seen, oh
 
-## Chorus 3
+## Chorus
 
 Am    G                   C
 Lady, running down to the riptide, taken away

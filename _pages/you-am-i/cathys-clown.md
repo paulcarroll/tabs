@@ -28,7 +28,7 @@ D5   Cadd9    E5    A-Asus4-A-ASus4    x2
 
 (continue A-Asus4-A-Asus4 throughout song)
 
-## Verse 1
+## Verse
 
 &nbsp;   D5     Cadd9       E5      A        D5   Cadd9  E5   A
 The weightlifter and a library tech you know
@@ -46,7 +46,7 @@ Did you ever never wanna let somebody down?
 F5                                           E5                A
 Was you ever thinking that you'd be Cathy's clown now she's around
 
-## Verse 2
+## Verse
 
 &nbsp;   D5      Cadd9         E5             A          D5  Cadd9  E5   A
 The protein pills and the g-strings you left in her flat
@@ -57,7 +57,7 @@ Lift her to work, before your daily workout begins
      D5 (N.C.)                          D5  Cadd9  E5   A
 And she'll stack up like you stack vitamins
 
-## Chorus 2
+## Chorus
 
 F5                                     D5
 Did you ever never wanna let somebody down?

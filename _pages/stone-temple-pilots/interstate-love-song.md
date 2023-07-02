@@ -28,7 +28,7 @@ C#m7    x4645x
 G#/B#   x3654x
 C#/B    x2312x
 A#m7b5  x1212x
- 
+
 ## Intro
 
 C#m7   E
@@ -57,7 +57,7 @@ E|----------------------------|
 E  F#m11/E  E
 E  F#m11/E  E*
 ```
- 
+
 ## Verse
 
 C#m7         G#/B#
@@ -66,12 +66,12 @@ Waiting on a Sunday afternoon
 For what I read between the lines
             A5
 Your lies.
- 
+
 ## Instrumental
 
 E  F#m11/E  E
 E  F#m11/E  E*
- 
+
 ## Verse
 
 C#m7           G#/B#
@@ -80,7 +80,7 @@ Feelin' like a hand in rusted chain
 so do you laugh, or does it cry?
        A5
 Reply?
- 
+
 ## Instrumental
 
 E  F#m11/E  E
@@ -97,7 +97,7 @@ E|----------------------------|
 
 E  F#m11/E  E
 E  F#m11/E  E*
- 
+
 ## Chorus
 
 C#m7         E
@@ -132,7 +132,7 @@ E|----------------------------|
 E  F#m11/E  E
 E  F#m11/E  E*
 ```
- 
+
 ## Verse
 
 C#m7              G#/B#
@@ -143,12 +143,12 @@ with all I've said and all that's dead for you.
 You lied
         A5
 Goodbye
- 
+
 ## Instrumental
 
 E  F#m11/E  E
 E  F#m11/E  E*
- 
+
 ## Chorus
 
 C#m7         E
@@ -161,9 +161,9 @@ promises of what I seemed to be
 only watched the time go by,
 A                   E
 all of these things I said to you.
- 
+
 ## Outro
- 
+
 ```chordpro
 e|---0--0----0----0---------0-|
 B|-2b3--3r2--0------------0---|

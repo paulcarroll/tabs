@@ -49,7 +49,7 @@ End Fill for Figure 2
 ----------------|I
 ```
 
-## Verse 1
+## Verse
 
 E                       Em
 All I can say is that my
@@ -70,7 +70,7 @@ It's not sane
 
 **Figure 1 then Figure 2 played with verses and rhythm strum**
 
-## Chorus 1
+## Chorus
 
 E           D          E
 I just want someone to say to me
@@ -84,7 +84,7 @@ Keep my cheeks dry today
 So stay with me and I'll have it made.
 (I'll have it made)
 
-## Verse 2
+## Verse
 
 &nbsp;       E
 (And I) don't understand why I

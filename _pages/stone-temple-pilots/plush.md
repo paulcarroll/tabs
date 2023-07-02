@@ -27,12 +27,12 @@ EbM7/G         FM7/A  D
 
 D Cadd2 G Cadd2
 
-      D     Cadd2 G Cadd2
+&nbsp;     D     Cadd2 G Cadd2
  And I feel it
 
 D Cadd2 G Cadd2
 
-      D    Cadd2 G Cadd2
+&nbsp;     D    Cadd2 G Cadd2
 And I feel it
 
 ## Chorus
@@ -50,7 +50,7 @@ EbM7/G             FM7/A
 
 *Play intro 2 times*
 
-## Verse 2
+## Verse
 
 G      D/F#     F                   C
  And I feel, so much depends on the weather
@@ -61,19 +61,19 @@ G               D/F#     F                      C
 EbM7/G         FM7/A  D
  Would you even care?
 
-## Pre-chorus 2
+## Pre-chorus
 
 D Cadd2 G Cadd2
 
-      D     Cadd2 G Cadd2
+&nbsp;     D     Cadd2 G Cadd2
  And I feel it
 
 D Cadd2 G Cadd2
 
-      D    Cadd2 G Cadd2
+&nbsp;     D    Cadd2 G Cadd2
 And I feel it
 
-## Chorus 2
+## Chorus
 
 EbM7/G              FM7/A
  Where ya going for tomorrow?

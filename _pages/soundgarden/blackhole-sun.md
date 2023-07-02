@@ -22,7 +22,7 @@ links:
 
 E G D C#m C B
 
-## Verse 1
+## Verse
 
       E           G
 In my eyes, indisposed
@@ -54,7 +54,7 @@ Black hole sun
            B               A               B
 Won't you come, won't you come, won't you come.
 
-## Verse 2
+## Verse
 
        E              G
 Stuttering, cold and damp
@@ -73,7 +73,7 @@ Heaven sent hell away
         E          D      F
 No one sings like you anymore.
 
-## Chorus 2
+## Chorus
 
             C
 Black hole sun
@@ -112,7 +112,7 @@ Hang my head, drown my fear
          D              C#m
 Till you all just disappear.
 
-## Chorus 3
+## Chorus
 
             C
 Black hole sun

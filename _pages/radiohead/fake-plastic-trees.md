@@ -9,7 +9,7 @@ links:
     url: https://open.spotify.com/track/045sp2JToyTaaKyXkGejPy?si=8uMewWFMS5uee9ic-LxzcQ
 ---
 
-## Verse 1
+## Verse
 
 A                            F#m
 Her green plastic watering can
@@ -32,7 +32,7 @@ It wears her out..
              A
 It wears her out
 
-## Verse 2
+## Verse
 
 A                         F#m
 She lives with a broken man
@@ -55,7 +55,7 @@ It wears him out..
       A
 It weeeeeaaaars
 
-## Verse 3
+## Verse
 
 A                            F#m
 She looks like the real thing

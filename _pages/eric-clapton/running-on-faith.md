@@ -9,7 +9,7 @@ links:
     url: https://open.spotify.com/track/64fZ1gcn7rEzbdibOP1inl?si=UE3Qm_KnTQyYlgKtpbs7sQ
 ---
 
-## Verse 1
+## Verse
 
 G                D/F#       Em       D/F#
 Lately I've been running on faith
@@ -20,7 +20,7 @@ But my world will be right
                      G     C     D     D7
 When Love comes over me
 
-## Verse 2
+## Verse
 
 G                D/F#          Em        D/F#
 Lately I've been talking in my sleep
@@ -31,7 +31,7 @@ Except my world wouldn't be right
                           G     C    G    G7
 When Love comes back your way 
 
-## Chorus 1
+## Chorus
 
 C           B7
 I've always been
@@ -42,7 +42,7 @@ seems like by now
                   C                     D      D7
 I find a love who cares, cares just for me
 
-## Verse 3
+## Verse
 
 G                D/F#       Em       D/F#
 Then we'd  go running on faith
@@ -60,7 +60,7 @@ G     D/F#   Em    G7
 C     D
 G     C      G     G7
   
-## Chorus 2
+## Chorus
 
 C           B7
 I've always been

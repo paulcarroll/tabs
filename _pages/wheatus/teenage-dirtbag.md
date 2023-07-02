@@ -10,7 +10,7 @@ links:
 
 E B E A E B E A
 
-```chordpro 
+```chordpro
 (Let top two open notes ring)
 e|--------0--------0--------0-------0-|
 B|--------0--------0--------0-------0-|
@@ -20,7 +20,7 @@ A|-2-2-x---2-2-x----2-2-x----0-0-x----|
 E|-0-0-x------------0-0-x-------------|
 ```
 
-## Verse 1
+## Verse
 
 &nbsp;   E          B
 Her name is Noelle
@@ -39,7 +39,7 @@ But she doesn't know who I am
     C#m          A      B
 And she doesn't give a damn about me.
 
-## Chorus 1
+## Chorus
 
 ```chordpro
 e|----------------------------------------------------------|---------|
@@ -61,7 +61,7 @@ Listen to Iron Maiden, baby, with me.
 
 E B E A E B E A
 
-## Verse 2
+## Verse
 
 &nbsp;   E           B
 Her boyfriend's a dick
@@ -80,7 +80,7 @@ But he doesn't know who I am
     C#m          A          B
 And he doesn't give a damn about me.
 
-## Chorus 2
+## Chorus
 
 &nbsp;      E          A         B      C#m    G#m
 'Cause I'm just a teenage dirtbag, baby.
@@ -89,7 +89,7 @@ Yeah I'm just a teenage dirtbag, baby.
 E         A       B    C#m   G#m   E  A (6/4) B C#m G#m A B
 Listen to Iron Maiden, baby, with me.
 
-## Bridge 1
+## Bridge
 
 E  Asus2    E   Asus2         E    Asus2
         Yeeah, -------- Dirtbag, ----------
@@ -101,11 +101,11 @@ E  Asus2    E   Asus2         E    Asus2
     C#m      G#m     A           B
 No, she doesn't know what she's missing.
 
-## Instrumental 2
+## Instrumental
 
 E B E A
 
-## Verse 3
+## Verse
 
 E             B
 Man, I feel like mould
@@ -124,7 +124,7 @@ How does she know who I am?
     C#m          A          B
 And why does she give a damn about?
 
-## Chorus 3
+## Chorus
 
 &nbsp;      E          A         B      C#m    G#m
 I've got two tickets to Iron Maiden, baby
@@ -133,7 +133,7 @@ Come with me Friday, don't say maybe.
 E         A       B    C#m   G#m   E  A (6/4) B C#m G#m A B
 I'm just a teenage dirtbag baby like you.
 
-## Bridge 2
+## Bridge
 
 E  Asus2    E   Asus2         E    Asus2
         Yeeah, -------- Dirtbag, ----------

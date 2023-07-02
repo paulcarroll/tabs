@@ -13,7 +13,7 @@ links:
 
 A    D  A    D  A    G   A   Asus2
 
-## Verse 1
+## Verse
 
 A  D        A     D A
 My heart is empty
@@ -36,7 +36,7 @@ G           D           A
   I'm gonna walk in the rain
 D   A   D   A   G   A  Asus2
 
-## Verse 2
+## Verse
 
 A  D        A     D A
 You were my angel
@@ -47,7 +47,7 @@ So like a stranger
 G           D           A
 Colder than steel
 
-## Chorus 2
+## Chorus
 
 D           A     D A
 The morning after
@@ -73,7 +73,7 @@ In all this comfort
 I can't take the strain
 D   A   D   A   G   A  Asus2
 
-## Verse 3
+## Verse
 
 A  D         A     D A
 If we played even
@@ -84,7 +84,7 @@ But someone was cheatin'
 G     D         A   A7
   and it wasn't me
 
-## Chorus 3
+## Chorus
 
 D               A      D A
 I played on the table

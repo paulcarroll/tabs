@@ -42,7 +42,7 @@ Jeremy spoke in class today
 F              Dm E     A
 Jeremy spoke in class today
 
-## Verse 2
+## Verse
 
 A   G
       Clearly I remember
@@ -73,7 +73,7 @@ King Jeremy The Wicked
 A
 Ruled his world
 
-## Chorus 2
+## Chorus
 
 F              Dm E     A
 Jeremy spoke in class today
@@ -88,7 +88,7 @@ Jeremy spoke in class today
 
 F  G  A  A   x2
 
-              F
+&nbsp;             F
 Try to forget this
               G
 Try to forget this

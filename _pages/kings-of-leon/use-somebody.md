@@ -17,9 +17,9 @@ links:
  C       Em          F
 Woah ah ohh Woah ah ohhh .....  
 
-## Verse 1
+## Verse
 
-                    C                   Em            F
+&nbsp;                   C                   Em            F
 I've been roaming around always lookin down at all I see.
           C                 Em             F         F
 Painted faces filled with places I can't reach.
@@ -28,9 +28,9 @@ You know that I could use somebody
                       Am        C        F       F
 You know that I could use somebody
 
-## Verse 2
+## Verse
 
-              C               Em                F
+&nbsp;             C               Em                F
 Someone like you and all you know and how you speak
             C         Em             F         F
 Countless lovers undercover of the street
@@ -41,14 +41,14 @@ You know that I could use somebody
 
 ## Chorus
 
-              C
+&nbsp;             C
 Someone like you
  C       Em          F
 Woah ah ohh Woah ah ohhh .....  
 
-## Verse 3
+## Verse
 
-            C                     Em               F
+&nbsp;           C                     Em               F
 Off in the night while you live it up I'm off to sleep
         C                Em            F         F
 Waging wars to shake the poet and the beat
@@ -57,9 +57,9 @@ I hope it's gonna make you notice
                    Am          C        F       F
 I hope it's gonna make you notice
 
-## Chorus 2
+## Chorus
 
-             C
+&nbsp;            C
 Someone like me
          Em          F
 Woah ah ohh Woah ah ohhh
@@ -76,7 +76,7 @@ Woah ah ohh Woah ah ohhh .....
 
 ## Outro
 
-              C
+&nbsp;             C
 Someone like you
  C       Em          F
 Woah ah ohh Woah ah ohhh
@@ -89,5 +89,5 @@ Someone like you
  C       Em          F
 Woah ah ohh Woah ah ohhh .....
 
-                    C                   Em            F
+&nbsp;                   C                   Em            F
 I've been roaming around always lookin down at all I see.

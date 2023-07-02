@@ -19,7 +19,7 @@ links:
 
  E B A x4
 
-## Verse 1
+## Verse
 
 E               B      A         E
 Morning, it’s another pure grey morning
@@ -32,7 +32,7 @@ And I walk right into the path of a lightning bolt
 
 Link: E B A x2
 
-## Verse 2
+## Verse
 
 E             B    A         E
 Sirens of an ambulance comes howling
@@ -45,7 +45,7 @@ And I look up to the sky in the path of a lighting bolt
 
 Link: E B A x2
 
-## Verse 3
+## Verse
 
 E               B      A      E
 Met her as the angels parted for her
@@ -58,7 +58,7 @@ When it’s you who’s standing in the path of a lightning bolt
 
 Link: E A B E E E
 
-## Chorus 1
+## Chorus
 
 A                            Asus4
 Everyone I see just wants to walk with gritted teeth
@@ -77,7 +77,7 @@ e|-7-7-7-10-12-12-10-12-    -7-7-7-|
 B|---------------------- x4 -------|
 ```
 
-## Verse 4
+## Verse
 
 E                B        A           E
 Chances, people tell you not to take chances
@@ -90,7 +90,7 @@ But I awoke suddenly in the path of a lightning bolt
 
 Link: E A B x2
 
-## Verse 5
+## Verse
 
 E                 B      A         E
 Fortune, people talking all about fortune
@@ -103,7 +103,7 @@ Just another passer by in the path of a lightning bolt
 
 Link: E A B E E E
 
-## Chorus 2
+## Chorus
 
 A                            Asus4
 Everyone I see just wants to walk with gritted teeth
@@ -114,7 +114,7 @@ They say you gotta toe the line they want the water not the wine
            E               B             A            (E)
 But when I see the signs I jump on that lightning bolt
 
-## Guitar Break 2
+## Guitar Break
 
 ```chordpro
   (E)       B     A          E
@@ -122,7 +122,7 @@ e|-7-7-7-10-12-12-10-12-    -7-7-7-|
 B|---------------------- x4 -------|
 ```
 
-## Verse 6
+## Verse
 
 E                     B     A            E
 It was silent, I was lying back gazing skyward

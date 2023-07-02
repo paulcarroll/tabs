@@ -44,7 +44,7 @@ Leave all this misery behind
 
 G - F (x4)
 
-## Verse 2
+## Verse
 
 G         F             G                        F
 My love giving me head, feeling very guilty, breaking the bread
@@ -57,7 +57,7 @@ I can feel it creeping, it's making me old
 G                          F                        G - C
 You give me so much love that it blows my brains out
 
-## Chorus 2
+## Chorus
 
 D       Bm   Cadd9                        D  
  Summer rain, dripping down your face again
@@ -73,7 +73,7 @@ Leave all this misery behind
 G      F G      F G      F G      C
 My love, my love, my love, my love
 
-## Chorus 3
+## Chorus
 
 D       Bm   Cadd9                        D  
  Summer rain, dripping down your face again

@@ -25,7 +25,7 @@ a|--------------------------------------------------------------|
 e|--------------------------------------------------------------|
 ```
 
-## Verse 1
+## Verse
 
 D               Dsus2  D5            D     Dsus2  D5  G    G-5  G5   G-5
 Such is the way of     the world, You can ne  -   ver know
@@ -40,7 +40,7 @@ Gonna rise up, Turning mistakes into gold
 
 D A Asus4 G     x2
 
-## Verse 2
+## Verse
 
 D               Dsus2  D5       D   Dsus2  D5 G    G-5  G5   G-5
 Such is the passage    of time, Too fast   to fold

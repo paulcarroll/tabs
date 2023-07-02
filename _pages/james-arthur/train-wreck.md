@@ -14,7 +14,7 @@ links:
 
 Em x4
 
-## Verse 1
+## Verse
 
 Em
 Laying in the silence
@@ -58,7 +58,7 @@ Pull me out, pull me out
 Em           D
 Pull me out
 
-## Verse 2
+## Verse
 
 Em
 Underneath our bad blood
@@ -75,7 +75,7 @@ Is still a chance, still a chance
             N.C.
 And I would take those odds
 
-## Chorus 2
+## Chorus
 
 C           D
 Unbreak the broken
@@ -115,7 +115,7 @@ Be my help, be a saviour
      N.C.
 Who can
 
-## Chorus 3
+## Chorus
 
 C           D
 Unbreak the broken

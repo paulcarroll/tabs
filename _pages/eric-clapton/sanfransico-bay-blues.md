@@ -13,7 +13,7 @@ links:
 
 C  F  C  C7  F  C  C7
 
-## Verse 1
+## Verse
 
 &nbsp;         C                         F                    C    C7
 I got the blues from my baby livin' by the San Francisco Bay
@@ -26,7 +26,7 @@ I said goodbye; I can take a cry
 G7
    I wanna lay down and die
 
-## Verse 2
+## Verse
 
   C                        F                   C
 I ain't got a nickle and I ain't got a lousy dime
@@ -44,7 +44,7 @@ F       C      C7
 F       C      A7
 D7/F#   G7
 
-## Verse 3
+## Verse
 
 C            F                C                        F      C
 Sittin' down lookin' from the back door wondrin' which way to go
@@ -55,7 +55,7 @@ Think I'll catch me a freight train cause I'm feelin' blue
 D7/F#                                  G7
 Ride all the way to the end of the line  thinkin' only you
 
-## Verse 4
+## Verse
 
 C         F             C                   F   C
 Meanwhile livin' in the city just about to go insane

@@ -17,7 +17,7 @@ links:
 
 G D Em C
 
-## Verse 1
+## Verse
 
 G
   I met you in the dark
@@ -78,7 +78,7 @@ Just say you won't let go
      Em                  C
 Just say you won't let go
 
-## Verse 2
+## Verse
 
 G
   I wake you up with some
@@ -98,7 +98,7 @@ Em
 C
   for that night
 
-## Pre-Chorus 2
+## Pre-Chorus
 
 G
   When you looked over your shoulder
@@ -114,7 +114,7 @@ D
 Em                          C
   You make me feel this way somehow
 
-## Chorus 2
+## Chorus
 
 G
   I'm so in love with you
@@ -139,7 +139,7 @@ Just say you won't let go
      Em                  C
 Just say you won't let go
 
-## Verse 3
+## Verse
 
 G
   I wanna live with you
@@ -150,7 +150,7 @@ Em
      C
 When I needed you most
 
-## Chorus 3
+## Chorus
 
 G
   I'm gonna love you till

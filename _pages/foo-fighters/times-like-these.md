@@ -29,7 +29,7 @@ A||o---------------------------------o||
 E||-----------------------------------|| 3x
 ```
 
-## Verse 1
+## Verse
 
 D                Am    Am7
 I, I’m a one way motorway
@@ -40,7 +40,7 @@ I, I’m a streetlight shining
                   C                Em      Em7      D intro
 I’m a white light blinding bright, burning off and on
 
-## Chorus 1
+## Chorus
 
 &nbsp;    C                    Em       Em7     D
 It’s times like these you learn to live again
@@ -51,7 +51,7 @@ It’s times like these you learn to love again
      C                Em       Em7     D intro
 It’s times like these time and time again
 
-## Verse 2
+## Verse
 
 D                Am    Am7
 I, I’m a new day rising
@@ -62,7 +62,7 @@ I, I’m a little divided
              C            Em     Em7        D intro
 Do I stay or run away and leave it all behind
 
-## Chorus 2
+## Chorus
 
 &nbsp;    C                    Em       Em7     D
 It’s times like these you learn to live again
@@ -87,7 +87,7 @@ A|----------------------------------12--10--|
 E|------------------------------------------|
 ```
 
-## Chorus 3
+## Chorus
 
 *Note: Repeat twice*
 

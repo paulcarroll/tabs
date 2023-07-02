@@ -14,7 +14,7 @@ links:
 
 Am C x 3 G Am
 
-## Verse 1
+## Verse
 
 Am              C
 Come on skinny love just last the year
@@ -33,7 +33,7 @@ My, my, my, my, my, my, my, my
              G                    Am...
 Right in the moment this order's tall
 
-## Chorus 1
+## Chorus
 
   C
 I told you to be patient
@@ -52,7 +52,7 @@ I'll be holding all the tickets
               G              F
 And you'll be owning all the fines
 
-## Verse 2
+## Verse
 
 Am              C
 Come on skinny love what happened here
@@ -63,7 +63,7 @@ My, my, my, my, my, my, my, my
                G                     Am
 Sullen load is full; so slow on the split
 
-## Chorus 2
+## Chorus
 
   C
 I told you to be patient

@@ -20,7 +20,7 @@ E|-------------------2-2-3-----------2-2-3---2-2-3---2-------------|
    3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 +
 ```
 
-## Verse 1
+## Verse
 
 A A A          D/F# D/F# G            D/F# D/F# G
          Livin' easy,         livin' free
@@ -40,7 +40,7 @@ A A A         D/F# D/F# G           D/F# D/F# G
 D/F# D/F# G      D/F#      E
       My friends are gonna be there too
 
-## Chorus 1
+## Chorus
 
 &nbsp;          A   A   A  D/A      G
 I'm on the highway to hell
@@ -51,7 +51,7 @@ I'm on the highway to hell
     D/F#   A   A   A  D/A
 I'm on the highway to hell
 
-## Verse 2
+## Verse
 
 A A A         D/F# D/F# G           D/F# D/F# G
       No stop signs,      speed limit
@@ -71,7 +71,7 @@ A A A        D/F# D/F# G          D/F# D/F# G
 D/F# D/F# G    D/F#     E
    I'm on my way to the promised land
 
-## Chorus 2
+## Chorus
 
 &nbsp;          A   A   A  D/A      G
 I'm on the highway to hell
@@ -92,7 +92,7 @@ D  Dsus4  D             D  Dsus4  D  Dsus4  D
 A   D/A  (D/A)    G  D/F# | x3
 A   D/A  (D/A)    G
 
-## Chorus 3
+## Chorus
 
 &nbsp;   D/F#   A   A   A  D/A      G
 I'm on the highway to hell

@@ -44,7 +44,7 @@ and great loves    will one day have to part
             Gadd2         Bm7add11       Dsus2
 I know that I          am meant for this world
 
-## Verse 2
+## Verse
 
 A5          Gadd2     Bm7add11      A5                    Gadd2  Bm7add11
 My life has been extraordinary      blessed and cursed and won
@@ -78,7 +78,7 @@ Time heals but I'm     forever broken
             B7sus4
         for thinking that I'd last
 
-## Verse 3
+## Verse
 
 &nbsp;        A5
         forever

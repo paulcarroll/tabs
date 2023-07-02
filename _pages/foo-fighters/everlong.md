@@ -37,14 +37,14 @@ A|-4-5--7-9-10-12--12------7--7--7--2----2--2--5-5-5-5-5-5--0-0
 D|-------------------------7--7--7-------------5-5-5-5-5-5--0-0
 ```
 
-## Verse 1
+## Verse
 
 Hello    I've waited here for you     Everlong
 Tonight  I throw myself into   And out of the red, out of her head she sang
 Come down   And waste away with me    Down with me
 Slow how    You wanted it to be  I'm over my head, out of her head she sang 
 
-## Chorus 1
+## Chorus
 
 And I wonder
 When I sing along with you
@@ -53,12 +53,12 @@ If anything could ever be this good again
 The only thing I'll ever ask of you
 You've got to promise not to stop when I say when
 
-## Verse 2
+## Verse
 
 Breathe out   So I could breathe you in   Hold you in
 And now   I know you've always been  Out of your head, out of my head I sang
 
-## Chorus 2
+## Chorus
 
 And I wonder
 When I sing along with you

@@ -16,7 +16,7 @@ links:
 
 Em7  Am     D   G5   D/F#   Em7  x 2
 
-## Verse 1
+## Verse
 
 Em7    Am              D
 Sister can you hear me now
@@ -27,9 +27,9 @@ I'm down on the ground
    G5          D/F#    Em7
 My luck's been dry for years
 
-## Verse 2
+## Verse
 
-    Am          D
+&nbsp;   Am          D
 I'm lost in the dark
       G5          D/F# Em7
 And I feel like a dinosaur
@@ -38,9 +38,9 @@ Broken face and broken hands
 G5    D/F#   Em7
 I'm a broken man
 
-## Chorus 1
+## Chorus
 
-             Am
+&nbsp;            Am
 I've hit the wall
              D
 I'm about to fall
@@ -53,9 +53,9 @@ On a losing streak
          G5         D/F#    Em7
 Watch my taillights fade to black
 
-## Verse 3
+## Verse
 
-         Am               D
+&nbsp;        Am               D
 I read a thing about this girl
           G5        D/F# Em7
 She was a hermit in her world
@@ -64,9 +64,9 @@ Her story was much like mine
           G5    D/F# Em7
 She could be my valentine
 
-## Verse 4
+## Verse
 
-    Am                   D
+&nbsp;   Am                   D
 And although we've never met
   G5       D/F#    Em7
 I won't forget her yet
@@ -75,9 +75,9 @@ She cut herself off from her past
     G5    D/F#     Em7
 Now she's alone at last
 
-## Chorus 2
+## Chorus
 
-          Am
+&nbsp;         Am
 I feel so sick
                  D
 Lost love's last licks
@@ -90,9 +90,9 @@ On a losing streak
          G5         D/F#    Em7
 Watch my taillights fade to black
 
-## Verse 5
+## Verse
 
-        Am            D
+&nbsp;       Am            D
 Lost my life in cheap wine
 G5       D/F#  Em7
 Now it's quiet time
@@ -101,9 +101,9 @@ Cappy Dick nor Jesus Christ
 G5        D/F#    Em7
 Could not help my fate
 
-## Verse 6
+## Verse
 
-        Am           D
+&nbsp;       Am           D
 But I'm underneath a gun
     G5       D/F#    Em7
 I'm singing about my past
@@ -112,9 +112,9 @@ Had myself a wonderful thing
       G5        D/F#    Em7
 But I could not make it last
 
-## Chorus 3
+## Chorus
 
-             Am
+&nbsp;            Am
 I've hit the wall
              D
 I'm about to fall
@@ -129,7 +129,7 @@ Watch my taillights fade to black
 
 ## Outro
 
-         G5         D/F#    Em7    Am D
+&nbsp;        G5         D/F#    Em7    Am D
 Watch my taillights fade
          G5         D/F#    Em7    Am D
 Watch my taillights fade

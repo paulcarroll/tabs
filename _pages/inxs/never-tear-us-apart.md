@@ -13,14 +13,14 @@ links:
 
 Am F Dm F
 
-## Verse 1
+## Verse
 
 &nbsp;       Am               F
 Don't ask me, what you know is true
               Dm          F
 Don't have to tell you, I love your precious heart.
 
-## Chorus 1
+## Chorus
 
 C F       C       F         C     F
 I, I was standing, you were there
@@ -34,7 +34,7 @@ A--0--3--5--0-0-0-0-0-0-0------     x2
 E------------------------------
 ```
 
-## Verse 2
+## Verse
 
 &nbsp;         Am           F
 We could live, for a thousand years
@@ -45,7 +45,8 @@ I told you, that we could fly
           Dm                   F
 'Cause we all have wings, but some of us don't know w-h-y.
 
-{start_of_chorus}
+## Chorus
+
 C F       C       F         C     F
 I, I was standing, you were there
                C    F               G
@@ -62,16 +63,16 @@ E------------------------------
 
 Am F Dm F
 
-## Chorus 2
+## Chorus
 
 I,             I was standing,             you were there
- [Don't ask me]          [you know its true]          [worlds colliding]
+ *[Don't ask me]          [you know its true]          [worlds colliding]*
 
 Two worlds collided,               and they could never tear us apart...
-                  [shining through]
+                  *[shining through]*
 
 You,        you were standing,              you were there
-[Don't ask me]             [you know its true]        [worlds colliding]
+*[Don't ask me]             [you know its true]        [worlds colliding]*
 
 Two worlds collided,             and they could never tear us apart...
-                  [shining through]
+                  *[shining through]*

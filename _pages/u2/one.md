@@ -13,21 +13,21 @@ links:
 ---
 
 ## Intro
- 
+
 Am  Dsus2  Fmaj7  G
- 
-## Verse 1
- 
+
+## Verse
+
 Am              Dsus2
-  Is it getting better        
+  Is it getting better
 Fmaj7                   G
      Or do you feel the same
 Am                Dsus2
   Will it make it easier on you now
 Fmaj7                      G
      you've got someone to blame
- 
-         C        Am
+
+&nbsp;        C        Am
 You say   one love  one life
 Fmaj7                  C
      When its one need  in the night
@@ -35,10 +35,9 @@ C         Am
   One love  we get to share it 
 Fmaj7                         C              Am  Dsus2 Fmaj7 G
      It leaves you baby if you dont care for it
- 
- 
-## Verse 2
- 
+
+## Verse
+
 Am           Dsus2
   Did I disappoint you
 Fmaj7                              G
@@ -47,8 +46,8 @@ Am                       Dsus2
   You act like you never had love
 Fmaj7                          G
      and you want me to go without
- 
-         C        Am
+
+&nbsp;        C        Am
 Well it's too late  tonight
 Fmaj7                       C
      To drag the past out into the light
@@ -58,9 +57,9 @@ We're one, but we're  not the same
 We get to     carry each other carry each other
   Am  Dsus2 Fmaj7 G
 One
- 
-## Verse 3
- 
+
+## Verse
+
 Am                          Dsus2
   Have you come here for forgiveness?
 Fmaj7                           G
@@ -69,7 +68,7 @@ Am                           Dsus2
   Have you come here to play Jesus
 Fmaj7                      G
      To the lepers in your head?
- 
+
 C                  Am
  Did I ask too much  more than a lot
 Fmaj7                            C
@@ -78,10 +77,10 @@ C                    Am
   We're one but we're  not the same
        Fmaj7                        C
 Well we     hurt each other then we do it again
- 
+
 ## Chorus
- 
-       C                   Am
+
+&nbsp;      C                   Am
 You Say Love is a temple, Love a higher law
  C                 Am
 Love is a temple, Love the higher law
@@ -101,9 +100,9 @@ One life but we're  not the same
 We get to     carry each other carry each other
   C  Am  Fmaj7  C     C  Am  Fmaj7  C
 One    One          One    One
- 
+
 ## Live add-on
- 
+
 C
  D'you here me coming lord?
 Am
@@ -120,16 +119,13 @@ Fmaj7
      D'you here me scratching?
 C
 Will you make me crawl
- 
-C             Am
-Oooo - oooo - oooo
-Fmaj7      C
-Oooo - oooo
- 
+
 C             Am
 Oooo - oooo - oooo
 Fmaj7      C
 Oooo - oooo
 
-
-
+C             Am
+Oooo - oooo - oooo
+Fmaj7      C
+Oooo - oooo

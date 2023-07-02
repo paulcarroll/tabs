@@ -18,7 +18,7 @@ E|--0---0---3---3-------0-------|
 **Blues it up in the first verse by adding these where appropriate
 ```
 
-## Verse 1
+## Verse
 
 E5
 Sitting here wishing on a cement floor
@@ -29,7 +29,7 @@ Put it on when I go lonely
          Am            C         D          E5
 Will you take off your dress and send it to me?
 
-## Verse 2
+## Verse
 
 E5
 I miss your kissin' and I miss your head
@@ -40,7 +40,7 @@ Run outside in the desert heat
            Am        C       D         E5
 Make your dress all wet and send it to me
 
-## Verse 3
+## Verse
 
 E5
 I miss your soup and I miss your bread
@@ -51,7 +51,7 @@ So spill your breakfast and drip your wine
      Am         C         D     E5
 Just wear that dress when you dine
 
-## Verse 4
+## Verse
 
 E5
 Sitting here wishing on a cement floor

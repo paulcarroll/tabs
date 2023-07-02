@@ -48,7 +48,7 @@ A|--5-5-5--x-x---1--3--3----|
 E|--3-3-3--x-x---1--3--1----|
 ```
 
-## Verse 1
+## Verse
 
 &nbsp;         G
 I was walking down the street
@@ -75,7 +75,7 @@ Why you do this to yourself?"
       C               Bb                F
 She looked at me and this is what she said
 
-## Chorus 1
+## Chorus
 
  G                                 Bb C F
 "Oh, there ain't no rest for the wicked
@@ -98,7 +98,7 @@ No there ain't no rest for the wicked
          G                    Bb C F
 Until we close our eyes for good".
 
-## Verse 2
+## Verse
 
 &nbsp;         G
 Not even fifteen minutes later
@@ -125,7 +125,7 @@ But first you know I got to ask
             C          Bb    F
 What made you want to live this kind of life?"
 
-## Chorus 2
+## Chorus
 
  G                                 Bb C F
 He said "There ain't no rest for the wicked
@@ -148,7 +148,7 @@ No there ain't no rest for the wicked
          G                    Bb C F
 Until we close our eyes for good".
 
-## Verse 3
+## Verse
 
 &nbsp;         G
 Now a couple hours passed

@@ -22,7 +22,7 @@ Ab|-0-------0-------|-----------------|
 Eb|-----------------|-3---------------|
 ```
 
-## Verse 1
+## Verse
 
 G#m      F#       C#      G#m    F#  C#
 Bury me softly in this womb
@@ -47,7 +47,7 @@ Look at me now, I'm a man
 C#                     G#m   F#  C#
 Who won't let himself be
 
-## Chorus 1
+## Chorus
 
 C#m             B F#     C#m              B  F#
 Down in a hole,        losin' my soul
@@ -58,7 +58,7 @@ I'd   like   to    fly
 E                         G#m      F#  C#  G#m   F#  C#
 But my wings have been so denied
 
-## Verse 2
+## Verse
 
 G#m                         F#
 Down in a hole and they've put all
@@ -77,7 +77,7 @@ I will speak no more
       C#       G#m        F#   C#
 Of my feelings beneath
 
-## Chorus 2
+## Chorus
 
 C#m             B  F#    C#m              B  F#
 Down in a hole,        losin' my soul
@@ -88,7 +88,7 @@ I'd    like   to     fly
 E                         G#m      F# C#   G#m   F#  C#
 But my wings have been so denied
 
-## Verse 3
+## Verse
 
 G#m      F#      C#       G#m
 Bury me softly in this womb
@@ -107,7 +107,7 @@ In a tomb
 G#m            F#     C#
 Oh, I want to be inside...
 
-## Chorus 3
+## Chorus
 
 C#m             B  F#    C#m              B  F#
 Down in a hole,        losin' my soul

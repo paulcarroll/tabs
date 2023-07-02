@@ -53,7 +53,7 @@ A|--------------2--------------------------------|
 E|--------------3--------------------------------|
 ```
 
-## Verse 1
+## Verse
 
    F   G        F     G    F   G              F      G
 My pain is self-chosen, at least, so the prophet says
@@ -90,7 +90,7 @@ F          G           F    G                            F
 G                F                          G
 Now I can grow a beautiful shell for all to see
 
-## Chorus 2
+## Chorus
 
 G5 A5/G C5/G G *   C5/G G *
                The river of deceit

@@ -42,7 +42,7 @@ at least we've learned
       G               C   Em   F   F
 some things along the way
 
-## Verse 2
+## Verse
 
      C
 You took me from my bubble
@@ -61,7 +61,7 @@ And I fear only a hero can defeat
 
 these demons now
 
-## Chorus 2
+## Chorus
 
     Am                     C    Em
 And oh, how our glory may fade away, well

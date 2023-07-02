@@ -62,7 +62,7 @@ In every heart that wanted to kill
 A (quickly A Asus4)
 Let's call it a day
 
-## Verse 2
+## Verse
 
 Every thought that once had a sound
 We'll have to hide 'til no one is around
@@ -88,7 +88,7 @@ CHORUS RIFF:
 
 But do you need somebody, to feel somebody?
 
-## Verse 3
+## Verse
 
 Every day that once had a sound
 We'll have to hide 'til no one is in town
@@ -101,7 +101,7 @@ And now every fire has gone out
 In every heart that wanted to kill
 Let's call it a day
 
-## Chorus 2
+## Chorus
 
 For every trouble you found
 There's a drink to lose it and drown

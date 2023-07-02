@@ -35,7 +35,7 @@ Body beats, I stain my sheets, I don't even know why
 G       C     G          C    G       C          G
 My girlfriend she at the end, she is starting to cry...
 
-## Chorus 2
+## Chorus
 
 &nbsp;         Em         C
 Let me go on, like a blister in the sun
@@ -70,13 +70,13 @@ When I'm a walkin' I strut my stuff, then I'm so strung out
     G         C     G      C     G       C         G      *loud* (G)
 I'm high as a kite, I just might stop to check you out...
 
-## Chorus 3
+## Chorus
 
 &nbsp;         Em         C
 Let me go on, like a blister in the sun
           Em      C                     D
 Let me go on, big hands I know your the one...
 
-## Instrumental 2
+## Instrumental
 
 G C G C G C G, G C G C G C G

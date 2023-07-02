@@ -90,7 +90,7 @@ Got to be a joker, he just do what he please.
 Come together, right now,  over me
 [Main riff x 4]
 
-## Verse 2
+## Verse
 
 D5
 He wear no shoe shine, he got toe jam football
@@ -101,13 +101,13 @@ He say, "I know you, you know me."
 [Verse riff out]
 One thing I can tell you is you got to be free
 
-## Chorus 2
+## Chorus
 
 &nbsp;    Bm.       A.    A7b5. A
 Come together, right now,  over me
 [Main riff x 4]
 
-## Verse 3
+## Verse
 
 D5
 He bag production, he got walrus gumboot
@@ -118,7 +118,7 @@ He got feet down below his knee
 [Verse riff out]
 Hold you in his armchair, you can feel his disease
 
-## Chorus 3
+## Chorus
 
 &nbsp;    Bm.       A.    A7b5
 Come together, right now

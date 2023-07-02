@@ -17,7 +17,7 @@ links:
 A  F#   E  G    x2
 A   F   D   Bb G# x2
 
-## Verse 1
+## Verse
 
 A        F        D      Bb  G#
 Sell the kids for food.
@@ -44,7 +44,7 @@ Yeah.  Mm.
 A  F#  E  G
 Ooh.   Mm.
 
-## Verse 2
+## Verse
 
 A        F        D      Bb  G#
 We can have some more.
@@ -55,7 +55,7 @@ Bruises on the fruit.
 A      F       D      Bb  C#
 Tender age in bloom.
 
-## Chorus 2
+## Chorus
 
 A        F#m           A              F#m
 He's the one who likes all our pretty songs
@@ -71,7 +71,7 @@ And he likes to sing along and he likes to shoot his gun
        B                 D      B                 D
 But he knows not what it means, knows not what it means when I say
 
-## Bridge 2
+## Bridge
 
 A  F#  E  G
 Yeah.  Mm.
@@ -88,7 +88,7 @@ Ooh.   Mm.
 A   F   D   Bb G# x3
 A   F   D   Bb C#
 
-## Chorus 3
+## Chorus
 
 A        F#m           A              F#m
 He's the one who likes all our pretty songs

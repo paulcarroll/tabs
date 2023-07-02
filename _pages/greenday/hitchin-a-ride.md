@@ -21,7 +21,7 @@ D|7--7--5--5--4--4--3-3-5-6
 
 *Play that over and over for the verses*
 
-## Verse 1
+## Verse
 
 Hey mister, where are you headed?
 Are you in a hurry?
@@ -38,7 +38,7 @@ A|9--9--7--7--6--6--5-5-7-8   distortion. On last time leave
 D|9--9--7--7--6--6--5-5-7-8   out 5-5-7-8.
 ```
 
-## Verse 2
+## Verse
 
 Cold turkeys gettin stale.
 Tonight I'm eatin crow.
@@ -54,16 +54,14 @@ A|9--9--7--7--6--6--5-5-7-8   distortion.
 D|9--9--7--7--6--6--5-5-7-8  
 ```
 
-## Chorus 1
+## Chorus
 
 ```chordpro
 D|2--2--2--2--4--4--4--4--9--9--7--7--6--6--5-5-5-5
 A|2--2--2--2--4--4--4--4--9--9--7--7--6--6--5-5-5-5
 D|2--2--2--2--4--4--4--4--9--9--7--7--6--6--5-5-5-5
              Troubled times    you know I cannot lie
-```
 
-```chordpro
 D|2--2--2--2--4--4--4--4--
 A|2--2--2--2--4--4--4--4--
 D|2--2--2--2--4--4--4--4--
@@ -98,7 +96,7 @@ G|7--9--7--9(bend up)---|
 D|----------------------|
 ```
 
-## Chorus 2
+## Chorus
 
 Troubled times, you know I cannot lie.
 I'm off the wagon and I'm hitchin' a ride.

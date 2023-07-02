@@ -58,7 +58,7 @@ Oh it’s what you do to me
                C
 What you do to me.
 
-## Verse 2
+## Verse
 
 C
   Hey there Delilah
@@ -90,7 +90,7 @@ F              G                  Am
              G
 We’d have it all.
 
-## Chorus 2
+## Chorus
 
 C                      Am
 Oh it’s what you do to me
@@ -124,7 +124,7 @@ The world will never ever be the same
               G
 And you’re to blame.
 
-## Verse 3
+## Verse
 
 C                          Em
   Hey there Delilah you be good, And don’t you miss me
@@ -143,7 +143,7 @@ F             G               Am
                G
 This one’s for you.
 
-## Chorus 3
+## Chorus
 
 C                      Am
 Oh it’s what you do to me

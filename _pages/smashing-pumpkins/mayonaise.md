@@ -29,7 +29,7 @@ A B5 D
 B5 D B5 D
 A F#m D D
 
-## Verse 1
+## Verse
 
 A
 Fool enough to almost be it
@@ -53,7 +53,7 @@ Well, no one knows
 E            F#m  G
 Where out secrets go
 
-## Verse 2
+## Verse
 
 A
 I send a heart to all my dearies
@@ -78,7 +78,7 @@ Try to understand that when I can, I will
 D   A   D     A
 B   D   G F#m E
 
-## Verse 3
+## Verse
 
 A
 Mother weep the years I'm missin'
@@ -100,7 +100,7 @@ So bad that when I can, I will
 A              F#m          D      D
 Words defy the plan, when I can, I will
 
-## Verse 4
+## Verse
 
 A
 Fool enough to almost be it

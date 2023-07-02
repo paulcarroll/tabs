@@ -17,10 +17,10 @@ links:
 
 C  C/E | F  G | C  C/E | F    G |
 Cm7    | F    | Cm7    | F Bb F |
- 
+
 ## Verse
 
-    Cm7      Bb        Cm7
+&nbsp;   Cm7      Bb        Cm7
 The power of love is a curious thing
                Bb           Cm7
 make a one man weep, make another man sing
@@ -34,7 +34,7 @@ Tougher than diamonds, bricks like cream
 Stronger and harder than a bad girl's dream
 make a bad one good make a wrong one right
 power of love that keeps you home at night
- 
+
 ## Chorus
 
 C               C/E    F           G
@@ -50,21 +50,21 @@ G                     Cm7
 F                     Cm7
  That's the power of love
 F Bb F
- 
+
 ## Verse
 
 First time you feel it, it might make you sad
 Next time you feel it it might make you mad
 But you'll be glad baby when you've found
 that's the power makes the world go'round
- 
+
 ## Chorus
 
 And it don't take money,  don't take fame
 don't need no credit card to ride this train
 It's strong and it's sudden it can be cruel sometimes
 but it might just save your life
- 
+
 ## Bridge
 
 Eb              G7               Cm7
@@ -85,7 +85,7 @@ F
  Can you feel it ?
 Cm7     F Cm7 Bb
    Hmmm
- 
+
 ## Chorus
 
 It don't take money and it don't take fame

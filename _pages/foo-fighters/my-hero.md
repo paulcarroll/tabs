@@ -14,7 +14,7 @@ links:
 C Am 6x
 Dm F  1x
 
-## Verse 1
+## Verse
 
 C         Am       C       Am
 Too alarming now, to talk about
@@ -25,7 +25,7 @@ Truth or consequence, say it aloud
 C            Am        C       Am
 Use that evidence, race it around
 
-## Chorus 1
+## Chorus
 
 F
 There goes my hero
@@ -38,7 +38,7 @@ He's ordinary
 
 Dm F
 
-## Verse 2
+## Verse
 
 C         Am             C         Am
 Don't the best of them, bleed it out
@@ -49,7 +49,7 @@ Truth or consequence, say it aloud
 C         Am       C           Am
 Use that evidence, race it around
 
-## Chorus 2
+## Chorus
 
 F
 There goes my hero

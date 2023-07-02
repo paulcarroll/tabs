@@ -13,7 +13,7 @@ links:
 
 C Dm F
 
-## Verse 1
+## Verse
 
 C               Dm              F       C
 Found a note of words this very morning
@@ -32,7 +32,7 @@ It said like fly in our own direction
     C          Dm               F
 And spread our souls across the world
 
-## Chorus 1
+## Chorus
 
 C       Dm        F
 Sweet Marie I'm a live
@@ -41,7 +41,7 @@ Sweet Marie I'm a live
 C       Dm        F
 Sweet Marie I'm a live
 
-## Verse 2
+## Verse
 
 C                   Dm                  F
 Last night I went a walking down by the lakeside
@@ -81,7 +81,7 @@ And I hope you'll get there safely now
 C                  Dm        F
 'cos I know you'll find your way
 
-## Chorus 2
+## Chorus
 
 C       Dm        F
 Sweet Marie I'm a live

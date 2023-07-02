@@ -14,7 +14,7 @@ links:
 
 A , Dsus2
 
-## Verse 1
+## Verse
 
 A
 Woke up cold one tuesday
@@ -54,7 +54,7 @@ and i dont need an excuse
            Dsus2
 'cause i'm wearing my brand new shoes.
 
-## Verse 2
+## Verse
 
 A
 Woke up late one thursday
@@ -73,7 +73,7 @@ a room full of all my friends dancing round and round
               Dsus2
 and i thought hello new shoes, bye bye blues
 
-## Chorus 2
+## Chorus
 
 A               E
 Hey, I put some new shoes on

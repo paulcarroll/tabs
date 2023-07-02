@@ -6,7 +6,7 @@ layout: page
 links:
 ---
 
-## Verse 1
+## Verse
 
 Em7              Cadd9     G                      Dsus/F#
 Disarm you with a smile and cut you like you want me to.
@@ -28,7 +28,7 @@ Cadd9                                 Em7    Dsus
 Cadd9                         Em7   D   Em7   D   Cadd9
     I send this smile over to you.
 
-## Verse 2
+## Verse
 
    Em7            Cadd9                        Dsus/F#
 Disarm you with a smile and leave you like you left me here.
@@ -39,7 +39,7 @@ Em7    Cadd9    G      Dsus/F#
 Em7    Cadd9    G      Dsus   Cadd9
     Oh ho he is burned burned burned.
 
-## Chorus 2
+## Chorus
 
 Cadd9                     Em7    Dsus
     I used to be a little boy so old in my shoes.

@@ -13,7 +13,7 @@ links:
 
 D, C, G, D
 
-## Verse 1
+## Verse
 
 D
 I'm gonna take a freight train
@@ -35,7 +35,7 @@ Can't you see, can't you see, what that woman, she been doin' to me
 D              C              G                       D
 Can't you see, can't you see, what that woman been doin' to me
 
-## Verse 2
+## Verse
 
 I'm gonna find me
 A hole in the wall
@@ -43,14 +43,14 @@ gona crawl inside and die
 That lady, mean ol' woman Lord
 Never told me goodbye
 
-## Chorus 2
+## Chorus
 
 D              C              G                           D
 Can't you see, can't you see, what that woman, she been doin' to me
 D              C              G                       D
 Can't you see, can't you see, what that woman been doin' to me
 
-## Verse 3
+## Verse
 
 Gonna buy me a ticket now
 As far as I can

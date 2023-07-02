@@ -34,7 +34,7 @@ In the misty morning fog with, our, hearts a thumpin' and you,
               G   Em C     D             G      D
 My brown eyed girl,   you my, brown eyed girl...
 
-## Verse 2
+## Verse
 
 &nbsp;    G         C        G               D
 Whatever happened, to Tuesday and so slow
@@ -60,7 +60,7 @@ Sha la la la la la la la te da, la te da.
 
 *quiet*  G C G D  *loud* (G)
 
-## Verse 3
+## Verse
 
 &nbsp;    G            C          G             D
 So hard to find my way, now that I'm all on my own
@@ -73,7 +73,7 @@ Laughing and a running hey hey, behind the stadium, with you
               G   Em C     D             G     D (D)
 My brown eyed girl,   you my, brown eyed girl...
 
-## Chorus 2
+## Chorus
 
 &nbsp;                     D
 Do you remember when, we used to sing
