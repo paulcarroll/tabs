@@ -1,0 +1,69 @@
+
+.page-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-content: flex-start;
+  align-items: flex-start;
+
+  .page-list-search, .page-list-songs  {
+    width: 30%;
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: 0;
+  }
+
+  .page-list-search {
+    flex-grow: 1;
+    flex-shrink: 0;
+    flex-basis: 10%;
+    margin: 65px 20px 0 0;
+  }
+
+  .page-list-songs {
+    flex-grow: 2;
+    flex-shrink: 0;
+    flex-basis: 80%;
+  }
+
+  .dtsp-titleRow {
+    display: none;
+  }
+
+  .dtsp-topRow.dtsp-subRowsContainer {
+    display: none;
+  }
+
+  // div.dtsp-title {
+  //   margin-right: 0px !important;
+  //   margin-top: 13px !important;
+  // }
+
+  // input.dtsp-search {
+  //   min-width: 0px !important;
+  //   padding-left: 0px !important;
+  //   margin: 0px !important;
+  // }
+
+  // div.dtsp-verticalContainer div.dtsp-verticalPanes div.dtsp-searchPanes{
+  //   flex-direction: column;
+  //   flex-basis: 0px;
+  // }
+
+  // div.dtsp-verticalContainer div.dtsp-verticalPanes div.dtsp-searchPanes div.dtsp-searchPane{
+  //   flex-basis: 0px;
+  // }
+
+  // div.dtsp-verticalContainer div.container{
+    
+  // }
+
+  // div.dtsp-panesContainer {
+  //   border: 1px solid #ccc;
+  //   border-radius: 6px;
+  //   padding: 5px;
+  // }
+}
+
+

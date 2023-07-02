@@ -4,60 +4,107 @@ datatable: true
 ---
 
 <div class="page-list">
-	<table id="songs" class="display">
-		<thead>
-			<tr>
-				<th class="artist">Artist</th>
-				<th class="title">Title</th>
-				<th class="tags">Tags</th>
-				<th class="capo">Capo</th>
-				<th class="tuning">Tuning</th>
-			</tr>
-		</thead>
-		<tbody>
-	  {% assign pages_list = site.pages %}
-	  {% for node in pages_list %}
-	    {% if node.title != null %}
-	      {% if node.layout == "page" %}
-					<tr>
-						<td class="artist">
-							{{ node.group }}
-						</td>
-						<td class="title">
-							<a class="nav-item" href="{{ node.url }}">{{ node.title }}</a>
-						</td>
-						<td class="tags">
-							{% assign tags = node.tags %}
-							{% if tags %}
-								{% for tag in tags %}
-									{% if tag == "priority" %}
-										<span class="badge badge-pill badge-danger">!!</span>
-									{% else %}
-										<span class="badge badge-pill badge-primary">{{ tag }}</span>
-									{% endif %}
-								{% endfor %}
-							{% endif %}
-						</td>
-						<td class="capo">
-							{{ node.capo }}
-						</td>
-						<td class="tuning">
-							{{ node.tuning }}
-						</td>
-					</tr>
-	      {% endif %}
-	    {% endif %}
-	  {% endfor %}
-		</tbody>
-	</table>
+	<div class="page-list-search"></div>
+	<div class="page-list-songs">
+		<table class="display nowrap">
+			<thead>
+				<tr>
+					<th class="artist">Artist</th>
+					<th class="title">Title</th>
+					<th class="tags">Tags</th>
+					<th class="capo">Capo</th>
+					<th class="tuning">Tuning</th>
+				</tr>
+			</thead>
+			<!-- <tbody>
+			{% assign pages_list = site.pages %}
+			{% for node in pages_list %}
+				{% if node.title != null %}
+					{% if node.layout == "page" %}
+						<tr>
+							<td class="artist">
+								{{ node.group }}
+							</td>
+							<td class="title">
+								<a class="nav-item" href="{{ node.url }}">{{ node.title }}</a>
+							</td>
+							<td class="tags">
+								{% assign tags = node.tags %}
+								{% if tags %}
+									{% for tag in tags %}
+										{% if tag == "priority" %}
+											<span class="badge badge-pill badge-danger">!!</span>
+										{% else %}
+											<span class="badge badge-pill badge-primary">{{ tag }}</span>
+										{% endif %}
+									{% endfor %}
+								{% endif %}
+							</td>
+							<td class="capo">
+								{{ node.capo }}
+							</td>
+							<td class="tuning">
+								{{ node.tuning }}
+							</td>
+						</tr>
+					{% endif %}
+				{% endif %}
+			{% endfor %}
+			</tbody> -->
+		</table>
+	</div>
 </div>
 
 <script>
 	$(document).ready(function() {
-		$('#songs').DataTable({
+		const table = $('.page-list-songs table').DataTable({
+			ajax: './data.json',
+			dom: '<"dtsp-dataTable"frtip>',
 			responsive: true,
-			paging: false
+			paging: false,
+			searchPanes: {
+				layout: 'columns-1'
+			},
+			columns: [
+				{
+					data: "group"
+				}, {
+					data: "title",
+					render: ( data, type, row) => `<a href="${row.url}" target="_blank">${row.title}</a>`
+				}, {
+					data: "tags",
+					searchPanes: {
+						orthogonal: 'sp'
+					}
+				}, {
+					data: "capo"
+				}, {
+					data: "tuning"
+				}
+			],
+			columnDefs: [
+				{ 
+					responsivePriority: 1, 
+					targets: 0 
+				}, { 
+					responsivePriority: 1, 
+					targets: 1 
+				}, { 
+					responsivePriority: 1, 
+					targets: 2 
+				}, { 
+					responsivePriority: 1001, 
+					targets: 3 
+				}, { 
+					responsivePriority: 1001, 
+					targets: 4 
+				}
+			]
 		});
+		
+		table.searchPanes();
+
+  	$(".page-list .page-list-search").append(table.searchPanes.container());
 	});
 </script>
 
