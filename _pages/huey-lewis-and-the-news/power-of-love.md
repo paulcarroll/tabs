@@ -15,8 +15,8 @@ links:
 
 ## Intro
 
-C  C/E | F  G | C  C/E | F    G |
-Cm7    | F    | Cm7    | F Bb F |
+C  C/E   F  G   C  C/E   F    G
+Cm7      F      Cm7      F Bb F
 
 ## Verse
 
