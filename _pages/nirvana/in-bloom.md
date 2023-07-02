@@ -1,7 +1,7 @@
 ---
 group: Nirvana
 title: In bloom
-tags: []
+tags: [learning]
 layout: page
 links:
   - type: YouTube

@@ -4,13 +4,20 @@ html {
 }
 
 body {
-  font-family: 'Open Sans';
   font-size: 1.1rem;
+
+  @media (max-width: 576px) {
+    font-size: 15px;
+  }
 }
 
 .container {
   max-width: 80rem;
   margin: 0 auto;
+
+  @media (max-width: 576px) {
+    max-width: 100%;
+  }
 }
 
 

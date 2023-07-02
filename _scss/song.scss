@@ -44,9 +44,10 @@
 
   .song-body {
     column-count: 2;
-    column-gap: 10rem;
+    column-gap: 2rem;
     margin-top: 1rem;
     line-height: 1.2rem;
+    font-weight: bold;
 
     &.song-single {
       column-count: 1;
