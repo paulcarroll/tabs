@@ -6,6 +6,17 @@
   justify-content: flex-start;
   align-content: flex-start;
   align-items: flex-start;
+  margin-top: 1rem;
+  position: relative;
+
+  .page-list-header {
+    position: absolute;
+    margin-left: 170px;
+
+    img {
+      margin-top: -10px;
+    }
+  }
 
   .page-list-search, .page-list-songs  {
     width: 30%;
@@ -27,42 +38,12 @@
     flex-basis: 80%;
   }
 
-  .dtsp-titleRow {
+  .dtsp-buttonGroup, .dtsp-title, .dtsp-titleRow {
     display: none;
   }
 
-  .dtsp-topRow.dtsp-subRowsContainer {
-    display: none;
-  }
-
-  // div.dtsp-title {
-  //   margin-right: 0px !important;
-  //   margin-top: 13px !important;
-  // }
-
-  // input.dtsp-search {
-  //   min-width: 0px !important;
-  //   padding-left: 0px !important;
-  //   margin: 0px !important;
-  // }
-
-  // div.dtsp-verticalContainer div.dtsp-verticalPanes div.dtsp-searchPanes{
-  //   flex-direction: column;
-  //   flex-basis: 0px;
-  // }
-
-  // div.dtsp-verticalContainer div.dtsp-verticalPanes div.dtsp-searchPanes div.dtsp-searchPane{
-  //   flex-basis: 0px;
-  // }
-
-  // div.dtsp-verticalContainer div.container{
-    
-  // }
-
-  // div.dtsp-panesContainer {
-  //   border: 1px solid #ccc;
-  //   border-radius: 6px;
-  //   padding: 5px;
+  // .dtsp-topRow.dtsp-subRowsContainer {
+  //   display: none;
   // }
 }
 

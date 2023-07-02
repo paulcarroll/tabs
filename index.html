@@ -4,6 +4,9 @@ datatable: true
 ---
 
 <div class="page-list">
+	<div class="page-list-header">
+		<h1><img width="50px" src="/img/rock-music.png" />Guitar tabs</h1>
+	</div>
 	<div class="page-list-search"></div>
 	<div class="page-list-songs">
 		<table class="display nowrap">
@@ -16,41 +19,6 @@ datatable: true
 					<th class="tuning">Tuning</th>
 				</tr>
 			</thead>
-			<!-- <tbody>
-			{% assign pages_list = site.pages %}
-			{% for node in pages_list %}
-				{% if node.title != null %}
-					{% if node.layout == "page" %}
-						<tr>
-							<td class="artist">
-								{{ node.group }}
-							</td>
-							<td class="title">
-								<a class="nav-item" href="{{ node.url }}">{{ node.title }}</a>
-							</td>
-							<td class="tags">
-								{% assign tags = node.tags %}
-								{% if tags %}
-									{% for tag in tags %}
-										{% if tag == "priority" %}
-											<span class="badge badge-pill badge-danger">!!</span>
-										{% else %}
-											<span class="badge badge-pill badge-primary">{{ tag }}</span>
-										{% endif %}
-									{% endfor %}
-								{% endif %}
-							</td>
-							<td class="capo">
-								{{ node.capo }}
-							</td>
-							<td class="tuning">
-								{{ node.tuning }}
-							</td>
-						</tr>
-					{% endif %}
-				{% endif %}
-			{% endfor %}
-			</tbody> -->
 		</table>
 	</div>
 </div>
