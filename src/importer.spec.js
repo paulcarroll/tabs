@@ -229,4 +229,20 @@ C#|----------------------------------------------------|
 \`\`\`
 `);
   });
+
+  test('Regression chord-line space prefix', () => {
+    const result = process(
+`another line
+            C                                                                Dm
+And did you have to pay that fine you was dodging all the time are you still dizzy
+      Dm
+still dizzy?`);
+
+      expect(result.song).toEqual(
+`another line
+&nbsp;           C                                                                Dm
+And did you have to pay that fine you was dodging all the time are you still dizzy
+&nbsp;     Dm
+still dizzy?`);
+  });
 });

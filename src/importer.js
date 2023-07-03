@@ -114,11 +114,6 @@ export const process = (song) => {
       const previous = lineType(i ? lines[i - 1] : null);
       const current = lineType(lines[i]);
       const peek = lineType(lines[i + 1]);
-
-      if (previous?.line?.trim() === '' && current.line.startsWith('  ')) {
-        current.line = `&nbsp;${current.line.slice(1)}`;
-      }
-
       if (previous?.line?.startsWith('## ') && current.line.trimEnd() !== '') {
         current.line = `\n${current.line}`;
       }
@@ -137,6 +132,10 @@ export const process = (song) => {
           }
           result.push('```\n');
         }
+      }
+
+      if (!outputCodeBlock && current.line.startsWith('  ')) {
+        current.line = `&nbsp;${current.line.slice(1)}`;
       }
       
       if (previous?.line === '' && current.line !== '' || previous?.line !== '') {
@@ -201,7 +200,7 @@ group: ${artist}
 title: ${title}
 tags: []
 layout: page
-capo: ${processed.capo}
+capo: ${processed.capo || ''}
 links: 
   - type: 
     title: 
