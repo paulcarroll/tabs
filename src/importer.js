@@ -16,13 +16,13 @@ const regexCapo = /^{?capo}?:?.*(\d).*$/im;
 
 const regexSectionChorus = /{start_of_chorus}/i;
 const regexSectionBridge = /{start_of_bridge}/i;
-const regexSection = /^\[?(instrumental|intro|outro|chorus|verse|solo|interlude)[\s\d:-]*\]?$/i;
+const regexSection = /^\[?(instrumental|intro|outro|bridge|pre-chorus|chorus|verse|solo|interlude)[\s\d:-]*\]?$/i;
 
 const regexChordBlock = /(^[a-g]{1,2}[\d\/#bmsusa-g]*:?\s+\[?[\dx]+\]?)/i;
 
 const regexChordLine = /([a-g]{1,2}[\d\/#bmsusa-g]*\s*)+/mi
 
-const regexTabLine = /(^[a-gx#]?([|-]+[|-\dxhpbr\\ ~\/()]+))+/i;
+const regexTabLine = /^[a-g]+[#b]?\s*[[|]?[-\dxhpbr\\ ~\/()]+/i;
 
 
 /**
@@ -107,14 +107,13 @@ export const process = (song) => {
       return line;
     });
   
-    var capTab = false;
+    var outputCodeBlock = false;
     const result = [];
 
     for (let i = 0; i < lines.length; i++) {
-      const previous = lineType(i ? lines[i + 1] : null);
+      const previous = lineType(i ? lines[i - 1] : null);
       const current = lineType(lines[i]);
       const peek = lineType(lines[i + 1]);
-      var type;
 
       if (previous?.line?.trim() === '' && current.line.startsWith('  ')) {
         current.line = `&nbsp;${current.line.slice(1)}`;
@@ -124,31 +123,35 @@ export const process = (song) => {
         current.line = `\n${current.line}`;
       }
 
-      if (!capTab) {
-        if (current.type === 'chord-line' && peek?.type === 'tab-line' || current.type === 'chord-block') {
-          capTab = true;
+      if (!outputCodeBlock) {
+        if (current.type === 'chord-line' && peek?.type === 'tab-line' || current.type === 'chord-block' || current.type === 'tab-line') {
+          outputCodeBlock = true;
           result.push('```chordpro');
         }
       }
       else {
-        if (current.type !== 'tab-line' && current.type !== 'chord-block') {
-          capTab = false;
-          result.push('```');
+        if (current.type !== 'tab-line' && current.type !== 'chord-block' && current.line !== '') {
+          outputCodeBlock = false;
+          while (result[result.length - 1] === '') {
+            result.pop();
+          }
+          result.push('```\n');
         }
       }
       
-      if (previous?.line === '' && current.line !== '' || current?.line.length) {
+      if (previous?.line === '' && current.line !== '' || previous?.line !== '') {
         result.push(current.line);
       }
     }
-    if (capTab) {
-      result.push('```');
+
+    if (outputCodeBlock) {
+      while (result[result.length - 1] === '') {
+        result.pop();
+      }
+      result.push('```\n');
     }
 
     song = result.map(it => it).join('\n'); 
-
-
-    console.log(song)
   return {
     title,
     subtitle,
@@ -180,6 +183,8 @@ export async function main() {
   await fs.mkdir('./output');
 
   for (const file of files) {
+    console.log(`Importing ${file}`);
+    
     const text = await fs.readFile(file, 'utf8');
     const processed = process(text);
     const filename = file.replace('import/', '');
