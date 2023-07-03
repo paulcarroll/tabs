@@ -122,6 +122,7 @@ group: ${artist}
 title: ${title}
 tags: []
 layout: page
+capo: ${processed.capo}
 links: 
   - type: 
     title: 
