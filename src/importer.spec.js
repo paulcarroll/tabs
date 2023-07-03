@@ -13,7 +13,7 @@ some other line`);
     expect(result.title).toEqual('Distant Sun');
     expect(result.subtitle).toEqual('Crowded House');
     expect(result.capo).toEqual('2');
-    expect(result.song).toEqual('\nsome other line');
+    expect(result.song).toEqual('some other line');
   });
 
   test('Match alternative chordpro metadata', () => {
@@ -27,7 +27,7 @@ some other line`);
     expect(result.title).toEqual('Black');
     expect(result.subtitle).toEqual('Pearl Jam');
     expect(result.capo).toEqual('2');
-    expect(result.song).toEqual('\nsome other line');
+    expect(result.song).toEqual('some other line');
   });
 
   test('Match capo type 1', () => {
@@ -55,6 +55,12 @@ some other line`);
     const result = process(`{start_of_chorus}`);
 
     expect(result.song).toEqual('## Chorus');
+  });
+
+  test('Match chordpro bridge tag', () => {
+    const result = process(`{start_of_bridge}`);
+
+    expect(result.song).toEqual('## Bridge');
   });
 
   test('Match instrumental tag', () => {
@@ -151,8 +157,8 @@ A|--4-----0----2\\----2-----4---|
 E--9b(11)-7---7------7---10b(12)b(11)7~~~-7-------------------12b(14)br12-10-12-12b(14)~~`);
 
     expect(result.song).toEqual(
-`    C#    A    B    Eb/E   F#
-\`\`\`chordpro
+`\`\`\`chordpro
+    C#    A    B    Eb/E   F#
 e|--0-----0----0-----0-----0---|
 B|--0-----0----0-----0-----0---|
 G|--4-----4----4-----4-----3---|   X 3
