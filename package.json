@@ -1,0 +1,20 @@
+{
+  "name": "tabs",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "serve": "bundle exec jekyll serve",
+    "test": "jest --silent=false",
+    "import": "node -e '(async() => { (await import(`./src/importer.js`)).main(); })()'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/preset-env": "^7.22.5",
+    "babel-jest": "^29.5.0",
+    "jest": "^29.5.0",
+    "rimraf": "^5.0.1",
+    "ts-jest": "^29.1.1"
+  }
+}

@@ -2,4 +2,7 @@ _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
+import
+node_modules
+output
 vendor
