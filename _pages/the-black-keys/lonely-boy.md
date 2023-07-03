@@ -1,0 +1,68 @@
+---
+group: The Black Keys
+title: Lonely Boy
+tags: []
+layout: page
+capo: 
+links: 
+  - type: 
+    title: 
+    url: 
+---
+
+## Verse
+```chordpro
+E: 022100
+G: 355433
+A: 577655
+```
+
+## Chorus
+```chordpro
+G: 320003
+A: 002220
+```
+
+## Intro
+E – A – E – A- E –E – E- E
+
+E
+Well I'm so above you
+G                   A
+And it's fine to see
+E                  			 G		A
+But I came to love you anyway
+E
+So you tore my heart out
+G			A
+And I don't mind bleeding
+E
+Any old time to keep me waiting
+G	   A
+Waiting, waiting
+
+## Chorus
+E		G		A
+Oh, oh-oh I got a love that keeps me waiting
+Oh, oh-oh I got a love that keeps me waiting
+E
+I'm a lonely boy
+G		A
+I'm a lonely boy
+E 		G		A
+Oh, oh-oh I got a love that keeps me waiting
+
+E – E - E  - E
+E				G		A
+Well your mama kept you but your daddy left you
+E					G		A
+And I should've done you just the same
+E					G		A
+But I came to love you and I’m gone to be
+E
+Any old time you keep me waiting
+G	  A
+Waiting, waiting
+
+Chorus: 2x
+
