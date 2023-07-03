@@ -1,4 +1,4 @@
-import { process } from './importer';
+import { lineType, main, process } from './importer';
 
 describe('Process song text', () => {
 
@@ -199,7 +199,7 @@ C#|----------------------------------------------------|
 
 
 `);
-console.log(result.song);
+
     expect(result.song).toEqual(
 `The Outsider - A Perfect Circle
 
@@ -244,5 +244,51 @@ still dizzy?`);
 And did you have to pay that fine you was dodging all the time are you still dizzy
 &nbsp;     Dm
 still dizzy?`);
+  });
+
+  test('Regression chord-line space prefix following section', () => {
+    const result = process(
+`\`\`\`
+
+## Verse
+
+        G
+I ain't slept in seven days`);
+
+      expect(result.song).toEqual(
+`\`\`\`
+
+## Verse
+
+&nbsp;       G
+I ain't slept in seven days`);
+  });
+
+  test('Regression verse matched as chord-line', () => {
+    const result = lineType('And I\'ve missed your ginger hair and the way you like to dress');
+
+    expect(result.type).toEqual('lyric-line');
+  });
+
+  test('Regression chord-line verse mismatch', () => {
+    const result = process(
+`      F                                Em
+'Cos since I've come on home, well my body's been a mess
+         F                                   Em
+And I've missed your ginger hair and the way you like to dress
+F                            Em                   G
+Won't you come on over, stop making a fool out of me
+                                   C             Dm           C             Dm
+Why don't you come on over Va-a-lerie, Valerie-e-ee, Va-a-alerie, Valerie-e-ee`);
+
+      expect(result.song).toEqual(
+`&nbsp;     F                                Em
+'Cos since I've come on home, well my body's been a mess
+&nbsp;        F                                   Em
+And I've missed your ginger hair and the way you like to dress
+F                            Em                   G
+Won't you come on over, stop making a fool out of me
+&nbsp;                                  C             Dm           C             Dm
+Why don't you come on over Va-a-lerie, Valerie-e-ee, Va-a-alerie, Valerie-e-ee`);
   });
 });
