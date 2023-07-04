@@ -1,13 +1,16 @@
 ---
 group: The Red Hot Chili Peppers
 title: Dani California
-tags: []
+tags: [SHIT, lively]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Dani California
+    url: https://open.spotify.com/track/10Nmj3JCNoMeBQ87uw5j8k?si=863259aee31b4689
+  - type: YouTube
+    title: RedHotChiliPeppers
+    url: https://www.youtube.com/watch?v=Sb5aq5HcS1A&ab_channel=RedHotChiliPeppers
 ---
 
 ## Intro
@@ -18,6 +21,7 @@ links:
 ```
 
 ## Verse
+
 Am                   G
  Getting born in the state of Mississippi,
 &nbsp;   Dm                         Am
@@ -32,6 +36,7 @@ Am           G               Dm      Am
  What in the world does your company take me for?
 
 ## Verse
+
 Am             G
 Black bandana, sweet Louisiana,
 Dm                       Am
@@ -46,6 +51,7 @@ Am             G          Dm
 &nbsp; Just another way to survive
 
 ## Chorus
+
 &nbsp;    F       C       Dm
 California, Rest In Peace,
  G    F       C  Dm
@@ -62,6 +68,7 @@ She's my priestess, I'm your priest, yeah, yeah
 ```
 
 ## Verse
+
 Am              G
  She's a lover, baby and a fighter,
 Dm                             Am
@@ -76,6 +83,7 @@ Am         G         Dm
  I love my baby to death
 
 ## Chorus
+
 &nbsp;    F       C       Dm
 California, Rest In Peace,
  G    F       C Dm
@@ -86,6 +94,7 @@ California, show your teeth,
 She's my priestess, I'm your priest, yeah, yeah
 
 ## Bridge
+
 Bm            G     D           F#
  Who knew the other side of you?
 Bm             G      D             F#
@@ -96,6 +105,7 @@ Bm
  Too true, too sad, sad, sad
 
 ## Verse
+
 Am               G
  Push the fader, gifted animator,
 Dm                   Am
@@ -110,6 +120,7 @@ Am       G            | Dm       | E7
  It only hurts when I laugh;  gone too fast
 
 ## Chorus
+
 &nbsp;    F       C       Dm
 California, Rest In Peace,
  G    F       C Dm
@@ -129,6 +140,7 @@ California, show your teeth,
 She's my priestess, I'm your priest, yeah, yeah
 
 ## Outro
+
 ```chordpro
 | F C | Dm G | F C | Dm G |
 | F C | Dm G | F C | Dm G |
@@ -138,4 +150,3 @@ She's my priestess, I'm your priest, yeah, yeah
 | F C | Dm G |
 | F C | Dm
 ```
-

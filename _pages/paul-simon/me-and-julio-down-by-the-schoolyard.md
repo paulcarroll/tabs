@@ -1,18 +1,32 @@
 ---
 group: Paul Simon
 title: Me And Julio Down By The Schoolyard
-tags: [learning, lively]
+tags: [learning, lively, SHIT]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Me And Julio Down By The Schoolyard
+    url: https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E?si=99101d2580674899
 ---
 
-Paul Simon  1972 (Paul Simon) *
+```
+* Alternate:
+
+Capo 2
+
+A  = G
+D  = C
+E  = D
+B7 = A7
+G  = F
+```
+
+## Intro
 
 A D A E  6x
+
+## Verse
 
 &nbsp;   A
 The mama pajama rolled out of bed,
@@ -32,6 +46,8 @@ What the mama saw;
 &nbsp;                  A
 it was against the law
 
+## Verse
+
 &nbsp;   A
 The mama looked down and spit on the ground,
 &nbsp;                       D
@@ -40,6 +56,8 @@ every time my name gets mentioned
 The papa said oy, if I get that boy,
 &nbsp;                                     A
 I'm gonna stick him in the house of detention
+
+## Chorus
 
 &nbsp;              D
 Well I'm on my way;
@@ -60,7 +78,13 @@ Seeing me and Julio,
 D           E     A D A E
 down by the schoolyard
 
+## Instrumental
+
+```chordpro
 D A D A B7 E D G A  A G D E A  A G D E A
+```
+
+## Verse
 
 &nbsp;          A
 Whoa, in a couple of days, they come and take me away,
@@ -70,6 +94,8 @@ but the press let the story leak
 Now when the radical priest, come to get me released,
 &nbsp;                          A
 we was all on the cover of Newsweek
+
+## Chorus
 
 &nbsp;              D
 Well I'm on my way;
@@ -95,18 +121,3 @@ D           E     A D A E
 down by the schoolyard
 
 A D A E  . . . .
-
-* Alternate:
-
-Capo II
-
-A  = G
-D  = C
-E  = D
-B7 = A7
-G  = F
-
-Set8
-
-http://sites.google.com/site/guitarmusicchordsandlyrics/
-

@@ -1,13 +1,19 @@
 ---
 group: Radiohead
 title: High and dry
-tags: []
+tags: [quiet, learning]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: High and dry
+    url: https://open.spotify.com/track/1daWG6AYC20lWevL2r1Rm2?si=XUGhtdNtS9-JuKhCvaV9NQ
+  - type: YouTube
+    title: LeeJohnBlackmore
+    url: https://www.youtube.com/watch?v=G9_uKtjB0pE
+  - type: YouTube
+    title: HitsOnAcousticGuitar
+    url: https://www.youtube.com/watch?v=qWIr_srwvK0&ab_channel=HitsOnAcousticGuitar
 ---
 
 ```chordpro
@@ -94,7 +100,6 @@ Don't leave me high,     don't leave me dry.
 ## Solo
 
 F#m7add11  Asus2       E      Esus4   E
-
 F#m7add11  Asus2       E      Esus4   E
 
 ## Bridge
@@ -114,7 +119,3 @@ Don't leave me high,     don't leave me dry.
 Don't leave me high,
 &nbsp;             F#m7add11 Asus2             E
 Don't leave me high,     don't leave me dry.
-
-
-
-

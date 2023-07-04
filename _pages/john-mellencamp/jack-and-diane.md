@@ -1,18 +1,20 @@
 ---
 group: John Mellencamp
 title: Jack and Diane
-tags: []
+tags: [SHIT, lively]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Jack and Diane
+    url: https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg?si=jPsEiNLDQuanF658H_6yew
 ---
 
-{title:Jack & Diane}
+## Intro
 
 A E6 A E6 D (DD), A E6 A E6 D (DD), A E6 A E6 D (DD),
+
+## Verse
 
 A       E6           D          E
  Little ditty, about Jack and Diane,
@@ -24,6 +26,7 @@ A            E6               D  E        A
  Diane's debutante back seat, of Jackie's car...
 
 ## Instrumental
+
 A Asus A Amsus2 A, D D E Esus E, A Asus A Amsus2 A, D E A
 
  A           E6              D              E
@@ -36,6 +39,7 @@ Jackie says hey Dianne lets run off, behind the shade trees,
 Dribble off those Bobby Brookes, laugh and do what I please...
 
 ## Chorus
+
  A   E6    D         E
 Oh yeah, life goes on,
  A               E6         D         E
@@ -46,7 +50,12 @@ Oh yeah, life goes on,
 Long after the thrill of livin' is gone, oh walk on...
 
 ## Instrumental
+
+```chordpro
 A E6 A E6 D (DD), A E6 A E6 D (DD),
+```
+
+## Verse
 
  A            E6                 D                E
 Jackie sits back collects his, thoughts for the moment,
@@ -58,6 +67,7 @@ Well me there and Dianne we ought to, run off to the city,
 Dianne says baby, you ain't missing a thing, Jackie says,
 
 ## Chorus
+
  A   E6    D         E
 Oh yeah, life goes on,
  A               E6         D         E
@@ -67,7 +77,8 @@ Oh yeah, I said, life goes on,
  A               E6         D      E  A
 Long after the thrill, of livin' is gone...
 
-No Chords:
+## No Chords
+
 (A)     (E6)  (D)    (E)
 So let rock, let it roll,
 (A)            (E6)          (D)     (E)
@@ -78,7 +89,10 @@ Hold on to sixteen, as long as you can,
 Changes come around real soon make us women and men...
 
 ## Instrumental
+
+```chordpro
 A Asus A Amsus2 A, D D E Esus E, A Asus A Amsus2 A, D E A
+```
 
 ## Chorus
 
@@ -97,5 +111,5 @@ Little ditty, about Jack and Diane,
 Two American kids doin', best they can...
 
 ## Outro
-A E6 A E6 D (DD), A E6 A E6 D (DD), A E6 A E6 D (DD)...
 
+A E6 A E6 D (DD), A E6 A E6 D (DD), A E6 A E6 D (DD)...

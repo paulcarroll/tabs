@@ -6,11 +6,12 @@ layout: page
 capo: 
 columns: 1
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Piano man
+    url: https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ?si=a8a72da52c594009
 ---
 
+## Verse
 
 C, Em, Am, C/G
 &nbsp;    C      Em           Am
@@ -29,6 +30,7 @@ G         C          Em          Am       C/G
 But it's sad and its sweet and I knew it complete
 C/G  F        G11          C
 When I wore a younger mans clothes
+
 ## Chorus
 Am       Am/G         D7/F#     F       Am
 Da da da______  de de da_____         Da da__
@@ -42,6 +44,8 @@ G           C          Em          Am
 well, we're all in the mood for a melody
 C/G  F            G11         C     F Cmaj7
 and you've got us feelin' al-right
+
+## Verse
 
 &nbsp;   C           Em       Am
 Now john at the bar is a friend of mine
@@ -59,6 +63,7 @@ G       C           Em         Am    C/G
 Well Im sure that I could be a movie star
 C/G  F           G11         C
 If   I could get out of this place
+
 ## Chorus
 Am       Am/G         D7/F#     F       Am
 Da da da______  de de da_____         Da da__
@@ -72,6 +77,8 @@ G           C          Em          Am
 well, we're all in the mood for a melody
 C/G  F            G11         C     F Cmaj7
 and you've got us feelin' al-right
+
+## Verse
 
 &nbsp;   C         Em          Am
 Now paul is a real estate novelist
@@ -89,6 +96,7 @@ G           C         Em               Am    C/G
 Yes, theyre sharing a drink they call loneli-ness
 C/G     F           G11        C
 But its better than drinkin a-lone
+
 ## Chorus
 Am       Am/G         D7/F#     F       Am
 Da da da______  de de da_____         Da da__
@@ -102,6 +110,8 @@ G           C          Em          Am
 well, we're all in the mood for a melody
 C/G  F            G11         C     F Cmaj7
 and you've got us feelin' al-right
+
+## Verse
 
 &nbsp;     C      Em               Am
 Its a pretty good crowd for a saturday
@@ -119,6 +129,7 @@ G        C          Em          Am          C/G
 And they sit at the bar and put bread in my jar
 C/G      F             G11       C
 And say, man, what are you doin' here?
+
 ## Chorus
 Am       Am/G         D7/F#     F       Am
 Da da da______  de de da_____         Da da__
@@ -132,4 +143,3 @@ G           C          Em          Am
 well, we're all in the mood for a melody
 C/G  F            G11         C     F Cmaj7
 and you've got us feelin' al-right
-

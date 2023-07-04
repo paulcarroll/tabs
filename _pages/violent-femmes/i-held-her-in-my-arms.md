@@ -1,16 +1,20 @@
 ---
 group: Violent Femmes
 title: I held her in my arms
-tags: [learning]
+tags: [learning, lively]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: I held her in my arms
+    url: https://open.spotify.com/track/3s8Ehbrq0f91z5a0pIErnN?si=KE-LykYoSR2gB67uQIXxwg
+  - type: YouTube
+    title: TyKovatch
+    url: https://www.youtube.com/watch?v=2yp-H8brOXk
 ---
 
 ## Intro
+
 A D A D A D E
 
 ## Verse

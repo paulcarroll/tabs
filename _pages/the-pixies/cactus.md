@@ -3,8 +3,11 @@ group: The Pixies
 title: Cactus
 tags: [easy, learning]
 layout: page
-columns: 1
+columns: 2
 links:
+  - type: Spotify
+    title: Cactus
+    url: https://open.spotify.com/track/4S3XYcZFs6FbsiLwH13Z63?si=a0af8847bf4b4087
 ---
 
 ```chordpro

@@ -5,19 +5,25 @@ tags: []
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Champagne Supernova
+    url: https://open.spotify.com/track/6EMynpZ10GVcwVqiLZj6Ye?si=808100a224364110
+  - type: YouTube
+    title: EddieJeong
+    url: https://www.youtube.com/watch?v=4Jvt3IFdE4A&ab_channel=EddieJeong
 ---
 
+## Intro
 
 E  A  G  F#m  E
+
+## Verse
 
 A
 How many special people change
 G
 How many lives are living strange
-F#m				                    E
+F#m                            E
 Where were you while we were geting high
 A
 Slowly walking down the hall
@@ -27,18 +33,21 @@ F#m                                  E
 Where were you while we were getting high
 
 ## Chorus
-		          A
+
+&nbsp;             A
 Someday you will find me
-		            G
+&nbsp;               G
 caught beneath the landslide
-&nbsp;    F#m		                E
+&nbsp;    F#m                    E
 in a champagne supernova in the sky
-		         A
+&nbsp;            A
 Someday you will find me
-		            G
+&nbsp;               G
 Caught beneath the landslide
-&nbsp;    F#m		                E
+&nbsp;    F#m                    E
 In a champagne supernova in the sky
+
+## Verse
 
 A
 Wake up at dawn and ask her why
@@ -50,39 +59,44 @@ A
 Slowly walking down the hall
 G
 Faster than a cannonball
-F#				                     E
+F#                             E
 Where were you while we were getting high
 
 ## Chorus
-		          A
+
+&nbsp;             A
 Someday you will find me
-		            G
+&nbsp;               G
 caught beneath the landslide
-&nbsp;    F#m		                E
+&nbsp;    F#m                    E
 in a champagne supernova in the sky
-		         A
+&nbsp;            A
 Someday you will find me
-		            G
+&nbsp;               G
 Caught beneath the landslide
-&nbsp;    F#m		             E
+&nbsp;    F#m                 E
 In a champagne supernova, a champagne supernova
 
 ## Bridge
-&nbsp;   G2						        A2
+
+&nbsp;   G2                    A2
 Cos people believe that they're gonna get away for the summer
-&nbsp;   G2            		    D
+&nbsp;   G2                    D
 But you and I, we live and die, the world's still spinning round
-	      E
+&nbsp;       E
 We don't know why............why, why, why, why
 
-(instrumental)
+## Instrumental
+
 &nbsp; A   G   F#m   W
+
+## Verse
 
 A
 How many special people change
 G
 How many lives are living strange
-F#m				                    E
+F#m                            E
 Where were you while we were geting high
 A
 Slowly walking down the hall
@@ -92,26 +106,30 @@ F#m                                  E
 Where were you while we were getting high
 
 ## Chorus
-		          A
+
+&nbsp;             A
 Someday you will find me
-		            G
+&nbsp;               G
 caught beneath the landslide
-&nbsp;    F#m		                E
+&nbsp;    F#m                    E
 in a champagne supernova in the sky
-		         A
+&nbsp;            A
 Someday you will find me
-		            G
+&nbsp;               G
 Caught beneath the landslide
-&nbsp;    F#m		             E
+&nbsp;    F#m                 E
 In a champagne supernova, a champagne supernova
 
 ## Bridge
-&nbsp;   G2						        A2
+
+&nbsp;   G2                    A2
 Cos people believe that they're gonna get away for the summer
-&nbsp;   G2            		    D
+&nbsp;   G2                    D
 But you and I, We live and die, the world's still spinning round
-	      E
+&nbsp;       E
 We don't know why......why, why, why, why
+
+## Outro
 
 A
 How many special people change
@@ -123,4 +141,3 @@ We were getting high
 We were getting high
 We were getting high
 We were getting high
-

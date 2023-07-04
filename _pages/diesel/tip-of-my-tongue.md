@@ -5,9 +5,12 @@ tags: [learning]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Tip of my tongue
+    url: https://open.spotify.com/track/3Xl4KM5C1yivck4CBsy05L?si=4ff9e49d4ad94288
+  - type: YouTube
+    title: BoMichaelRothe
+    url: https://www.youtube.com/watch?v=hAR3jv6TwtQ
 ---
 
 (Standard tuning)
@@ -38,7 +41,7 @@ A---4-------------2------------|
 E---2-------------0------------|
 ```
 
-## VERSE
+## Verse
 B           A
 Tonight's the night I'm gonna
 G#          A
@@ -56,7 +59,7 @@ But I know what my heart wants to say, hey hey yeah
 
 (Main riff x 1)
 
-## VERSE
+## Verse
 B           A
 I've got to let you know for
 G#          A
@@ -84,7 +87,7 @@ Right on the tip of my tongue
 B        A         G#        A
 On the tip of my tongue
 
-## VERSE
+## Verse
 Look in my eyes and tell me
 What do you see theres a
 message that I'm sending
@@ -120,8 +123,6 @@ D------------------------------------------------------9p7-9~~~-----------------
 A----------------------------------------------------------------------------------------
 E----------------------------------------------------------------------------------------
 ```
-
- /(Slde up) \(slide down)  p(pull off   h(hammer on)  b(bend) br(bend release) ~(vibrato)
 
 I know what you want to hear
 Why do I forget every time you get near

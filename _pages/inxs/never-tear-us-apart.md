@@ -1,7 +1,7 @@
 ---
 group: Inxs
 title: Never Tear Us Apart
-tags: [learnt]
+tags: [learnt, easy, SHIT]
 layout: page
 capo: 
 links: 
@@ -10,10 +10,13 @@ links:
     url: 
 ---
 
+## Intro
 
 Am F Dm F
 
- 	     Am               F
+## Verse
+
+&nbsp;      Am               F
 Don't ask me, what you know is true,
 &nbsp;             Dm          F
 Don't have to tell you, I love your precious heart.
@@ -30,6 +33,7 @@ D------------------------------
 A--0--3--5--0-0-0-0-0-0-0------     x2
 E------------------------------
 ```
+## Verse
 
 &nbsp;         Am           F
 We could live, for a thousand years,
@@ -58,13 +62,13 @@ Am F Dm F
 
 ## Chorus
 I,             I was standing,             you were there,
- [Don�t ask me]          [you know its true]          [worlds colliding]
+ [Don't ask me]          [you know its true]          [worlds colliding]
 
 Two worlds collided,               and they could never tear us apart...
 &nbsp;                 [shining through]
 
 You,        you were standing,              you were there,
-[Don�t ask me]             [you know its true]        [worlds colliding]
+[Don't ask me]             [you know its true]        [worlds colliding]
 
 Two worlds collided,             and they could never tear us apart...
 &nbsp;                 [shining through]

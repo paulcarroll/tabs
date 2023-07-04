@@ -6,12 +6,19 @@ layout: page
 capo: 
 columns: 1
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: The outsider
+    url: https://open.spotify.com/track/6CqYhhUPJORx1vvdTNc8jv?si=hCTGHplNTyyClV9Dc-5uqQ
+  - type: YouTube
+    title: esjael
+    url: https://www.youtube.com/watch?v=Lp61uSqLoBc
+  - type: YouTube
+    title: LonnieAyala
+    url: https://www.youtube.com/watch?v=V1JzHTwEfq0
+  - type: YouTube
+    title: JamesOface
+    url: https://www.youtube.com/watch?v=LF3mCeBFoCY
 ---
-
-The Outsider - A Perfect Circle
 
 ## Intro
 

@@ -5,11 +5,12 @@ tags: []
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: This Is A Call
+    url: https://open.spotify.com/track/2wO8aOvN1ogLy1N8XT1WJE?si=c6c7afb518784fe8
 ---
 
+## Verse
 
 E
 visiting is pretty
@@ -95,10 +96,11 @@ A
 it's been too long
 
 ## Outro
-E||--0--0--10---0--0--10-9-10--0--0--10--0-0--10-9-10--0--0--16--0--0--16 15-16-|
 
 ```chordpro
+E||--0--0--10---0--0--10-9-10--0--0--10--0-0--10-9-10--0--0--16--0--0--16 15-16-|
+
+
 A|------------------------------------------5-----------2--------2--||
 E|-16-0--0--16-0-0-16-15-16--0--0-16-0--0---3-----------0--------0--||
 ```
-

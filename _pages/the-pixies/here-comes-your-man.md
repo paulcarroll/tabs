@@ -1,21 +1,19 @@
 ---
 group: The Pixies
 title: Here Comes Your Man
-tags: []
+tags: [lively]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Here Comes Your Man
+    url: https://open.spotify.com/track/4IvZLDtwBHmBmwgDIUbuwa?si=2q7YX3ZbQTSKqwuKQMbKQA
 ---
 
-
-## Intro 
-
-*riff 3 times*
+## Intro
 
 ```chordpro
+*riff 3 times*
 |-------------------------------------------|
 |-------------------------------------------|
 |-------------0-----------------------------|
@@ -44,6 +42,7 @@ Em                G
 &nbsp; Take me way to nowhere place
 
 ## Chorus
+
 Bm                    G               A
 &nbsp; There is a wake so long (so long so long)
 &nbsp;                D
@@ -68,7 +67,7 @@ G  A                D
 
 ## Verse
 
-[Repeat solo into verses]
+*[Repeat solo into verses]*
 
 D                  A
 They shake on the boxcar moving
@@ -80,6 +79,7 @@ Em                       G
 A big big storm fall and break my crown
 
 ## Chorus
+
 Bm                    G               A
 &nbsp; There is a wake so long (so long so long)
 &nbsp;                D
@@ -91,9 +91,10 @@ G  A                D
 G  A                D
 &nbsp;   Here comes your man
 
-[Chords through solo:  D  A  Em  G ]
+*[Chords through solo:  D  A  Em  G ]*
 
 ## Chorus
+
 Bm                    G               A
 &nbsp; There is a wake so long (so long so long)
 &nbsp;                D

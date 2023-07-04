@@ -1,13 +1,13 @@
 ---
 group: Crowded House
 title: Distant Sun
-tags: []
+tags: [lively]
 layout: page
 capo: 2
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Distant Sun
+    url: https://open.spotify.com/track/4oh6NKtMdiXIhgGGQBR09b?si=3b5a6d1f86964253
 ---
 
 

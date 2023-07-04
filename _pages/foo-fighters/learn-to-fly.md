@@ -1,23 +1,25 @@
 ---
 group: Foo Fighters
 title: Learn To Fly
-tags: [learnt]
+tags: [learnt, lively]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Learn To Fly
+    url: https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT?si=19372a09d708402b
 ---
-
 
 ```chordpro
 B:      [x2440x]
 F#m4/7: [x442xx]
 ```
 
-## intro
-B	F#m	E
+## Intro
+
+B  F#m  E
+
+## Verse
 
 B2                  F#m4/7*
 Run and tell all of the angels.
@@ -46,6 +48,8 @@ E
 Looking for some time to try.
 &nbsp; G                 A                   B
 Make my way beack home where I'll learn to fly.
+
+## Verse
 
 B                    F#m4/7*
 Thing I'm dying ness in a patience.

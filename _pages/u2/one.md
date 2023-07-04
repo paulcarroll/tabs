@@ -4,12 +4,15 @@ title: One
 tags: []
 layout: page
 links: 
-  - type: YouTube
-    title: HitsOnAcousticGuitar
-    url: https://www.youtube.com/watch?v=hPJVYZxZTcM&ab_channel=HitsOnAcousticGuitar
   - type: Spotify 
     title: One
     url: https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU?si=79cf3da35ea145db
+  - type: YouTube
+    title: HitsOnAcousticGuitar
+    url: https://www.youtube.com/watch?v=hPJVYZxZTcM&ab_channel=HitsOnAcousticGuitar
+  - type: YouTube
+    title: LeeJohnBlackmore
+    url: https://www.youtube.com/watch?v=Bt_cQkif1g0
 ---
 
 ## Intro

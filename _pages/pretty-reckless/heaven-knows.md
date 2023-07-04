@@ -1,16 +1,17 @@
 ---
 group: Pretty Reckless
 title: Heaven knows
-tags: []
+tags: [SHIT]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Heaven knows
+    url: https://open.spotify.com/track/7F5jxmwf1uWVqh6nbYz7rl?si=c8fd99ca63934e02
 ---
 
 ## Verse
+
 Em
 Jimmy's in the back
 G
@@ -21,6 +22,7 @@ Em
 You can hear him cry
 
 ## Chorus
+
 Em        G
 Oh Lord, heaven knows
 A              Em
@@ -33,6 +35,7 @@ Em
 Way down below, way down below
 
 ## Verse
+
 Em                        G
 Judy's in the front seat picking up trash
 A

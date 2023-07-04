@@ -1,7 +1,7 @@
 ---
 group: Creedance Clearwater Revival
 title: Lookin' Out My Back Door
-tags: [learnt]
+tags: [learnt, SHIT]
 layout: page
 capo: 3
 links: 
@@ -36,7 +36,7 @@ Doot doot doot, lookin� out my back door...
 
 D                              C              G
 Tambourines and elephants, are playin� in the band,
-&nbsp;   									Em            D
+&nbsp;                     Em            D
 Won't you take a ride on the flyin� spoon, doot doo doo.
 G                     Em
 Wonderous apparition, provided by magician,
@@ -69,5 +69,5 @@ doot doot doot lookin� out my back door.
 
 ## Outro
 
-	C G D G   (or riff)
+  C G D G   (or riff)
 

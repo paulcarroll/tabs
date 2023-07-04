@@ -5,15 +5,18 @@ tags: []
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Shiver
+    url: https://open.spotify.com/track/2oVm9jWR7xAT3kHWLnrae8?si=fsKnGswETEmgkSoDtU4o4g
+  - type: YouTube
+    title: Shiggins
+    url: https://www.youtube.com/watch?v=XPMN3TxxohI&ab_channel=shiggins316
 ---
 
-
 ## Intro
-&nbsp;   G                    Cadd9
+
 ```chordpro
+    G                    Cadd9
 e|--3--------------------3----|
 B|--3--------------------3----|
 G|--0--------------------0----|
@@ -30,6 +33,7 @@ E|-------------------------------------------------------------6~-------6-3~-|
 ```
 
 ## Verse
+
 G                         Cadd9
 Ive been contemplating       suicide
 G                  Cadd9
@@ -40,6 +44,7 @@ G                    Cadd9
 To contain the blood I could have shed
 
 ## Bridge
+
 G                   Cadd9
 She makes me feel so weary
 G                Cadd9
@@ -50,6 +55,7 @@ G              Cadd9
 That even mother could not tell
 
 ## Chorus
+
 &nbsp;       G                    Cadd9
 That my babys so vain, she is almost, a mirror
 &nbsp;       G                        Cadd9
@@ -59,7 +65,6 @@ Down my spi-i-i-i-i-i-ine
 &nbsp;         G           Cadd9
 Down my spi-i-i-i-i-i-ine
 
-1:42
 ```chordpro
 e|--------------------------------------------------------------------------|
 B|--------------------------------------------------------------------------|
@@ -70,6 +75,7 @@ E|--------------------------------------------------------------------------|
 ```
 
 ## Verse
+
 Well I keep her photograph, against my heart
 Cause in my life she plays a, starring part
 Our love could hold on, cigarettes
@@ -80,6 +86,7 @@ Repeat Bridge
 Repeat Chorus
 
 ## Solo
+
 ```chordpro
 e|-----------------------------------8--8b10r--8b10r--------------------------|
 B|-------------------6h8-8b10(slow)-----8b10r--8b10r--8p6-8~~~----------------|
@@ -101,10 +108,8 @@ G|-----------------------------------------12---12-14-12~~~--14b15rb16r--12~~-|
 D|----------------------------------------------------------------------------|
 A|----------------------------------------------------------------------------|
 E|----------------------------------------------------------------------------|
-```
 
-&nbsp;                                Continued while Dave is singing Chorus
-```chordpro
+                                   Continued while Dave is singing Chorus
 e|----------------------------------------------------------------------------|
 B|----------------------------------14-------14-----14-----------------14-----|
 G|-------11-11--------11--------11--13b15r---13b15r-13b15r---11-----11-13b15~-|
@@ -112,4 +117,3 @@ D|-11h13--------11h13-----11h13----------------------------------13-----------|
 A|----------------------------------------------------------------------------|
 E|----------------------------------------------------------------------------|
 ```
-

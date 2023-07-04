@@ -1,15 +1,17 @@
 ---
 group: The Red Hot Chili Peppers
 title: My Friends
-tags: []
+tags: [SHIT, lively, learning]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: My friends
+    url: https://open.spotify.com/track/6HksxcBzMVdT17aq1Q79Xe?si=bbca20f044014ee2
+  - type: YouTube
+    title:  HitsOnAcousticGuitar
+    url: https://www.youtube.com/watch?v=_U-VcuQKfJc&ab_channel=HitsOnAcousticGuitar
 ---
-
 
 ```chordpro
 Dsus2     232200
@@ -38,6 +40,7 @@ F7        112131
 Dsus2   Dsus2/F   G   C   Dsus2   Dsus2/F   G   Gsus   F6/9
 
 ## Verse
+
 Dsus2        Dsus2/F         G
 My friends are so depressed
 C(add9)     Dsus2
@@ -50,6 +53,7 @@ C(add9)       Dsus2     Dsus2/F    G C(add9)
 You know I will, you know I will
 
 ## Verse
+
 D         Dsus2/F         G
 Ex-girlfriend called me up
 C(add9)     D
@@ -62,6 +66,7 @@ Csus2
 For being sad
 
 ## Chorus
+
 C        Asus2
 &nbsp; I love all of you
 C     D      A(add2)
@@ -72,6 +77,7 @@ C     D      A(add2)
 When you don't know yourself
 
 ## Verse
+
 D         Dsus2/F         G
 My friends are so distressed
 C(add9)     D
@@ -84,6 +90,7 @@ Csus2
 This emptiness
 
 ## Chorus
+
 G  F6   E       G6  F#7(add4)      F
 &nbsp;       Imagine me taught by tragedy
 C          Bsus      F5   F7

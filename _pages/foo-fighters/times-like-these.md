@@ -1,7 +1,7 @@
 ---
 group: Foo Fighters
 title: Times like these
-tags: [lively]
+tags: [lively, learning]
 layout: page
 links:
   - type: Spotify

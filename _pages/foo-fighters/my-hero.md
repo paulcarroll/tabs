@@ -1,12 +1,18 @@
 ---
 group: Foo Fighters
 title: My hero
-tags: [easy, learning, ]
+tags: [easy, learning]
 layout: page
 links:
+  - type: Spotify
+    title: My hero
+    url: https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN?si=4215a5337d764f40
   - type: YouTube
     title: My hero
     url: https://www.youtube.com/watch?v=K0ixfNX-8QU&ab_channel=HitsOnAcousticGuitar
+  - type: YouTube
+    title: RyanLendt
+    url: https://www.youtube.com/watch?v=VaHMzP_yOUI&ab_channel=RyanLendt
 ---
 
 ## Intro

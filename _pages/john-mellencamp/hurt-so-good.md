@@ -1,18 +1,23 @@
 ---
 group: John Mellencamp
 title: Hurt So Good
-tags: []
+tags: [SHIT, lively]
 layout: page
 capo: 
 columns: 1
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Hurt So Good
+    url: https://open.spotify.com/track/67eX1ovaHyVPUinMHeUtIM?si=SlOnWkYpTYOT2Rui7GZHkw
 ---
 
+## Intro
 
+```chordpro
 D A. D A, DDD A E A * A, DDD A E A * A, DDD A E A * A, DDD A E A * A
+```
+
+## Verse
 
 A             E        F#m                   D
  When I was a young boy, said put away those young boy ways,
@@ -26,12 +31,19 @@ E
  Come on and make it...
 
 ## Chorus
+
 A         E   A                     E
  Hurt so good, come on baby make it hurt so good,
 D          F#m        D                               E         A
  Sometimes love don't feel like it should, you make it, hurt so good...
 
-Instrumental: DDD A E A * A, DDD A E A * A
+## Instrumental
+
+```chordpro
+DDD A E A * A, DDD A E A * A
+```
+
+## Verse
 
 &nbsp;     A                 E         F#m                            D
  Don't have to be so exiting, just tryin' to give myself a little bit of fun yeah,
@@ -45,15 +57,20 @@ E
  Come on and make it . . .
 
 ## Chorus
+
 A         E   A                     E
  Hurt so good, come on baby make it hurt so good,
 D          F#m        D                               E         A
- 	Sometimes love don't feel like it should, you make it, hurt so good...
+ Sometimes love don't feel like it should, you make it, hurt so good...
 
-Instrumental Break:
+## Instrumental Break
+
+```chordpro
 DDD A E A * A
+```
 
-Refrain:
+### Refrain:
+
 &nbsp;     D                   A         D                F#m     A
  I ain't talkin' no big deals, I ain't made no plans myself,
 D                   A                         E
@@ -62,17 +79,21 @@ E                          E                            DDD  (A)
  Walk around, all day long, walk around, all day long...
 
 ## Chorus
+
 A         E   A                     E
  Hurt so good, come on baby make it hurt so good,
 D         F#m        D                                E         A     DDD
- 	Sometimes love don't feel like it should, you make it, hurt so good...
+ Sometimes love don't feel like it should, you make it, hurt so good...
 
 ## Chorus
+
 A         E   A                     E
  Hurt so good, come on baby make it hurt so good,
 D          F#m        D                               E         A
- 	Sometimes love don't feel like it should, you make it, hurt so good...
+ Sometimes love don't feel like it should, you make it, hurt so good...
 
 ## Outro
-DDD A E A * A, DDD A E A * A
 
+```chordpro
+DDD A E A * A, DDD A E A * A
+```

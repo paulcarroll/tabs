@@ -1,20 +1,17 @@
 ---
 group: Steve Earle
 title: Copperhead road
-tags: [learning]
+tags: [learning, SHIT, lively]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Copperhead road
+    url: https://open.spotify.com/track/1HChuZvDKwcl76LvaGExeo?si=74736c6ea2cc439e
 ---
 
-## Intro
-D
-
-[Riff 1]           [Riff 2]
 ```chordpro
+   [Riff 1]           [Riff 2]
 e|---0---0-------2--0-0--0-0-0-0-0-0-0-0-2------|
 B|---3---3-------3--0-0--5-5-5-0-0-0-0-0-3------|
 G|-2-2-2-2-4p2p0-2--0-0--5-5-5-4-4\2-2p0-2------|
@@ -23,9 +20,14 @@ A|----------------------------------------------|
 E|----------------------------------------------|
 ```
 
+## Intro
+
+D
+
 *PLAY RIFF 1 AFTER EACH VERSE LINE*
 
 ## Verse
+
 D
 Well my name's John Lee Pettimore
 Same as my daddy and his daddy before
@@ -47,6 +49,7 @@ He never came back from Copperhead Road
 *Play intro riff*
 
 ## Verse
+
 D
 Now Daddy ran the whiskey in a big block Dodge
 Bought it at an auction at the Mason's Lodge

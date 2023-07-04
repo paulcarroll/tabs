@@ -1,15 +1,15 @@
 ---
 group: Kings of Leon
 title: Use somebody
-tags: [learning]
+tags: [learning, SHIT]
 layout: page
 links: 
-  - type: YouTube
-    title: HitsOnAcousticGuitar
-    url: https://www.youtube.com/watch?v=JLo57SVL6Vc&ab_channel=HitsOnAcousticGuitar
   - type: Spotify 
     title: Use somebody
     url: https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2?si=1b65c4c1ed624585
+  - type: YouTube
+    title: HitsOnAcousticGuitar
+    url: https://www.youtube.com/watch?v=JLo57SVL6Vc&ab_channel=HitsOnAcousticGuitar
 ---
 
 ## Intro
@@ -21,22 +21,22 @@ Woah ah ohh Woah ah ohhh .....
 
 &nbsp;                   C                   Em            F
 I've been roaming around always lookin down at all I see.
-          C                 Em             F         F
+&nbsp;         C                 Em             F         F
 Painted faces filled with places I can't reach.
-                      Am        C        F       F
+&nbsp;                     Am        C        F       F
 You know that I could use somebody
-                      Am        C        F       F
+&nbsp;                     Am        C        F       F
 You know that I could use somebody
 
 ## Verse
 
 &nbsp;             C               Em                F
 Someone like you and all you know and how you speak
-            C         Em             F         F
+&nbsp;           C         Em             F         F
 Countless lovers undercover of the street
-                      Am        C        F       F
+&nbsp;                     Am        C        F       F
 You know that I could use somebody
-                      Am        C        F       F
+&nbsp;                     Am        C        F       F
 You know that I could use somebody
 
 ## Chorus
@@ -50,27 +50,28 @@ Woah ah ohh Woah ah ohhh .....
 
 &nbsp;           C                     Em               F
 Off in the night while you live it up I'm off to sleep
-        C                Em            F         F
+&nbsp;       C                Em            F         F
 Waging wars to shake the poet and the beat
-                   Am          C        F       F
+&nbsp;                  Am          C        F       F
 I hope it's gonna make you notice
-                   Am          C        F       F
+&nbsp;                  Am          C        F       F
 I hope it's gonna make you notice
 
 ## Chorus
 
 &nbsp;            C
 Someone like me
-         Em          F
+&nbsp;        Em          F
 Woah ah ohh Woah ah ohhh
-             C
+&nbsp;            C
 Someone like me
-         Em          F
+&nbsp;        Em          F
 Woah ah ohh Woah ah ohhh
-              C
+&nbsp;             C
 Someone like me
-         Em          F
+&nbsp;        Em          F
 Woah ah ohh Woah ah ohhh .....
+
 *(Go let it out) x7*
 
 ## Outro
@@ -79,14 +80,13 @@ Woah ah ohh Woah ah ohhh .....
 Someone like you
  C       Em          F
 Woah ah ohh Woah ah ohhh
-              C
+&nbsp;             C
 Someone like you
  C       Em          F
 Woah ah ohh Woah ah ohhh
-              C
+&nbsp;             C
 Someone like you
  C       Em          F
 Woah ah ohh Woah ah ohhh .....
-
 &nbsp;                   C                   Em            F
 I've been roaming around always lookin down at all I see.

@@ -1,15 +1,14 @@
 ---
 group: Tool
 title: Sober
-tags: []
+tags: [heavy]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Sober
+    url: https://open.spotify.com/track/6DyywdbmTzlmXBzG9ym7Rt?si=65Q7q-HoTl6FC5CRRAuWhg
 ---
-
 
 ## Verse
 

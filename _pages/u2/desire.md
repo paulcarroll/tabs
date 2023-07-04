@@ -10,8 +10,11 @@ links:
     url: 
 ---
 
+## Intro
 
 D A E x4
+
+## Verse
 
  D  A    E        D  A    E
 Yeah, lover    I'm on the streets
@@ -19,6 +22,8 @@ D  A    E        D  A    E
 Gonna go where the bright lights and the big city meet
 &nbsp;      D              A     D A E
 With a red guitar, on fire, Desire
+
+## Verse
 
 D  A    E        D  A    E
 She's the candle burning in my room
@@ -34,11 +39,15 @@ And the fever when I'm beside her, Desire, desire
 And the fever when I'm beside her, Desire, desire
 
 ## Bridge
+
 D   A     D    E
 Burn-ing, burn-ing
 
 ## Instrumental
-Riff x4
+
+*Riff x4*
+
+## Verse
 
 D  A    E            D  A    E
 She's the dollars    She's my protection
@@ -56,12 +65,13 @@ D A E   D A E   D A E   D A E
 Desire, desire, desire, desire
 
 ## Instrumental
+
 D A E
 D A E
 
 ## Outro
+
 D A E
 Desire Desire
 
 D A E    D A E
-

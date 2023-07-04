@@ -1,13 +1,22 @@
 ---
 group: The Red Hot Chili Peppers
 title: Breaking the girl
-tags: []
+tags: [SHIT, lively]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Breaking the girl
+    url: https://open.spotify.com/track/0cG9ocYqYOIVtgiWTmTe3g?si=6b205a809ad74d1c
+  - type: YouTube
+    title: YoniSchlesinger
+    url: https://www.youtube.com/watch?v=3AtRT22SrRU&ab_channel=YoniSchlesinger
+  - type: YouTube
+    title: MartyMusic
+    url: https://www.youtube.com/watch?v=aqtSWrl1BJI&ab_channel=MartyMusic
+  - type: YouTube
+    title: JakesGuitarVids
+    url: https://www.youtube.com/watch?v=byHAY9nmksA
 ---
 
 ## Verse

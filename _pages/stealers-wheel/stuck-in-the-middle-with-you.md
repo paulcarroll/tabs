@@ -1,17 +1,20 @@
 ---
 group: Stealers Wheel
 title: Stuck In The Middle With You
-tags: [learnt]
+tags: [learnt, easy, SHIT]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Stuck In The Middle With You
+    url: https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT?si=cz5MbgHKRu-KRiI5Vi_MGw
 ---
 
+## Intro
 
-&nbsp; D D D
+D D D
+
+## Verse
 
 &nbsp;      D
 Well I don't know why I came here tonight,
@@ -30,6 +33,8 @@ Clowns to the left of me, jokers to the right,
 Here I am stuck in the middle with you,
 &nbsp;       D
 Yes I'm, stuck in the middle with you...
+
+## Verse
 
 &nbsp;        D
 And I'm wondering what it is I should do,
@@ -52,6 +57,8 @@ And you're proud that you're a self-made-man,
 And your friend they all come crawlin',
 &nbsp;                            D       A7      D D D
 Slap you on the back and say please, please...
+
+## Verse
 
 &nbsp; D
 Trying to make some sense of it all,
@@ -83,6 +90,8 @@ And you're proud that you're a self-made-man,
 And your friend they all come crawlin',
 &nbsp;                            D       A7      D D D
 Slap you on the back and say please, please...
+
+## Verse
 
 &nbsp;      D
 Well I don't know why I came here tonight,

@@ -1,13 +1,22 @@
 ---
 group: Foo Fighters
 title: Best of You
-tags: [learning]
+tags: [learning, lively]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Best of You
+    url: https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp?si=3316f9bb2a384032
+  - type: YouTube
+    title: JotaJohn
+    url: https://www.youtube.com/watch?v=om4FWw0Z0KU&ab_channel=JotaJohn
+  - type: YouTube
+    title: SimeonBadev
+    url: https://www.youtube.com/watch?v=mOLiG3vzrNo&ab_channel=SimeonBadev
+  - type: YouTube
+    title: RappaNui-Musicalizando
+    url: https://www.youtube.com/watch?v=uAfowgCvl9w&ab_channel=RappaNui-Musicalizando
 ---
 
 ```chordpro

@@ -1,18 +1,19 @@
 ---
 group: The Lumineers
 title: Hey Ho
-tags: []
+tags: [SHIT, lively]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Hey ho
+    url: https://open.spotify.com/track/7eAUXhbTO8lKvx9zydSbvA?si=ukjEEOguRXeFIPJ6-CXK6g
 ---
 
-Intro is C and F/C (with the F chord only on the last down beat)
+*Intro is C and F/C (with the F chord only on the last down beat)*
 
 ## Verse
+
 C                               F/C C
 I've been trying to do it right
 C                               F/C C
@@ -25,6 +26,7 @@ Am                   G      F/C C    F/C C
 I've been sleeping in my bed
 
 ## Verse
+
 C                                   F/C C
 So show me family
 C                                   F/C C
@@ -37,6 +39,7 @@ Am               G     F/C   C
 But I can write a song.
 
 ## Chorus
+
 &nbsp;             Am                  G                   C
 I belong with you, you belong with me, you're my sweetheart
 &nbsp;             Am                  G              F/C  C
@@ -47,6 +50,7 @@ I belong with you, you belong with me, you're my sweet
 &nbsp; F/C C   F/C
 
 ## Verse
+
 C                                 F/C C
 I don't think you're right for him
 C                                 F/C C
@@ -59,12 +63,14 @@ Am                       G      F/C  C
 And she'd be standing next to me
 
 ## Chorus
+
 &nbsp;             Am                  G                   C
 I belong with you, you belong with me, you're my sweetheart
 &nbsp;             Am                  G                   C
 I belong with you, you belong with me, you're my sweetheart
 
 ## Bridge
+
 &nbsp;     F/C C    G         C
 And love, we need it now
 &nbsp;      F/C C        Gsus
@@ -73,6 +79,7 @@ Let's hope for some
 Cuz oh, we're bleeding out
 
 ## Chorus
+
 &nbsp;             Am                  G                   C
 I belong with you, you belong with me, you're my sweetheart
 &nbsp;             Am                  G              F/C  C
@@ -81,4 +88,3 @@ I belong with you, you belong with me, you're my sweet
 F/C C
 F/C C
 F/C C
-

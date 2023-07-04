@@ -1,18 +1,24 @@
 ---
 group: REM
 title: Losing my religion
-tags: []
+tags: [quiet]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: YouTube
+    title: YoniSchlesinger
+    url: https://www.youtube.com/watch?v=EhaKIMxJHF0
+  - type: Spotify
+    title: Losing my religion
+    url: https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx?si=3YiQSYugR8W1MPcqhlPtfw
 ---
 
 ## Intro
+
+```chordpro
 F           Dm G     Am    Am/B     Am/C   Am/D Am
 F           Dm G     Am       G
+```
 
 ## Verse
 
@@ -98,7 +104,7 @@ I thought that I heard you sing.
 Am   F               Dm  G   Am    G
 I  think I thought I saw you try.
 
-[Link]
+## Link
 
 ```chordpro
    Am                      G
@@ -159,8 +165,8 @@ That was just a dream,    just a dream, just a dream, dream.
 
 ## Outro
 
-&nbsp; Am
 ```chordpro
+   Am
 e|-12-12-12-12-12-12-12-12-|
 B|-------------------------|
 G|-------------------------|   x7
@@ -175,4 +181,3 @@ D|-------------------------|-----------------|
 A|-------------------------|-----------------|
 E|-------------------------|-----------------|
 ```
-

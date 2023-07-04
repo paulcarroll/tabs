@@ -5,9 +5,15 @@ tags: [learning]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Dust in a baggie
+    url: https://open.spotify.com/track/2Lk8XTulavagQOrYqFpGB8?si=ab6d5cf7b7744a64
+  - type: YouTube
+    title: LessonsWithMarcel
+    url: https://www.youtube.com/watch?v=nVHb0tdLM9I&ab_channel=LessonsWithMarcel
+  - type: YouTube
+    title: StokesMusicStudiosOnline
+    url: https://www.youtube.com/watch?v=pwJr4tz5DPI&ab_channel=StokesMusicStudiosOnline
 ---
 
 hort bars = 2/4

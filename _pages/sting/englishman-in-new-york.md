@@ -1,13 +1,19 @@
 ---
 group: Sting
 title: Englishman in New York
-tags: []
+tags: [quiet]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Englishman in New York
+    url: https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp?si=uGmrcgfhQsG1FijysxTGBg
+  - type: YouTube
+    title: RossSteele
+    url: https://www.youtube.com/watch?v=4BIPEW-fl7E
+  - type: YouTube
+    title: FranzFruciFlor
+    url: https://www.youtube.com/watch?v=rp-Oiu3TI60&ab_channel=FranzFruciFlor
 ---
 
 ## Verse

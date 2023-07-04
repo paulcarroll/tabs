@@ -5,14 +5,16 @@ tags: []
 layout: page
 capo: 6
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Float on
+    url: https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R?si=14dcb21b82e64395
 ---
 
-
 ## Intro
+
+```chordpro
 C Em Am Em x2
+```
 
 ## Verse
 C                      Em                Am
@@ -25,9 +27,13 @@ Em
 Well, you just laughed it off, it was all okay
 
 ## Pre-chorus
+
+```chordpro
 C Em Am Em
+```
 
 ## Chorus
+
 C        Em             Am
 And we'll all float on, okay
 &nbsp;        Em
@@ -38,6 +44,7 @@ And we'll all float on, okay
 And we'll all float on anyway well
 
 ## Verse
+
 &nbsp; C                           Em                        Am
 Well, a fake Jamaican took every last dime with that scam
 Em
@@ -52,9 +59,13 @@ Em
 Well we'll float on good news is on the way
 
 ## Pre-chorus
+
+```chordpro
 C Em Am Em
+```
 
 ## Chorus
+
 C        Em              Am
 And we'll all float on, okay
 &nbsp;        Em
@@ -72,10 +83,12 @@ Alright, already, we'll all float on
  Am                         Em
 Alright, don't worry, we'll all float on...
 
-[Break]
+## Break
+
 C
 
-[Chorus/Outro]
+## Chorus/Outro
+
 C                       Em              Am
 Alright, already, we'll all float on, alright
 &nbsp;              Em
@@ -98,4 +111,3 @@ N.C.
 Don't you worry, we'll all float on (Alright!)
 N.C.
 All float on...
-

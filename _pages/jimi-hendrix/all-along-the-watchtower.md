@@ -5,14 +5,26 @@ tags: []
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify 
+    title: All along the watchtower
+    url: https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f?si=Bc90BqPSTdqCc3jN-PPATA
+  - type: YouTube
+    title: LeeJohnBlackmore
+    url: https://www.youtube.com/watch?v=dsBOMv7oKvE
+  - type: YouTube
+    title: SUGARFORTHEPILL
+    url: https://www.youtube.com/watch?v=MW4ElI_NqS4
+  - type: YouTube
+    title: BrianKeithWallen
+    url: https://www.youtube.com/watch?v=3pTHHfWNETo
 ---
 
 ## Intro
+
+```chordpro
 G
 Am   G   F   G   x4
+```
 
 ## Verse
 Am               G                F          G
@@ -33,7 +45,10 @@ Am            G           F     G
 &nbsp; Know what any of it is worth.
 
 ## Solo
+
+```chordpro
 Am   G   F   G   x4
+```
 
 ## Verse
 Am          G         F     G
@@ -54,7 +69,10 @@ Am            G         F    G
 &nbsp; The hour is getting late.
 
 ## Solo
+
+```chordpro
 Am   G   F   G   x16
+```
 
 ## Verse
 Am   G          F        G
@@ -74,7 +92,9 @@ Am           G             F    G
 &nbsp;       Am     G         F    G
 and the wind began to howl.
 
-[Outro] (with ad-lib vocals)
-Am   G   F   G   x9
-(fade out)
+## Outro 
 
+*(with ad-lib vocals)*
+
+Am   G   F   G   x9
+**(fade out)*

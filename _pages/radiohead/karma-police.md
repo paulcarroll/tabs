@@ -1,16 +1,15 @@
 ---
 group: Radiohead
 title: Karma Police
-tags: []
+tags: [quiet, learning]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Karma Police
+    url: https://open.spotify.com/track/63OQupATfueTdZMWTxW03A?si=S1BmPorpSD2-agUCqIFfGQ
 ---
 
-Chords:
 ```chordpro
 D/F#: 2x0232
 G/F#: 200033
@@ -19,11 +18,15 @@ E7:   020100
 Bm:   X24432
 ```
 
-Intro:  Am D/F# Em G
-&nbsp;       Am F Em G
-&nbsp;       Am D
-&nbsp;       G G/F#, C, C/B
-&nbsp;       Am, Bm, D
+## Intro
+
+Am   D/F#  Em  G
+Am   F     Em  G
+Am   D
+G    G/F#  C   C/B
+Am   Bm    D
+
+## Verse
 
 Am  D/F#    Em
 Kar_ma     Police,
@@ -36,6 +39,8 @@ he buzzes like a fridge
 &nbsp;    D  G         C   C/B  Am   Bm   D
 he's like a detuned ra_di____o.
 
+## Verse
+
 Am  D/F# Em
 Kar_ma    Police,
 &nbsp; G             Am
@@ -47,6 +52,8 @@ is making me feel ill,
 &nbsp;   D         G                 C   C/B  Am   Bm   D
 and we have crashed her par_ty____.
 
+## Chorus
+
 C       D           G   F#
 this is what you'll get,
 C       D           G   F#
@@ -55,6 +62,8 @@ C       D           G
 this is what you'll get,
 &nbsp;        Bm        C    Bm  D
 when you mess with us...
+
+## Verse
 
 Am  D/F#   Em
 Kar_ma    Police,
@@ -67,6 +76,8 @@ I've given all I can,
 &nbsp;   D             G      C C/B Am   Bm   D
 but we're still on the pay___roll.
 
+## Chorus
+
 C       D           G   F#
 this is what you'll get,
 C       D           G   F#
@@ -76,6 +87,8 @@ this is what you'll get,
 &nbsp;        Bm        C    Bm  D
 when you mess with us...
 
+## Chorus
+
 Bm        D          G
 And for a minute there,
 &nbsp; D      G      D      E7
@@ -84,6 +97,8 @@ Bm          D        G
 And for a minute there,
 &nbsp; D      G      D      E7
 I lost myself I lost myself,
+
+## Chorus
 
 Bm        D          G
 And for a minute there,

@@ -1,18 +1,19 @@
 ---
 group: Pearl Jam
 title: Black
-tags: []
+tags: [quiet, learning]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Black
+    url: https://open.spotify.com/track/5Xak5fmy089t0FYmh3VJiY?si=UY5VDhYARZKbjskeesv8hA
 ---
 
+# Verse
 
 E          A          Asus4 A
-sheets of empty canvas
+Sheets of empty canvas
 &nbsp;    E          A       A  Asus4 A
 untouched sheets of clay
 E                   A
@@ -21,7 +22,7 @@ her lace spread out before me
 as her body once did
 
 E          A       Asus4 A
-all five horizons,
+All five horizons,
 &nbsp;   E               A                       Asus4 A
 revolved around her soul as the earth to the sun
 E                  A

@@ -5,9 +5,18 @@ tags: [learning]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Hey Joe
+    url: https://open.spotify.com/track/0NWPxcsf5vdjdiFUI8NgkP?si=EhYmiuwhTEqgE6cyqfnpmg
+  - type: YouTube
+    title: BonesJonesMusic
+    url: https://www.youtube.com/watch?v=pJnEXMZUf4U
+  - type: YouTube
+    title: GuitarDragons
+    url: https://www.youtube.com/watch?v=FGfoKcgokfk
+  - type: YouTube
+    title: MikeL
+    url: https://www.youtube.com/watch?v=8oLMO2UjCLw
 ---
 
 ```chordpro
@@ -17,9 +26,11 @@ A     002220
 ```
 
 ## Intro
+
 | E Em7 C#4/E | E
 
 ## Verse
+
 C   G   D          A               E            E
 Hey Joe, where you goin’ with that gun in your hand?
 C     G   D       A                         E                E
@@ -36,6 +47,7 @@ D            A                                     E
 Huh! And that ain’t too cool.
 
 ## Verse
+
  C       G D A                        E
 A hey Joe,   I heard you shot your woman down,
 &nbsp;                     E
@@ -65,6 +77,7 @@ C G D A E E
 &nbsp;          Oh, alright.
 
 ## Verse
+
 C    G
 &nbsp;  Hey Joe
 D A                E                               E
@@ -85,14 +98,13 @@ D A         E
 Ain’t no one gonna find me.
 
 ## Outro
+
 C         G
  Ain’t no hangman gonna,
 D                     A           E
  He ain’t gonna put a rope around me,
 &nbsp;                     E
-You better believe it right now,
-
-I gotta go now,
+You better believe it right now, I gotta go now,
 C     G
 &nbsp; Hey Joe,
 D            A      E

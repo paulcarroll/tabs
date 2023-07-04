@@ -1,21 +1,17 @@
 ---
 group: Stone Temple Pilots
 title: Creep
-tags: []
+tags: [learning]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Creep
+    url: https://open.spotify.com/track/0elH6ukMGLyCHJavHutEza?si=Dq7zQdw-TG2PXFulcN3C0A
+  - type: YouTube
+    title: LeeJohnBlackmore
+    url: https://www.youtube.com/watch?v=wn_ETYe09Wc
 ---
-
-I've seen other tab interpretations of this song and I'm a bit perturbed at what
-seems to be some very tone deaf people out there. Not to say I am anywhere near
-perfect in my interpretation but this seems to work just fine playing in a jam
-session. (Note, Mr "other people are tone deaf"'s tab has now been corrected.)
-
-Creep by Stone Temple Pilots (Chords plus some tabs)
 
 ```chordpro
 Opening

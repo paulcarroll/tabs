@@ -7,6 +7,9 @@ tuning: drop-d
 capo: 2
 columns: 1
 links:
+  - type: Spotify
+    title: Cathy's clown
+    url: https://open.spotify.com/track/1Z6Ox5SFLutVQi80WVxsId?si=0abb9dee5edb4c43
   - type: YouTube
     title: YouAmI live opera house
     url: https://www.youtube.com/watch?v=xkGrYetTmjg
@@ -24,9 +27,9 @@ A|-------------------------------|
 E|-------------------------------|
 ```
 
-D5   Cadd9    E5    A-Asus4-A-ASus4    x2
+## Intro
 
-(continue A-Asus4-A-Asus4 throughout song)
+D5   Cadd9    E5    A-Asus4-A-ASus4    x2
 
 ## Verse
 
@@ -34,9 +37,9 @@ D5   Cadd9    E5    A-Asus4-A-ASus4    x2
 The weightlifter and a library tech you know
 D5    Cadd9  E5             A      D5   Cadd9  E5   A
 Made a big decision in the magazine row
-      D5     Cadd9     E5              A      D5   Cadd9  E5   A
+&nbsp;     D5     Cadd9     E5              A      D5   Cadd9  E5   A
 I'll open my catalogue just enough to let you in
-     D5 (N.C.)                          D5  Cadd9 E5  A
+&nbsp;    D5 (N.C.)                          D5  Cadd9 E5  A
 And she'll drop beers like you drop vitamins
 
 ## Chorus
@@ -50,11 +53,11 @@ Was you ever thinking that you'd be Cathy's clown now she's around
 
 &nbsp;   D5      Cadd9         E5             A          D5  Cadd9  E5   A
 The protein pills and the g-strings you left in her flat
-    D5   Cadd9     E5              A       D5  Cadd9  E5   A
+&nbsp;   D5   Cadd9     E5              A       D5  Cadd9  E5   A
 Are just enough to get your dewey decimal back
 D5         Cadd9     E5             A          D5  Cadd9  E5   A
 Lift her to work, before your daily workout begins
-     D5 (N.C.)                          D5  Cadd9  E5   A
+&nbsp;    D5 (N.C.)                          D5  Cadd9  E5   A
 And she'll stack up like you stack vitamins
 
 ## Chorus

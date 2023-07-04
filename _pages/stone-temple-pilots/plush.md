@@ -4,12 +4,15 @@ title: Plush
 tags: [learning]
 layout: page
 links: 
-  - type: YouTube
-    title: HitsOnAcousticGuitar
-    url: https://www.youtube.com/watch?v=BOhUpzylWIs&ab_channel=HitsOnAcousticGuitar
   - type: Spotify 
     title: Plush
     url: https://open.spotify.com/track/3jJZVeExYzVYiV6Y9Fl3DX?si=fff1e954587b4417
+  - type: YouTube
+    title: HitsOnAcousticGuitar
+    url: https://www.youtube.com/watch?v=BOhUpzylWIs&ab_channel=HitsOnAcousticGuitar
+  - type: YouTube
+    title: Lee John Blackmore
+    url: https://www.youtube.com/watch?v=D5MTn5FIAG0
 ---
 
 ## Verse

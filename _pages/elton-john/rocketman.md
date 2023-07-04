@@ -1,14 +1,14 @@
 ---
 group: Elton John
 title: Rocketman
-tags: [learnt]
+tags: [learnt, SHIT]
 layout: page
 capo: 
 columns: 1
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Rocketman
+    url: https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY?si=a11403f860384848
 ---
 
 ```chordpro
@@ -20,6 +20,7 @@ D/A   x-0(0)2-3-2
 ```
 
 ## Verse
+
 Em7                                |  A  |  A     Asus4 |
  She packed my bags last night pre-flight
 Em7              |  A  |  A     G/B |
@@ -34,6 +35,7 @@ C          G/B  Am        C/G   | D/F# D/A | D    C/D |
  On such a ti-i-imeless flight
 
 ## Chorus
+
 G                                      [ C ]
  And I think it's gonna be a long long time
 C                                       [ G ]

@@ -1,17 +1,20 @@
 ---
 group: Bernard Fanning
 title: Wish You Well
-tags: []
+tags: [SHIT, learning]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Wish you well
+    url: https://open.spotify.com/track/48xq0DnfAKtsFjK1L7GZx9?si=5ad7e5a32451491b
 ---
 
+## Intro
 
 Bm G(½) A D G(½) A   x2
+
+## Verse
 
 Bm          G    A     D     G   A
 Up so early feel so bright
@@ -24,6 +27,8 @@ Whistle blowing love is dead
 D         G   A    D     G   A
 Is dead
 
+## Verse
+
 Bm                G    A   D     G   A
 Heart attacked by fear and doubt
 Bm            G        A     D         G   A
@@ -33,7 +38,11 @@ first impressions never lie
 D                  G    A     D       G   A
 Lover's bonds they hold so fast
 
+## Interlude 
+
 | D / G A | D / G A |
+
+## Chorus
 
 Em                      G
 Restless future burning bright
@@ -45,6 +54,8 @@ D                  G    A   D     G   A
 And I just want to wish you well
 D              G    A   D      G   A
 I just want to wish you well
+
+## Verse
 
 Bm               G   A   D      G  A
 Welcome swallows dip and swing
@@ -74,6 +85,8 @@ D              G    A   D      G   A
 I just want to wish you well
 D              G    A   D      G   A
 I just want to wish you well
+
+## Chorus
 
 D           G       A        D        G    A
 Why did you give up on me so soon?

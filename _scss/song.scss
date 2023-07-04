@@ -65,6 +65,10 @@
       column-count: 1;
     }
 
+    &.song-force-columns-3 {
+      column-count: 3;
+    }
+
     @media only screen and (min-width: 1000px) {
       column-count: 2;
     }

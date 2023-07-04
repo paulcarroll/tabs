@@ -1,16 +1,17 @@
 ---
 group: Cold Chisel
 title: Cheap Wine
-tags: [learnt]
+tags: [learnt, SHIT]
 layout: page
 columns: 1
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Cheap Wine
+    url: https://open.spotify.com/track/25CnjCPhW8iQ0LDtbISp9a?si=aa239e640f024ded
 ---
 
+## Verse
 
 &nbsp;    C                G             Bb                  G#
 Once I smoked a Danneman cigar, I drove a foreign car,

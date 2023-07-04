@@ -1,13 +1,13 @@
 ---
 group: Bruce Springsteen
 title: Dancing In The Dark
-tags: []
+tags: [lively]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Dancing In The Dark
+    url: https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE?si=e70155e639324fa1
 ---
 
 

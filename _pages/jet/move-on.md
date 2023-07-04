@@ -6,17 +6,17 @@ layout: page
 capo: 
 columns: 1
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Move on
+    url: https://open.spotify.com/track/3xmKYqSejefz96FRCL7VSD?si=n0jMnpWESzWseig8vJfOnQ
 ---
 
 
 ## Verse
 
-&nbsp;         G			             C      G	               C
+&nbsp;         G                   C      G                 C
 Well I      been thinking bout the future      too young to pretend
-&nbsp;           G			   C
+&nbsp;           G         C
 It's such a waste to always look behind you
 G                                      C
 &nbsp;    you should be looking straight ahead
@@ -30,7 +30,7 @@ Yeah and it's hard if you had have only seen
 
 ## Instrumental
 
-G  C  G  C  [PAUSE]
+G  C  G  C  *[PAUSE]*
 
 &nbsp;        G              C          G                      C
 At ten thirty four Flinders Street   Station    I'm looking down the tracks

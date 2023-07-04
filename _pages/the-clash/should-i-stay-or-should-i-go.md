@@ -1,16 +1,17 @@
 ---
 group: The Clash
 title: Should I stay or should I go
-tags: []
+tags: [SHIT, lively]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Should I stay or should I go
+    url: https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz?si=wMAsXPCAQeOgeiMMT8TrYg
 ---
 
 ## Intro
+
 *Riff - first 4 bars*
 
 ```chordpro
@@ -21,25 +22,25 @@ G |--2-2-0--0-0-0-0--|--2------X-X-X----|
 D |--0-0-0--0-0-0----|------------------|
 A |---------2-2-2----|------------------|
 E |---------3-3-3----|------------------|
-```
 
 &nbsp;    D      G           D
-```chordpro
 e |--2-2-0--3-3-3-0--|--2--------5-h8---|
 B |--3-3-0--3-3-3-0--|--3---------------|
 G |--2-2-0--0-0-0-0--|--2---------------|
 D |--0-0-0--0-0-0----|------------------|
 A |---------2-2-2----|------------------|
 E |---------3-3-3----|------------------|
-```
 
 D = xx0232             F  = 133211
 G = 320033 or 355433   A7 = x02020
+```
 
 ## Intro
+
 &nbsp;      D         G           D
 
 ## Verse
+
 N.C.                                D  G  D
 Darling, you've got to let me know,
 N.C.                                D  G  D
@@ -54,6 +55,7 @@ N.C.                                D  G  D
 ...Should I stay or should I go?
 
 ## Verse
+
 N.C.                               D  G  D
 It's always tease, tease, tease,
 N.C.                               D  G  D
@@ -68,6 +70,7 @@ N.C.                               D  G  D
 ...Should I stay or should I go?
 
 ## Verse
+
 N.C.                       D         G  D
 Should I stay, or should I go now?
 &nbsp;                          D         G  D
@@ -80,9 +83,11 @@ And, if I stay, it will be double,
 So, come on, and let me know...
 
 ## Interlude
+
 &nbsp;    D          G          D
 
 ## Verse
+
 N.C.
 This indecision's buggin' me,
 D               G              D
@@ -110,12 +115,14 @@ D            G             D
 
 ## Break
 
+```chordpro
 D       G            D    SPLIT!
 D       G            D
 G       F            G
 D       G            D
 A7
 D       G            D
+```
 
 ## Verse
 

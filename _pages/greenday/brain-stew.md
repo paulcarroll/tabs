@@ -1,13 +1,13 @@
 ---
 group: Greenday
 title: Brain Stew
-tags: [lively, easy, learnt]
+tags: [lively, easy, learnt, SHIT]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Brain Stew
+    url: https://open.spotify.com/track/1nLnpLXvl68RZCSjfkyiaa?si=f17723a933e14996
 ---
 
 ## Intro

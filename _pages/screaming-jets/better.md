@@ -1,13 +1,13 @@
 ---
 group: Screaming Jets
 title: Better
-tags: []
+tags: [lively]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Better
+    url: https://open.spotify.com/track/49eXdstc4EiOS2xpWDMg1d?si=039adca08e6849e3
 ---
 
 [Drum beat 2 x 8]

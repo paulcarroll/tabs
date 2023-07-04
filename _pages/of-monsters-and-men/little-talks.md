@@ -1,16 +1,20 @@
 ---
 group: Of Monsters and Men
 title: Little talks
-tags: []
+tags: [SHIT]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Little talks
+    url: https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B?si=f0f251b9c8ef4e96
+  - type: YouTube
+    title: KEXP (band, acoustic)
+    url: https://www.youtube.com/watch?v=GZ-kXZsUa_w
 ---
 
 ## Intro
+
 Am   Fmaj7   C   G
 &nbsp;                Hey!
 Am   Fmaj7   C   G
@@ -20,6 +24,7 @@ Am   Fmaj7   C   G
 Am   Fmaj7   C   G
 
 ## Verse
+
 Am           Fmaj7                  C
 I don't like walking around this old and empty house
 &nbsp;  Am                 F                C
@@ -34,6 +39,7 @@ And some days I can't even dress myself
 It's killing me to see you this way
 
 ## Chorus
+
 &nbsp;                 Am        Fmaj7
 'Cause though the truth may vary, this
 C           G
@@ -42,6 +48,7 @@ Am     F            C
 bodies safe to shore
 
 ## Interlude
+
 Am   Fmaj7   C   G
 &nbsp;                Hey!
 Am   Fmaj7   C   G
@@ -51,6 +58,7 @@ Am   Fmaj7   C   G
 Am   Fmaj7   C   G
 
 ## Verse
+
 &nbsp;          Am        Fmaj7            C
 There's an old voice in my head that's holding me back
 &nbsp;     Am              Fmaj7            C
@@ -65,6 +73,7 @@ Some days I don't know if I am wrong or right
 Your mind is playing tricks on you my dear
 
 ## Chorus
+
 &nbsp;                 Am        Fmaj7
 'Cause though the truth may vary, this
 C            G
@@ -83,6 +92,7 @@ Am     Fmaj7        C  G
 bodies safe to shore
 
 ## Instrumental
+
 Am   Fmaj7   C   G
 &nbsp;                Hey!
 Am   Fmaj7   C   G
@@ -92,6 +102,7 @@ Am   Fmaj7   C   G
 Am
 
 ## Verse
+
 &nbsp;      Am
 You're gone, gone, gone away. I watched you disappear
 Am
@@ -106,6 +117,7 @@ Now wait, wait, wait for me. Please hang around
 I'll see you when I fall asleep. Hey!
 
 ## Chorus
+
 &nbsp;     Am          Fmaj7  C    G
 Don't listen to a word I say. Hey!
 &nbsp;   Am          Fmaj7     C     G

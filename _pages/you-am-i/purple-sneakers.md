@@ -1,7 +1,7 @@
 ---
 group: You Am I
 title: Purple sneakers
-tags: [learnt]
+tags: [learnt, lively]
 layout: page
 capo: 2
 links:

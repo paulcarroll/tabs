@@ -6,11 +6,10 @@ layout: page
 capo: 
 columns: 1
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Hurt
+    url: https://open.spotify.com/track/2pDXMhXlzg67zhXKZVlefy?si=Cf9z-hvOTriBmimKGKc9fg
 ---
-
 
 ```chordpro
 Am:    x02210
@@ -26,13 +25,13 @@ C:     x32013
 
 Main Riff x2
 
-Am     C        Dsus2       Am       C       Dsus2    
+Am     C        Dsus2       Am       C       Dsus2
 &nbsp;     I hurt myself today          to see if     I still feel
-Am    C        Dsus2         Am         C      Dsus2    
+Am    C        Dsus2         Am         C      Dsus2
 &nbsp;     I focus    on the pain         the only thing that's real
-Am         C        Dsus2       Am         C       Dsus2    
+Am         C        Dsus2       Am         C       Dsus2
 &nbsp;     The needle tears a hole         the old familiar sting
-Am            C       Dsus2      Am            C           Dsus2    
+Am            C       Dsus2      Am            C           Dsus2
 &nbsp;     Try to kill it all away            but I remember everything
 
 ## Chorus
@@ -51,16 +50,17 @@ I will let you down            I will make you hurt
 Main Riff x2
 
 w/Main Riff:
-Am     C          Dsus2       Am    C       Dsus2    
+Am     C          Dsus2       Am    C       Dsus2
 &nbsp;   I wear this crown of thorns   upon my liar's chair
-Am    C        Dsus2        Am        C       Dsus2    
+Am    C        Dsus2        Am        C       Dsus2
 &nbsp;      Full of broken thoughts   I cannot repair
-Am      C             Dsus2     Am          C         Dsus2    
+Am      C             Dsus2     Am          C         Dsus2
 &nbsp;   Beneath the stains of time       the feelings disappear
-Am     C         Dsus2       Am   C      Dsus2    
+Am     C         Dsus2       Am   C      Dsus2
 &nbsp;        You are someone else       I am still right here
 
 ## Chorus
+
 G   Am7              Fadd9    C                       G
 &nbsp;   What have I become?       My sweetest friend
 Am7              Fadd9                 C             G

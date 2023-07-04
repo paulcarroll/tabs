@@ -1,20 +1,32 @@
 ---
 group: Fleetwood Mac
 title: Landslide
-tags: [learning]
+tags: [learning, quiet]
 layout: page
 capo: 3
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify 
+    title: Landslide
+    url: https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ?si=xgwdPz-wSAGNy2_3r9zo-A
+  - type: YouTube
+    title: FleetwoodMac
+    url: https://www.youtube.com/watch?v=WM7-PYtXtJM
+  - type: YouTube
+    title: HitsOnAcousticGuitar
+    url: https://www.youtube.com/watch?v=Ll58UX14iqg&ab_channel=HitsOnAcousticGuitar
+  - type: YouTube
+    title: Q101
+    url: https://www.youtube.com/watch?v=yIoAn5ySHeQ&ab_channel=101WKQX
 ---
 
-Travis picking or strum...
 ```chordpro
+Travis picking or strum...
+
 G     320003    C     x32010    G/B   x2003x
 Am7   x02010    Am    x02210    D7/F# 2x0212    D/F#  2x0232
 ```
+
+## Intro
 
 C G Am  G
 

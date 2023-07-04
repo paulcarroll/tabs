@@ -1,17 +1,22 @@
 ---
 group: Chior Boys
 title: Run To Paradise
-tags: [learnt]
+tags: [learnt, SHIT]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Run To Paradise
+    url: https://open.spotify.com/track/6Amt2E3nanH9lhZnas9oOs?si=32e97ab4274a4b19
 ---
 
+## Intro
 
+```chordpro
 A E D E, A E D E, A E D E, A E D D
+```
+
+## Verse
 
 AA E D        E             A        E D
 Baby, you were always gonna be the one,
@@ -23,7 +28,12 @@ Jenny, I meet you at the grocery store,
 You don't need a friend when you can score, but you run to paradise,
 
 ## Instrumental
+
+```chordpro
 A E D E, A E D E, A E D E, A E D D
+```
+
+## Verse
 
 AA   E D E             A             E D
 Johnny, we were always best of friends,
@@ -66,12 +76,16 @@ Good times, why'd I let them slip away,
 D                 A                  D            A     D (A)
 Why'd I let them slip away, 'cause I lived in paradise...
 
-Refrain:
+## Refrain
+
 A E D E          A  E D E          A  E D E          A  E D <loud> D
 &nbsp;   Run to paradise,  run to paradise,  run to paradise...
 
 ## Instrumental
+
+```chordpro
 A E D E, A E D E, A E D E, A D. E.
+```
 
 ## Bridge
 

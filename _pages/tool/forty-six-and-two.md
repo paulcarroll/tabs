@@ -1,13 +1,22 @@
 ---
 group: Tool
 title: Forty Six and Two
-tags: []
+tags: [learning, heavy]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Forty Six and Two
+    url: https://open.spotify.com/track/6AioOohg4bQZFA4jIYQQ2r?si=vHBAawHbSKKFMUdEazDZRQ
+  - type: YouTube
+    title: ArthurCauty
+    url: https://www.youtube.com/watch?v=dzddXJzAqsM&list=RDMM&ab_channel=ArthurCauty
+  - type: YouTube
+    title: jeffwood
+    url: https://www.youtube.com/watch?v=3OOT5-atKHU&ab_channel=jeffwood
+  - type: YouTube
+    title: DanielBuchanan
+    url: https://www.youtube.com/watch?v=sHRsmmDVx5g&ab_channel=DanielBuchanan
 ---
 
 

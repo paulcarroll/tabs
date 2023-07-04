@@ -1,17 +1,16 @@
 ---
 group: Nathan Ratcliffe
 title: S.O.B
-tags: []
+tags: [SHIT, lively]
 layout: page
 capo: 1
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: S.O.B
+    url: https://open.spotify.com/track/1VPUpUwtbpoRVXt0txVU0w?si=b807a739cfca4e2f
 ---
 
-
-(Click fingers/clap hands or play F through the verses and bridge)
+*(Click fingers/clap hands or play F through the verses and bridge)*
 
 ## Intro
 
@@ -118,7 +117,4 @@ F
 (Whoa oh, whoa oh, whoa oh oh oh)
 (Whoa oh, whoa oh, whoa oh oh oh)
 (Whoa oh, whoa oh, whoa oh oh oh)
-
-Please like me on Facebook to say thanks <3 <3 <3
-https://www.facebook.com/TimChiversMusic
 

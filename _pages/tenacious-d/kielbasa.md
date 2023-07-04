@@ -5,9 +5,15 @@ tags: [funny]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Kielbasa
+    url: https://open.spotify.com/track/0CoPoNohPHCjvggWHlxgk5?si=9oFAFWHJR-OD2JFLc9vzjA
+  - type: YouTube
+    title: Guitarings
+    url: https://www.youtube.com/watch?v=mwc74gUYkJs
+  - type: YouTube
+    title: RyJones
+    url: https://www.youtube.com/watch?v=2AWWaUEVhHc
 ---
 
 

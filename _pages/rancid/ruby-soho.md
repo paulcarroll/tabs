@@ -1,19 +1,23 @@
 ---
 group: Rancid
 title: Ruby Soho
-tags: []
+tags: [SHIT, lively]
 layout: page
 capo: 
+columns: 3
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Ruby Soho
+    url: https://open.spotify.com/track/1pNlZQeoPnlxqf1Mjgm0H2?si=67865f973fec4876
+  - type: YouTube
+    title: EpitaphRecords
+    url: https://www.youtube.com/watch?v=0P9QMkm9Eew
+  - type: YouTube
+    title: JoelGoguen
+    url: https://www.youtube.com/watch?v=canuECyA4Bg
 ---
 
-Key: G
-
-Tuning: Standard EADGBe
-
+```chordpro
 Chords used:
 G -    320033
 D -    xx0232
@@ -25,12 +29,17 @@ G/B -  x2x003
 D/F# - 2x023x
 Bb -   x13331
 B -    x24442
+```
 
 ## Intro
-G(hold)-D/F#(Hold)-Em(Hold)-D(Hold)-G-Bm-C-G-
-G-D/F#-Em-D-G-Bm-C-G-
+
+```chordpro
+G(hold)  D/F#(Hold)  Em(Hold)  D(Hold)  G  Bm  C  G
+G  D/F#  Em  D  G  Bm  C  G
+```
 
 ## Verse
+
 C           D      G
 &nbsp; Echoes of reggae coming
 &nbsp;                  C

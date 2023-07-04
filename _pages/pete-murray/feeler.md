@@ -6,9 +6,9 @@ layout: page
 capo: 
 columns: 1
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Feeler
+    url: https://open.spotify.com/track/08ExDOBqxTwGRrFoJXh93n?si=l1uIVVncQY2gH5IIYBhzjw
 ---
 
 ## Intro
@@ -19,6 +19,8 @@ C slide up quick to D slide down to C (C-D-C)
 
 Played 3 times
 ```
+
+## Verse
 
 G-A-               G        C-D-        C
 Got inside my head today, I felt you
@@ -55,7 +57,15 @@ That you, and I, will be, always,
 Onside, in these imaginary fields, happy love-  you get to me
 
 ## Solo
-*Chorus (x2)*
+
+&nbsp;    A        C       F   D
+That you, and I, will be, always,
+&nbsp;  A       C     F         D
+Onside, in these imaginary fields, happy love
+&nbsp;    A        C       F   D
+That you, and I, will be, always,
+&nbsp;  A       C     F         D
+Onside, in these imaginary fields, happy love
 
 ## Outro
 

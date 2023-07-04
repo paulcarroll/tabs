@@ -5,9 +5,9 @@ tags: [learning]
 layout: page
 capo: 1
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Hard sun
+    url: https://open.spotify.com/track/0fzCtVM9D5UEwiLqcY8Ouq?si=2cd54bbd87f14eaa
 ---
 
 ## Verse

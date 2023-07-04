@@ -1,13 +1,13 @@
 ---
 group: Kings Of Leon
 title: Radioactive
-tags: [learning]
+tags: [learning, lively]
 layout: page
 capo: 3
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Radioactive
+    url: https://open.spotify.com/track/60CirPlTOEWOUBus7HxV3B?si=ea08fe5626174ac5
 ---
 
 ```chordpro
@@ -19,15 +19,19 @@ Intro Riff:
 E|-2/10---------10-------10---10-10---10-10---10----10-10------10------10---10-10---2--2--2--|
 ```
 
- D/F# Asus4/E D x2
+## Intro
+
+D/F# Asus4/E D x2
 
 ## Verse
+
 &nbsp;         Bm                D
- When the road is carved up   yonder
+When the road is carved up   yonder
 &nbsp;  Bm              D
- I hope you see me   there
+I hope you see me   there
 
 ## Chorus
+
 D                  Asus4
 &nbsp; It's in the water
 Em7                        Bm
@@ -37,16 +41,18 @@ D                  Asus4
 Em7                        Bm
 &nbsp; It's where you came from
 
- D/F#  Asus4/E  D
- Ooh   ooh      ooh
+D/F#  Asus4/E  D
+Ooh   ooh      ooh
 
 ## Verse
+
 &nbsp;         Bm              D
- When the crowds begin to wander
+When the crowds begin to wander
 &nbsp;         Bm              D
- And they cry to see your face
+And they cry to see your face
 
 ## Chorus
+
 D                   Asus4
 &nbsp; It's in the water,     it's in the story
 Em7                      Bm
@@ -64,18 +70,20 @@ D                     Asus4
 Em7                   Bm
 &nbsp; Where you came from
 
- D5
- Ooh   ooh   ooh
- D/F#  Asus4/E  D
- Ooh   ooh      ooh
+D5
+Ooh   ooh   ooh
+D/F#  Asus4/E  D
+Ooh   ooh      ooh
 
 ## Verse
+
 &nbsp;     Bm                      D
- Your roads, it was cold from   yonder
+Your roads, it was cold from   yonder
 &nbsp;      Bm             D
- Never sold yourself away
+Never sold yourself away
 
 ## Chorus
+
 D                   Asus4
 &nbsp; It's in the water,     it's in the story
 Em7                      Bm
@@ -100,4 +108,3 @@ D     Asus4     Em7       Bm
 D     Asus4     Em7       Bm
 
 Riff x2
-

@@ -1,17 +1,23 @@
 ---
 group: Paulo Nutini
 title: Pencil Full Of Lead
-tags: []
+tags: [lively, learning]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Pencil Full Of Lead
+    url: https://open.spotify.com/track/3TkMsJZVZkYSsGtwkXx6br?si=ee0d02d4d7154da4
+  - type: YouTube
+    title: MichaelMulhollandAcoustic
+    url: https://www.youtube.com/watch?v=8wfuZml9YL8&ab_channel=MichaelMulhollandAcoustic
+  - type: YouTube
+    title: CameronDouglas
+    url: https://www.youtube.com/watch?v=MQxURAVObHg&ab_channel=CameronDouglas
 ---
 
-
 ## Verse
+
 D
 I’ve got a sheet for my bed and a pillow for my head
 I’ve got a pencil full of lead and some water for my throat
@@ -35,9 +41,11 @@ I got food in my belly and a license for my telly
 And nothing's gonna bring me down
 
 ## Instrumental
+
 D, G, D, A, G, D
 
 ## Verse
+
 D
 I got a nice guitar and tyres on my car
 I got most of the means; and scripts for the scenes
@@ -51,7 +59,10 @@ Food in my belly and a license for my telly
 and nothing's going to bring me down
 
 ## Instrumental
+
 D, G, D, A, G, D
+
+## Verse
 
 Nothing's gonna bring me down
  D
@@ -72,4 +83,3 @@ And nothing's going to bring me down
 She's mighty fine and says she's all mine
 &nbsp;           D                          A   D
 And nothing's going to bring me down
-

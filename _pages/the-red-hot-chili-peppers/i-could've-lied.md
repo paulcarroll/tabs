@@ -1,13 +1,19 @@
 ---
 group: The Red Hot Chili Peppers
 title: I could've lied
-tags: []
+tags: [SHIT, learning]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: I could've lied
+    url: https://open.spotify.com/track/0NSbiBKXoODbsPwjSivfBr?si=0bbd7541f94e41bc
+  - type: YouTube
+    title: LeeJohnBlackmore
+    url: https://www.youtube.com/watch?v=RT8lv53wZaA
+  - type: YouTube
+    title: ianA
+    url: https://www.youtube.com/watch?v=0DpY9zh9f4Q
 ---
 
 ```chordpro
@@ -21,12 +27,13 @@ E|-x--x-3-x-x---x---0--x--0--|
 ```
 
 ## Intro
+
 Bm A G x2
 
 ## Verse
+
 Bm
-There must be something
-In the way I feel
+There must be something in the way I feel
 &nbsp;    A         G          Bm  A G
 That she don't want me to feel
 &nbsp;   Bm
@@ -46,9 +53,11 @@ G
 What is not real
 
 ## Interlude
+
 Bm A G x2
 
 ## Verse
+
 &nbsp; Bm
 A mountain never seems to have
 The need to speak
@@ -72,12 +81,12 @@ What is not real
 
 Bm A G
 
-[Hook]
+## Hook
+
 &nbsp; Em                  G
 I could have lied I'm such a fool
 &nbsp;  D                      C
-My eyes could never never never
-Keep their cool
+My eyes could never never never keep their cool
 Em               G
 Showed her and I told her now
 &nbsp;   D                 C
@@ -86,6 +95,7 @@ She struck me but I'm fucked up now
 Bm A G x6
 
 ## Verse
+
 &nbsp;   Bm
 But now she's gone yes she's gone away
 &nbsp; A       G
@@ -100,11 +110,11 @@ But I don't care
 I won't be spared
 
 ## Chorus
+
 &nbsp; Em                  G
 I could have lied I'm such a fool
 &nbsp;  D                      C
-My eyes could never never never
-Keep their cool
+My eyes could never never never keep their cool
 Em               G
 Showed her and I told her now
 &nbsp;   D                 C
@@ -113,14 +123,14 @@ She struck me but I'm fucked up now
 &nbsp; Em                  G
 I could have lied I'm such a fool
 &nbsp;  D                      C
-My eyes could never never never
-Keep their cool
+My eyes could never never never keep their cool
 Em               G
 Showed her and I told her now
 &nbsp;   D                 C
 She struck me but I'm fucked up now
 
 ## Outro
+
 Em G D C x3
 Em7
 

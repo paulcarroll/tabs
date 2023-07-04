@@ -1,14 +1,14 @@
 ---
 group: Jimmy Eat World
 title: The middle
-tags: []
+tags: [SHIT, learning]
 layout: page
 capo: 
 columns: 1
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: The middle
+    url: https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO?si=Kyd-SSvGQsy8hO84r0Nw5Q
 ---
 
 ```chordpro

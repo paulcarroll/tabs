@@ -1,7 +1,7 @@
 ---
 group: Creedance Clearwater Revival
 title: Down On The Corner
-tags: [learnt]
+tags: [learnt, SHIT]
 layout: page
 capo: 
 links: 
@@ -58,19 +58,20 @@ Down on the corner, out in the street, Willy and the Poorboys are playin'
 Bring a nickel, tap your feet.
 
 ## Instrumental
-Guitar 1:
-&nbsp;     C                 G        C         C                 G        C
-Guitar 2:
+
 ```chordpro
+Guitar 1:
+C                 G        C         C                 G        C
+
+Guitar 2:
 D|--------------------------------------------------------------------------|
 A|---3--0-----3--3--0--------0--3--3------3--0-----3--3--0--------0--3--3---|
 E|---------3-----------3--3---------------------3-----------3--3------------|
-```
 
 Guitar 1:
-&nbsp;    F                  C        G         C                 G        C
+F                  C        G         C                 G        C
+
 Guitar 2:
-```chordpro
 D|--3--0-----3--3--0---------2--5--5----------------------------------------|
 A|--------3------------3--3---------------3--0-----3--3--0--------0--3--3---|
 E|----------------------------------------------3-----------3--3------------|
@@ -105,8 +106,8 @@ Down on the corner, out in the street, Willy and the Poorboys are playin'
 Bring a nickel, tap your feet.  (one more)
 
 ## Outro
+
 F           C       G          C                     F            C
 Down on the corner, out in the street, Willy and the Poorboys are playin'
 &nbsp;         G              C.
 Bring a nickel, tap your feet.
-

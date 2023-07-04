@@ -1,13 +1,13 @@
 ---
 group: Amy Winehouse
 title: Valerie
-tags: []
+tags: [SHIT]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Valerie
+    url: https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr?si=27ff2b0c35f947ee
 ---
 
 ## Verse

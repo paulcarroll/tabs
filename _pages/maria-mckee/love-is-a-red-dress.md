@@ -4,9 +4,9 @@ title: Love is a red dress
 tags: [quiet, learning]
 layout: page
 links:
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Love is a red dreww
+    url: https://open.spotify.com/track/5b7H6zxDzyVyIt77HfcKs8?si=f7301b2579e84684
 ---
 
 ## Intro

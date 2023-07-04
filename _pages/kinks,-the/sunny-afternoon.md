@@ -1,21 +1,26 @@
 ---
 group: Kinks, The
 title: Sunny afternoon
-tags: []
+tags: [quiet, slow]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Sunny afternoon
+    url: https://open.spotify.com/track/0DQqzCHlPyKQXfF8uL01SI?si=770ed534f98f47f3
+  - type: YouTube
+    title: georgiarose16
+    url: https://www.youtube.com/watch?v=WyCgrBq6rmE
 ---
 
 ## Intro
 
+```chordpro
 Dm  Dm/C  Dm/B  Dm/Bb   A  A/G
 A/F  A/E
 Dm  Dm/C  Dm/B  Dm/Bb   A  A/G
 A/F  A/E
+```
 
 ## Verse
 
@@ -115,7 +120,3 @@ D|--0------0-----0----2----2----2----2----|
 A|--3------2-----1----0-------------------|
 E|-------------------------3----1----0----|
 ```
-
-(one could alternately keep on the Dm and add the bass notes
-all the way down to E)
-

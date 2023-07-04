@@ -4,16 +4,20 @@ title: Interstate love song
 tags: [learning]
 layout: page
 links: 
-  - type: YouTube
-    title: HitsOnAcousticGuitar
-    url: https://www.youtube.com/watch?v=fT62k7Jvvz8&ab_channel=HitsOnAcousticGuitar
   - type: Spotify 
     title: Interstate love song
     url: https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3?si=e6e14bfddda54e38
+  - type: YouTube
+    title: HitsOnAcousticGuitar
+    url: https://www.youtube.com/watch?v=fT62k7Jvvz8&ab_channel=HitsOnAcousticGuitar
+  - type: YouTube
+    title: JakesGuitarVids
+    url: https://www.youtube.com/watch?v=fC-PTUJa_qs&ab_channel=JakesGuitarVids
 ---
 
 ## Intro and Chorus Chords
 
+```chordpro
 C#m7    x46454
 E       022100
 Asus2   x02200
@@ -28,14 +32,15 @@ C#m7    x4645x
 G#/B#   x3654x
 C#/B    x2312x
 A#m7b5  x1212x
+```
 
 ## Intro
 
+```chordpro 
 C#m7   E
 Asus2  G#sus4 G#
 A      E
 
-```chordpro 
 e|---0--0----0----0---------0-|
 B|-2b3--3r2--0------------0---|
 G|--------------2----1h2------|
@@ -83,20 +88,20 @@ Reply?
 
 ## Instrumental
 
+```chordpro 
 E  F#m11/E  E
 E  F#m11/E  E*
 
-```chordpro 
 e|---0--0----0----0---------0-|
 B|-2b3--3r2--0------------0---|
 G|--------------2----1h2------|
 D|----------------------------|
 A|----------------------------|
 E|----------------------------|
-```
 
 E  F#m11/E  E
 E  F#m11/E  E*
+```
 
 ## Chorus
 
@@ -110,7 +115,7 @@ Promises of what I seemed to be
 Only watched the time go by,
 A                   E
 All of these things you said to me.
- 
+
 ```chordpro
 e|---0--0----0----0---------0-|
 B|-2b3--3r2--0------------0---|
@@ -146,8 +151,10 @@ Goodbye
 
 ## Instrumental
 
+```chordpro
 E  F#m11/E  E
 E  F#m11/E  E*
+```
 
 ## Chorus
 

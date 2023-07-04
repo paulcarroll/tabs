@@ -5,9 +5,12 @@ tags: []
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: I still haven't found what I'm looking for
+    url: https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO?si=Woz6u7QfSkeBKzrP-NCL5g
+  - type: YouTube
+    title: RossSteele
+    url: https://www.youtube.com/watch?v=5SXkUClBXB0
 ---
 
 ## Intro

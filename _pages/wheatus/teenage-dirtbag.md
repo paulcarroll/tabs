@@ -1,14 +1,16 @@
 ---
 group: Wheatus
 title: Teenage dirtbag
-tags: [easy, lively, learnt]
+tags: [easy, lively, learnt, SHIT]
 layout: page
 links:
+    - type: Spotify
+      title: Teenage dirtbag
+      url: https://open.spotify.com/track/3LI4MmibTkXH5cGpCGZgyw?si=6dcc7c79827a418d
+    - type: YouTube
+      title: HitsOnAcousticGuitar
+      url: https://www.youtube.com/watch?v=QXqYY764lHo&ab_channel=HitsOnAcousticGuitar
 ---
-
-## Intro
-
-E B E A E B E A
 
 ```chordpro
 (Let top two open notes ring)
@@ -19,6 +21,10 @@ D|-2-2-x---4-4-x----2-2-x----2-2-x----|
 A|-2-2-x---2-2-x----2-2-x----0-0-x----|
 E|-0-0-x------------0-0-x-------------|
 ```
+
+## Intro
+
+E B E A E B E A
 
 ## Verse
 
@@ -34,9 +40,9 @@ E            B
 Oh, how she rocks
    E              A
 In keds and tube socks
-    C#m          A          B
+&nbsp;   C#m          A          B
 But she doesn't know who I am
-    C#m          A      B
+&nbsp;   C#m          A      B
 And she doesn't give a damn about me.
 
 ## Chorus
@@ -52,7 +58,7 @@ E|--0-0-------------------4-----0-0-------------------4-----|-5---7---|
 
 &nbsp;      E          A         B      C#m    G#m
 'Cause I'm just a teenage dirtbag, baby.
-     E          A         B      C#m     G#m
+&nbsp;    E          A         B      C#m     G#m
 Yeah I'm just a teenage dirtbag, baby.
 E         A       B    C#m   G#m   E  A (6/4) B C#m G#m A B
 Listen to Iron Maiden, baby, with me.
@@ -92,13 +98,13 @@ Listen to Iron Maiden, baby, with me.
 ## Bridge
 
 E  Asus2    E   Asus2         E    Asus2
-        Yeeah, -------- Dirtbag, ----------
-    C#m      G#m     A           B
+&nbsp;       Yeeah, -------- Dirtbag, ----------
+&nbsp;   C#m      G#m     A           B
 No, she doesn't know what she's missing.
 
 E  Asus2    E   Asus2         E    Asus2
-        Yeeah, -------- Dirtbag, ----------
-    C#m      G#m     A           B
+&nbsp;       Yeeah, -------- Dirtbag, ----------
+&nbsp;   C#m      G#m     A           B
 No, she doesn't know what she's missing.
 
 ## Instrumental
@@ -109,26 +115,26 @@ E B E A
 
 E             B
 Man, I feel like mould
-  E              A
+&nbsp; E              A
 It's prom night and I am lonely.
 E             B
 Lo and behold:
-  E              A
+&nbsp; E              A
 She's walking over to me.
 E             B
 This must be fake
-  E              A
+&nbsp; E              A
 My lip starts to shake.
 C#m          A          B
 How does she know who I am?
-    C#m          A          B
+&nbsp;   C#m          A          B
 And why does she give a damn about?
 
 ## Chorus
 
 &nbsp;      E          A         B      C#m    G#m
 I've got two tickets to Iron Maiden, baby
-     E          A         B      C#m     G#m
+&nbsp;   E          A         B      C#m     G#m
 Come with me Friday, don't say maybe.
 E         A       B    C#m   G#m   E  A (6/4) B C#m G#m A B
 I'm just a teenage dirtbag baby like you.
@@ -136,12 +142,12 @@ I'm just a teenage dirtbag baby like you.
 ## Bridge
 
 E  Asus2    E   Asus2         E    Asus2
-        Yeeah, -------- Dirtbag, ----------
-    C#m      G#m     A           B
+&nbsp;       Yeeah, -------- Dirtbag, ----------
+&nbsp;   C#m      G#m     A           B
 No, she doesn't know what she's missing.
 E  Asus2    E   Asus2         E    Asus2
-        Yeeah, -------- Dirtbag, ----------
-    C#m      G#m     A        B     E     B
+&nbsp;       Yeeah, -------- Dirtbag, ----------
+&nbsp;   C#m      G#m     A        B     E     B
 No, she doesn't know what she's     mis - sing.
 
 ## Outro

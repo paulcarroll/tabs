@@ -1,20 +1,22 @@
 ---
 group: The Red Hot Chili Peppers
 title: Otherside
-tags: []
+tags: [SHIT, learning, lively]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Otherside
+    url: https://open.spotify.com/track/64BbK9SFKH2jk86U3dGj2P?si=06f22e57c1384e6b
 ---
 
-
+```chordpro
 Am F C G
 Em during the works best at 7th fret position (079987)
+```
 
 ## Chorus
+
 Am                  F           C
 How long how long will I slide
 &nbsp;  G          Am F    C
@@ -24,6 +26,8 @@ I don't believe it's bad
 &nbsp;  C                    G
 Slit my throat, it's all I ever
 
+## Verse
+
 Am                                  Em
 I heard your voice through a photograph
 Am                        Em
@@ -32,6 +36,8 @@ Am                           Em
 Once you know you can never go back
 &nbsp;              G             Am
 I've got to take it on the otherside
+
+## Verse
 
 Am                                  Em
 Centuries are what it meant to me
@@ -56,6 +62,8 @@ I don't believe it's bad
 &nbsp;  C                    G
 Slit my throat, it's all I ever
 
+## Verse
+
 Am                                  Em
 Pour my life into a paper cup
 Am                                  Em
@@ -64,6 +72,8 @@ Am                                  Em
 She wants to know am I still a slut
 G                     Am
 I've got to take it on the otherside
+
+## Verse
 
 Am                                  Em
 Scarlet starlet and she's in my bed
@@ -79,6 +89,7 @@ G                     Am
 Take it on, take it on
 
 ## Chorus
+
 Am                  F           C
 How long how long will I slide
 &nbsp;  G          Am F    C
@@ -88,8 +99,11 @@ I don't believe it's bad
 &nbsp;  C                    G
 Slit my throat, it's all I ever
 
-## instrumental
+## Instrumental
+
 Em C Em C
+
+## Bridge
 
 Em
 Turn me on take me for a hard ride
@@ -100,10 +114,12 @@ I yell and tell it that it's not my friend
 &nbsp;            C
 I tear it down, I tear it down and then it's born again
 
-## instrumental
+## Instrumental
+
 Am F C G
 
 ## Chorus
+
 Am                  F           C
 How long how long will I slide
 &nbsp;  G          Am F    C
@@ -112,4 +128,3 @@ Separate my side I don't
 I don't believe it's bad
 &nbsp;  C                    G
 Slit my throat, it's all I ever
-

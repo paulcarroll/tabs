@@ -5,9 +5,12 @@ tags: []
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Its the world I know
+    url: https://open.spotify.com/track/1HSVpIU0XU1WuwiBLBWAZd?si=26a9354f8d834f8a
+  - type: YouTube
+    title: MikeMasse
+    url: https://www.youtube.com/watch?v=X2rYIR94hM8&ab_channel=MikeMass%C3%A9
 ---
 
 ## Verse

@@ -5,9 +5,9 @@ tags: []
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: The way
+    url: https://open.spotify.com/track/7IsEXPk6qqt30FfQv4SZMa?si=1TnIXaT0SkyPEaVB03mQMQ
 ---
 
 ## Verse

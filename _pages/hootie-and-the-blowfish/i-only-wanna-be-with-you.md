@@ -1,21 +1,28 @@
 ---
 group: Hootie and the Blowfish
 title: I only wanna be with you
-tags: []
+tags: [lively, SHIT]
 layout: page
 capo: 2
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: I only wanna be with you
+    url: https://open.spotify.com/track/1OFKUn2VLafrHj7ybnap0Q?si=7d4df686e9e3479f
+  - type: YouTube
+    title: FernandoUfret
+    url: https://www.youtube.com/watch?v=_ZR0NFq_YIM&ab_channel=FernandoUfret
+  - type: YouTube
+    title: JustinArmstrong
+    url: https://www.youtube.com/watch?v=SQ7t3EzPyRg&ab_channel=JustinArmstrong
 ---
 
-
+```chordpro
 [Chords]
 E            (022100)
 F#m7add11/C# (x44200)
 Aadd9        (x02420)
 Bsus4        (x24400)
+```
 
 ## Intro
 
@@ -32,7 +39,7 @@ Sometimes you're crazy,       and you wonder why
 E          F#m7add11/C#      E                F#m7add11/C#
 I'm such a baby cause the Dolphins make me cry
 
-[Hook 1]
+## Hook
 
 &nbsp;            Aadd9              Bsus4
 Well there's nothing I can do
@@ -50,7 +57,8 @@ I won't dance,        you won't sing
 E            F#m7add11/C#        E             F#m7add11/C#
 I just wanna love you but you wanna wear my ring
 
-[Hook 2]
+## Hook
+
 &nbsp;            Aadd9              Bsus4
 Well there's nothing I can do
 &nbsp;                               E      F#m7add11/C#
@@ -70,7 +78,8 @@ I said I shot a man named Gray,   took his wife to Italy
 E               F#m7add11/C#         E                F#m7add11/C#
 She inherited a million bucks and when she died it came to me
 
-[Hook 3]
+## Hook
+
 &nbsp;       Aadd9                 Bsus4
 I can't help it if I'm lucky
 &nbsp;                               E      F#m7add11/C#
@@ -83,6 +92,7 @@ I only wanna be with you
 ## Solo
 
 ## Bridge
+
 &nbsp;        Aadd9               Bsus4
 Yeah I'm tangled up in blue
 &nbsp;                               E      F#m7add11/C#
@@ -93,6 +103,7 @@ You can call me your fool
 I only wanna be with you
 
 ## Verse
+
 E           F#m7add11/C#   E          F#m7add11/C#
 Sometimes I wonder,  if it'll ever end
 E          F#m7add11/C#        E              F#m7add11/C#
@@ -102,7 +113,8 @@ Sometimes you're crazy,      and you wonder why
 E          F#m7add11/C#       E                F#m7add11/C#
 I'm such a baby, yeah, the Dolphins make me cry
 
-[Hook 4]
+## Hook 4
+
 &nbsp;            Aadd9              Bsus4
 Well there's nothing I can do
 &nbsp;                               E      F#m7add11/C#
@@ -117,4 +129,3 @@ Yeah I'm tangled up in blue
 I only wanna be with you
 &nbsp; E                  F#m7add11/C#     E
 I only wanna be with you
-

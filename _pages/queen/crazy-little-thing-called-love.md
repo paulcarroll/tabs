@@ -1,13 +1,13 @@
 ---
 group: Queen
 title: Crazy Little Thing Called Love
-tags: [learnt]
+tags: [learnt, SHIT]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Crazy Little Thing Called Love
+    url: https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk?si=50G1wtN8SCCpMpZ-CluWXw
 ---
 
 ## Verse

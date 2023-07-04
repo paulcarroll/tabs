@@ -1,7 +1,7 @@
 ---
 group: Van Morrison
 title: Brown eyed girl
-tags: [easy, lively, learnt]
+tags: [easy, lively, learnt, SHIT]
 layout: page
 links:
   - type: Spotify 

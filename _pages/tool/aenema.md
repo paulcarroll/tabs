@@ -1,14 +1,21 @@
 ---
 group: Tool
 title: Aenema
-tags: []
+tags: [heavy]
 layout: page
 capo: 
 tuning: drop-d
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Aenema
+    url: https://open.spotify.com/track/0nLOl4fSiBZKGFla5pLUtf?si=Zb9ICtzcT6iX85Ppu7RPIQ
+  - type: YouTube
+    title: ChristopherKline
+    url: https://www.youtube.com/watch?v=fejH2VY0_RA
+  - type: YouTube
+    title: DrewAngell
+    highlight: true
+    url: https://www.youtube.com/watch?v=OE7nBgTy0Cg
 ---
 
 Power chords

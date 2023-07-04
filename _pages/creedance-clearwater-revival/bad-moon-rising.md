@@ -1,7 +1,7 @@
 ---
 group: Creedance Clearwater Revival
 title: Bad Moon Rising
-tags: [learnt]
+tags: [learnt, SHIT]
 layout: page
 capo: 
 links: 

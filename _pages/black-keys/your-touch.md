@@ -1,20 +1,14 @@
 ---
 group: Black Keys
 title: Your Touch
-tags: [lively, learning]
+tags: [lively, learning, SHIT]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Your touch
+    url: https://open.spotify.com/track/5lJUXSjRjevVy7I3P87wuK?si=7d73fb4284544329
 ---
-
-
-The Black Keys
-Your Touch
-Magic Potion
-2006 Nonesuch Records
 
 ```chordpro
 e|-------------------------------------|
@@ -23,22 +17,16 @@ G|-------------------------------------|
 D|-------------------------------------|
 A|----0---------3--0--55555-3-5-3b-----|
 E|----------3-0------------------------|
-```
 
 Riff 1
-
-```chordpro
 e|----5---------------5-----3-5-3-3----|
 B|----5---------------7-----5-7-5-5----|
 G|----6---------------7-----5-7-5-5----|
 D|----7---------------7-----5-7-5-5----|
 A|----7---------------5-----3-5-3-3----|
 E|----5---------------5-----3-5-3-3----|
-```
 
 Riff 2
-
-```chordpro
 e|----5---------------5-----3-5-3-5----|
 B|----5---------------6-----5-7-5-7----|
 G|----6-------7--5----7-----5-7-5-7----|
@@ -61,8 +49,8 @@ Riff 1
 Riff 1
  Crazy for
 
-	Riff 2
-Your touch	x 4
+Riff 2
+Your touch  x 4
 
 Riff 1
 And I be good
@@ -73,8 +61,8 @@ Waiting and such
 Riff 1
 Misery I need
 
-	Riff 2
-Your Touch	x 4
+Riff 2
+Your Touch  x 4
 
 Riff 1 x 4 (Solo section)
 Intro  x 2
@@ -88,9 +76,6 @@ Pleeease rush
 Riff 1
 I need
 
-	Riff 2
-Your Touch	x 4
-
-I'm not really sure about the lyrics,
-but this is a rough song anyways.
+Riff 2
+Your Touch  x 4
 

@@ -5,15 +5,18 @@ tags: [learnt]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Thirty Three
+    url: https://open.spotify.com/track/02BSpb2sKuFgs0Go3LRbTj?si=_4fs9OAnRHCLiu0x2GmT4w
 ---
 
+## Intro
 
 ```chordpro
 G x3
 ```
+
+## Verse
 
 &nbsp; C              Dsus2            G
 Speak to me in a language I can hear
@@ -31,7 +34,6 @@ supper's waiting on the table
 Tomorrow is just an excuse away
 &nbsp; G                                  C    Dsus2
 So I turn my collar up and face the cold,       on my own. . .
-
 &nbsp; C                Dsus2            G
 The earth laughs beneath my heavy feet
 &nbsp; C                Dsus2            G
@@ -42,6 +44,7 @@ steeple guide me to my heart and home
 the sun is up and out and down again
 
 ## Chorus
+
 &nbsp; C
 I know I'll make it
 &nbsp; G
@@ -68,7 +71,8 @@ mysteries not ready to reveal
  C             Dsus2      C
 sympathies I'm ready to return
 
-## outro
+## Verse
+
  C
 I'll make the effort
  G

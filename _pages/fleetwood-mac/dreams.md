@@ -5,9 +5,9 @@ tags: []
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Dreams
+    url: https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz?si=nkobjVTWQPi3GK-s4jKKJg
 ---
 
 &nbsp;  Fmaj7    Am     G/C

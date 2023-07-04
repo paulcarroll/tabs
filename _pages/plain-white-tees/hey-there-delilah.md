@@ -1,7 +1,7 @@
 ---
 group: Plain White Tees
 title: Hey there Delilah
-tags: []
+tags: [Danielle, easy]
 layout: page
 capo: 2
 links: 
@@ -12,9 +12,11 @@ links:
 
 
 ## Intro
+
 C Em C Em
 
 ## Verse
+
 C
 &nbsp; Hey there Delilah,
 &nbsp;         Em
@@ -45,6 +47,7 @@ F              G                Am
 I’m by your side.
 
 ## Chorus
+
 C                      Am
 Oh it’s what you do to me,
 C                      Am
@@ -57,6 +60,7 @@ Oh it’s what you do to me,
 What you do to me.
 
 ## Verse
+
 C
 &nbsp; Hey there Delilah,
 &nbsp;      Em
@@ -88,6 +92,7 @@ F              G                  Am
 We’d have it all.
 
 ## Chorus
+
 C                      Am
 Oh it’s what you do to me,
 C                      Am
@@ -98,6 +103,7 @@ C                      Am
 Oh it’s what you do to me,
 
 ## Bridge
+
 &nbsp; F
 A thousand miles seems pretty far,
 &nbsp;   G
@@ -120,6 +126,7 @@ The world will never ever be the same,
 And you’re to blame.
 
 ## Verse
+
 C                          Em
 &nbsp; Hey there Delilah you be good, And don’t you miss me,
 &nbsp;        C
@@ -138,6 +145,7 @@ F             G               Am
 This one’s for you.
 
 ## Chorus
+
 C                      Am
 Oh it’s what you do to me,
 C                      Am
@@ -150,6 +158,7 @@ Oh it’s what you do to me,
 What you do to me.
 
 ## Outro
+
 C    Am    x3
 C    C
 

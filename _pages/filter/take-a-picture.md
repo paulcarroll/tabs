@@ -1,16 +1,15 @@
 ---
 group: Filter
 title: Take a picture
-tags: []
+tags: [SHIT, learning]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Take a picture
+    url: https://open.spotify.com/track/2O2mr2gzBRtKGRiswqRyiN?si=8TRkLPrzRla_taa_dXbnTw
 ---
 
-Chords
 ```chordpro
 Asus2     x02200
 A         x02220

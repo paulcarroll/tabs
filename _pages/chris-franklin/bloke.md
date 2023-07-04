@@ -5,13 +5,14 @@ tags: [funny]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Bloke
+    url: https://open.spotify.com/track/5cPlWPuzNikg3xvmFPExEf?si=0268322a27aa4205
 ---
 
+## Intro
 
- A E D, A E D
+A E D, A E D
 
 ## Verse
 &nbsp;       A                    E D                    A                     E D

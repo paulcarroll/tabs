@@ -1,15 +1,16 @@
 ---
 group: Eagles
 title: Hotel California
-tags: [learnt]
+tags: [learnt, SHIT, easy]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Hotel California
+    url: https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv?si=da21ea0dfa414da5
 ---
 
+## Verse
 
 Bm                        F#
 On a dark desert highway, cool wind in my hair
@@ -22,6 +23,8 @@ My head grew heavy and my sight grew dim
 F#
 I had to stop for the night
 
+## Verse
+
 Bm                               F#
 There she stood in the doorway;  I heard the mission bell
 A                                          E
@@ -32,6 +35,7 @@ Em                                   F#
 There were voices down the corridor, I thought I heard them say
 
 ## Chorus
+
 G                        D
 Welcome to the Hotel California.
 &nbsp;     Em                   Bm7
@@ -41,6 +45,8 @@ Plenty of room at the Hotel California
 &nbsp;     Em                                      F#
 Any time of year (any time of year) you can find it here
 
+## Verse
+
 Bm                               F#
 Her mind is Tiffany twisted, she got the Mercedes bends
 A                                          E
@@ -49,6 +55,8 @@ G                        D
 How they dance in the courtyard, sweet summer sweat
 Em                                   F#
 Some dance to remember, some dance to forget
+
+## Verse
 
 Bm                               F#
 So I called up the captain;  "Please bring me my wine."
@@ -60,6 +68,7 @@ Em                                   F#
 Wake you up in the middle of the night, just to hear them say
 
 ## Chorus
+
 G                        D
 Welcome to the Hotel California.
 &nbsp;     Em                   Bm7
@@ -68,6 +77,8 @@ Such a lovely place, such a lovely face
 They livin' it up at the Hotel California
 &nbsp;     Em                                      F#
 What a nice surprise (what a nice surprise) bring your alibis
+
+## Verse
 
 Bm                               F#
 Mirrors on the ceiling, the pink champagne on ice
@@ -78,6 +89,8 @@ And in the master's chambers, they gathered for the feast
 Em                                   F#
 They stab it with their steely knives, but they just can't kill the beast
 
+## Verse
+
 Bm                               F#
 Last thing I remember, I was running for the door
 A                                          E
@@ -87,5 +100,4 @@ G                        D
 Em                                   F#
 "You can check out anytime you like, but you can never leave"
 
-(Instrumental and fade)
 

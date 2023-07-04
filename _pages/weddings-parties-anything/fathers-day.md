@@ -1,19 +1,26 @@
 ---
 group: Weddings Parties Anything
 title: Fathers day
-tags: []
+tags: [learning]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Fathers day
+    url: https://open.spotify.com/track/2mnvzsLKEG033tp9Bqm4S1?si=c6234e8d96fb42e4
+  - type: YouTube
+    title: AndyGrace
+    url: https://www.youtube.com/watch?v=D0a-xbmetWQ
 ---
 
 ## Intro
+
+```chordpro
 E A A B
+```
 
 ## Verse
+
 &nbsp;       E               A       A       B
 I haven't always been a single man
 &nbsp;       E       A       A       B
@@ -34,6 +41,7 @@ But Hey before you cut me down  Just try standing in my shoes
 Cause I don't have to hear one word of this no
 
 ## Chorus
+
 &nbsp;       E
 On any other day
 &nbsp;  F#
@@ -50,6 +58,7 @@ But I've got one,        who calls me Dad
 E       A       A       B
 
 ## Verse
+
 &nbsp;       E                       A       A       B
 And all the other blokes that live up here
 &nbsp;       E               A       A       B
@@ -71,7 +80,8 @@ She might say that she was right
 &nbsp;       A
 And the only rights I care about are visiting rights yeah
 
- Chorus
+## Chorus
+
 &nbsp;       E
 On any other day
 &nbsp;       F#
@@ -85,6 +95,8 @@ You might call me mad
 &nbsp;       A
 But I've got one,        who calls me Dad
 
+## Bridge
+
 D                      E
 We go where he wants to go
 &nbsp;                       D
@@ -95,6 +107,8 @@ F#                       E
 Cause I'd do anything to prove
 &nbsp;               F#      E
 Yeah I'd do anything to prove
+
+## Verse
 
 &nbsp;               E
 But Every Saturday

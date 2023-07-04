@@ -1,18 +1,21 @@
 ---
 group: Cold Chisel
 title: Khe Sahn
-tags: [learnt]
+tags: [learnt, SHIT]
 layout: page
 capo: 
-columns: 1
+columns: 2
 links: 
   - type: 
     title: 
     url: 
 ---
 
+## Intro
 
 G D Em D C Bm Am D
+
+## Verse
 
 &nbsp; Em                   C                  G   C G
 I left my heart to the sappers round, Khe Sahn,
@@ -23,6 +26,8 @@ I've had the Vietnam cold turkey, from the ocean to the silver city,
 &nbsp;               Am         F               D    Dsus D D
 And it's only other vets could understand...
 
+## Verse
+
 &nbsp;           Em             C              G   C G
 'Bout the long forgotten dockside guarantees,
 &nbsp;              Em                 C                D
@@ -31,6 +36,8 @@ How there were no V-day heroes in nineteen seventy-three.
 How we sailed into Sydney Harbour, saw an old friend but I couldn't kiss her.
 &nbsp;              Am               D                 G     C G D
 She was lined, and I was home to the lucky land...
+
+## Verse
 
 &nbsp;       Em           C                   G C G
 She was like so many more from that time on,
@@ -41,6 +48,8 @@ And their legs were often open, but their minds were always closed,
 &nbsp;         Am                  F             D     Dsus D D
 &nbsp;  And their hearts were held in fast suburban chains...
 
+## Verse
+
 &nbsp;        Em              C             G    C G
 And the legal pads were yellow, hours long pay packets lean,
 &nbsp;       Em            C                    D
@@ -49,6 +58,8 @@ And the telex writers clattered, where the gunships once had been.
 But the car parks made me jumpy, and I never stopped the dreams,
 &nbsp;      Am               D             G      C G D
 &nbsp;   Or the growing need for speed and novocaine...
+
+## Verse
 
 &nbsp;     Em                C                   G  C G
 So I worked across the country from end to end,
@@ -59,6 +70,8 @@ Held a job on an oil-rig, flying choppers when I could,
 &nbsp;       Am               F                  D   Dsus D D (Em)
 &nbsp;   But the nightlife nearly drove me round the bend...
 
+## Verse
+
 &nbsp;        Em                  C                  G   C G
 And I've travelled round the world from year to year,
 &nbsp;   Em                C                 D
@@ -68,7 +81,13 @@ And I've been back to South East Asia, and the answer sure ain't there,
 &nbsp;       Am                 D                 G     C G D
 &nbsp;   But I'm drifting north, to check things out again...
 
-Instrumental: (Verse)  Em C G C G, Em C D, Em C G C, Am D G C G D
+## Instrumental
+
+```chordpro
+Em C G C G, Em C D, Em C G C, Am D G C G D
+```
+
+## Verse
 
 &nbsp;            Em            C               G   C G
 Well the last plane of Sydney's almost gone,
@@ -79,6 +98,8 @@ And there ain't nothin' like the kisses, from a jaded Chinese princess,
 &nbsp;         Am                 F                  D   Dsus D D
 &nbsp;   I'm gonna hit some Hong Kong mattress all night long...
 
+## Verse
+
 &nbsp;          Em                C               G   C G
 Well the last plane out of Sydney's almost gone,
 &nbsp;            Em                C               D
@@ -87,6 +108,8 @@ You know the last plane out of Sydney's almost gone.
 And it's really got me worried, I'm going nowhere and I'm in a hurry.
 &nbsp;            Am                D               G     C G D
 &nbsp;   You know the last plane out of Sydney's almost gone...
+
+## Verse
 
 &nbsp;          Em                C               G   C G
 Well the last plane out of Sydney's almost gone, (yeah yeah)

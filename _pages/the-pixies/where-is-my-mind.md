@@ -5,9 +5,9 @@ tags: [learnt]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Where Is My Mind
+    url: https://open.spotify.com/track/0KzAbK6nItSqNh8q70tb0K?si=sih6CMeuSY-DI9RUI-85UA
 ---
 
 

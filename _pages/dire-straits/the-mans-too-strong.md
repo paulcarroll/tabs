@@ -5,12 +5,19 @@ tags: []
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: The man's too strong
+    url: https://open.spotify.com/track/0DeLHrPqVdRayndn0Upt4i?si=0r7o68frS8yiXsuZnT-hUA
+  - type: YouTube
+    title: TGAcousticLessons
+    url: https://www.youtube.com/watch?v=5Yf353Qz5mc&feature=youtu.be
 ---
 
+## Intro
+
 Dm C Bb Dm  2x
+
+## Verse
 
 &nbsp;    Dm                                    C
 I am just an aging drummer boy, and in the wars I used to play
@@ -21,6 +28,8 @@ Now they say I am a war criminal, and I'm fading away
 Bb                        Dm
 Father, please hear my confession
 
+## Verse
+
 &nbsp;      G                  D
 I have legalized robbery, called it belief
 &nbsp;      G                          D
@@ -29,6 +38,8 @@ G                       D
 Re-written history with armies and my crooks
 &nbsp;        C      Am       D
 Invented memories, I did burn all the books
+
+## Chorus
 
 &nbsp;         Dm
 And I can still hear his laughter,
@@ -40,6 +51,8 @@ The man's too big;
 The man's too strong
 
 Gm  D
+
+## Verse
 
 &nbsp;      G                        D
 Well I tried to be meek, I have tried to be mild
@@ -50,6 +63,8 @@ I have lived behind walls, that have made me alone
 &nbsp;           C    Am        D
 Striven for peace, which I never have known
 
+## Chorus
+
 &nbsp;         Dm
 And I can still hear his laughter,
 &nbsp;         C              Em
@@ -61,6 +76,8 @@ The man's too strong
 
 Gm  D
 
+## Verse
+
 &nbsp;        G                                   D
 Well the sun rose on the courtyard, and they all did hear him say
 &nbsp;    G                         D
@@ -69,6 +86,8 @@ Well the sun rose on the courtyard, and they all did hear him say
 You may have got your silver, but I swear upon my life
 &nbsp;                   C       Am      D
 Your sister gave me diamonds, and I gave 'em to your wife"
+
+## Outro
 
 &nbsp;                 Dm
 Oh father, please help me,

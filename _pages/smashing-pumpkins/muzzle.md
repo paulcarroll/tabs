@@ -50,72 +50,72 @@ A5          Gadd2     Bm7add11      A5                    Gadd2  Bm7add11
 My life has been extraordinary      blessed and cursed and won
 A5             Gadd2   Bm7add11
 Time heals but I'm     forever broken
-        A5             Gadd2
-        by and by the way
-        Bm7add11                Dsus2    B7sus4            A5
-        have you ever heard the words I'm singing in these songs
-                     Dsus2       Bm7add11    A5
-        it's for the girl I've   loved all   along
-                 Dsus2   Bm7add11  E
-        can a taste of  love be so wrong
-               Gadd2       Bm7add11       A5
-        as all things must surely have to end
-                  Gadd2      Bm7add11        A5
-        and great loves will one day have to part
-        A5          Gadd2    Bm7add11
-        I know that I     am meant for this
+A5             Gadd2
+by and by the way
+Bm7add11                Dsus2    B7sus4            A5
+have you ever heard the words I'm singing in these songs
+            Dsus2       Bm7add11    A5
+it's for the girl I've   loved all   along
+      Dsus2   Bm7add11  E
+can a taste of  love be so wrong
+      Gadd2       Bm7add11       A5
+as all things must surely have to end
+      Gadd2      Bm7add11        A5
+and great loves will one day have to part
+A5          Gadd2    Bm7add11
+I know that I     am meant for this
 
 ## Bridge
 
 &nbsp;       Dsus2   B7sus4
-        world
-            A5
-        and in my mind as I was floating
-        Gadd2         Bm7add11
-        far above the clouds
-             Dsus2
-        some children laughed I'd fall for certain
-            B7sus4
-        for thinking that I'd last
+world
+A5
+and in my mind as I was floating
+Gadd2         Bm7add11
+far above the clouds
+      Dsus2
+some children laughed I'd fall for certain
+B7sus4
+for thinking that I'd last
 
 ## Verse
 
 &nbsp;        A5
-        forever
-              Gadd2    Bm7add11         A5
-        but I knew    exactly where I was
-              Gadd2    Bm7add11      A5
-        and I knew the meaning of it all
-              Gadd2    Bm7add11       A5
-        and I knew the distance to the sun
-              Gadd2    Bm7add11     A5
-        and I knew the echo that is love
-              Gadd2    Bm7add11        A5
-        and I knew the secrets in your spires
-              Gadd2    Bm7add11     A5
-        and I knew the emptiness of youth
-              Gadd2    Bm7add11    A5
-        and I knew the solitude of heart
-              Gadd2    Bm7add11        A5        A5
-        and I knew the murmurs of the soul
-                Dsus2    B7sus4          A5
-        and the world is drawn into your hands
-                Dsus2    B7sus4           A5
-        and the world is etched upon your heart
-                Dsus2    B7sus4        A5
-        and the world so hard to understand
-                Dsus2    B7sus4         A5    Gadd2  Bm7add11
-        is the world you can't live without
+forever
+      Gadd2    Bm7add11         A5
+but I knew    exactly where I was
+      Gadd2    Bm7add11      A5
+and I knew the meaning of it all
+      Gadd2    Bm7add11       A5
+and I knew the distance to the sun
+      Gadd2    Bm7add11     A5
+and I knew the echo that is love
+      Gadd2    Bm7add11        A5
+and I knew the secrets in your spires
+      Gadd2    Bm7add11     A5
+and I knew the emptiness of youth
+      Gadd2    Bm7add11    A5
+and I knew the solitude of heart
+      Gadd2    Bm7add11        A5        A5
+and I knew the murmurs of the soul
+      Dsus2    B7sus4          A5
+and the world is drawn into your hands
+      Dsus2    B7sus4           A5
+and the world is etched upon your heart
+      Dsus2    B7sus4        A5
+and the world so hard to understand
+      Dsus2    B7sus4         A5    Gadd2  Bm7add11
+is the world you can't live without
 
 ## Outro
 
 &nbsp;    A5       Gadd2    Bm7add11         A5
-        and I knew the silence of the world
-              Gadd2    Bm7add11         A5
-        and I knew the silence of the world
-              Gadd2    Bm7add11         A5
-        and I knew the silence of the world
-              Gadd2    Bm7add11         E
-        and I knew the silence of the world
-               Gadd2   Bm7add11       A5
-        and I knew the silence of the world
+and I knew the silence of the world
+      Gadd2    Bm7add11         A5
+and I knew the silence of the world
+      Gadd2    Bm7add11         A5
+and I knew the silence of the world
+      Gadd2    Bm7add11         E
+and I knew the silence of the world
+      Gadd2   Bm7add11       A5
+and I knew the silence of the world

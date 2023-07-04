@@ -5,15 +5,20 @@ tags: []
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Sultans of swing
+    url: https://open.spotify.com/track/37Tmv4NnfQeb0ZgUC4fOJj?si=DkeFaQPBTriXeRMy-hqz5g
+  - type: YouTube
+    title: LeeJohnBlackmore
+    url: https://www.youtube.com/watch?v=8S3c6hniSQY
 ---
 
 ## Intro
+
 Dm
 
 ## Verse
+
 &nbsp;         Dm
 You get a shiver in the dark
 &nbsp;    C            Bb           A        A7
@@ -26,6 +31,7 @@ Bb                                         Dm     Bb  C
  You feel alright when you hear the music ring
 
 ## Verse
+
 &nbsp;       Dm              C         Bb           A      A
 Now you step inside but you don't see too many faces
 Dm                    C                Bb   A
@@ -40,6 +46,7 @@ Dm          C  Bb    C   C   Dm  C Bb    C
 London town
 
 ## Verse
+
 &nbsp;            Dm            C   Bb   A                    A7
 You check out Guitar George,    he knows  all the chords,
 Dm                          C           Bb             A           A
@@ -50,6 +57,7 @@ Bb                                              Dm     Bb  C
 &nbsp; when he gets up under the lights to play his thing
 
 ## Verse
+
 Dm             C         Bb        A                   A
 &nbsp; And Harry doesn't mind  if he doesn't make the scene
 &nbsp; Dm                 C    Bb        A         A7
@@ -64,6 +72,7 @@ Dm          C  Bb    C   C   Dm  C Bb    C
 swing
 
 ## Verse
+
 &nbsp;     Dm                       C           Bb           A7       A7
 And a crowd of young boys they're fooling around in the corner
 Dm                              C          Bb                A          A
@@ -78,6 +87,8 @@ Dm          C  Bb    C        C   Dm  C Bb    C
 Creole                (Creole)                   (ah, ah)
 
 ## Interlude
+
+```chordpro
 Dm          C  Bb    A   A7
 Dm          C  Bb    A   A
 F           C
@@ -85,8 +96,10 @@ Bb          Dm         Bb
 C       Bb  C
 Dm      C   Bb       C
 Dm      C   Bb       C
+```
 
 ## Verse
+
 Dm                   C           Bb        A7         A7
  And then the man he steps right up to the microphone
 Dm            C             Bb        A          A

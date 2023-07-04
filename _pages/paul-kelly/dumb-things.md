@@ -1,19 +1,23 @@
 ---
 group: Paul Kelly
 title: Dumb Things
-tags: [learnt]
+tags: [learnt, SHIT, lively, easy]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Dumb Things
+    url: https://open.spotify.com/track/0hESSlOMUM9VgEFSM3ecTu?si=UoXIj-xoTi21T7nzks4giw
 ---
 
+## Intro
 
+```chordpro
 Am Em, Am Em, Am Em, Am C G D,
+Am Em, Am Em, Am Em, Am C G D,
+```
 
-Am Em, Am Em, Am Em, Am C G D,
+## Verse
 
 &nbsp;   Am        Em       Am       Em
 Welcome strangers, to the show,
@@ -32,6 +36,8 @@ I lost my shirt, I pawned my rings,
 G         D       Am         Em, Am Em, Am Em, Am C G D
 I've done all the dumb things...
 
+## Verse
+
 &nbsp;   Am           Em   Am          Em
 Caught the fever, heard the tune,
 &nbsp;   Am          Em       Am        C     G  D   Am
@@ -47,11 +53,16 @@ In the middle, in the middle, in the middle of a dream.
 &nbsp; Am      Em       F         C
 I lost my shirt, I pawned my rings,
 G         D       Am         Em, Am Em, Am Em, Am C G D
-	I've done all the dumb things...
+  I've done all the dumb things...
 
 ## Instrumental
-&nbsp; F C Em F G, Am Em F C G D
-	Am Em, Am Em, Am Em, Am C G D (Am)
+
+```chordpro
+F C Em F G, Am Em F C G D
+Am Em, Am Em, Am Em, Am C G D (Am)
+```
+
+## Verse
 
 &nbsp;   Am      Em      Am          Em
 And I get all your good advice,
@@ -63,19 +74,21 @@ I see the knives out, I turn my back,
 I hear the train coming, I stayed right on that track...
 
 ## Chorus
+
 F             C             Em                   F    G
 In the middle, in the middle, in the middle of a dream.
 &nbsp; Am      Em       F         C
 I lost my shirt, I pawned my rings,
 G         D       Am         Em
-	I've done all the dumb things...
+  I've done all the dumb things...
 
 ## Outro
-&nbsp; Am     Em     F      C	G         D		Am	     Em
+
+&nbsp; Am     Em     F      C  G         D    Am       Em
 I melted wax to fix my wings, I've done all the dumb things,
-&nbsp; Am       Em    F      C 	G         D		Am         Em
+&nbsp; Am       Em    F      C   G         D    Am         Em
 I threw my hat into the ring, I've done all the dumb things,
-Am             Em     F      C     G         D 	     Am         Em
+Am             Em     F      C     G         D        Am         Em
 I thought that I just had to sing, I've done all the dumb things...
 
 Instrumental:  Am Em, Am Em, Am C G D, Am.

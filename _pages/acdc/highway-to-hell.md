@@ -3,6 +3,13 @@ group: ACDC
 title: Highway to hell
 tags: []
 layout: page
+links: 
+  - type: Spotify
+    title: Highway to hell
+    url: https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s?si=vXhLuVVfTaO7D4xwHtLWTQ
+  - type: YouTube
+    title: LeeJohnBlackmore
+    url: https://www.youtube.com/watch?v=N8Lf2cWHtJ0&ab_channel=SuperEasyGuitar%7CLeeJohnBlackmore
 ---
 
 ## Intro

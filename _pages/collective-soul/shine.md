@@ -5,15 +5,15 @@ tags: []
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Shine
+    url: https://open.spotify.com/track/77YKoNCjP5hWqiXMRG2839?si=0f4f81fe2a554a1a
 ---
 
+```chordpro
 Note: Original in Drop Db tuning (Db Ab Db Gb Bb Eb).
 
 Riff:
-```chordpro
    D                            D
 E|-0h2-2-2-2~--2-0--0-0-0-0~--|-0h2-2-2-2~--2-5--2-0-2-0--|
 B|-3---3-3-3~--3-3--3-3-3-3~--|-3---3-3-3~--3-3--3-3-3-3--|
@@ -21,10 +21,8 @@ G|-2---2-2-2~--2-2--0-2-0-2~--|-2---2-2-2~--2-2--2-2-2-2--|
 D|-0---0-0-0~--0-0--0-0-0-0~--|-0---0-0-0~--0-0--0-0-0-0--|
 A|----------------------------|---------------------------|
 E|----------------------------|---------------------------|
-```
 
-&nbsp;  C                               G
-```chordpro
+   C                               G
 E|-------------------------------|-------------------------------|
 B|-3--3-3-3--3-3-3-3-3-3-3-3-3-0-|-------------------------------|
 G|-0--0-0-0--0-0-0-0-0-0-0-0-0-0-|-0--0-0-0--0-0-0-0-0-0-0-0-0-0-|
@@ -33,9 +31,12 @@ A|-3--0-0-3--0-3-0-3-0-0-3-0-3-0-|-2--0-0-2--0-2-0-2-0-0-2-0-2-0-|
 E|-------------------------------|-3------3----3---3-----3---3---|
 ```
 
-Intro: Riff x1
+## Intro
 
-Verse #1:
+*Riff x1*
+
+## Verse
+
 D
 Give me a word, give me a sign
 D
@@ -58,13 +59,20 @@ A|-------------------------3-x--|-------------------------3-5-|
 E|-------------------------1-x--|-------------------------1-3-|
 ```
 
-Chorus (x4):
+## Chorus
+
+C -  G -              D
+Oh___ Heaven let your light shine down
+C -  G -              D
+Oh___ Heaven let your light shine down
+C -  G -              D
+Oh___ Heaven let your light shine down
 C -  G -              D
 Oh___ Heaven let your light shine down
 
-Riff x1
+*Riff x1*
 
-Verse #2:
+## Verse
 D
 Love is in the water, love is in the air
 D
@@ -87,18 +95,26 @@ A|-------------------------3-x--|-------------------------3-5-|
 E|-------------------------1-x--|-------------------------1-3-|
 ```
 
-Chorus (x4):
+## Chorus
+C -  G -              D
+Oh___ Heaven let your light shine down
+C -  G -              D
+Oh___ Heaven let your light shine down
+C -  G -              D
+Oh___ Heaven let your light shine down
 C -  G -              D
 Oh___ Heaven let your light shine down
 
-Riff x1
+*Riff x1*
 
 ## Solo
-[D][D][C][G] x2
 
-Riff x1
+D  D  C  G
+D  D  C  G
 
-Verse #3:
+*Riff x1*
+
+## Verse
 D
 Give me a word, give me a sign
 D
@@ -121,7 +137,13 @@ A|-------------------------3-x--|-------------------------3-5-|
 E|-------------------------1-x--|-------------------------1-3-|
 ```
 
-Chorus (x4):
+## Chorus
+C -  G -              D
+Oh___ Heaven let your light shine down
+C -  G -              D
+Oh___ Heaven let your light shine down
+C -  G -              D
+Oh___ Heaven let your light shine down
 C -  G -              D
 Oh___ Heaven let your light shine down
 

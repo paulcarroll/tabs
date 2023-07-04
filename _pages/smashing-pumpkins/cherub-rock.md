@@ -4,12 +4,15 @@ title: Cherub Rock
 tags: [learning]
 layout: page
 links: 
-  - type: YouTube
-    title: HitsOnAcousticGuitar
-    url: https://www.youtube.com/watch?v=OBf8lf_sWTo&ab_channel=HitsOnAcousticGuitar
   - type: Spotify 
     title: Cherub rock
     url: https://open.spotify.com/track/0F2LiyHp9E0pAanpfnzHNp?si=b76564d83cd14f6d
+  - type: YouTube
+    title: HitsOnAcousticGuitar
+    url: https://www.youtube.com/watch?v=OBf8lf_sWTo&ab_channel=HitsOnAcousticGuitar
+  - type: YouTube
+    title: LeeJohnBlackmore
+    url: https://www.youtube.com/watch?v=XLRXt5VwD00
 ---
 
 ## Intro riff
