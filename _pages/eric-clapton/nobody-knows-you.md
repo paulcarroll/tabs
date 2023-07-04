@@ -1,7 +1,7 @@
 ---
 group: Eric Clapton
 title: Nobody Knows You
-tags: []
+tags: [learnt]
 layout: page
 capo: 
 links: 

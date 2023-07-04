@@ -1,7 +1,7 @@
 ---
 group: Oasis
 title: Wonderwall
-tags: []
+tags: [learnt]
 layout: page
 capo: 2
 links: 

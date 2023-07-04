@@ -1,7 +1,7 @@
 ---
 group: Kings of Leon
 title: Revelry
-tags: []
+tags: [learnt]
 layout: page
 capo: 
 links: 

@@ -1,7 +1,7 @@
 ---
 group: Smashing Pumpkins
 title: Thirty Three
-tags: []
+tags: [learnt]
 layout: page
 capo: 
 links: 

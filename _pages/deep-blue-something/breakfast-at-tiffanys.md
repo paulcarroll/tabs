@@ -1,7 +1,7 @@
 ---
 group: Deep Blue Something
 title: Breakfast At Tiffanys
-tags: []
+tags: [learnt]
 layout: page
 capo: 
 links: 

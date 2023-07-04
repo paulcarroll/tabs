@@ -1,7 +1,7 @@
 ---
 group: Paul Simon
 title: Me And Julio Down By The Schoolyard
-tags: []
+tags: [learning, lively]
 layout: page
 capo: 
 links: 

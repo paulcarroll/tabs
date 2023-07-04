@@ -1,7 +1,7 @@
 ---
 group: The Pixies
 title: Wave Of Multilation
-tags: []
+tags: [learnt]
 layout: page
 capo: 
 columns: 1

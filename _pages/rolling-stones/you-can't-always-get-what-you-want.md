@@ -1,7 +1,7 @@
 ---
 group: Rolling Stones
 title: You Can't Always Get What You Want
-tags: []
+tags: [learnt]
 layout: page
 capo: 
 links: 

@@ -1,7 +1,7 @@
 ---
 group: The Black Keys
 title: Lonely Boy
-tags: []
+tags: [learning, lively]
 layout: page
 capo: 
 columns: 1

@@ -1,7 +1,7 @@
 ---
 group: Jake Bugg
 title: Lightning Bolt
-tags: []
+tags: [learning]
 layout: page
 capo: 
 links: 

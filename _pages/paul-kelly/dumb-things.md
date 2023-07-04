@@ -1,7 +1,7 @@
 ---
 group: Paul Kelly
 title: Dumb Things
-tags: []
+tags: [learnt]
 layout: page
 capo: 
 links: 

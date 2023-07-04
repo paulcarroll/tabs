@@ -1,7 +1,7 @@
 ---
 group: Diesel
 title: Tip of my tongue
-tags: []
+tags: [learning]
 layout: page
 capo: 
 links: 

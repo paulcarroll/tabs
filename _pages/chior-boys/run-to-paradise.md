@@ -1,7 +1,7 @@
 ---
 group: Chior Boys
 title: Run To Paradise
-tags: []
+tags: [learnt]
 layout: page
 capo: 
 links: 

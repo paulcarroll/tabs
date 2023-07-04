@@ -1,7 +1,7 @@
 ---
 group: Pete Murray
 title: Feeler
-tags: []
+tags: [learnt]
 layout: page
 capo: 
 links: 

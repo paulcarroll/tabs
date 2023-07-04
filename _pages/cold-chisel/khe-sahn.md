@@ -1,7 +1,7 @@
 ---
 group: Cold Chisel
 title: Khe Sahn
-tags: []
+tags: [learnt]
 layout: page
 capo: 
 columns: 1

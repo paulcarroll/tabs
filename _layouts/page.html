@@ -19,6 +19,11 @@ layout: default
 
     <div class="song-extra">
       <ul>
+        {% assign tags = page.tags %}
+        {% if tags %}
+        <li><strong>Tags: {{ tags | join: ', ' }}</strong></li>
+        {% endif %}
+
         {% if page.capo %}
         <li><strong>Capo: {{ page.capo }}</strong></li>
         {% endif %}

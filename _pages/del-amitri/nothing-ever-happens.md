@@ -1,7 +1,7 @@
 ---
 group: Del Amitri
 title: Nothing Ever Happens
-tags: []
+tags: [learnt]
 layout: page
 capo: 3
 columns: 1

@@ -1,7 +1,7 @@
 ---
 group: Creedance Clearwater Revival
 title: Proud Mary
-tags: []
+tags: [learnt]
 layout: page
 capo: 
 links: 

@@ -1,7 +1,7 @@
 ---
 group: The Pixies
 title: Where Is My Mind
-tags: []
+tags: [learnt]
 layout: page
 capo: 
 links: 

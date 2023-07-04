@@ -1,7 +1,7 @@
 ---
 group: Foo Fighters
 title: Best of You
-tags: []
+tags: [learning]
 layout: page
 capo: 
 links: 

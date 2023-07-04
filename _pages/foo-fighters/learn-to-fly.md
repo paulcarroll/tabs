@@ -1,7 +1,7 @@
 ---
 group: Foo Fighters
 title: Learn To Fly
-tags: []
+tags: [learnt]
 layout: page
 capo: 
 links: 

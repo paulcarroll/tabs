@@ -1,7 +1,7 @@
 ---
 group: Tenacious D
 title: Kielbasa
-tags: []
+tags: [funny]
 layout: page
 capo: 
 links: 

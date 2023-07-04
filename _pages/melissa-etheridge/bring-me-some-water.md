@@ -1,7 +1,7 @@
 ---
 group: Melissa Etheridge
 title: Bring Me Some Water
-tags: []
+tags: [learnt]
 layout: page
 capo: 
 links: 

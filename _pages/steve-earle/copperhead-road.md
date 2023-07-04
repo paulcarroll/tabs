@@ -1,7 +1,7 @@
 ---
 group: Steve Earle
 title: Copperhead road
-tags: []
+tags: [learning]
 layout: page
 capo: 
 links: 

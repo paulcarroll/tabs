@@ -1,7 +1,7 @@
 ---
 group: Queen
 title: Crazy Little Thing Called Love
-tags: []
+tags: [learnt]
 layout: page
 capo: 
 links: 

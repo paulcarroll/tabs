@@ -1,7 +1,7 @@
 ---
 group: Billy Strings
 title: Dust in a baggie
-tags: []
+tags: [learning]
 layout: page
 capo: 
 links: 

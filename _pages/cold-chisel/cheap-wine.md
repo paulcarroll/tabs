@@ -1,7 +1,7 @@
 ---
 group: Cold Chisel
 title: Cheap Wine
-tags: []
+tags: [learnt]
 layout: page
 columns: 1
 capo: 

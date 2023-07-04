@@ -1,7 +1,7 @@
 ---
 group: Chris Franklin
 title: Bloke
-tags: []
+tags: [funny]
 layout: page
 capo: 
 links: 

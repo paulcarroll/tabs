@@ -1,7 +1,7 @@
 ---
 group: The Animals
 title: The House Of The Rising Sun
-tags: []
+tags: [learnt]
 layout: page
 capo: 
 columns: 1

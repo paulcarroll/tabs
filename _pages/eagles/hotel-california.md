@@ -1,7 +1,7 @@
 ---
 group: Eagles
 title: Hotel California
-tags: []
+tags: [learnt]
 layout: page
 capo: 
 links: 

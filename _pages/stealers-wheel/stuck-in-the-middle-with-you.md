@@ -1,7 +1,7 @@
 ---
 group: Stealers Wheel
 title: Stuck In The Middle With You
-tags: []
+tags: [learnt]
 layout: page
 capo: 
 links: 

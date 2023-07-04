@@ -1,7 +1,7 @@
 ---
 group: Smashing Pumpkins
 title: Sweet Sweet
-tags: []
+tags: [quiet, slow, easy, learnt]
 layout: page
 capo: 
 links: 
