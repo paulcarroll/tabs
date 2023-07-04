@@ -10,11 +10,11 @@ links:
     url: 
 ---
 
-# Intro
+## Intro
 
 D A G D
 
-# Verse
+## Verse
 
 D         A   G    D       D     A       G      D
 I see the bad moon rising, I see trouble on the way,
@@ -40,7 +40,9 @@ Don't go around tonight, well it's bound to take your life,
 A         G               D
 There's a bad moon on the rise.
 
-Instrumental Break: D A G D, D A G D, G D A G D
+## Instrumental
+
+D A G D, D A G D, G D A G D
 
 D        A        G      D         D            A     G           D
 Hope you got your things together, hope you are quite prepared to die,
