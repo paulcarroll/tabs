@@ -8,11 +8,11 @@ links:
   - type: Spotify
     title: Blackhole sun
     url: https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD?si=hCIfi-IVQmaPcNsiafg69Q
-  - type: 
+  - type: YouTube
     title: Nathan Wesley ver 1 
     url: https://www.youtube.com/watch?v=YRVIm8u_BaM
     comment: Accurate to the recording
-  - type: 
+  - type: YouTube
     title: Nathan Wesley ver 2
     url: https://www.youtube.com/watch?v=Pt2TZSkmucU
     comment: Easier to play
