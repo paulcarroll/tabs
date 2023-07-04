@@ -37,10 +37,15 @@ Can't you see, can't you see, what that woman been doin' to me
 
 ## Verse
 
+D
 I'm gonna find me
+C
 A hole in the wall
-gona crawl inside and die
+G                      D
+gonna crawl inside and die
+D                     C
 That lady, mean ol' woman Lord
+G                 D
 Never told me goodbye
 
 ## Chorus
@@ -52,11 +57,17 @@ Can't you see, can't you see, what that woman been doin' to me
 
 ## Verse
 
+D
 Gonna buy me a ticket now
+C
 As far as I can
+G                     D
 Ain't never comin' back
+D
 Take me Southbound
+C
 All the way to Georgia now
+G                         D
 Till the train run out of track
 
 ## Outro
