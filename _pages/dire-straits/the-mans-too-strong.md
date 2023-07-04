@@ -10,9 +10,6 @@ links:
     url: 
 ---
 
-The Man s Too Strong chords
-Dire Straits  1985 (Brothers In Arms)
-
 Dm C Bb Dm  2x
 
 &nbsp;    Dm                                    C

@@ -3,6 +3,7 @@ group: Cold Chisel
 title: Cheap Wine
 tags: []
 layout: page
+columns: single
 capo: 
 links: 
   - type: 

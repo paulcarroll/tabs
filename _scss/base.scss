@@ -1,23 +1,15 @@
 
 html {
-  font-size: 14px;
+  font-size: calc(14px + 0.3vw);
 }
 
 body {
   font-size: 1.1rem;
-
-  @media (max-width: 576px) {
-    font-size: 15px;
-  }
 }
 
 .container {
   max-width: 90rem;
   margin: 0 auto;
-
-  @media (max-width: 576px) {
-    max-width: 100%;
-  }
 }
 
 

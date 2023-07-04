@@ -1,7 +1,7 @@
 ---
 group: Jimi Hendrix
 title: Hey Joe
-tags: []
+tags: [learning]
 layout: page
 capo: 
 links: 
@@ -10,14 +10,9 @@ links:
     url: 
 ---
 
-[Chords]
 ```chordpro
-C#4/E 044000
-Em7   055000
-E     022100
-C     032010
-G     320003
-D     000232
+C#4/E 044000    Em7   055000    E     022100
+C     032010    G     320003    D     000232
 A     002220
 ```
 

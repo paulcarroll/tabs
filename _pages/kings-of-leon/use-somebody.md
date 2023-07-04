@@ -71,8 +71,7 @@ Woah ah ohh Woah ah ohhh
 Someone like me
          Em          F
 Woah ah ohh Woah ah ohhh .....
-
-(Go let it out) x7
+*(Go let it out) x7*
 
 ## Outro
 

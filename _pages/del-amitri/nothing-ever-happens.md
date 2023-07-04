@@ -4,6 +4,7 @@ title: Nothing Ever Happens
 tags: []
 layout: page
 capo: 3
+columns: single
 links: 
   - type: 
     title: 
@@ -29,7 +30,7 @@ links:
 &nbsp;  C                                                Am
 &nbsp;  Gentlemen time please you know we can't serve anymore,
 &nbsp;          C                                                      Am
-&nbsp;  Now the traffic lights change to stop, when there�s nothing to go.
+&nbsp;  Now the traffic lights change to stop, when there's nothing to go.
 &nbsp;         F                         C         G                    F
 &nbsp;  And by five o'clock everything's dead, and every third car is a cab,
 &nbsp;      F               C

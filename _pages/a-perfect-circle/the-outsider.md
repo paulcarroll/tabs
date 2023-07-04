@@ -4,6 +4,7 @@ title: The Outsider
 tags: []
 layout: page
 capo: 
+columns: single
 links: 
   - type: 
     title: 

@@ -4,6 +4,7 @@ title: Hurt So Good
 tags: []
 layout: page
 capo: 
+columns: single
 links: 
   - type: 
     title: 

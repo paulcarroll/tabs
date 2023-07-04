@@ -1,7 +1,7 @@
 ---
 group: Inxs
 title: Never Tear Us Apart
-tags: []
+tags: [learnt]
 layout: page
 capo: 
 links: 

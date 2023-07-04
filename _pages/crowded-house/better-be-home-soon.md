@@ -4,6 +4,7 @@ title: Better Be Home Soon
 tags: []
 layout: page
 capo: 
+columns: single
 links: 
   - type: 
     title: 

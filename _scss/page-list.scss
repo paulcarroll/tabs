@@ -41,6 +41,10 @@
   .dtsp-buttonGroup, .dtsp-title, .dtsp-titleRow {
     display: none;
   }
+
+  .dtsp-searchPane.dtsp-columns-1:first-child {
+    display: none;
+  }
 }
 
 

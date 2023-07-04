@@ -4,6 +4,7 @@ title: Easy
 tags: []
 layout: page
 capo: 1
+columns: single
 links: 
   - type: 
     title: 

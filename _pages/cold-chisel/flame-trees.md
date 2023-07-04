@@ -4,6 +4,7 @@ title: Flame Trees
 tags: []
 layout: page
 capo: 
+columns: single
 links: 
   - type: 
     title: 

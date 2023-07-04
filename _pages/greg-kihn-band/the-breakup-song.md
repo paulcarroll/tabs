@@ -23,7 +23,7 @@ A--0--------------|-3--------------|----------------|--0---------------|
 E-----------------+----------------+----------------+------------------|
 ```
 
-[1st VERSE:]
+## Verse
 
 &nbsp;        Am                         F
 &nbsp; We had broken up for good just an hour before
@@ -49,7 +49,7 @@ E-----------------+----------------+----------------+------------------|
 &nbsp; F  F                  C  C                   G      Gsus4    G
 &nbsp;       They just don't write 'em like that anymore
 
-[2nd VERSE:]
+## Verse
 
 &nbsp; We been living together for a million years
 &nbsp; Uh uh uh uh uh uh uh uh
@@ -69,12 +69,11 @@ E-----------------+----------------+----------------+------------------|
 
 (Repeat Intro)
 
-[3rd VERSE:]
+## Verse
 
 &nbsp; Now I wind up staring at an empty glass
 &nbsp; Uh uh uh uh uh uh uh uh
 &nbsp; Cause it's so easy to say that you'll forget your past
 &nbsp; Uh uh uh uh uh uh uh uh
 
-(Repeat Chorus-1 3x and fade)
-
+*(Repeat Chorus-1 3x and fade)*

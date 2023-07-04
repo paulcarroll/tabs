@@ -1,7 +1,7 @@
 ---
-group: Hunters _ Collectors
+group: Hunters and Collectors
 title: Holy Grail
-tags: []
+tags: [learnt]
 layout: page
 capo: 
 links: 

@@ -1,19 +1,14 @@
 ---
 group: Eddie Vedder
 title: Hard Sun
-tags: []
+tags: [learning]
 layout: page
-capo: 
+capo: 1
 links: 
   - type: 
     title: 
     url: 
 ---
-
-Capo
-novice 1st fret
-Hard Sun - Eddie Vedder   (Capo 1)
-Tab by Chris Lebresco
 
 ## Verse
 
@@ -25,7 +20,6 @@ G
 When I look to leave her
 &nbsp;       D
 I always stagger back again
-
 D
 Once I built an Ivory tower
 C
@@ -56,7 +50,6 @@ G
 When I see her pin her charm
 &nbsp;       D
 She just throws it back at me
-
 D
 Once I dug an early grave
 C
@@ -76,7 +69,6 @@ A big hard sun
 beaten on the big people
 &nbsp;               D
 in the big hard world
-
 D
 there's a big
 &nbsp;               Am
@@ -96,7 +88,6 @@ G
 bound down and flew away the hours
 &nbsp;       D
 of her garden and her sun
-
 D
 so I tried to warn her
 C
@@ -116,7 +107,6 @@ A big hard sun
 beaten on the big people
 &nbsp;               D
 in the big hard world
-
 D
 there's a big
 &nbsp;               Am
@@ -125,4 +115,3 @@ A big hard sun
 beaten on the big people
 &nbsp;               D
 in the big hard world
-

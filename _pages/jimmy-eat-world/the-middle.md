@@ -4,6 +4,7 @@ title: The middle
 tags: []
 layout: page
 capo: 
+columns: single
 links: 
   - type: 
     title: 

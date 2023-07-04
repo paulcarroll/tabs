@@ -1,7 +1,7 @@
 ---
 group: Kings Of Leon
 title: Radioactive
-tags: []
+tags: [learning]
 layout: page
 capo: 3
 links: 
@@ -10,26 +10,18 @@ links:
     url: 
 ---
 
-
 ```chordpro
 D/F#:    2x0232  D:   xx0232
 Asus4/E: 002230  Em7: 022030
 Asus4:   x02240  Bm:  x24432
-```
 
 Intro Riff:
-```chordpro
-E|-------------------------------------------------------------------------------------------|
-B|-------------------------------------------------------------------------------------------|
-G|-------------------------------------------------------------------------------------------|
-D|-------------------------------------------------------------------------------------------|
-A|-------------------------------------------------------------------------------------------|
 E|-2/10---------10-------10---10-10---10-10---10----10-10------10------10---10-10---2--2--2--|
 ```
 
  D/F# Asus4/E D x2
 
-## verse
+## Verse
 &nbsp;         Bm                D
  When the road is carved up   yonder
 &nbsp;  Bm              D
@@ -48,7 +40,7 @@ Em7                        Bm
  D/F#  Asus4/E  D
  Ooh   ooh      ooh
 
-## verse
+## Verse
 &nbsp;         Bm              D
  When the crowds begin to wander
 &nbsp;         Bm              D
@@ -77,7 +69,7 @@ Em7                   Bm
  D/F#  Asus4/E  D
  Ooh   ooh      ooh
 
-## verse
+## Verse
 &nbsp;     Bm                      D
  Your roads, it was cold from   yonder
 &nbsp;      Bm             D
@@ -101,7 +93,8 @@ D                     Asus4
 Em7                   Bm
 &nbsp; Where you came from
 
-[ad-lib ## Chorus lyrics]
+## Outro
+
 D     Asus4     Em7       Bm
 D     Asus4     Em7       Bm
 D     Asus4     Em7       Bm

@@ -1,9 +1,9 @@
 ---
 group: Fleetwood Mac
 title: Landslide
-tags: []
+tags: [learning]
 layout: page
-capo: 
+capo: 3
 links: 
   - type: 
     title: 
@@ -12,33 +12,9 @@ links:
 
 Travis picking or strum...
 ```chordpro
-G     320003
-C     x32010
-G/B   x2003x
-Am7   x02010
-Am    x02210
-D7/F# 2x0212
-D/F#  2x0232
+G     320003    C     x32010    G/B   x2003x
+Am7   x02010    Am    x02210    D7/F# 2x0212    D/F#  2x0232
 ```
-
-Basic pattern for picking
-&nbsp;                       Travis style
-&nbsp; 1 + 2 + 3 + 4 +       1 + 2 + 3 + 4 +
-```chordpro
-e|----------------|    |----------------|
-B|---x-------x----|    |---x-------x----|
-G|--x---x---x---x-| or |-x---x---x---x--|
-D|-x---x---x---x--|    |--x---x---x---x-|
-```
-
-A|x---x---x---x---|    |x---x---x---x---|
-```chordpro
-E|----------------|    |----------------|
-```
-
-For D/F# and D7/F# play the E-string instead of the A-string.
-
-Capo III  *
 
 C G Am  G
 
@@ -80,11 +56,11 @@ And I'm getting older too
 
 ## Interlude
 
-C             G/B          Am7   G/B
-C               G/B         Am7   G/B
-C                G/B      Am7   G/B
-C          G/B           Am7 G/B  C   Am7  G/B
-C    G/B   Am7   D7
+C    G/B    Am7     G/B
+C    G/B    Am7     G/B
+C    G/B    Am7     G/B
+C    G/B    Am7     G/B  C   Am7  G/B
+C    G/B    Am7     D7
 
 ## Chorus
 
