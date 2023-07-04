@@ -4,34 +4,38 @@ layout: default
 
 <div class="song">
   <div class="song-header">
-    <div class="song-nav">
-      <ul>
-        <li>
-          <a href="/" class="btn btn-primary" role="button">&#10094; Home</a>
-        </li>
-      </ul>
+    <div class="song-header--nav">
+      <div class="">
+        <a href="/" class="btn btn-primary" role="button">&#10094; Home</a>
+      </div>
+      {% assign tags = page.tags %}
+      {% if tags and tags.size != 0 or page.capo or page.tuning %}
+        <div class="divider"></div>
+        <div>
+          <ul>
+            {% if tags and tags.size != 0 %}
+            <li><strong>Tags: {{ tags | join: ', ' }}</strong></li>
+            {% endif %}
+    
+            {% if page.capo %}
+            <li><strong>Capo: {{ page.capo }}</strong></li>
+            {% endif %}
+    
+            {% if page.tuning %}
+            <li><strong>Tuning: {{ page.tuning }}</strong></li>
+            {% endif %}
+          </ul>
+        </div>
+      {% endif %}
+      <div class="divider"></div>
+      <div class="">
+        <h1>{{ page.title }}</h1>
+        <h2>{{ page.group }}</h2>
+      </div>      
     </div>
 
-    <div class="song-title">
-      <h1>{{ page.title }}</h1>
-      <h2>{{ page.group }}</h2>
-    </div>
-
-    <div class="song-extra">
+    <div class="song-header--extra">
       <ul>
-        {% assign tags = page.tags %}
-        {% if tags %}
-        <li><strong>Tags: {{ tags | join: ', ' }}</strong></li>
-        {% endif %}
-
-        {% if page.capo %}
-        <li><strong>Capo: {{ page.capo }}</strong></li>
-        {% endif %}
-
-        {% if page.tuning %}
-        <li><strong>Tuning: {{ page.tuning }}</strong></li>
-        {% endif %}
-
         {% assign links = page.links %}
         {% if links %}
           {% for link in links %}

@@ -28,12 +28,27 @@ datatable: true
 		const table = $('.page-list-songs table').DataTable({
 			ajax: './data.json',
 			dom: '<"dtsp-dataTable"frtip>',
-			responsive: true,
+			responsive: {
+				details: {
+					type: 'none'
+				}
+			},
 			paging: false,
 			searchPanes: {
 				layout: 'columns-1'
 			},
 			order: [1, "asc"],
+			buttons: {
+        buttons: [
+					{
+							text: 'Alert',
+							action: function ( e, dt, node, config ) {
+									alert( 'Activated!' );
+									this.disable(); // disable button
+							}
+					}
+        ]
+    	},
 			columns: [
 				{
 					data: "group"
