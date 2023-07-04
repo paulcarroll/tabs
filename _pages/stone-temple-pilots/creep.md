@@ -19,13 +19,13 @@ Creep by Stone Temple Pilots (Chords plus some tabs)
 
 ```chordpro
 Opening
-&nbsp;   C   B7(open E)  Em     |  C    B7    Em
-&nbsp;       e|--0--|                e|--2--|
-&nbsp;       B|--0--|                B|--0--|
-&nbsp;       G|--2--|                G|--2--|
-&nbsp;       D|--1--|                D|--1--|
-&nbsp;       A|--2--|                A|--2--|
-&nbsp;       E|--x--|                E|--x--|
+C   B7(open E)  Em     |  C    B7    Em
+    e|--0--|                e|--2--|
+    B|--0--|                B|--0--|
+    G|--2--|                G|--2--|
+    D|--1--|                D|--1--|
+    A|--2--|                A|--2--|
+    E|--x--|                E|--x--|
 
 *   Alternate the B7(Open E) and the B7 in the verse.
 **  When playing Em in the bridge, you can alternate the chord by holding B string

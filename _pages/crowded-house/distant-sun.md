@@ -13,17 +13,19 @@ links:
 
 ```chordpro
 C        332010    F        133211
-```
-
 Fmaj7    x33210    E        022100
-```chordpro
 Am       002210    G        320003
 D9       200210    Dm7      xx0211
 Fsus2    133111
 ```
 
-(intro)
+## Intro
+
+```chordpro
 C | Fmaj7 | C | Fmaj7 | C | Fmaj7 | C | Fmaj7
+```
+
+## Verse
 
 C                                 Fmaj7
 Tell me all the things you would change
@@ -52,7 +54,11 @@ Dust from a distant sun
 F                G    C
 Will shower over everyone
 
+```chordpro
 Fmaj7| C | Fmaj7
+```
+
+## Verse
 
 C                                  Fmaj7
 You're still so young to travel so far
@@ -71,13 +77,23 @@ Feeling your desire burn
 &nbsp;                F
 And drawn to the flame
 
-## Chorus, then repeat second phrase)
+## Chorus
+
+G                     Dm7
+Your seven worlds collide
+F             G       C
+Whenever I am by your side
 G                   Dm7
 Dust from a distant sun
 F                 G
 Will shower over everyone
 
+```chordpro
+Fmaj7| C | Fmaj7
+```
+
 ## Bridge
+
 Am                   D9   F
 And I'm lying on the table washed out in the flood
 Am     D9               F
@@ -85,8 +101,13 @@ Like a Christian fearing vengeance from above
 Am                 D9           F
 I don't pretend to know what you want
 But I offer love...
+
+```chordpro
 G | Dm7 | F | G | C
 G | Dm7 | F | G | C
+```
+
+## Chorus
 
 G                 Dm7
 Seven worlds will collide

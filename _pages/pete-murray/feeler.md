@@ -4,18 +4,21 @@ title: Feeler
 tags: [learnt]
 layout: page
 capo: 
+columns: 1
 links: 
   - type: 
     title: 
     url: 
 ---
 
-
 ## Intro
+
+```chordpro
 G slide up quick to A slide down to G  (G-A-G)
 C slide up quick to D slide down to C (C-D-C)
 
 Played 3 times
+```
 
 G-A-               G        C-D-        C
 Got inside my head today, I felt you
@@ -33,7 +36,7 @@ That you, and I, will be, always,
 &nbsp;  A       C     F         D
 Onside, in these imaginary fields, happy love
 
- (same )
+## Verse
 
 G-A-               G        C-D-        C
 Got inside my head today, I felt you
@@ -45,16 +48,18 @@ G-A-               G        C-D-
 Take me into happy days, I know, know, know
 
 ## Chorus
+
 &nbsp;    A        C       F   D
 That you, and I, will be, always,
 &nbsp;  A       C     F         D
 Onside, in these imaginary fields, happy love-  you get to me
 
-## SOLO
-End ## Chorus (x2)
+## Solo
+*Chorus (x2)*
+
+## Outro
 
 &nbsp;       A        C       F   D
 &nbsp;       You, and I, will be, always,
 &nbsp;  A       C     F         D
 Onside, in these imaginary fields, happy love-  you get to me
-

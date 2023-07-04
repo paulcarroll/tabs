@@ -10,6 +10,7 @@ links:
     url: 
 ---
 
+## Verse
 
 D                         G    C           G
 This thing, called love,i just cant handle it,
@@ -18,7 +19,8 @@ This thing, called love,i must get round to it,
 D             Bb           C            D
 I aint ready, Crazy little thing called love.
 
-Repeat Chords for Verse 2:
+## Verse
+
 D
 This thing(This Thing) called love (Called Love)
 &nbsp;  G                        C          G
@@ -33,6 +35,7 @@ Bb           C            D
 Crazy little thing called love
 
 ## Chorus
+
 &nbsp;             G         C                         G
 There goes my baby, she knows how to rock and roll.
 &nbsp;             Bb                  E             A
@@ -40,16 +43,7 @@ She drives me crazy, she gives me hot and cold fever,
 &nbsp;        F
 then she leaves me in a cool,cool sweat
 
-No chord for 2 bars then strum E 6times fast then switch to
-A and repeat verse and chorus how the song goes. Here are
-the rest of the lyrics...
-
-I gotta be cool relax, get hip
-Get on my track's
-Take a back seat, hitch-hike
-And take a long ride on my motor bike
-Until I'm ready
-Crazy little thing called love
+## Verse
 
 I gotta be cool relax, get hip
 Get on my track's
@@ -57,6 +51,8 @@ Take a back seat, hitch-hike
 And take a long ride on my motor bike
 Until I'm ready (Ready Freddie)
 Crazy little thing called love
+
+## Outro
 
 This thing called love I just can't handle it
 this thing called love I must get round to it
@@ -69,4 +65,3 @@ Crazy little thing called love
 Crazy little thing called love
 Crazy little thing called love
 Crazy little thing called love
-

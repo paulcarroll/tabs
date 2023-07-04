@@ -44,7 +44,7 @@ It's before my time but I've been told
 D
 He never came back from Copperhead Road
 
-*INTRO RIFF*
+*Play intro riff*
 
 ## Verse
 D
@@ -67,11 +67,15 @@ You could smell the whiskey burnin' down Copperhead Road
 
 ## Break
 
+```chordpro
 D  N.C. x4
+```
 
 ## Instrumental
 
+```chordpro
 G  C G  D   |   G  C G  D
+```
 
 ## Verse
 
@@ -95,7 +99,9 @@ You better stay away from Copperhead Road
 
 ## Break
 
+```chordpro
 D  N.C. 4x
+```
 
 ## Outro
 

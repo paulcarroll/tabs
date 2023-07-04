@@ -11,8 +11,11 @@ links:
 ---
 
 ## Intro
+
+```chordpro
 (drums)
 | Am G | Dm Am | Am G | Dm Am |
+```
 
 ## Verse
 Am                   G
@@ -53,7 +56,10 @@ California, show your teeth,
 She's my priestess, I'm your priest, yeah, yeah
 
 ## Instrumental
+
+```chordpro
 | Am G | Dm Am | Am G | Dm Am |
+```
 
 ## Verse
 Am              G
@@ -122,7 +128,8 @@ California, show your teeth,
 &nbsp;     G  F          C        | Dm |
 She's my priestess, I'm your priest, yeah, yeah
 
-[Outro Solo]
+## Outro
+```chordpro
 | F C | Dm G | F C | Dm G |
 | F C | Dm G | F C | Dm G |
 | Dm  |
@@ -130,4 +137,5 @@ She's my priestess, I'm your priest, yeah, yeah
 | F C | Dm G | F C | Dm G |
 | F C | Dm G |
 | F C | Dm
+```
 
