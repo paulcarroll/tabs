@@ -23,7 +23,9 @@ You float like a feather in a beautiful world
 &nbsp;            C                          Cm
 I wish I was special, you're so fucking special
 
-[Chorus] (play loud)
+## Chorus
+
+*(play loud)()
 G (x3, very short)
 &nbsp;         G            B
 But I'm a creep, I'm a weirdo

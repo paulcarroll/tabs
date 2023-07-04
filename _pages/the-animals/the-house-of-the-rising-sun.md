@@ -4,6 +4,7 @@ title: The House Of The Rising Sun
 tags: []
 layout: page
 capo: 
+columns: 1
 links: 
   - type: 
     title: 

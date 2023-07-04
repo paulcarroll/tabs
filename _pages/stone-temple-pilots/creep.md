@@ -17,9 +17,9 @@ session. (Note, Mr "other people are tone deaf"'s tab has now been corrected.)
 
 Creep by Stone Temple Pilots (Chords plus some tabs)
 
+```chordpro
 Opening
 &nbsp;   C   B7(open E)  Em     |  C    B7    Em
-
 &nbsp;       e|--0--|                e|--2--|
 &nbsp;       B|--0--|                B|--0--|
 &nbsp;       G|--2--|                G|--2--|
@@ -32,6 +32,7 @@ Opening
 (3rd Fret) and high E string (3rd fret) back and forth.
 *** I am well aware the last line of the bridge has a variance on the C to D. I
 found this the easiest way to play it however.
+```
 
 ## Verse
 
@@ -53,7 +54,9 @@ Take time with a wounded hand, guess I like to steal
 G                Am                     C                  D
 Take time with a wounded hand, cause it likes to heal, I like to steal***
 
-[Chorus] (See Chorus Guitar Riff)
+## Chorus 
+
+*(See Chorus Guitar Riff)*
 
 &nbsp;   Riff A                            Riff B
 I'm half the man I used to be (yes, I feel as the dawn it fades to grey)
@@ -97,7 +100,6 @@ Well, I'm half the man I used to be, Half the man I used to be
 
 [Break]
 
-&nbsp; ///  ///  ///       ///
 Em   Em   Em   Em(Hold)
 &nbsp;        Yeeaahh
 
@@ -129,6 +131,7 @@ Half the man I used to be
 
 &nbsp;  Riff A                            Riff B                      \****
 I'm half the man I used to be   yes, I feel as the dawn it fades to grey
+
 ```chordpro
 e|---------------------------------|---------------------------------|
 B|---------------------------------|---------------------------------|
@@ -139,13 +142,3 @@ E|-0-----0-2-----2-3-----3---------|-0-----0-2-----2-3-----3---------|
 ```
 
 Repeat x3 (After last part play Em)
-
-**** Vocal Note: The chorus is actually two vocal tracks overlaid on the album.
-
-For the purpose of clarity I will call them (a) & (b)
-
-Chorus (b) continues while Chorus (a) and the Guitar Riff breaks in immediately
-after singing 'fades' in  Chorus (b)
-
-If sung solo, you must truncate (cut-off) the last part of Chorus (b)..(i.e. 'to grey')
-

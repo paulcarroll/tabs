@@ -4,7 +4,7 @@ title: Piano Man
 tags: []
 layout: page
 capo: 
-columns: single
+columns: 1
 links: 
   - type: 
     title: 

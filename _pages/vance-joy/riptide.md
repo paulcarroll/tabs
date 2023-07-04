@@ -4,6 +4,9 @@ title: Riptide
 tags: [easy, lively, learnt]
 layout: page
 links:
+  - type: YouTube 
+    title: Marty
+    url: https://www.youtube.com/watch?v=TRTpL0-kAxg&ab_channel=GuitarJamz
 ---
 
 ## Intro

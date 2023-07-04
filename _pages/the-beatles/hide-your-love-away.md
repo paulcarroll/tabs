@@ -4,6 +4,7 @@ title: Hide Your Love Away
 tags: []
 layout: page
 capo: 
+columns: 1
 links: 
   - type: 
     title: 

@@ -4,7 +4,7 @@ title: Khe Sahn
 tags: []
 layout: page
 capo: 
-columns: single
+columns: 1
 links: 
   - type: 
     title: 
@@ -12,7 +12,7 @@ links:
 ---
 
 
-	  G D Em D C Bm Am D
+G D Em D C Bm Am D
 
 &nbsp; Em                   C                  G   C G
 I left my heart to the sappers round, Khe Sahn,

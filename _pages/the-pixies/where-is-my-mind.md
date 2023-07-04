@@ -11,10 +11,11 @@ links:
 ---
 
 
-## INTRO
+## Intro
+
 &nbsp; E  C#m  G#  A (4x)
 
-[]
+## Verse
 &nbsp;          E                        C#m               G#  A
  With your feet in the air and your head on the ground
 E    C#m            G#       A
@@ -24,13 +25,14 @@ E                  C#m                G#
 &nbsp;          A
 And you'll ask yourself
 
-[## Chorus]
+## Chorus
 E            C#m      G#           A
  Where is my mind?    Where is my mind?
 &nbsp;    E       C#m   G#  A
  Where is my mind?
 
-## instrumental
+## Instrumental
+
 E  C#m  G#  A
 E   G#         A             Am        C#m   B
 Way out in the water, see it swimming.
@@ -41,7 +43,7 @@ Except the little fish
 But they told me, he swears
 Tryin' to talk to me, to me, to me
 
-[## Chorus]
+## Chorus
 E            C#m
  Where is my mind?
 G#           A
@@ -49,7 +51,7 @@ G#           A
 &nbsp;    E       C#m   G#  A
  Where is my mind?
 
-## VERSE
+## Verse
 &nbsp;          E                        C#m               G#  A
  With your feet in the air and your head on the ground
 E    C#m            G#       A
@@ -61,7 +63,7 @@ But there's nothing in it
 &nbsp;          A
 And you'll ask yourself
 
-[## Chorus]
+## Chorus
 E            C#m
  Where is my mind?
 G#           A

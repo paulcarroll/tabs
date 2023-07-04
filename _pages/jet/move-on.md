@@ -4,7 +4,7 @@ title: Move On
 tags: [learnt]
 layout: page
 capo: 
-columns: single
+columns: 1
 links: 
   - type: 
     title: 

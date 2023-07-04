@@ -23,7 +23,7 @@ A|----------------------------------------------|
 E|----------------------------------------------|
 ```
 
-* PLAY RIFF 1 AFTER EACH VERSE LINE
+*PLAY RIFF 1 AFTER EACH VERSE LINE*
 
 ## Verse
 D
@@ -44,7 +44,7 @@ It's before my time but I've been told
 D
 He never came back from Copperhead Road
 
-[INTRO RIFF]
+*INTRO RIFF*
 
 ## Verse
 D
@@ -65,13 +65,16 @@ He was headed down to Knoxville with the weekly load
 D (LET RING)
 You could smell the whiskey burnin' down Copperhead Road
 
-[Break]
+## Break
+
 D  N.C. x4
 
-[Instrumental]  x2
-G  C G  D
+## Instrumental
+
+G  C G  D   |   G  C G  D
 
 ## Verse
+
 D
 I volunteered for the Army on my birthday
 They draft the white trash first,'round here anyway
@@ -90,12 +93,14 @@ I learned a thing or two from ol' Charlie don't you know
 D
 You better stay away from Copperhead Road
 
-[Break]
+## Break
+
 D  N.C. 4x
 
 ## Outro
- [Riff 1]           [Riff 2]
+
 ```chordpro
+ [Riff 1]           [Riff 2]
 e|---0---0-------2--0-0--0-0-0-0-0-0-0-0-2------|
 B|---3---3-------3--0-0--5-5-5-0-0-0-0-0-3------|
 G|-2-2-2-2-4p2p0-2--0-0--5-5-5-4-4\2-2p0-2------|
@@ -104,12 +109,4 @@ A|----------------------------------------------|
 E|----------------------------------------------|
 ```
 
-* PLAY RIFF 1 AFTER EACH VERSE LINE
-
-************************************
-
-| p  Pull-off
-| \  Slide down
-
-************************************
-
+*PLAY RIFF 1 AFTER EACH VERSE LINE*

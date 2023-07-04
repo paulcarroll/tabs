@@ -4,7 +4,7 @@ title: Nothing Ever Happens
 tags: []
 layout: page
 capo: 3
-columns: single
+columns: 1
 links: 
   - type: 
     title: 

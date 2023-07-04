@@ -4,6 +4,7 @@ title: Lonely Boy
 tags: []
 layout: page
 capo: 
+columns: 1
 links: 
   - type: 
     title: 

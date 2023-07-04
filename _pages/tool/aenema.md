@@ -4,14 +4,12 @@ title: Aenema
 tags: []
 layout: page
 capo: 
+tuning: drop-d
 links: 
   - type: 
     title: 
     url: 
 ---
-
-
-Drop D
 
 Power chords
 D = 000000

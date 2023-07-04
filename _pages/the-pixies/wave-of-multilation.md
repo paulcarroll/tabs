@@ -4,6 +4,7 @@ title: Wave Of Multilation
 tags: []
 layout: page
 capo: 
+columns: 1
 links: 
   - type: 
     title: 

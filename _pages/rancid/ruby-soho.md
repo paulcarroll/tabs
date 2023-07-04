@@ -93,8 +93,9 @@ it's time time to say goodbye
 
 (Repeat Chorus 1)
 
-```chordpro
 ## Interlude
+
+```chordpro
 C--Bb-C--C--Bb-B-C-G-- x2
 ```
 

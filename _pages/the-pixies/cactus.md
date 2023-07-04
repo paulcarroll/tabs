@@ -1,8 +1,9 @@
 ---
 group: The Pixies
 title: Cactus
-tags: [easy, learning, ]
+tags: [easy, learning]
 layout: page
+columns: 1
 links:
 ---
 

@@ -23,6 +23,7 @@ I'm so scared in case I fall off my chair,
 And I'm wondering how I'll get down the stairs.
 
 ## Chorus
+
 &nbsp; A                         C            G
 Clowns to the left of me, jokers to the right,
 &nbsp;      D
@@ -42,6 +43,7 @@ Clowns to the left of me, jokers to the right,
 Here I am stuck in the middle with you...
 
 ## Bridge
+
 &nbsp;        G
 Well you started out with nothing,
 &nbsp;                                            D
@@ -51,7 +53,7 @@ And your friend they all come crawlin',
 &nbsp;                            D       A7      D D D
 Slap you on the back and say please, please...
 
-	D
+&nbsp; D
 Trying to make some sense of it all,
 &nbsp;         D
 But I can see that it makes no sense at all.
@@ -61,15 +63,18 @@ Is it cool to go to sleep on the floor,
 'Cause I don't think that I can take anymore.
 
 ## Chorus
+
 &nbsp; A                         C            G
 Clowns to the left of me, jokers to the right,
 &nbsp;      D                                  (D)
 Here I am stuck in the middle with you...
 
 ## Instrumental
+
  D D, G7 D, A C G D
 
 ## Bridge
+
 &nbsp;        G
 Well you started out with nothing,
 &nbsp;                                            D
@@ -89,16 +94,17 @@ I'm so scared in case I fall off my chair,
 And I'm wondering how I'll get down the stairs.
 
 ## Chorus
+
 &nbsp; A                         C            G
 Clowns to the left of me, jokers to the right,
 &nbsp;      D
 Here I am stuck in the middle with you,
 
 ## Outro
+
 &nbsp;        DD
-	Yes I'm, stuck in the middle with you,
+Yes I'm, stuck in the middle with you,
 DD
 Stuck in the middle with you,
 &nbsp;         DD                           DD.
 Here I am stuck in the middle with you.
-

@@ -1,17 +1,13 @@
 
 html {
-  font-size: calc(14px + 0.3vw);
-}
+  font-size: calc(16px + 0.3vw);
 
-body {
-  font-size: 1.1rem;
+  @media only screen and (min-width: 1600px) {
+    font-size: 14px;
+  }
 }
 
 .container {
   max-width: 90rem;
   margin: 0 auto;
 }
-
-
-
-

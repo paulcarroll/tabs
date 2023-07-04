@@ -108,15 +108,17 @@ Should I cool it, or should I blow?
 D            G             D
 &nbsp;  (¿Me debo ir o quedar - me?)
 
-[Break]
-&nbsp;     D       G            D    SPLIT!
-&nbsp;    D        G            D
- G               F         G
-&nbsp;     D        G            D
-&nbsp;    A7
-&nbsp;    D        G            D
+## Break
 
- [Verse 5]
+D       G            D    SPLIT!
+D       G            D
+G       F            G
+D       G            D
+A7
+D       G            D
+
+## Verse
+
 N.C.                       D
 Should I stay, or should I go now?
 &nbsp;            G         D

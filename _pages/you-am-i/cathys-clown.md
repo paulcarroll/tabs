@@ -5,7 +5,7 @@ tags: [easy, lively, learning]
 layout: page
 tuning: drop-d
 capo: 2
-tuning: drop-d
+columns: 1
 links:
   - type: YouTube
     title: YouAmI live opera house

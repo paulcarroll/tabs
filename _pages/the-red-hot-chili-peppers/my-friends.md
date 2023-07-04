@@ -18,19 +18,15 @@ G         300023
 C         010230
 Gsus      335553
 F6/9      110001
-```
 
 C(add9)   030230
-```chordpro
 D         232000
 Asus2     002200
 F6        112000
 E         001220
 G6        000023
-```
 
 F#7(add4) 003400
-```chordpro
 F         112331
 Bsus      254400
 F5        000331
@@ -38,7 +34,8 @@ F7        112131
 ```
 
 ## Intro
-Dsus2,Dsus2/F,G,C,Dsus2,Dsus2/F,G,Gsus,F6/9
+
+Dsus2   Dsus2/F   G   C   Dsus2   Dsus2/F   G   Gsus   F6/9
 
 ## Verse
 Dsus2        Dsus2/F         G

@@ -39,7 +39,7 @@ layout: default
     </div>  
   </div>
 
-  <div class="song-body song-{{ page.columns | default: 2 }}">
+  <div class="song-body song-force-columns-{{ page.columns | default: 2 }}">
     {{ content }}
   </div>
 </div>

@@ -10,14 +10,8 @@ links:
     url: 
 ---
 
-I COULD HAVE LIED - Red Hot Chili Peppers
-Tabbed by: kasiajonas
-Email: popolsku8@gmail.com
-Tuning: Standard
-
-Chords used:
-&nbsp;  Bm A G B D Aadd9 Em C Em7
 ```chordpro
+   Bm A G B D Aadd9 Em C Em7
 e|-2--0-3-2-2---7---0--0--3--|
 B|-3--2-3-4-3---5---0--1--3--|
 G|-4--2-0-4-2---6---0--0--0--|
