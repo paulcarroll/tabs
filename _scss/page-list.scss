@@ -50,6 +50,11 @@
     table {
       text-transform: capitalize;
     }
+
+    .dataTables_scrollBody {
+      max-height: inherit !important;
+      height: inherit !important;
+    }
   }
 }
 
