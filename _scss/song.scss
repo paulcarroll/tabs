@@ -1,58 +1,74 @@
 
 .song {
-  position: relative;
-  padding-top: .8rem;
   
-  .song-header {
-    justify-content: space-between;
+  .song__header {
     display: flex;
+    align-items: center;
+    column-gap: 2rem;
     border-bottom: 1px solid #d6d6d6;
-    margin-bottom: 3rem;
+    padding-bottom: .5rem;
+    margin: .5rem 0 2rem 0;
 
-    ul {
-      list-style-type: none;
-      margin: 0;
-      padding-inline-start: 0;
+    .song__nav {
+      display: flex;
     }
 
-    .song-header--nav {
-      display: flex;
-      justify-content: flex-start;
-      gap: 2rem;
-      flex-direction: row;
-      flex: 1;
-
-      .divider {
-        width: 1px;
-        margin: 6px 0;
-        background: #d6d6d6;
+    .song__tags {
+      section {
+        display: flex;
+        gap: 0 .5rem;
       }
+    }
 
+    .song__title {  
       h1 {
-        font-size: 1.3rem;
+        font-size: 1.5rem;
+        line-height: 2.6rem;
         margin-block-end: 0;
+        white-space: nowrap;
       }
-
+  
       h2 {
-        font-size: 1.1rem;
+        font-size: 1rem;
+        line-height: 1.3rem;
         margin-block-start: 0;
         color: #888;
-      }   
-    }  
+        white-space: nowrap;
+      } 
+    }
 
-    .song-header--extra {
+    .song__links {
       line-height: 1.6rem;
+      display: flex;
+      flex-wrap: wrap;
+      gap: .1rem 1.5rem;
 
-      ul {
-        a {
-          span {
-            width: 25px
-          }
+      > a {
+        white-space: nowrap;
+        position: relative;
+
+        span {
+          width: 1.2rem
+        }
+
+        .fa-sharp {
+          position: absolute;
+          left: -0.4em;
+          top: -0.2rem;
+          color: gold;
+          text-shadow: 1px 1px #af9e429e;
         }
       }
     }
-  }
 
+    .song__divider {
+      width: 1px;
+      margin: .3rem 0;
+      background: #d6d6d6;
+      align-self: stretch;
+    }
+  }
+  
   .song-body {
     column-count: 1;
     column-gap: 2rem;
@@ -90,7 +106,6 @@
     p {
       white-space: pre-wrap;
       font-family: monospace;
-      font-size: 1rem;
       margin-block-start: .5em;
       margin-bottom: 1rem;
     }

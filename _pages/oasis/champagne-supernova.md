@@ -86,9 +86,16 @@ But you and I, we live and die, the world's still spinning round
 &nbsp;       E
 We don't know why............why, why, why, why
 
-## Instrumental
+## Interlude
 
-&nbsp; A   G   F#m   W
+A     G     D/F#    F  G*
+A     G     D/F#    F  G*
+
+## Solo
+
+A     G     D/F#    F  G*   F  G*  F  G*
+
+Asus2   Asus2/G   Asus2/F#   Asus2/E
 
 ## Verse
 

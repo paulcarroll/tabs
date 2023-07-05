@@ -5,9 +5,9 @@ tags: [learning]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Spotify
+    url: https://open.spotify.com/track/79DO6dBi8936P6EShLB209?si=29063d089ebe412b
 ---
 
 

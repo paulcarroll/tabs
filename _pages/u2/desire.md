@@ -5,9 +5,9 @@ tags: []
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Spotify
+    url: https://open.spotify.com/track/4D01oA1mGouaAT7fubvKRT?si=10367f7dad50448b
 ---
 
 ## Intro

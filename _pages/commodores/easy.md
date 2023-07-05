@@ -6,9 +6,9 @@ layout: page
 capo: 1
 columns: 1
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Spotify
+    url: https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA?si=f81e4828e0a04a00
 ---
 
 ```chordpro

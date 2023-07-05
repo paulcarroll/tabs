@@ -5,9 +5,9 @@ tags: [learnt, SHIT]
 layout: page
 capo: 
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Spotify
+    url: https://open.spotify.com/track/6pxWv6GV35VGmcPf5dh6CH?si=62849ec61ea8440e
 ---
 
 ## Intro

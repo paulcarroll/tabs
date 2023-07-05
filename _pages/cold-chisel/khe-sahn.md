@@ -6,9 +6,9 @@ layout: page
 capo: 
 columns: 2
 links: 
-  - type: 
-    title: 
-    url: 
+  - type: Spotify
+    title: Spotify
+    url: https://open.spotify.com/track/6aFAozRW2yijxCsTIy9Ip1?si=6eca7120d4f048f3
 ---
 
 ## Intro
