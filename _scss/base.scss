@@ -3,15 +3,15 @@ body {
   font-family: 'DM Sans', sans-serif !important;
 
   @media (min-width: 640px) {
-    font-size: 20px;
+    font-size: calc(18px + .3vw);
   }
 
   @media (min-width: 1024px) {
-    font-size: 18px;
+    font-size: calc(16px + .3vw);
   }
 
   @media (min-width: 1281px) {
-    font-size: 15px;
+    font-size: 16px;
   }
 }
 

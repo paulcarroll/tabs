@@ -52,40 +52,30 @@ datatable: true
     	},
 			columns: [
 				{
-					data: "group"
+					data: "group",
+					responsivePriority: 2, className: 'all', 
+					targets: [0] 
 				}, {
 					data: "title",
+					responsivePriority: 1,  className: 'all', 
+					targets: [1],
 					render: (data, type, row) => `<a href="${row.url}">${row.title}</a>`
 				}, {
 					data: "tags",
+					responsivePriority: 10, 
+					targets: [2],
 					searchPanes: {
 						orthogonal: 'sp',
 						combiner: 'and'
 					}
 				}, {
-					data: "capo"
+					data: "capo",
+					responsivePriority: 100, 
+					targets: [3]
 				}, {
-					data: "tuning"
-				}
-			],
-			columnDefs: [
-				{ 
-					responsivePriority: 10, 
-					targets: [0] 
-				}, { 
-					responsivePriority: 1, 
-					targets: [1] 
-				}, { 
-					responsivePriority: 10, 
-					targets: [2]
-				}, { 
-					responsivePriority: -1, 
-					targets: [3],
-					visible: false
-				}, { 
-					responsivePriority: -1, 
-					targets: [4],
-					visible: false
+					data: "tuning",
+					responsivePriority: 100, 
+					targets: [4]
 				}
 			]
 		});

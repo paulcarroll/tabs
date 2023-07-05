@@ -125,5 +125,5 @@ Lookin' cause I'm tired of lyin'
 Make my way back home when I learn to fly...
 &nbsp; G                 A                E
 Make my way back home when I learn to fly...
-&nbsp; G                 A                   B ~~~ *(slowly fades out)*p
+&nbsp; G                 A                   B ~~~ *(slowly fades out)*
 Make my way back home when I learn to fly high

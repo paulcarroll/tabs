@@ -73,7 +73,6 @@
   }
   
   .song-body {
-    column-count: 1;
     column-gap: 2rem;
     margin: 1rem 0 8rem 0;
     line-height: 1.2rem;
@@ -91,19 +90,36 @@
       column-count: 3;
     }
 
-    @media only screen and (min-width: 1000px) {
+  
+    @media (min-width: 1024px) {
+      column-count: 1;
+    }
+  
+    @media (min-width: 1281px) {
       column-count: 2;
     }
 
     > h2 {
       line-height: 1.5rem;
-      padding-left: 1rem;
-      font-size: .9rem;
+      padding-left: .5rem;
       font-weight: bold;
       margin-block-start: 0em;
       margin-block-end: 0.4rem;
       color: #808080;
       background-color: #f4f3f3;
+
+      @media (min-width: 640px) {
+        font-size: 1.2rem;
+        line-height: 1.5rem;
+      }
+    
+      @media (min-width: 1024px) {
+        font-size: 1.2rem;
+      }
+    
+      @media (min-width: 1281px) {
+        font-size: .9rem;        
+      }
     }
 
     p {
