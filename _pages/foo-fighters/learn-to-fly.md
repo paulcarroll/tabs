@@ -21,48 +21,69 @@ B  F#m  E
 
 ## Verse
 
-B2                  F#m4/7*
+B2                      F#m4/7*
 Run and tell all of the angels.
-&nbsp;         E
+E
 This could take all night.
-&nbsp;      B                  F#m4/7*              E
+B                          F#m4/7*            E
 Think I'll need a devil to help me get things right.
-
-B                  F#m4/7*
+B                   F#m4/7*
 Hook me up a new evolution.
-&nbsp;       E
-Cause this one is alive.
-&nbsp;       B               F#m4/7*       E
-Saddle man left in a washer last one died, died, died.
+&nbsp;     E
+Cause this one is lie.
+B                          F#m4/7*              E
+We sat around laughin' and watched the last one die
 
 ## Chorus
+
 B                    F#m4/7*
-Looking to the sky to save him.
+Now, I'm lookin' to the sky to save me
 E
-Looking for a sign of light.
-&nbsp;   B                     F#m4/7*  A       E
-Looking for something to help me burnout bright.
-B                  F#m4/7*
-Looking for a complication.
+Lookin' for a sign of life
+B                        F#m4/7*          E
+Lookin' for somethin' to help me burn out bright
+&nbsp;   B                        F#m4/7*
+And I'm lookin' for a complication
 E
-Looking for some time to try.
-&nbsp; G                 A                   B
-Make my way beack home where I'll learn to fly.
+Lookin' cause I'm tired of lyin'
+&nbsp; G                 A
+Make my way back home when I learn to fly high
+
+B       F#m4/7*      E
+B       F#m4/7*      E
 
 ## Verse
 
 B                    F#m4/7*
-Thing I'm dying ness in a patience.
+I think I'm dyin' nursing patience
 E
-We could wait one night.
-&nbsp;      B                  F#m4/7*              E
-Give me all of wave you give me one last try.
-&nbsp;      B                  F#m4/7*              E
-We live happily ever trapped in future save my life.
-&nbsp;      B                  F#m4/7*              E
-Run and tell the angels everythings alllllrighttttt
+It can wait one night
+&nbsp;   B                  F#m4/7*       E
+I'd give it all away if you give me one last try
+B                  F#m4/7*         E
+We'll live happily ever trapped if you just save my life
+B                            F#m4/7*         E
+Run and tell the angels that everything's alright
+
+## Chorus
+
+B                    F#m4/7*
+Now, I'm lookin' to the sky to save me
+E
+Lookin' for a sign of life
+&nbsp;   B                     F#m4/7*    E
+Lookin' for somethin' to help me burn out bright
+B                  F#m4/7*
+And I'm lookin' for a complication
+E
+Lookin' cause I'm tired of lyin'
+&nbsp; G                 A                   E
+Make my way back home when I learn to fly high
+&nbsp; G                 A
+Make my way back home when I learn to....
 
 ## Bridge
+
  B   G
 Fly along with me
 &nbsp;  D                   E
@@ -77,16 +98,32 @@ G                  A
 Trying to make my life my own
 
 ## Chorus
-B                    F#m4/7*
-Looking to the sky to save him.
-E
-Looking for a sign of light.
-&nbsp;   B                     F#m4/7*  A       E
-Looking for something to help me burnout bright.
-B                  F#m4/7*
-Looking for a complication.
-E
-Looking for some time to try.
-&nbsp; G                 A                   B
-Make my way beack home where I'll learn to fly.
 
+&nbsp;    B                    F#m4/7*
+Now, I'm lookin' to the sky to save me
+E
+Lookin' for a sign of life
+B                        F#m4/7*          E
+Lookin' for somethin' to help me burn out bright
+&nbsp;   B                        F#m4/7*
+And I'm lookin' for a complication
+E
+Lookin' cause I'm tired of lyin'
+&nbsp; G                 A
+Make my way back home when I learn to fly...
+&nbsp;    B                    F#m4/7*
+Now, I'm lookin' to the sky to save me
+E
+Lookin' for a sign of life
+B                        F#m4/7*          E
+Lookin' for somethin' to help me burn out bright
+&nbsp;   B                        F#m4/7*
+And I'm lookin' for a complication
+E
+Lookin' cause I'm tired of lyin'
+&nbsp; G                 A                E
+Make my way back home when I learn to fly...
+&nbsp; G                 A                E
+Make my way back home when I learn to fly...
+&nbsp; G                 A                   B ~~~ *(slowly fades out)*p
+Make my way back home when I learn to fly high
