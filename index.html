@@ -35,7 +35,8 @@ datatable: true
 			},
 			paging: false,
 			searchPanes: {
-				layout: 'columns-1'
+				layout: 'columns-1',
+				controls: false				
 			},
 			order: [1, "asc"],
 			buttons: {
@@ -58,7 +59,8 @@ datatable: true
 				}, {
 					data: "tags",
 					searchPanes: {
-						orthogonal: 'sp'
+						orthogonal: 'sp',
+						combiner: 'and'
 					}
 				}, {
 					data: "capo"
@@ -69,20 +71,20 @@ datatable: true
 			columnDefs: [
 				{ 
 					responsivePriority: 1, 
-					targets: 0 
+					targets: [0] 
 				}, { 
 					responsivePriority: 1, 
-					targets: 1 
+					targets: [1] 
 				}, { 
 					responsivePriority: 10, 
-					targets: 2
+					targets: [2]
 				}, { 
 					responsivePriority: -1, 
-					targets: 3,
+					targets: [3],
 					visible: false
 				}, { 
 					responsivePriority: -1, 
-					targets: 4,
+					targets: [4],
 					visible: false
 				}
 			]
