@@ -8,12 +8,15 @@
     border-bottom: 1px solid #d6d6d6;
     padding-bottom: .5rem;
     margin: .5rem 0 2rem 0;
+    white-space: nowrap;
 
     .song__nav {
       display: flex;
     }
 
     .song__tags {
+      text-transform: capitalize;
+
       section {
         display: flex;
         gap: 0 .5rem;

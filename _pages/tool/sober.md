@@ -4,91 +4,137 @@ title: Sober
 tags: [heavy]
 layout: page
 capo: 
+tuning: Drop D, down 1/2 step
 links: 
   - type: Spotify
     title: Spotify
     url: https://open.spotify.com/track/6DyywdbmTzlmXBzG9ym7Rt?si=65Q7q-HoTl6FC5CRRAuWhg
+  - type: YouTube
+    title: JoelGoguen
+    url: https://www.youtube.com/watch?v=ErktqP0xh7I&ab_channel=JoelGoguen
+  - type: YouTube
+    title: MarkFarinas
+    url: https://www.youtube.com/watch?v=OAXzdtGK1rE&ab_channel=MarkFarinas
+  - type: YouTube
+    title: ErnestoSchnack
+    url: https://www.youtube.com/watch?v=Q-MVwosff80&ab_channel=ErnestoSchnack
 ---
 
+```chordpro
+e|------------------------------------------------------------|
+G|------------------------------------------------------------|
+B|---x---x----------13---11---14---11---13---11---14---16-----|
+D|---7---8----------x----x----x----x----x----x----x----x------|
+A|---5---5----------11---9----12---9----11---9----12---14-----|
+E|---x---x----------0----0----0----0----0----0----0----0------|
+     E   D7#5       Riff A
+
+
+D:      x57000
+D7#5:   x58x00
+
+Riff B chords
+Dsus2:      --0230
+Dsus2sus4:  --0230
+A#-5:       --0330
+?:          --0550
+
+
+```
+
+## Intro
+
+```
+(Guitar 1)
+E  /  E7  /   (repeat)
+
+(Guitar 2)
+                Riff A
+```
+
 ## Verse
 
-Em
+E               E
 There’s a shadow just behind me,
-G
+D7#5            D7#5
 shrouding every step I take,
-D
+E               E
 making every promise empty,
-F
+D7#5            D7#5
 pointing every finger at me.
 
-Em
+E               E
 Waiting like a stalking butler
-G
+D7#5            D7#5
 who upon the finger rests.
-D
+E               E
 Murder now the path called “must we"
-F
+D7#5            D7#5
 just because the son has come.
 
-Em
+E               E
 Jesus, won’t you fucking whistle
-G
+D7#5            D7#5
 something but the past and done?
-D
+E               E
 Jesus, won’t you fucking whistle
-F
+D7#5            D7#5
 something but the past and done?
 
-[Hook]
+## Chorus
 
-Em
+D             F
 Why can’t we not be sober?
-G
+  D             F
 I just want to start things over.
-D
+D              F
 Why can’t we drink forever.
-F
+D               F
 I just want to start this over.
+
+*[Riff A]*
 
 ## Verse
 
-Em
+E               E
 I am just a worthless liar.
-G
+D7#5            D7#5
 I am just an imbecile.
-D
+E               E
 I will only complicate you.
-F
+D7#5            D7#5
 Trust in me and fall as well.
 
-Em
+E               E
 I will find a center in you.
-G
+D7#5            D7#5
 I will chew it up and leave,
-D
+E               E
 I will work to elevate you
-F
+D7#5            D7#5
 just enough to bring you down.
 
-Em
+E               E
 Mother Mary won’t you whisper
-G
+D7#5            D7#5
 something but what’s past and done.
-D
+E               E
 Mother Mary won’t you whisper
-F
+D7#5            D7#5
 something but what’s past and done.
 
-[Hook]
+## Chorus
 
-Em
+D             F
 Why can’t we not be sober?
-G
+  D             F
 I just want to start things over.
-D
-Why can’t we sleep forever.
-F
+D              F
+Why can’t we drink forever.
+D               F
 I just want to start this over.
+
+
 
 ## Bridge
 
