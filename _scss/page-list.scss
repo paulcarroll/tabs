@@ -46,6 +46,12 @@
   .dtsp-searchPane.dtsp-columns-1:first-child {
     display: none;
   }
+
+  .dtsp-searchPane {
+    table {
+      text-transform: capitalize;
+    }
+  }
 }
 
 
