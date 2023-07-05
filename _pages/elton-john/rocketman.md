@@ -7,7 +7,7 @@ capo:
 columns: 1
 links: 
   - type: Spotify
-    title: Rocketman
+    title: Spotify
     url: https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY?si=a11403f860384848
 ---
 

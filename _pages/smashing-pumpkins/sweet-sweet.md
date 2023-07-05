@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Sweet Sweet
+    title: Spotify
     url: https://open.spotify.com/track/5CBruvV2cU0kn1XbyTdGE0?si=sQK2wr_ISFWtxKFywSXAOw
 ---
 

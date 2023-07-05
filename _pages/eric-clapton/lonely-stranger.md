@@ -6,7 +6,7 @@ layout: page
 columns: 1
 links:
   - type: Spotify
-    title: Lonely stranger
+    title: Spotify
     url: https://open.spotify.com/track/5nZax8mmBCb4UYnW6ibvTb?si=z9hV9LbzRUuS5TRyRn9e2g
   - type: YouTube
     title: John Lee Blackmore

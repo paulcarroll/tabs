@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Time of your life
+    title: Spotify
     url: https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ?si=oYQaP4MQRQuWGTQXAM-tIQ
 ---
 

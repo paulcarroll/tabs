@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Where Is My Mind
+    title: Spotify
     url: https://open.spotify.com/track/0KzAbK6nItSqNh8q70tb0K?si=sih6CMeuSY-DI9RUI-85UA
 ---
 

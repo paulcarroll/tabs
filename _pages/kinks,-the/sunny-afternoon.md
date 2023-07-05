@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Sunny afternoon
+    title: Spotify
     url: https://open.spotify.com/track/0DQqzCHlPyKQXfF8uL01SI?si=770ed534f98f47f3
   - type: YouTube
     title: georgiarose16

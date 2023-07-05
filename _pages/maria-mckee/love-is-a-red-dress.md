@@ -5,7 +5,7 @@ tags: [quiet, learning]
 layout: page
 links:
   - type: Spotify
-    title: Love is a red dreww
+    title: Spotify
     url: https://open.spotify.com/track/5b7H6zxDzyVyIt77HfcKs8?si=f7301b2579e84684
 ---
 

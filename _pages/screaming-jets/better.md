@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Better
+    title: Spotify
     url: https://open.spotify.com/track/49eXdstc4EiOS2xpWDMg1d?si=039adca08e6849e3
 ---
 

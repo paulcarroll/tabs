@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Copperhead road
+    title: Spotify
     url: https://open.spotify.com/track/1HChuZvDKwcl76LvaGExeo?si=74736c6ea2cc439e
 ---
 

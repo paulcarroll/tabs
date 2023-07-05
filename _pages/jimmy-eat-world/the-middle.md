@@ -7,7 +7,7 @@ capo:
 columns: 1
 links: 
   - type: Spotify
-    title: The middle
+    title: Spotify
     url: https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO?si=Kyd-SSvGQsy8hO84r0Nw5Q
 ---
 

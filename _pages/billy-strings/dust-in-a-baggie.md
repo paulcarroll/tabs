@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Dust in a baggie
+    title: Spotify
     url: https://open.spotify.com/track/2Lk8XTulavagQOrYqFpGB8?si=ab6d5cf7b7744a64
   - type: YouTube
     title: LessonsWithMarcel

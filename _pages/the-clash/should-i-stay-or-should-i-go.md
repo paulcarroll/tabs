@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Should I stay or should I go
+    title: Spotify
     url: https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz?si=wMAsXPCAQeOgeiMMT8TrYg
 ---
 

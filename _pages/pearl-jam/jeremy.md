@@ -8,7 +8,7 @@ links:
     title: HitsOnAcousticGuitar
     url: https://www.youtube.com/watch?v=XNRE8KSyCUw&ab_channel=HitsOnAcousticGuitar
   - type: Spotify 
-    title: Jeremy
+    title: Spotify
     url: https://open.spotify.com/track/62nQ8UZVqR2RMvkJHkcO2o?si=59d92c63b3cc4004
 ---
 

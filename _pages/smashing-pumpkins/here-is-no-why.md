@@ -5,7 +5,7 @@ tags: [easy]
 layout: page
 links:
   - type: Spotify
-    title: Here is no why
+    title: Spotify
     url: https://open.spotify.com/track/5INe9EN6cNF6axQ4A4BQfy?si=VRKmg072TxaHr_18gdK-Wg
   - type: YouTube
     title: Mig LP

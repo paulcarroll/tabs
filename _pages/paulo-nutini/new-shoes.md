@@ -6,7 +6,7 @@ layout: page
 capo: 1
 links:
   - type: Spotify
-    title: New shoes
+    title: Spotify
     url: https://open.spotify.com/track/265Anh9hGoozFigjUVLUeD?si=Z14_kLi5RVGv9-7eC0UrMw
 ---
 

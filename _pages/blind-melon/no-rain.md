@@ -5,7 +5,7 @@ tags: [easy, learnt]
 layout: page
 links: 
   - type: Spotify
-    title: No rain
+    title: Spotify
     url: https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT?si=dr_Uv1ltSIW0qW_T_d9-Rw
   - type: YouTube
     title: HitsOnAcousticGuitar

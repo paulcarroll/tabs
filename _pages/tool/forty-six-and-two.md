@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Forty Six and Two
+    title: Spotify
     url: https://open.spotify.com/track/6AioOohg4bQZFA4jIYQQ2r?si=vHBAawHbSKKFMUdEazDZRQ
   - type: YouTube
     title: ArthurCauty

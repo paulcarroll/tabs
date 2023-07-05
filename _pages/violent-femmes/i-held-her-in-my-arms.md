@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: I held her in my arms
+    title: Spotify
     url: https://open.spotify.com/track/3s8Ehbrq0f91z5a0pIErnN?si=KE-LykYoSR2gB67uQIXxwg
   - type: YouTube
     title: TyKovatch

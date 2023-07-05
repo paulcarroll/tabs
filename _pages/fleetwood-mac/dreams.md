@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Dreams
+    title: Spotify
     url: https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz?si=nkobjVTWQPi3GK-s4jKKJg
 ---
 

@@ -5,7 +5,7 @@ tags: [lively, learning]
 layout: page
 links:
   - type: Spotify
-    title: Time like these
+    title: Spotify
     url: https://open.spotify.com/track/67vYdAAM3oGsEImCRfbtsF?si=RLlrL5XZRMyl2305EIp9hg
   - type: YouTube
     title: John Lee Blackmore

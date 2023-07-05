@@ -7,7 +7,7 @@ capo:
 columns: 1
 links: 
   - type: Spotify
-    title: Hide Your Love Away
+    title: Spotify
     url: https://open.spotify.com/track/6pTIIBntNSvDeUdZS3E8vz?si=06NOTlU3Q1-wFgqgjm1Udw
 ---
 

@@ -5,7 +5,7 @@ tags: [learning]
 layout: page
 links: 
   - type: Spotify 
-    title: Cherub rock
+    title: Spotify
     url: https://open.spotify.com/track/0F2LiyHp9E0pAanpfnzHNp?si=b76564d83cd14f6d
   - type: YouTube
     title: HitsOnAcousticGuitar

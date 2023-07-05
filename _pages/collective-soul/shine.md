@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Shine
+    title: Spotify
     url: https://open.spotify.com/track/77YKoNCjP5hWqiXMRG2839?si=0f4f81fe2a554a1a
 ---
 

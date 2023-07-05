@@ -7,7 +7,7 @@ capo:
 columns: 1
 links: 
   - type: Spotify
-    title: Hurt
+    title: Spotify
     url: https://open.spotify.com/track/2pDXMhXlzg67zhXKZVlefy?si=Cf9z-hvOTriBmimKGKc9fg
 ---
 

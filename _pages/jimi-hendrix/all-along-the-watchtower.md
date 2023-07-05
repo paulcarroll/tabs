@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify 
-    title: All along the watchtower
+    title: Spotify
     url: https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f?si=Bc90BqPSTdqCc3jN-PPATA
   - type: YouTube
     title: LeeJohnBlackmore

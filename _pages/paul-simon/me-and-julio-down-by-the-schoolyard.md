@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Me And Julio Down By The Schoolyard
+    title: Spotify
     url: https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E?si=99101d2580674899
 ---
 

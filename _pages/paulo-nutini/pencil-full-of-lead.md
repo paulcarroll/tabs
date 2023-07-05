@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Pencil Full Of Lead
+    title: Spotify
     url: https://open.spotify.com/track/3TkMsJZVZkYSsGtwkXx6br?si=ee0d02d4d7154da4
   - type: YouTube
     title: MichaelMulhollandAcoustic

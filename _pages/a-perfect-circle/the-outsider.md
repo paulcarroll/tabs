@@ -7,7 +7,7 @@ capo:
 columns: 1
 links: 
   - type: Spotify
-    title: The outsider
+    title: Spotify
     url: https://open.spotify.com/track/6CqYhhUPJORx1vvdTNc8jv?si=hCTGHplNTyyClV9Dc-5uqQ
   - type: YouTube
     title: esjael

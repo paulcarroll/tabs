@@ -7,7 +7,7 @@ capo:
 columns: 1
 links: 
   - type: Spotify
-    title: Feeler
+    title: Spotify
     url: https://open.spotify.com/track/08ExDOBqxTwGRrFoJXh93n?si=l1uIVVncQY2gH5IIYBhzjw
 ---
 

@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Best of You
+    title: Spotify
     url: https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp?si=3316f9bb2a384032
   - type: YouTube
     title: JotaJohn

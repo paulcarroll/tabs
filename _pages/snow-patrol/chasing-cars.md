@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Chasing Cars
+    title: Spotify
     url: https://open.spotify.com/track/11bD1JtSjlIgKgZG2134DZ?si=xVtuH52aQw-0_pK7sHzv9g
 ---
 

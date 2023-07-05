@@ -7,7 +7,7 @@ columns: 1
 capo: 
 links: 
   - type: Spotify
-    title: Cheap Wine
+    title: Spotify
     url: https://open.spotify.com/track/25CnjCPhW8iQ0LDtbISp9a?si=aa239e640f024ded
 ---
 

@@ -5,7 +5,7 @@ tags: []
 layout: page
 links: 
   - type: Spotify
-    title: Highway to hell
+    title: Spotify
     url: https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s?si=vXhLuVVfTaO7D4xwHtLWTQ
   - type: YouTube
     title: LeeJohnBlackmore

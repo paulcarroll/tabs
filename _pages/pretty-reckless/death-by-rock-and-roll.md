@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Death by rock and roll
+    title: Spotify
     url: https://open.spotify.com/track/5Y2myqmZH2D83n04mbznFe?si=373f07e736b74ad7
 ---
 

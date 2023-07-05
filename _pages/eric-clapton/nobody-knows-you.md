@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Nobody knows you
+    title: Spotify
     url: https://open.spotify.com/track/0Se82Sof9IOUY4VdR9un2A?si=FOrqra5BQcSfe8-8c9WC5A
   - type: YouTube 
     title: PaulDavids

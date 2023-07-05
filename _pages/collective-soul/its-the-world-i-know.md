@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Its the world I know
+    title: Spotify
     url: https://open.spotify.com/track/1HSVpIU0XU1WuwiBLBWAZd?si=26a9354f8d834f8a
   - type: YouTube
     title: MikeMasse

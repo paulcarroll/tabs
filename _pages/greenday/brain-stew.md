@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Brain Stew
+    title: Spotify
     url: https://open.spotify.com/track/1nLnpLXvl68RZCSjfkyiaa?si=f17723a933e14996
 ---
 

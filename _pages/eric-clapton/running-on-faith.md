@@ -5,7 +5,7 @@ tags: [easy]
 layout: page
 links:
   - type: Spotify
-    title: Running on faith
+    title: Spotify
     url: https://open.spotify.com/track/64fZ1gcn7rEzbdibOP1inl?si=UE3Qm_KnTQyYlgKtpbs7sQ
 ---
 

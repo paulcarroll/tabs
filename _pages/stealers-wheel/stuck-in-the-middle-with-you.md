@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Stuck In The Middle With You
+    title: Spotify
     url: https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT?si=cz5MbgHKRu-KRiI5Vi_MGw
 ---
 

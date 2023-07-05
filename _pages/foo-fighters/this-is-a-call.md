@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: This Is A Call
+    title: Spotify
     url: https://open.spotify.com/track/2wO8aOvN1ogLy1N8XT1WJE?si=c6c7afb518784fe8
 ---
 

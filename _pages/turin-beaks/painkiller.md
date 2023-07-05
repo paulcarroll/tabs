@@ -6,7 +6,7 @@ layout: page
 capo: 2
 links:
   - type: Spotify
-    title: Painkiller
+    title: Spotify
     url: https://open.spotify.com/track/7axHs42nlsJhYTESxJsDFo?si=78kHlI6-QXut-V_HxIj1rw
 ---
 

@@ -6,7 +6,7 @@ layout: page
 capo: 2
 links:
   - type: Spotify
-    title: Train wreck
+    title: Spotify
     url: https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H?si=tfq_RzlJREmJufMYHYq19Q
 ---
 

@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Little talks
+    title: Spotify
     url: https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B?si=f0f251b9c8ef4e96
   - type: YouTube
     title: KEXP (band, acoustic)

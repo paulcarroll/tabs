@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Hey Joe
+    title: Spotify
     url: https://open.spotify.com/track/0NWPxcsf5vdjdiFUI8NgkP?si=EhYmiuwhTEqgE6cyqfnpmg
   - type: YouTube
     title: BonesJonesMusic

@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Revelry
+    title: Spotify
     url: https://open.spotify.com/track/0bTlXQJzw4ddaLQPJ4rGS2?si=8b0c502f8aff40f2
 ---
 

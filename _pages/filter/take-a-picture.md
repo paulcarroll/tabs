@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Take a picture
+    title: Spotify
     url: https://open.spotify.com/track/2O2mr2gzBRtKGRiswqRyiN?si=8TRkLPrzRla_taa_dXbnTw
 ---
 

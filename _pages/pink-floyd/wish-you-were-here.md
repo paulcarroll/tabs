@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Wish You Were Here
+    title: Spotify
     url: https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1?si=_0fS685dQ1Wmcqac73ooKw
 ---
 

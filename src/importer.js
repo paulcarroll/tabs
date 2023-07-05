@@ -1,4 +1,5 @@
 import fs from 'fs/promises';
+import { traverseDir } from './traverse.js';
 import { rimraf } from 'rimraf';
 
 export const match = (str, pattern, index) => {
@@ -163,22 +164,11 @@ export const process = (song) => {
   }
 }
 
-async function traverseDir(dir) {
-  const contents = await fs.readdir(dir);
-  const result = [];
-  
-  for (const file of contents) {
-    let fullPath = path.join(dir, file);
-    if (!(await fs.lstat(fullPath)).isDirectory()) {
-       result.push(fullPath);
-     }  
-  }
-
-  return result;
-}
-
 const kebab = (str) => str.replaceAll(' ', '-').replaceAll('_', '').toLowerCase();
 
+/**
+ * 
+ */
 export async function main() {
   const files = await traverseDir('./import');
 

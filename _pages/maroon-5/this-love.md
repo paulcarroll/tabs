@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: This love
+    title: Spotify
     url: https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF?si=w3xCq7WRQ-CBuCVaLNKshw
   - type: YouTube
     title: YoniSchlesinger (full lesson)

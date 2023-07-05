@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: I still haven't found what I'm looking for
+    title: Spotify
     url: https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO?si=Woz6u7QfSkeBKzrP-NCL5g
   - type: YouTube
     title: RossSteele

@@ -9,7 +9,7 @@ links:
     title: HitsOnAcousticGuitar
     url: https://www.youtube.com/watch?v=4-s54Lg_HaM&ab_channel=HitsOnAcousticGuitar
   - type: Spotify 
-    title: Power of love
+    title: Spotify
     url: https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB?si=19e4ab0e44344ace
 ---
 

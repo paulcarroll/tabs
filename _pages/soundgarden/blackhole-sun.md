@@ -6,7 +6,7 @@ layout: page
 capo: 3
 links:
   - type: Spotify
-    title: Blackhole sun
+    title: Spotify
     url: https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD?si=hCIfi-IVQmaPcNsiafg69Q
   - type: YouTube
     title: Nathan Wesley ver 1 

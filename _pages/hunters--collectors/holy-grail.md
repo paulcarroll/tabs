@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Holy Grail
+    title: Spotify
     url: https://open.spotify.com/track/7ieCsfrxC9ssTGUzCL8BHv?si=TN96gr20RNm2uMdj_CZTSA
 ---
 

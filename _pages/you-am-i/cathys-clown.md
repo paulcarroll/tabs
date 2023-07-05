@@ -8,7 +8,7 @@ capo: 2
 columns: 1
 links:
   - type: Spotify
-    title: Cathy's clown
+    title: Spotify
     url: https://open.spotify.com/track/1Z6Ox5SFLutVQi80WVxsId?si=0abb9dee5edb4c43
   - type: YouTube
     title: YouAmI live opera house

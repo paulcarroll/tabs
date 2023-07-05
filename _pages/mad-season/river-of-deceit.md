@@ -5,7 +5,7 @@ tags: [easy, slow, learning]
 layout: page
 links:
   - type: Spotify
-    title: The river of deceit
+    title: Spotify
     url: https://open.spotify.com/track/3e2fDgC93LGc9Lbdvr6I9k?si=PiD9_ycFRtadHk337mdE6Q
   - type: YouTube
     title: RPGuitarVids

@@ -6,7 +6,7 @@ layout: page
 capo: 3
 links: 
   - type: Spotify
-    title: Radioactive
+    title: Spotify
     url: https://open.spotify.com/track/60CirPlTOEWOUBus7HxV3B?si=ea08fe5626174ac5
 ---
 

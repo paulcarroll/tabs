@@ -6,7 +6,7 @@ layout: page
 capo: 2
 links:
   - type: Spotify
-    title: Tricks of the trade
+    title: Spotify
     url: https://open.spotify.com/track/0N79LrXEt9QrIc7JPQ2HYC?si=3dX97wvbRJ-dD1l2hs-0MA
 ---
 

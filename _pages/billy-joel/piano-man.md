@@ -7,7 +7,7 @@ capo:
 columns: 1
 links: 
   - type: Spotify
-    title: Piano man
+    title: Spotify
     url: https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ?si=a8a72da52c594009
 ---
 

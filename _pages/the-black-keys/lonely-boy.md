@@ -7,7 +7,7 @@ capo:
 columns: 2
 links: 
   - type: Spotify
-    title: Lonely Boy
+    title: Spotify
     url: https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI?si=2P6Y51j6TiGZTpv69l5teA
   - type: YouTube
     title: LeeJohnBlackmore

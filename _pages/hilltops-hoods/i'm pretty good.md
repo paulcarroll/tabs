@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: I'm pretty good
+    title: Spotify
     url: https://open.spotify.com/album/5W3YMp8HlxyU6XtKsq9sxm?si=nO9nGvacTrSJULseIatPeQ
   - type: YouTube
     title: Music video

@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: The way
+    title: Spotify
     url: https://open.spotify.com/track/7IsEXPk6qqt30FfQv4SZMa?si=1TnIXaT0SkyPEaVB03mQMQ
 ---
 

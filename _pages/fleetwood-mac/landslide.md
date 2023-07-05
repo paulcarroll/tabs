@@ -6,7 +6,7 @@ layout: page
 capo: 3
 links: 
   - type: Spotify 
-    title: Landslide
+    title: Spotify
     url: https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ?si=xgwdPz-wSAGNy2_3r9zo-A
   - type: YouTube
     title: FleetwoodMac

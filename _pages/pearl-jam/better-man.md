@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Better Man
+    title: Spotify
     url: https://open.spotify.com/track/2B98ljvzqpCVgt5reTHq28?si=iZsJ0mRtTWmf9OFGs7emow
 ---
 

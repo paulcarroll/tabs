@@ -6,7 +6,7 @@ layout: page
 capo: 3
 links: 
   - type: Spotify
-    title: Its Only Natural
+    title: Spotify
     url: https://open.spotify.com/track/1oSPStIOjKzNhPqCU1xXVi?si=b8722dc65b314ccd
 ---
 

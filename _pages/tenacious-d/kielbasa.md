@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Kielbasa
+    title: Spotify
     url: https://open.spotify.com/track/0CoPoNohPHCjvggWHlxgk5?si=9oFAFWHJR-OD2JFLc9vzjA
   - type: YouTube
     title: Guitarings

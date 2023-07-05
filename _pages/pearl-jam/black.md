@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Black
+    title: Spotify
     url: https://open.spotify.com/track/5Xak5fmy089t0FYmh3VJiY?si=UY5VDhYARZKbjskeesv8hA
 ---
 

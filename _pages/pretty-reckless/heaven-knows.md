@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Heaven knows
+    title: Spotify
     url: https://open.spotify.com/track/7F5jxmwf1uWVqh6nbYz7rl?si=c8fd99ca63934e02
 ---
 

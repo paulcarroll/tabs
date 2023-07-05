@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Bloke
+    title: Spotify
     url: https://open.spotify.com/track/5cPlWPuzNikg3xvmFPExEf?si=0268322a27aa4205
 ---
 

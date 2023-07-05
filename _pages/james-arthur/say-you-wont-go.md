@@ -6,7 +6,7 @@ layout: page
 capo: 3
 links:
   - type: Spotify
-    title: Say you won't go
+    title: Spotify
     url: https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh?si=CzYK0UF1RCqSmK2ACzMJfg
   - type: YouTube
     title: Marty

@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Paranoid Android
+    title: Spotify
     url: https://open.spotify.com/track/0LTZD4vTsp0EN1wXatc9IR?si=HWWST4LJS5ugD5Xk8hIzIg
   - type: YouTube
     title: HitsOnAcousticGuitar

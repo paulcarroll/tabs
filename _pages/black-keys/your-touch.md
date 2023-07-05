@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Your touch
+    title: Spotify
     url: https://open.spotify.com/track/5lJUXSjRjevVy7I3P87wuK?si=7d73fb4284544329
 ---
 

@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: High and dry
+    title: Spotify
     url: https://open.spotify.com/track/1daWG6AYC20lWevL2r1Rm2?si=XUGhtdNtS9-JuKhCvaV9NQ
   - type: YouTube
     title: LeeJohnBlackmore

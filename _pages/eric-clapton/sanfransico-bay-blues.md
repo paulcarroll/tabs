@@ -5,7 +5,7 @@ tags: [lively]
 layout: page
 links:
   - type: Spotify
-    title: Sanfransico Bay blues
+    title: Spotify
     url: https://open.spotify.com/track/6nYnjk9PeOKXyDmRtACgWo?si=QMRitfBETZeqt10aC6NHmQ
 ---
 

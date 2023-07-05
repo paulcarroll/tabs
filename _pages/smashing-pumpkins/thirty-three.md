@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Thirty Three
+    title: Spotify
     url: https://open.spotify.com/track/02BSpb2sKuFgs0Go3LRbTj?si=_4fs9OAnRHCLiu0x2GmT4w
 ---
 

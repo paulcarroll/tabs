@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Right in two
+    title: Spotify
     url: https://open.spotify.com/track/0NLDZzVke3Qu7vDhWyGzRk?si=rZKOFXGeQxml3vivKqFU8A
   - type: YouTube
     title: DarrylJamesOfficial

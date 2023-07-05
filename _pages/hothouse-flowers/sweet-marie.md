@@ -5,7 +5,7 @@ tags: [easy, slow]
 layout: page
 links:
   - type: Spotify
-    title: Sweet marie
+    title: Spotify
     url: https://open.spotify.com/track/0hIs0FSZrZ441awQkRNv7l?si=qW7UHexHTCOFfnrduDW2RA
 ---
 

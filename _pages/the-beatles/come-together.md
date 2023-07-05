@@ -5,7 +5,7 @@ tags: [easy, lively, learning, ]
 layout: page
 links:
   - type: Spotify
-    title: Come together
+    title: Spotify
     url: https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD?si=IxrexeflQhuDKxz6MQar8A
   - type: YouTube
     title: Adam Pearce Music

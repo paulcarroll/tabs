@@ -7,7 +7,7 @@ capo:
 columns: 1
 links: 
   - type: Spotify
-    title: Flame Trees
+    title: Spotify
     url: https://open.spotify.com/track/2XTh5sTQjETlCo2EHZFhKG?si=c1d322980acd42f9
 ---
 

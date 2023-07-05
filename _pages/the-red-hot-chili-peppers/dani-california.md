@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Dani California
+    title: Spotify
     url: https://open.spotify.com/track/10Nmj3JCNoMeBQ87uw5j8k?si=863259aee31b4689
   - type: YouTube
     title: RedHotChiliPeppers

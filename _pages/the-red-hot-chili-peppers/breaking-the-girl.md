@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Breaking the girl
+    title: Spotify
     url: https://open.spotify.com/track/0cG9ocYqYOIVtgiWTmTe3g?si=6b205a809ad74d1c
   - type: YouTube
     title: YoniSchlesinger

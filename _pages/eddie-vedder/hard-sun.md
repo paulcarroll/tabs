@@ -6,7 +6,7 @@ layout: page
 capo: 1
 links: 
   - type: Spotify
-    title: Hard sun
+    title: Spotify
     url: https://open.spotify.com/track/0fzCtVM9D5UEwiLqcY8Ouq?si=2cd54bbd87f14eaa
 ---
 

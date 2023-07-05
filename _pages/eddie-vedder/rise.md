@@ -5,7 +5,7 @@ tags: [learning]
 layout: page
 links:
   - type: Spotify
-    title: Rise
+    title: Spotify
     url: https://open.spotify.com/track/1bhpBRCLsVg3p7BWARbaDS?si=ZIsGmfGlRyOhJS9Lg1YAVw
   - type: YouTube
     title: Carlos Navarro

@@ -5,7 +5,7 @@ tags: [learning]
 layout: page
 links: 
   - type: Spotify 
-    title: Plush
+    title: Spotify
     url: https://open.spotify.com/track/3jJZVeExYzVYiV6Y9Fl3DX?si=fff1e954587b4417
   - type: YouTube
     title: HitsOnAcousticGuitar

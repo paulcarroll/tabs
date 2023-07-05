@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: I Guess That's Why They Call It The Blues
+    title: Spotify
     url: https://open.spotify.com/track/23l1kVpqMVREiwU1YAlcr4?si=526c930d57704a6e
 ---
 

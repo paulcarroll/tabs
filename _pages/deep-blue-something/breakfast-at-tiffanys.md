@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Breakfast At Tiffanys
+    title: Spotify
     url: https://open.spotify.com/track/3GpdNg7Krt9vjc6tgDoKe1?si=7kCj94VbRh2yqQRLmgAchQ
   - type: YouTube
     title: YoniSchlesinger

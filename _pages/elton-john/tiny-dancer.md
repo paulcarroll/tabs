@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Tiny dancer
+    title: Spotify
     url: https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO?si=8f84a8c62d0b4901
 ---
 

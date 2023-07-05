@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Sober
+    title: Spotify
     url: https://open.spotify.com/track/6DyywdbmTzlmXBzG9ym7Rt?si=65Q7q-HoTl6FC5CRRAuWhg
 ---
 

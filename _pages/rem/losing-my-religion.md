@@ -9,7 +9,7 @@ links:
     title: YoniSchlesinger
     url: https://www.youtube.com/watch?v=EhaKIMxJHF0
   - type: Spotify
-    title: Losing my religion
+    title: Spotify
     url: https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx?si=3YiQSYugR8W1MPcqhlPtfw
 ---
 

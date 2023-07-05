@@ -7,7 +7,7 @@ capo:
 columns: 1
 links: 
   - type: Spotify
-    title: The House Of The Rising Sun
+    title: Spotify
     url: https://open.spotify.com/track/4mn2kNTqiGLwaUR8JdhJ1l?si=l56dzTSlTdmW9xZ8Xppfaw
 ---
 

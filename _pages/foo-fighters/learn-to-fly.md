@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Learn To Fly
+    title: Spotify
     url: https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT?si=19372a09d708402b
 ---
 

@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Champagne Supernova
+    title: Spotify
     url: https://open.spotify.com/track/6EMynpZ10GVcwVqiLZj6Ye?si=808100a224364110
   - type: YouTube
     title: EddieJeong

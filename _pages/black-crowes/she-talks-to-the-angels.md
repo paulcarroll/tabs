@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: She talks to the angels
+    title: Spotify
     url: https://open.spotify.com/track/5NK8jad728pj6YeqM5VJD4?si=045af399c9f84641
 ---
 

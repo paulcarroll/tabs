@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Karma Police
+    title: Spotify
     url: https://open.spotify.com/track/63OQupATfueTdZMWTxW03A?si=S1BmPorpSD2-agUCqIFfGQ
 ---
 

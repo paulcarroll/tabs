@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Bring Me Some Water
+    title: Spotify
     url: https://open.spotify.com/track/2U0HPJqbMOHez51Uvysq3V?si=wrdN-xViSbaIYfYu7MTo-Q
 ---
 

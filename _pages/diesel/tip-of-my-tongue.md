@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Tip of my tongue
+    title: Spotify
     url: https://open.spotify.com/track/3Xl4KM5C1yivck4CBsy05L?si=4ff9e49d4ad94288
   - type: YouTube
     title: BoMichaelRothe

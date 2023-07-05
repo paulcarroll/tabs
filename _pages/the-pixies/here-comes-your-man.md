@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Here Comes Your Man
+    title: Spotify
     url: https://open.spotify.com/track/4IvZLDtwBHmBmwgDIUbuwa?si=2q7YX3ZbQTSKqwuKQMbKQA
 ---
 

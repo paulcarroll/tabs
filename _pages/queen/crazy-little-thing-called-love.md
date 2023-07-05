@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Crazy Little Thing Called Love
+    title: Spotify
     url: https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk?si=50G1wtN8SCCpMpZ-CluWXw
 ---
 

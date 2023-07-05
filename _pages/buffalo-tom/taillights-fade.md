@@ -8,7 +8,7 @@ links:
     title: HitsOnAcousticGuitar
     url: https://www.youtube.com/watch?v=CVyMtrJFRok&ab_channel=HitsOnAcousticGuitar
   - type: Spotify 
-    title: Taillights fade
+    title: Spotify
     url: https://open.spotify.com/track/59ZV9pri8LDlllMzZSRH10?si=f76e2b221f014319
 ---
 

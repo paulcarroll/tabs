@@ -5,7 +5,7 @@ tags: [easy, lively, learnt, SHIT]
 layout: page
 links:
   - type: Spotify
-    title: Blister in the sun
+    title: Spotify
     url: https://open.spotify.com/track/5TM2eqdzfWPHklI7YnBmsD?si=Xs_LSLRpS5CDaSjmylw6pg
 ---
 

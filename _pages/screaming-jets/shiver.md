@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Shiver
+    title: Spotify
     url: https://open.spotify.com/track/2oVm9jWR7xAT3kHWLnrae8?si=fsKnGswETEmgkSoDtU4o4g
   - type: YouTube
     title: Shiggins

@@ -6,7 +6,7 @@ layout: page
 capo: 7
 links: 
   - type: Spotify
-    title: Here comes the sun
+    title: Spotify
     url: https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2?si=Q5EhtBEKSfKFuj7w7_7kiA
   - type: YouTube
     title: PaulDavids (1)

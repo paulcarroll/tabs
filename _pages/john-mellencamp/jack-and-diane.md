@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Jack and Diane
+    title: Spotify
     url: https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg?si=jPsEiNLDQuanF658H_6yew
 ---
 

@@ -5,7 +5,7 @@ tags: [learning, SHIT]
 layout: page
 links: 
   - type: Spotify 
-    title: Use somebody
+    title: Spotify
     url: https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2?si=1b65c4c1ed624585
   - type: YouTube
     title: HitsOnAcousticGuitar

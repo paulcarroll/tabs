@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Dancing In The Dark
+    title: Spotify
     url: https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE?si=e70155e639324fa1
 ---
 

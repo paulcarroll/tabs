@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Valerie
+    title: Spotify
     url: https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr?si=27ff2b0c35f947ee
 ---
 

@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Wish you well
+    title: Spotify
     url: https://open.spotify.com/track/48xq0DnfAKtsFjK1L7GZx9?si=5ad7e5a32451491b
 ---
 

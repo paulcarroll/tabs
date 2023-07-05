@@ -6,7 +6,7 @@ layout: page
 capo: 2
 links:
   - type: Spotify
-    title: Purple sneakers
+    title: Spotify
     url: https://open.spotify.com/track/5pnEpXAbtmrlPUvlj3F8Dl?si=2BjFtgSYQeWfdSTpRfE-Dw
 ---
  

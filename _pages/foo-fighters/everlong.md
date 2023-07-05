@@ -6,7 +6,7 @@ layout: page
 tuning: drop-d
 links:
   - type: Spotify
-    title: Everlong
+    title: Spotify
     url: https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk?si=kmBmM-AmTOCZ0S_MCSR3yA
   - type: YouTube
     title: Nathan Wesley

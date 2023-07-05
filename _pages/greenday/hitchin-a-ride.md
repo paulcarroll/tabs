@@ -5,7 +5,7 @@ tags: [easy, lively, learning, SHIT]
 layout: page
 links:
   - type: Spotify
-    title: Hitchin' a ride
+    title: Spotify
     url: https://open.spotify.com/track/6WlmA3HPHuNIR2mxI8LkZF?si=nluZKae3TVOuKEncxSgOwg
 ---
 

@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Dumb Things
+    title: Spotify
     url: https://open.spotify.com/track/0hESSlOMUM9VgEFSM3ecTu?si=UoXIj-xoTi21T7nzks4giw
 ---
 

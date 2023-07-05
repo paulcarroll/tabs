@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Otherside
+    title: Spotify
     url: https://open.spotify.com/track/64BbK9SFKH2jk86U3dGj2P?si=06f22e57c1384e6b
 ---
 

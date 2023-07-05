@@ -6,7 +6,7 @@ layout: page
 capo: 2
 links: 
   - type: Spotify
-    title: Wonderwall
+    title: Spotify
     url: https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa?si=v05AmsWbT6ye4_pYFHg05Q
 ---
 

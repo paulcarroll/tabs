@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Blackbird
+    title: Spotify
     url: https://open.spotify.com/track/4Z92RMiyJpUrApZi3LtpJ6?si=FArke0VZT0C3k8hAy72gMQ
 ---
 

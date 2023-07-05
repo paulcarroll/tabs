@@ -6,7 +6,7 @@ layout: page
 capo: 1
 links: 
   - type: Spotify
-    title: 3am
+    title: Spotify
     url: https://open.spotify.com/track/5vYA1mW9g2Coh1HUFUSmlb?si=ae998fe04b314480
 ---
 

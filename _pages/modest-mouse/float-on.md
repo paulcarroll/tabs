@@ -6,7 +6,7 @@ layout: page
 capo: 6
 links: 
   - type: Spotify
-    title: Float on
+    title: Spotify
     url: https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R?si=14dcb21b82e64395
 ---
 

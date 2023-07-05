@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: I could've lied
+    title: Spotify
     url: https://open.spotify.com/track/0NSbiBKXoODbsPwjSivfBr?si=0bbd7541f94e41bc
   - type: YouTube
     title: LeeJohnBlackmore

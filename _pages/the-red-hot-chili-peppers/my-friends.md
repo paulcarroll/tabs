@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: My friends
+    title: Spotify
     url: https://open.spotify.com/track/6HksxcBzMVdT17aq1Q79Xe?si=bbca20f044014ee2
   - type: YouTube
     title:  HitsOnAcousticGuitar

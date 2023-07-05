@@ -7,7 +7,7 @@ capo:
 columns: 1
 links: 
   - type: Spotify
-    title: Hurt So Good
+    title: Spotify
     url: https://open.spotify.com/track/67eX1ovaHyVPUinMHeUtIM?si=SlOnWkYpTYOT2Rui7GZHkw
 ---
 

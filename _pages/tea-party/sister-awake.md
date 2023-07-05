@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: 
+    title: Spotify
     url: https://open.spotify.com/track/67W1ulZLaoJmbtmRx8clDD?si=krfGPMxsRE2-q-A-hzqkJw
   - type: YouTube
     title: SudoscienceLabs

@@ -7,7 +7,7 @@ capo:
 columns: 1
 links: 
   - type: Spotify
-    title: Better Be Home Soon
+    title: Spotify
     url: https://open.spotify.com/track/4ZYCwq1EMPY5zZt195ARWg?si=574c64e60e7c4c1f
 ---
 

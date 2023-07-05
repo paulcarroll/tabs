@@ -5,7 +5,7 @@ tags: [learning]
 layout: page
 links: 
   - type: Spotify 
-    title: Interstate love song
+    title: Spotify
     url: https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3?si=e6e14bfddda54e38
   - type: YouTube
     title: HitsOnAcousticGuitar

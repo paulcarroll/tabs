@@ -5,7 +5,7 @@ tags: [easy, lively, learnt, SHIT]
 layout: page
 links:
     - type: Spotify
-      title: Teenage dirtbag
+      title: Spotify
       url: https://open.spotify.com/track/3LI4MmibTkXH5cGpCGZgyw?si=6dcc7c79827a418d
     - type: YouTube
       title: HitsOnAcousticGuitar

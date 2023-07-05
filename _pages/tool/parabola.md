@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Parabola
+    title: Spotify
     url: https://open.spotify.com/track/1vxu8vMNshg5J8z3oA7QJZ?si=gMWlYeOqSq6lXl-2PIy6HA
   - type: YouTube
     title: JarekBullfinch

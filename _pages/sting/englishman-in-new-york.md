@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Englishman in New York
+    title: Spotify
     url: https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp?si=uGmrcgfhQsG1FijysxTGBg
   - type: YouTube
     title: RossSteele

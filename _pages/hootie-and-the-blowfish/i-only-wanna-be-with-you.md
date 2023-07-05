@@ -6,7 +6,7 @@ layout: page
 capo: 2
 links: 
   - type: Spotify
-    title: I only wanna be with you
+    title: Spotify
     url: https://open.spotify.com/track/1OFKUn2VLafrHj7ybnap0Q?si=7d4df686e9e3479f
   - type: YouTube
     title: FernandoUfret

@@ -7,7 +7,7 @@ capo:
 tuning: drop-d
 links: 
   - type: Spotify
-    title: Aenema
+    title: Spotify
     url: https://open.spotify.com/track/0nLOl4fSiBZKGFla5pLUtf?si=Zb9ICtzcT6iX85Ppu7RPIQ
   - type: YouTube
     title: ChristopherKline

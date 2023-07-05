@@ -5,7 +5,7 @@ tags: []
 layout: page
 links: 
   - type: Spotify 
-    title: One
+    title: Spotify
     url: https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU?si=79cf3da35ea145db
   - type: YouTube
     title: HitsOnAcousticGuitar

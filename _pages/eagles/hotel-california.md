@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Hotel California
+    title: Spotify
     url: https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv?si=da21ea0dfa414da5
 ---
 

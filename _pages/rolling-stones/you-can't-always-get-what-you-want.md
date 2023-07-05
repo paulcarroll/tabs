@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: You Can't Always Get What You Want
+    title: Spotify
     url: https://open.spotify.com/track/6lFZbCc7pn6Lme1NP7qQqQ?si=3yCDLSOrQyOpfTTi51aDIw
 ---
 

@@ -5,7 +5,7 @@ tags: [easy, learnt]
 layout: page
 links:
   - type: Spotify
-    title: Fake plastic trees
+    title: Spotify
     url: https://open.spotify.com/track/045sp2JToyTaaKyXkGejPy?si=8uMewWFMS5uee9ic-LxzcQ
 ---
 

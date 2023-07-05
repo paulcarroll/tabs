@@ -7,7 +7,7 @@ capo: 3
 columns: 1
 links: 
   - type: Spotify
-    title: Nothing Ever Happens
+    title: Spotify
     url: https://open.spotify.com/track/3jXF03tYOTMWempa7nrqTA?si=4828f86fa8404a28
 ---
 

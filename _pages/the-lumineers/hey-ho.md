@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Hey ho
+    title: Spotify
     url: https://open.spotify.com/track/7eAUXhbTO8lKvx9zydSbvA?si=ukjEEOguRXeFIPJ6-CXK6g
 ---
 

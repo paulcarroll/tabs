@@ -7,7 +7,7 @@ capo:
 columns: 1
 links: 
   - type: Spotify
-    title: Move on
+    title: Spotify
     url: https://open.spotify.com/track/3xmKYqSejefz96FRCL7VSD?si=n0jMnpWESzWseig8vJfOnQ
 ---
 

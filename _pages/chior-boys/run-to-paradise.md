@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Run To Paradise
+    title: Spotify
     url: https://open.spotify.com/track/6Amt2E3nanH9lhZnas9oOs?si=32e97ab4274a4b19
 ---
 

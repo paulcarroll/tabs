@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: The way you wear your head
+    title: Spotify
     url: https://open.spotify.com/track/2oXbM6cporK5HBL7A5PLOR?si=2e8e008ff44b452f
 ---
 

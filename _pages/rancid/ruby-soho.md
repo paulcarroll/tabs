@@ -7,7 +7,7 @@ capo:
 columns: 3
 links: 
   - type: Spotify
-    title: Ruby Soho
+    title: Spotify
     url: https://open.spotify.com/track/1pNlZQeoPnlxqf1Mjgm0H2?si=67865f973fec4876
   - type: YouTube
     title: EpitaphRecords

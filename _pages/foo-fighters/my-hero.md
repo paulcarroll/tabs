@@ -5,7 +5,7 @@ tags: [easy, learning]
 layout: page
 links:
   - type: Spotify
-    title: My hero
+    title: Spotify
     url: https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN?si=4215a5337d764f40
   - type: YouTube
     title: My hero

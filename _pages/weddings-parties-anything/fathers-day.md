@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Fathers day
+    title: Spotify
     url: https://open.spotify.com/track/2mnvzsLKEG033tp9Bqm4S1?si=c6234e8d96fb42e4
   - type: YouTube
     title: AndyGrace

@@ -7,7 +7,7 @@ capo:
 columns: 1
 links: 
   - type: Spotify
-    title: Wave Of Multilation
+    title: Spotify
     url: https://open.spotify.com/track/1yJiE307EBIzOB9kqH1deb?si=KEOKKu5uSOanpGUAqlWWSA
 ---
 

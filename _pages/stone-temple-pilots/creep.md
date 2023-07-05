@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Creep
+    title: Spotify
     url: https://open.spotify.com/track/0elH6ukMGLyCHJavHutEza?si=Dq7zQdw-TG2PXFulcN3C0A
   - type: YouTube
     title: LeeJohnBlackmore

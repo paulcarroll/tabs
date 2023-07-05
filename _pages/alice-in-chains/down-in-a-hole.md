@@ -5,7 +5,7 @@ tags: [easy, slow, learning]
 layout: page
 links: 
   - type: Spotify
-    title: Down in a hole
+    title: Spotify
     url: https://open.spotify.com/track/7FRfYOql61DGDp9VPPe2qA?si=9633edfe08e24991
   - type: YouTube
     title: Nathan Wesley

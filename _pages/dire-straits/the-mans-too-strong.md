@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: The man's too strong
+    title: Spotify
     url: https://open.spotify.com/track/0DeLHrPqVdRayndn0Upt4i?si=0r7o68frS8yiXsuZnT-hUA
   - type: YouTube
     title: TGAcousticLessons

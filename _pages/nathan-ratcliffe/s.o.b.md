@@ -6,7 +6,7 @@ layout: page
 capo: 1
 links: 
   - type: Spotify
-    title: S.O.B
+    title: Spotify
     url: https://open.spotify.com/track/1VPUpUwtbpoRVXt0txVU0w?si=b807a739cfca4e2f
 ---
 

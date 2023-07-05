@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Sultans of swing
+    title: Spotify
     url: https://open.spotify.com/track/37Tmv4NnfQeb0ZgUC4fOJj?si=DkeFaQPBTriXeRMy-hqz5g
   - type: YouTube
     title: LeeJohnBlackmore

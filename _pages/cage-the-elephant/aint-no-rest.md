@@ -5,7 +5,7 @@ tags: [lively, learning]
 layout: page
 links:
   - type: Spotify
-    title: Ain't no rest for the wicked
+    title: Spotify
     url: https://open.spotify.com/track/3kb72STxc2959ZqsTwu52i?si=1mWiklwhRxexWZFwMwfSKQ
   - type: YouTube
     title: Luke Waistead

@@ -5,7 +5,7 @@ tags: [easy, slow, learnt]
 layout: page
 links:
   - type: Spotify
-    title: Can't you see
+    title: Spotify
     url: https://open.spotify.com/track/4fUU9WKxEgJXyrZJsUA2iP?si=PSGzVVw2S3ORCX5ts516wA
 ---
 

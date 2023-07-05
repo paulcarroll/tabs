@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: Creep
+    title: Spotify
     url: https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r?si=A1ye7ug2SHe60j46avrsyQ
   - type: YouTube
     title: YoniSchlesinger

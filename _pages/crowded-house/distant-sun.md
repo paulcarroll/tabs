@@ -6,7 +6,7 @@ layout: page
 capo: 2
 links: 
   - type: Spotify
-    title: Distant Sun
+    title: Spotify
     url: https://open.spotify.com/track/4oh6NKtMdiXIhgGGQBR09b?si=3b5a6d1f86964253
 ---
 

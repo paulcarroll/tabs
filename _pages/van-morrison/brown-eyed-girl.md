@@ -5,7 +5,7 @@ tags: [easy, lively, learnt, SHIT]
 layout: page
 links:
   - type: Spotify 
-    title: Brown eyes girl
+    title: Spotify
     url: https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul?si=gJD8fhPLQumZOmJabqDfEg
 ---
 

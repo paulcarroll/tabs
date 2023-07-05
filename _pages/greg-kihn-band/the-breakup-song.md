@@ -6,7 +6,7 @@ layout: page
 capo: 
 links: 
   - type: Spotify
-    title: The breakup song
+    title: Spotify
     url: https://open.spotify.com/track/3gHyNUxOEZq4VltRl2xUW4?si=2aa40eb403df4c97
 ---
 

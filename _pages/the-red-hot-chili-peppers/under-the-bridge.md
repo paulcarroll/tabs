@@ -6,7 +6,7 @@ layout: page
 capo: 2
 links: 
   - type: Spotify
-    title: Under the bridge
+    title: Spotify
     url: https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0?si=411331da263c4cd9
 ---
 
