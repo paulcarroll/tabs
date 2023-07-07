@@ -1,4 +1,7 @@
 
+
+let table = null;
+
 /**
  * 
  */
@@ -38,21 +41,39 @@ function renderPlaylist() {
  * 
  */
 function initPlaylist() {
+  // ---
+  // Clear button click handler
   $('.homepage-playlist a.clear').on('click', e => {
     e.preventDefault();
 
     localStorage.removeItem('songPath');
 
     renderPlaylist();
+
+    e.preventDefault = true;
+    return false;
   });
 
+  // ---
+  // Start playlist
   $('.homepage-playlist a.play').on('click', e => {
     const songs = getPlaylist();
-    if (!songs.length) {
-      return;
+    if (songs.length) {
+      window.location.href = songs[0].url;
     }
 
-    window.location.href = songs[0].url;
+    e.preventDefault = true;
+    return false;
+  });
+
+  // ---
+  // Add filtered list contents
+  $('.homepage-playlist a.add-list').on('click', e => {
+
+    table.rows({ filter: 'applied' }).data().each(addToPlaylist);
+
+    e.preventDefault = true;
+    return false;
   });
 
   renderPlaylist();
@@ -62,7 +83,7 @@ function initPlaylist() {
  * 
  */
 function initSongList() {
-  const table = $('.homepage-songs table').DataTable({
+  table = $('.homepage-songs table').DataTable({
     ajax: './data.json',
     dom: '<"dtsp-dataTable"frtip>',
     responsive: {
@@ -129,7 +150,10 @@ function initSongList() {
   table.on('click', 'a.fa-solid', (e) => {
     const song = table.row(e.target.closest('tr')).data();
 
-    addToPlaylist(song)
+    addToPlaylist(song);
+
+    e.preventDefault = true;
+    return false;
   });
 
   $(".homepage .homepage-search").append(table.searchPanes.container());
