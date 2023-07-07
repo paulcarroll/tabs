@@ -141,7 +141,8 @@ function initSongList() {
         responsivePriority: 1,
         className: 'all', 
         defaultContent: '<a href="#" class="fa-solid fa-plus" title="Add to playlist"></a>',
-        targets: [-1]
+        targets: [-1],
+        orderable: false
       }
     ]
   });
@@ -157,5 +158,7 @@ function initSongList() {
   });
 
   $(".homepage .homepage-search").append(table.searchPanes.container());
+
+  $('.homepage-playlist ul').sortable();
 }
 
