@@ -44,6 +44,7 @@
       line-height: 1.6rem;
       display: flex;
       flex-wrap: wrap;
+      flex-grow: 5;
       gap: .1rem 1.5rem;
 
       > a {
@@ -62,6 +63,31 @@
           text-shadow: 1px 1px #af9e429e;
         }
       }
+    }
+
+    .sound__playlist {
+      a {
+        &.--disabled {
+          background-color: #808080;
+          border-color: #777;
+        }
+      }
+
+      span.title {
+        text-align: center;
+        display: block;
+      }
+
+      span.count {
+        display: inline-block;
+        min-width: 4rem;
+        text-align: center;
+        font-weight: bold;
+      }
+    }
+
+    .sound__playlist--hide {
+      display: none;
     }
 
     .song__divider {

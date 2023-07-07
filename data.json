@@ -5,6 +5,7 @@ layout: none
   "data": [
     {%- for page in site.pages %}
       {
+        "path":       {{- page.group | append: ' - ' | append: page.title | jsonify }},
         "group":      {{- page.group | jsonify }},
         "title":      {{- page.title | jsonify }},
         "url":        {{- page.url | relative_url | jsonify }},

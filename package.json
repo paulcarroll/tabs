@@ -7,7 +7,7 @@
     "serve": "bundle exec jekyll serve",
     "test": "jest --silent=false",
     "import": "node -e '(async() => { (await import(`./src/importer.js`)).main(); })()'",
-    "update-songs": "node -e '(async() => { (await import(`./src/songUpdate.js`)).update(); })()'"
+    "update-songs": "node -e '(async() => { (await import(`./src/song-update.js`)).update(); })()'"
   },
   "author": "",
   "license": "ISC",

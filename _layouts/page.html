@@ -48,9 +48,24 @@ layout: default
       {% endfor %}
     </div>
     {% endif %}
+
+    <div class="song__divider"></div>
+    <div class="sound__playlist">
+      <span class="title">Playlist</span>
+      <a href="#" class="btn btn-primary sound__playlist_prev" role="button">&#10094; Prev</a>
+      <span class="count"></span>
+      <a href="#" class="btn btn-primary sound__playlist_next" role="button">Next &#10095;</a>
+    </div>
   </header>
 
   <section class="song-body song-force-columns-{{ page.columns | default: 2 }}">
     {{ content }}
   </section>
 </div>
+
+<script>
+  $(() => {
+    initSongView();
+  });
+</script>
+
