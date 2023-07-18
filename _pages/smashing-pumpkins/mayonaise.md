@@ -1,7 +1,7 @@
 ---
 group: Smashing Pumpkins
 title: Mayonaise
-tags: [learning]
+tags: []
 layout: page
 links:
   - type: YouTube

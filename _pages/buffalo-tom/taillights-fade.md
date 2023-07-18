@@ -1,7 +1,7 @@
 ---
 group: Buffalo Tom
 title: Taillights fade
-tags: [learning]
+tags: [radar, quiet]
 layout: page
 links: 
   - type: YouTube

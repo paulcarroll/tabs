@@ -1,7 +1,7 @@
 ---
 group: Stone Temple Pilots
 title: Creep
-tags: [learning]
+tags: [radar]
 layout: page
 capo: 
 links: 

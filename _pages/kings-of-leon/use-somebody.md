@@ -1,7 +1,7 @@
 ---
 group: Kings of Leon
 title: Use somebody
-tags: [learning, SHIT]
+tags: [radar, SHIT]
 layout: page
 links: 
   - type: Spotify 

@@ -1,7 +1,7 @@
 ---
 group: Matchbox 20
 title: 3am
-tags: [learning, SHIT]
+tags: [SHIT]
 layout: page
 capo: 1
 links: 

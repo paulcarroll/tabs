@@ -1,7 +1,7 @@
 ---
 group: Steve Earle
 title: Copperhead road
-tags: [learning, SHIT, lively]
+tags: [SHIT, lively, radar]
 layout: page
 capo: 
 links: 

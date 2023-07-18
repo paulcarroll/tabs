@@ -1,7 +1,7 @@
 ---
 group: Jimmy Eat World
 title: The middle
-tags: [SHIT, learning]
+tags: [SHIT]
 layout: page
 capo: 
 columns: 1

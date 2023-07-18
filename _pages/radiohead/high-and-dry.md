@@ -1,7 +1,7 @@
 ---
 group: Radiohead
 title: High and dry
-tags: [quiet, learning]
+tags: [quiet]
 layout: page
 capo: 
 links: 

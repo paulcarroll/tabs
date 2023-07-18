@@ -1,7 +1,7 @@
 ---
 group: Pearl Jam
 title: Better Man
-tags: [quiet, learning]
+tags: [quiet, learnt]
 layout: page
 capo: 
 links: 

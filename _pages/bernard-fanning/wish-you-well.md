@@ -1,7 +1,7 @@
 ---
 group: Bernard Fanning
 title: Wish You Well
-tags: [SHIT, learning]
+tags: [SHIT]
 layout: page
 capo: 
 links: 

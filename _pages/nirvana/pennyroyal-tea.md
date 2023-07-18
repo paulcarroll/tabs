@@ -1,12 +1,12 @@
 ---
 group: Nirvana
-title: In bloom
-tags: [learning]
+title: Pennyroyal tea
+tags: [quiet, radar]
 layout: page
 links:
-  - type: YouTube
-    title: Adam Pearce
-    url: https://www.youtube.com/watch?v=8HAxo0XSV28&list=RD8HAxo0XSV28&start_radio=1&ab_channel=AdamPearceMusic
+  - type: Spotify
+    title: Spotify
+    url: https://open.spotify.com/track/3z53rfQOg6Eb5pBCRsd7Uu?si=badfcb12bd7a45b9
 ---
 
 ## Verse 1

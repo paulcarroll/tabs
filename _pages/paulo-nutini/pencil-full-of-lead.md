@@ -1,7 +1,7 @@
 ---
 group: Paulo Nutini
 title: Pencil Full Of Lead
-tags: [lively, learning]
+tags: [lively, radar]
 layout: page
 capo: 
 links: 

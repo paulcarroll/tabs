@@ -1,7 +1,7 @@
 ---
 group: Jimi Hendrix
 title: Hey Joe
-tags: [learning]
+tags: [radar, blues]
 layout: page
 capo: 
 links: 

@@ -1,7 +1,7 @@
 ---
 group: Black Keys
 title: Your Touch
-tags: [lively, learning, SHIT]
+tags: [lively, radar, SHIT]
 layout: page
 capo: 
 links: 

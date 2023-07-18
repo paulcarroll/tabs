@@ -1,7 +1,7 @@
 ---
 group: Alice in Chains
 title: Down in a hole
-tags: [easy, slow, learning]
+tags: [easy, slow, radar]
 layout: page
 links: 
   - type: Spotify

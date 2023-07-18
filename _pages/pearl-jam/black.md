@@ -1,7 +1,7 @@
 ---
 group: Pearl Jam
 title: Black
-tags: [quiet, learning]
+tags: [quiet]
 layout: page
 capo: 
 links: 

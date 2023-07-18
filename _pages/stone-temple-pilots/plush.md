@@ -1,7 +1,7 @@
 ---
 group: Stone Temple Pilots
 title: Plush
-tags: [learning]
+tags: [radar]
 layout: page
 links: 
   - type: Spotify 

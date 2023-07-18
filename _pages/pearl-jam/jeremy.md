@@ -1,7 +1,7 @@
 ---
 group: Pearl Jam
 title: Jeremy
-tags: [learning]
+tags: [lively]
 layout: page
 links: 
   - type: YouTube

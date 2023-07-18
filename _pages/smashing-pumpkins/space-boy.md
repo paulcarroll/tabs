@@ -1,7 +1,7 @@
 ---
 group: Smashing Pumpkins
 title: Space Boy
-tags: [quiet, learning]
+tags: [quiet]
 layout: page
 capo: 
 columns: 1

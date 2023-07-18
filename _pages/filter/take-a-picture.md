@@ -1,7 +1,7 @@
 ---
 group: Filter
 title: Take a picture
-tags: [SHIT, learning]
+tags: [SHIT, radar]
 layout: page
 capo: 
 links: 

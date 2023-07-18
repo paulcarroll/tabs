@@ -1,7 +1,7 @@
 ---
 group: Maria McKee
 title: Love is a red dress
-tags: [quiet, learning]
+tags: [quiet, radar]
 layout: page
 links:
   - type: Spotify

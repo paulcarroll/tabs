@@ -1,7 +1,7 @@
 ---
 group: The Beatles
 title: Come together
-tags: [easy, lively, learning, ]
+tags: [easy, lively, radar]
 layout: page
 links:
   - type: Spotify

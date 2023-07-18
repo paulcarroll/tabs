@@ -1,7 +1,7 @@
 ---
 group: Fleetwood Mac
 title: Landslide
-tags: [learning, quiet]
+tags: [quiet]
 layout: page
 capo: 3
 links: 

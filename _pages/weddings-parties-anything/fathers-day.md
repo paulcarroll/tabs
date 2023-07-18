@@ -1,7 +1,7 @@
 ---
 group: Weddings Parties Anything
 title: Fathers day
-tags: [learning]
+tags: [lively]
 layout: page
 capo: 
 links: 

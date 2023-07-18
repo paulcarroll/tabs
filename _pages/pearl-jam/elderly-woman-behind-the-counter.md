@@ -1,7 +1,7 @@
 ---
 group: Pearl Jam
 title: Elderly Woman Behind The Counter
-tags: [quiet, learning]
+tags: [quiet, radar]
 layout: page
 capo: 
 links: 

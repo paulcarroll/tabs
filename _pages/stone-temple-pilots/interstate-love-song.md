@@ -1,7 +1,7 @@
 ---
 group: Stone Temple Pilots
 title: Interstate love song
-tags: [learning]
+tags: [radar]
 layout: page
 links: 
   - type: Spotify 

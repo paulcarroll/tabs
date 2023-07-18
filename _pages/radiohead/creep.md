@@ -1,7 +1,7 @@
 ---
 group: Radiohead
 title: Creep
-tags: [quiet, learning]
+tags: [quiet, radar]
 layout: page
 capo: 
 links: 

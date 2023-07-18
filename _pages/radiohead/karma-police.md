@@ -1,7 +1,7 @@
 ---
 group: Radiohead
 title: Karma Police
-tags: [quiet, learning]
+tags: [quiet, radar]
 layout: page
 capo: 
 links: 
