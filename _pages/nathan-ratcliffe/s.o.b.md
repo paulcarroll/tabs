@@ -1,7 +1,7 @@
 ---
 group: Nathan Ratcliffe
 title: S.O.B
-tags: [SHIT, lively]
+tags: [PAP, lively]
 layout: page
 capo: 1
 links: 

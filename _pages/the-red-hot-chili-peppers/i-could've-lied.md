@@ -1,7 +1,7 @@
 ---
 group: The Red Hot Chili Peppers
 title: I could've lied
-tags: [SHIT, learning]
+tags: [PAP, learning]
 layout: page
 capo: 
 links: 

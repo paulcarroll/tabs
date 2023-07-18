@@ -1,7 +1,7 @@
 ---
 group: Hunters and Collectors
 title: Holy Grail
-tags: [learnt, SHIT]
+tags: [learnt, PAP]
 layout: page
 capo: 
 links: 

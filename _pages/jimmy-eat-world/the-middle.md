@@ -1,7 +1,7 @@
 ---
 group: Jimmy Eat World
 title: The middle
-tags: [SHIT]
+tags: [PAP]
 layout: page
 capo: 
 columns: 1

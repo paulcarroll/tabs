@@ -1,7 +1,7 @@
 ---
 group: John Mellencamp
 title: Hurt So Good
-tags: [SHIT, lively]
+tags: [PAP, lively]
 layout: page
 capo: 
 columns: 1

@@ -1,7 +1,7 @@
 ---
 group: Greenday
 title: Brain Stew
-tags: [lively, easy, learnt, SHIT]
+tags: [lively, easy, learnt, PAP]
 layout: page
 capo: 
 links: 

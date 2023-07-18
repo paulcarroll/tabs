@@ -1,7 +1,7 @@
 ---
 group: Bernard Fanning
 title: Wish You Well
-tags: [SHIT]
+tags: [PAP]
 layout: page
 capo: 
 links: 

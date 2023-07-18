@@ -1,7 +1,7 @@
 ---
 group: Elton John
 title: Rocketman
-tags: [learnt, SHIT]
+tags: [learnt, PAP]
 layout: page
 capo: 
 columns: 1

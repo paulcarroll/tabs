@@ -1,7 +1,7 @@
 ---
 group: Paul Kelly
 title: Dumb Things
-tags: [learnt, SHIT, lively, easy]
+tags: [learnt, PAP, lively, easy]
 layout: page
 capo: 
 links: 

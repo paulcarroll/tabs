@@ -1,7 +1,7 @@
 ---
 group: Paul Kelly
 title: To Her Door
-tags: [learnt, SHIT, easy]
+tags: [learnt, PAP, easy]
 layout: page
 capo: 
 links: 

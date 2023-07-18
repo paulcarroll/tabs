@@ -1,7 +1,7 @@
 ---
 group: Snow Patrol
 title: Chasing Cars
-tags: [SHIT]
+tags: [PAP]
 layout: page
 capo: 
 links: 

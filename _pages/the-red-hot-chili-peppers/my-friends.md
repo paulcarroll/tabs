@@ -1,7 +1,7 @@
 ---
 group: The Red Hot Chili Peppers
 title: My Friends
-tags: [SHIT, lively, learning]
+tags: [PAP, lively, learning]
 layout: page
 capo: 
 links: 

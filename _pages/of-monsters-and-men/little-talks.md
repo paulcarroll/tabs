@@ -1,7 +1,7 @@
 ---
 group: Of Monsters and Men
 title: Little talks
-tags: [SHIT]
+tags: [PAP]
 layout: page
 capo: 
 links: 

@@ -1,7 +1,7 @@
 ---
 group: Greenday
 title: Hitchin' a ride
-tags: [easy, lively, learning, SHIT]
+tags: [easy, lively, learning, PAP]
 layout: page
 links:
   - type: Spotify

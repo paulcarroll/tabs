@@ -1,7 +1,7 @@
 ---
 group: Nada Surf
 title: The way you wear your head
-tags: [SHIT, lively]
+tags: [PAP, lively]
 layout: page
 capo: 
 links: 

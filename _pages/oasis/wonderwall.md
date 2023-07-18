@@ -1,7 +1,7 @@
 ---
 group: Oasis
 title: Wonderwall
-tags: [learnt, SHIT]
+tags: [learnt, PAP]
 layout: page
 capo: 2
 links: 

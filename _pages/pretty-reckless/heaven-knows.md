@@ -1,7 +1,7 @@
 ---
 group: Pretty Reckless
 title: Heaven knows
-tags: [SHIT]
+tags: [PAP]
 layout: page
 capo: 
 links: 

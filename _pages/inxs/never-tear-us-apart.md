@@ -1,7 +1,7 @@
 ---
 group: Inxs
 title: Never Tear Us Apart
-tags: [learnt, easy, SHIT]
+tags: [learnt, easy, PAP]
 layout: page
 capo: 
 links: 

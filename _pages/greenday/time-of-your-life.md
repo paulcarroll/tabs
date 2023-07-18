@@ -1,7 +1,7 @@
 ---
 group: Greenday
 title: Time Of Your Life
-tags: [SHIT, learnt]
+tags: [PAP, learnt]
 layout: page
 capo: 
 links: 

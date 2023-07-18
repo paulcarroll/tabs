@@ -1,7 +1,7 @@
 ---
 group: The Red Hot Chili Peppers
 title: Otherside
-tags: [SHIT, learning, lively]
+tags: [PAP, learning, lively]
 layout: page
 capo: 
 links: 

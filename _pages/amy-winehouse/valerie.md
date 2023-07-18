@@ -1,7 +1,7 @@
 ---
 group: Amy Winehouse
 title: Valerie
-tags: [SHIT]
+tags: [PAP]
 layout: page
 capo: 
 links: 

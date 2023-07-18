@@ -1,7 +1,7 @@
 ---
 group: The Clash
 title: Should I stay or should I go
-tags: [SHIT, lively]
+tags: [PAP, lively]
 layout: page
 capo: 
 links: 

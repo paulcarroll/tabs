@@ -1,7 +1,7 @@
 ---
 group: Creedance Clearwater Revival
 title: Lookin' Out My Back Door
-tags: [learnt, SHIT]
+tags: [learnt, PAP]
 layout: page
 capo: 3
 links: 

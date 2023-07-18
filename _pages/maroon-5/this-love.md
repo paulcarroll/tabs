@@ -1,7 +1,7 @@
 ---
 group: Maroon 5
 title: This love
-tags: [SHIT]
+tags: [PAP]
 layout: page
 capo: 
 links: 

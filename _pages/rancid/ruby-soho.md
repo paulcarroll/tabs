@@ -1,7 +1,7 @@
 ---
 group: Rancid
 title: Ruby Soho
-tags: [SHIT, lively]
+tags: [PAP, lively]
 layout: page
 capo: 
 columns: 3

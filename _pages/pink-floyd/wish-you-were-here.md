@@ -1,7 +1,7 @@
 ---
 group: Pink Floyd
 title: Wish You Were Here
-tags: [learnt, SHIT]
+tags: [learnt, PAP]
 layout: page
 capo: 
 links: 

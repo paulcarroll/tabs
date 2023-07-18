@@ -1,7 +1,7 @@
 ---
 group: Cold Chisel
 title: Flame Trees
-tags: [SHIT]
+tags: [PAP]
 layout: page
 capo: 
 columns: 1

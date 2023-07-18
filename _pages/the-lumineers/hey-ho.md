@@ -1,7 +1,7 @@
 ---
 group: The Lumineers
 title: Hey Ho
-tags: [SHIT, lively]
+tags: [PAP, lively]
 layout: page
 capo: 
 links: 

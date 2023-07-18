@@ -1,7 +1,7 @@
 ---
 group: The Red Hot Chili Peppers
 title: Under The Bridge
-tags: [SHIT, quiet]
+tags: [PAP, quiet]
 layout: page
 capo: 2
 links: 

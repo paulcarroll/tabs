@@ -1,7 +1,7 @@
 ---
 group: Creedance Clearwater Revival
 title: Down On The Corner
-tags: [learnt, SHIT]
+tags: [learnt, PAP]
 layout: page
 capo: 
 links: 

@@ -1,7 +1,7 @@
 ---
 group: Rolling Stones
 title: You Can't Always Get What You Want
-tags: [learnt, SHIT, lively, easy]
+tags: [learnt, PAP, lively, easy]
 layout: page
 capo: 
 links: 

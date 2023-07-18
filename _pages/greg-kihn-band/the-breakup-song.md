@@ -1,7 +1,7 @@
 ---
 group: Greg Kihn Band
 title: The breakup song
-tags: [SHIT, lively]
+tags: [PAP, lively]
 layout: page
 capo: 
 links: 

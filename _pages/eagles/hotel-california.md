@@ -1,7 +1,7 @@
 ---
 group: Eagles
 title: Hotel California
-tags: [learnt, SHIT, easy]
+tags: [learnt, PAP, easy]
 layout: page
 capo: 
 links: 

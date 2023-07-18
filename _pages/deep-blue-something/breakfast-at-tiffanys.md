@@ -1,7 +1,7 @@
 ---
 group: Deep Blue Something
 title: Breakfast At Tiffanys
-tags: [learnt, SHIT, lively]
+tags: [learnt, PAP, lively]
 layout: page
 capo: 
 links: 

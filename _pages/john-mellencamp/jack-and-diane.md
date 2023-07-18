@@ -1,7 +1,7 @@
 ---
 group: John Mellencamp
 title: Jack and Diane
-tags: [SHIT, lively]
+tags: [PAP, lively]
 layout: page
 capo: 
 links: 

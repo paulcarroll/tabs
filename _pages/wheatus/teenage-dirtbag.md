@@ -1,7 +1,7 @@
 ---
 group: Wheatus
 title: Teenage dirtbag
-tags: [easy, lively, learnt, SHIT]
+tags: [easy, lively, learnt, PAP]
 layout: page
 links:
     - type: Spotify

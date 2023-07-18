@@ -1,7 +1,7 @@
 ---
 group: Pretty Reckless
 title: Death by rock and roll
-tags: [SHIT]
+tags: [PAP]
 layout: page
 capo: 
 links: 

@@ -1,7 +1,7 @@
 ---
 group: The Beatles
 title: Hide Your Love Away
-tags: [easy, learnt, SHIT, quiet]
+tags: [easy, learnt, PAP, quiet]
 layout: page
 capo: 
 columns: 1

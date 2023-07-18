@@ -1,7 +1,7 @@
 ---
 group: Hootie and the Blowfish
 title: I only wanna be with you
-tags: [lively, SHIT]
+tags: [lively, PAP]
 layout: page
 capo: 2
 links: 

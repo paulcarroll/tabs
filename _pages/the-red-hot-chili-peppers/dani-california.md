@@ -1,7 +1,7 @@
 ---
 group: The Red Hot Chili Peppers
 title: Dani California
-tags: [SHIT, lively]
+tags: [PAP, lively]
 layout: page
 capo: 
 links: 

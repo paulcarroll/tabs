@@ -1,7 +1,7 @@
 ---
 group: Hilltop Hoods
 title: I'm pretty good
-tags: [SHIT, lively]
+tags: [PAP, lively]
 layout: page
 capo: 
 links: 

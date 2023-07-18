@@ -1,7 +1,7 @@
 ---
 group: Matchbox 20
 title: 3am
-tags: [SHIT]
+tags: [PAP]
 layout: page
 capo: 1
 links: 

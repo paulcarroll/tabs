@@ -1,7 +1,7 @@
 ---
 group: Cold Chisel
 title: Cheap Wine
-tags: [learnt, SHIT]
+tags: [learnt, PAP]
 layout: page
 columns: 1
 capo: 

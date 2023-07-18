@@ -1,7 +1,7 @@
 ---
 group: Vance Joy
 title: Riptide
-tags: [easy, lively, learnt, SHIT]
+tags: [easy, lively, learnt, PAP]
 layout: page
 links:
   - type: YouTube 
