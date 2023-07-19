@@ -11,7 +11,12 @@ function initSongView() {
   }
 
   const index = playlist.findIndex(song => window.location.pathname.toLowerCase() === song.url.toLowerCase());
-  
+
+  if (index === -1) {
+    $('.sound__playlist').hide();
+    return;
+  }
+
   $('.sound__playlist span.count').text(`${index + 1} of ${playlist.length}`);
 
   if (index === 0) {
