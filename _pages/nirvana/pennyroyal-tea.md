@@ -37,7 +37,7 @@ Give me a Leonard Cohen afterworld
 Am             G
 So I can sigh eternally
 
-# Chorus
+## Chorus
 
 *(Electric guitar with distortion)*
 C           D          Bb5
