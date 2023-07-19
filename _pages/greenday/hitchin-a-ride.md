@@ -9,114 +9,105 @@ links:
     url: https://open.spotify.com/track/6WlmA3HPHuNIR2mxI8LkZF?si=nluZKae3TVOuKEncxSgOwg
 ---
 
+```chordpro
+     B5      A5      G#5     G5      E       F#5     B6/9    D5
+e|-----------------------------------0---------------4-----------------------|
+B|-----------------------------------0---------------4-----------------------|
+G|-----------------------------------1---------------4-------7---------------|
+D|---9-------7-------6-------5-------2-------4-------4-------7---------------|
+A|---9-------7-------6-------5-------2-------4-------2-------5---------------|
+E|---7-------5-------4-------3-------0-------2-------2-----------------------|
+```
+
 ## Intro
 
-*Play this twice for intro*
-
 ```chordpro
-D|9--9--7--7--6--6--5-5-7-8   
-A|9--9--7--7--6--6--5-5-7-8 
-D|7--7--5--5--4--4--3-3-5-6   
+B5  A5  G#5  G5    x2
 ```
-
-*Play that over and over for the verses*
 
 ## Verse
 
-Hey mister, where are you headed?
+B5  A5      G#5       G5
+Hey mister, where you headed?
+B5      A5   G#5      G5
 Are you in a hurry?
-I need a lift to happy hour, 
-say oh no!
-Do you break for distilled spirits?
+B5     A5      G#5   G5
+Need a lift to happy hour.
+&nbsp;   B5  A5  G#5  G5
+Say oh no.
+B5     A5        G#5       G5
+Do you brake for distilled spirits?
+B5       A5       G#5     G5
 I need a break as well.
+B5  A5        G#5  G5
 The well that inebriates the guilt.
+B5 A5 G#5   G5
 1, 2. 1, 2, 3, 4.
 
-```chordpro
-D|9--9--7--7--6--6--5-5-7-8   Play 4 times with lots of 
-A|9--9--7--7--6--6--5-5-7-8   distortion. On last time leave
-D|9--9--7--7--6--6--5-5-7-8   out 5-5-7-8.
-```
+B5  A5  G#5  G5    x3
+B5  A5  G#5
 
 ## Verse
 
-Cold turkeys gettin stale.
-Tonight I'm eatin crow.
-Fermented salmonella
-poison oak, no!
-There's a drought at The Fountain of Youth
-And now I'm dehydrating.
-My tongue in swelling up, I say 1.. 2... 1, 2, 3, 4!
+B5   A5       G#5     G5     B5          A5     G#5   G5
+Cold turkey's getting stale, tonight I'm eating crow.
+B5  A5    G#5   G5          B5  A5  G#5  G5
+Fermented salmonella poison oak no
+B5        A5             G#5         G5     B5          A5   G#5     G5
+There's a drought at the fountain of youth, and now I'm dehydrating.
+B5  A5       G#5      G5        B5  A5  G#5  G5
+My tongue is swelling up, as say 1, 2. 1, 2, 3, 4.
 
 ```chordpro
-D|9--9--7--7--6--6--5-5-7-8   Play 4 times with lots of 
-A|9--9--7--7--6--6--5-5-7-8   distortion.       
-D|9--9--7--7--6--6--5-5-7-8  
+B5  A5  G#5  G5    x4
 ```
 
 ## Chorus
 
-```chordpro
-D|2--2--2--2--4--4--4--4--9--9--7--7--6--6--5-5-5-5
-A|2--2--2--2--4--4--4--4--9--9--7--7--6--6--5-5-5-5
-D|2--2--2--2--4--4--4--4--9--9--7--7--6--6--5-5-5-5
-             Troubled times    you know I cannot lie
+E        F#5        B5     A5      G#5   G5
+Troubled times, you know I can not lie.
+E                         F#5
+I'm off the wagon and I'm hitchin' a ride.
 
-D|2--2--2--2--4--4--4--4--
-A|2--2--2--2--4--4--4--4--
-D|2--2--2--2--4--4--4--4--
-       I'm off the wagon and I'm hitchin' a ride.
+```chordpro
+B5  A5  G#5  G5    x2
 ```
 
-## Bridge
+## Verse
 
-*Play same as verses*
-
-There's a drought at the fountain of youth
-and now I'm dehydrating.
-My tongue is swelling up I say.......(don't play here)!  
+B5        A5             G#5         G5     B5          A5   G#5     G5
+There's a drought at the fountain of youth, and now I'm dehydrating.
+B5  A5       G#5      G5
+My tongue is swelling up, I say shit!
 
 ## Solo
 
 ```chordpro
-B|-----------------|------------------|------------------|
-G|4-4-4-4-4-4-4-4--|-7-7-7-7-7-7-7-7--|-4-4-4-4-4-4-4-4--|
-D|-----------------|------------------|------------------|
-
-B|-----------------|------------------|----------------------------|
-G|-----------------|-4-4-4-4-4-4-4-4--|7-7-7-7-7-7-7-7-9(bend up)--|
-D|5-5-5-5-4-4-4-4--|------------------|----------------------------|
-
-B|-------------------------------------------------------------|
-G|9--7----7--9--7----7--9--7----7--9--7----7----7--9--7--------|
-D|------9----------9-----------9----------9----9----------9----|
-
-B|----------------------|
-G|7--9--7--9(bend up)---|
-D|----------------------|
+B5  D5  G5   F#5    x8
 ```
 
 ## Chorus
 
-Troubled times, you know I cannot lie.
+E        F#5        B5     A5      G#5   G5
+Troubled times, you know I can not lie.
+E                         F#5         B5  D5  G#5  G5
 I'm off the wagon and I'm hitchin' a ride.
 
 ## Outro
 
-```chordpro
-D|9--9--7--7--6--6--5-5-7-8      Play that 8x
-A|9--9--7--7--6--6--5-5-7-8      On last one leave out 5-5-7-8 and
+&nbsp;               B5  D5  G#5  G5
+I'm hitchin' a ride.
+&nbsp;               B5  D5  G#5  G5
+I'm hitchin' a ride.
+&nbsp;               B5  D5  G#5  G5
+I'm hitchin' a ride.
+&nbsp;               B5  D5  G#5  G5
+I'm hitchin' a ride.
+&nbsp;               B5  D5  G#5  G5
+I'm hitchin' a ride.
+&nbsp;               B5  D5  G#5  G5
+I'm hitchin' a ride.
+&nbsp;               B5  D5  G#5  G5
+I'm hitchin' a ride.
 
-D|9--9--7--7--6--6--5-5-7-8      Billie Joe says some kinda jibberish.      
-   No,     no       way! Hitchin a ride!
-   (I think thats what they say)
-```
-
-and finally play this:
-
-```chordpro
-E|-4-|
-B|-4-|
-G|-4-|
-D|-4-|
-```
+(End on B6/9)
