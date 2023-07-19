@@ -18,6 +18,7 @@ function renderPlaylist() {
 
     const link = $('<a/>')
       .attr('href', song.url)
+      .addClass('song')
       .text(song.title)
       .appendTo(li);
 
@@ -160,5 +161,10 @@ function initSongList() {
   $(".homepage .homepage-search").append(table.searchPanes.container());
 
   $('.homepage-playlist ul').sortable();
+
+  $('.homepage-playlist ul').on( "sortchange", function( event, ui ) {
+    // console.log(ui)
+    console.log($('.homepage-playlist ul a.song').map(() => $(this).attr('href')))
+  });
 }
 
