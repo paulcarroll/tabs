@@ -8,6 +8,9 @@ links:
   - type: Spotify
     title: Spotify
     url: https://open.spotify.com/track/1HChuZvDKwcl76LvaGExeo?si=74736c6ea2cc439e
+  - type: Youtube
+    title: Steve Earle (acoustic guitar - solo)
+    url: https://www.youtube.com/watch?v=y-Czmh-2-k8&ab_channel=kxtradio
 ---
 
 ```chordpro

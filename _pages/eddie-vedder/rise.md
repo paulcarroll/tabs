@@ -19,7 +19,7 @@ links:
 ```chordpro
 **NOTE: Chord strumming not exact and just used to indicate "strumming". Listen to the song for inspiration
 
-[CHORUS]
+[CHORUS RIFF]
 e|--2--2--2--0--2--3--3--3--3--5--3--0--0--0--0--0--0--0--0--0--0-----|
 b|--3--3--3--3--3--0--0--0--0--0--0--1--1--1--1--3--3--3--1--1--1-----|
 g|--2--2--2--2--2--0--0--0--0--0--0--0--0--0--0--0--0--0--0--0--0-----|
@@ -40,63 +40,54 @@ a|---------------------------3--3--3--3---3--3--3--3------------|
 e|--------------------------------------------------------------|
 ```
 
-## Verse
+## Verse 1
 
 ```
-G                                                  C 
-Such is the way of the world, You can ne  -   ver know
-G                                                  C
-Just where to put all your faith And how will it grow
-```
+G                                                   C 
+Such is the way of the world     you can ne -  ver know
+G                                                     C
+Just where to put all your faith     and how will it grow
 
-## Chorus
+**Play as CHORUS RIFF**
 
-*Play as chorus riff*
-
-```
-    D          G                            C
-Gonna rise up, Burning back holes in dark memories
-    D          G                     C
-Gonna rise up, Turning mistakes into gold
+    D              G                          C
+Gonna rise up      burning back holes in dark memories
+    D              G                     C
+Gonna rise up      turning mistakes into gold
 ```
 
 ## Instrumental
 
-```
-                                                       [---  Repeat x 3  ---]
-e|--3--3--3--3--5--5--5--5--2--2--2--3--3--3--5--5--5--0--0--0--0--0--0--0--0-----|
-b|--0--0--0--0--0--0--0--0--3--3--3--3--3--3--3--3--3--1--1--3--3--1--1--0--0-----|
-g|--------------------------2--2--2--2--2--2--2--2--2--0--0--0--0--0--0--0--0-----|
-d|-----------------------------------------------------2--2--2--2--2--2--2--2-----|
-a|-----------------------------------------------------3--3--3--3--3--3--3--3-----|
-e|--------------------------------------------------------------------------------|
+```chordpro
+e|--7--7--7--5--5--5--3--3--3-h-5--5--2--2--2--3--3--3--5--5--5--0--0--0--2--2--3--3--2--2--0--0--3---|
+b|--8--8--8--3--3--3--3--3--3---3--3--3--3--3--3--3--3--3--3--3--1--1--1--1--1--1--1--1--1--1--3--0---|
+g|------------------------------------2--2--2--2--2--2--2--2--2--0--0--0--0--0--0--0--0--0--0--0--0---|
+d|---------------------------------------------------------------2--2--2--0--0--0--0--0--0--0--0--0---|
+a|---------------------------------------------------------------3--3--3--3--3--3--3--3--3--3--3--2---|
+e|------------------------------------------------------------------------------------------------3---|
+                                      D                          C                                G
 ```
 
-## Verse
+## Verse 2
 
 ```
-G                                        C  
-Such is the passage of time, Too fast to fold
+G                                         C  
+Such is the passage of time, too fast to fold
 G                                              C
-And suddenly swallowed by signs, Low and  be - hold
-```
+And suddenly swallowed by signs, low and  be - hold
 
-## Chorus
+**Play as CHORUS RIFF**
 
-*Play as chorus riff*
-
-```
-    D          G                            C
-Gonna rise up, Bringing back holes in dark memories
-    D          G                            C
-Gonna rise up, Turning mistakes into gold
+    D             G                      C
+Gonna rise up    find my direction mag - netically
+    D              G                       C
+Gonna rise up    throw down my ace in the hole
 ```
 
 ## Outro
 
-```
-
-[PLAY CHORUS x 1]
+```chordpro
+[PLAY CHORUS RIFF x 1]
 
     [---      Repeat x 2         ---]
 e|--7--7--7--5--5--5--3--3--3-h-5--5--2--2--2--3--3--3--5--5--5--0--0--0--2--2--3--3--2--2--0--0--3---|
