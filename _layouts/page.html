@@ -31,6 +31,13 @@ layout: default
         <span>Tuning: </span>
         <strong>{{ page.tuning | default: 'standard' }}</strong>
       </div>
+
+      <div class="song__columns">
+        <span>Columns: </span>
+        <a href="#" data-columns="1">1</a>
+        <a href="#" data-columns="2">2</a>
+        <a href="#" data-columns="3">3</a>
+      </div>
     </div>
 
     {% assign links = page.links %}
@@ -58,14 +65,16 @@ layout: default
     </div>
   </header>
 
-  <section class="song-body song-force-columns-{{ page.columns | default: 2 }}">
+  <section class="song-body song-columns-{{ page.columns | default: 2 }}">
     {{ content }}
   </section>
 </div>
 
 <script>
   $(() => {
-    initSongView();
+    initSongView({
+      columns: {{ page.columns | default: 2 }}
+    });
   });
 </script>
 

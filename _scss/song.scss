@@ -23,6 +23,20 @@
       }
     }
 
+    .song__columns {
+      display: flex;
+      flex-grow: 1;
+      gap: .5rem;
+
+      & .--active {
+        font-weight: bold;
+      }
+
+      a {
+        display: inline-block;
+      }
+    }
+
     .song__title {  
       h1 {
         font-size: 1.5rem;
@@ -31,7 +45,7 @@
         white-space: nowrap;
       }
   
-      h1, h2, h3 {
+      h2 {
         font-size: 1rem;
         line-height: 1.3rem;
         margin-block-start: 0;
@@ -108,11 +122,23 @@
       font-weight: normal;
     }
 
-    &.song-force-columns-1 {
+    &.song-columns-1 {
       column-count: 1;
     }
 
-    &.song-force-columns-3 {
+    &.song-columns-3 {
+      column-count: 3;
+    }
+
+    &.--force-columns-1 {
+      column-count: 1;
+    }
+
+    &.--force-columns-2 {
+      column-count: 2;
+    }
+
+    &.--force-columns-3 {
       column-count: 3;
     }
 
@@ -125,7 +151,7 @@
       column-count: 2;
     }
 
-    > h2 {
+    > h1, > h2, > h3 {
       line-height: 1.5rem;
       padding-left: .5rem;
       font-weight: bold;
