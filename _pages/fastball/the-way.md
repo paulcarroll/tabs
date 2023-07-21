@@ -1,33 +1,38 @@
 ---
 group: Fastball
 title: The way
-tags: []
+tags: [learning, lively, easy]
 layout: page
-capo: 
+capo: 2
+columns: 2
 links: 
   - type: Spotify
     title: Spotify
     url: https://open.spotify.com/track/7IsEXPk6qqt30FfQv4SZMa?si=1TnIXaT0SkyPEaVB03mQMQ
+  - type: Youtube
+    title: Adam Pearce
+    url: https://www.youtube.com/watch?v=9DEKZYErl9k
 ---
 
-## Verse
+## Verse 1
 
+```
 Em
 They made up their minds
-&nbsp;                 Am
+                  Am
 And they started packing
-&nbsp;      B7                                    Em
+       B7                                    Em
 They left before the sun came up that day
-&nbsp;      E7                          Am
+       E7                          Am
 An exit to eternal summer slacking
 Em                         B7
 But where were they going without ever
-&nbsp;               Em
+                Em
 Knowing the way?
 
 Em
 They drank up the wine
-&nbsp;               Am
+                Am
 And they got to talking
 B7                                    Em
 They now had more important things to say
@@ -35,103 +40,114 @@ E7                                    Am
 When the car broke down they started walking
 Em                         B7
 Where were they going without even
-&nbsp;               Em      D
+                Em      D
 Knowing the way?
+```
 
-## Chorus
+## Chorus 1
 
+```
 D                    G
 Anyone can see the road that they walk on
-&nbsp;        D
+         D
 Is paved with gold
 Em
 It's always summer
-&nbsp;             B7
+              B7
 They'll never get cold
-&nbsp;             C
+              C
 They'll never get hungry
-&nbsp;             G             D
+              G             D
 They'll never get old and grey
-&nbsp;                  G                    D
+                   G                    D
 You can see their shadows wandering off somewhere
-&nbsp;        Em
+         Em
 They won't make it home
-&nbsp;        B7
+         B7
 But they really don't care
-&nbsp;        C
+         C
 They wanted the highway
-&nbsp;             G            D      B7
+              G            D      B7
 They're happier there today
+```
 
-## Verse
+## Verse 2
 
+```
 Em
 Their children woke up
-&nbsp;                   Am
+                    Am
 And they couldn't find them
-&nbsp;       B7                         Em
+        B7                         Em
 They left before the sun came up that day
-&nbsp;       E7                                 Am
+        E7                                 Am
 They just drove off and left it all behind'em
 Em                        B7
 But where were they going without ever
-
-&nbsp;               Em      D
+                Em      D
 Knowing the way?
+```
 
-## Chorus
+## Chorus 2
 
+```
 D                    G
 Anyone can see the road that they walk on
-&nbsp;        D
+         D
 Is paved with gold
 Em
 It's always summer
-&nbsp;             B7
+              B7
 They'll never get cold
-&nbsp;             C
+              C
 They'll never get hungry
-&nbsp;             G             D
+              G             D
 They'll never get old and grey
-&nbsp;                  G                    D
+                   G                    D
 You can see their shadows wandering off somewhere
-&nbsp;        Em
+         Em
 They won't make it home
-&nbsp;        B7
+         B7
 But they really don't care
-&nbsp;        C
+         C
 They wanted the highway
-&nbsp;             G            D      B7
+              G            D      B7
 They're happier there today
+```
 
-## Solo
+## Solo 1
 
+```
 Em   Am   Em   B7   Em
 
-## Chorus
+Em   Am   Em   B7   Em   D
+```
 
+## Chorus 3
+
+```
 D                    G
 Anyone can see the road that they walk on
-&nbsp;        D
+         D
 Is paved with gold
 Em
 It's always summer
-&nbsp;             B7
+              B7
 They'll never get cold
-&nbsp;             C
+              C
 They'll never get hungry
-&nbsp;             G             D
+              G             D
 They'll never get old and grey
-&nbsp;                  G                    D
+                   G                    D
 You can see their shadows wandering off somewhere
-&nbsp;        Em
+         Em
 They won't make it home
-&nbsp;        B7
+         B7
 But they really don't care
-&nbsp;        C
+         C
 They wanted the highway
-&nbsp;             G            D      B7
+              G            D      B7
 They're happier there today
+```
 
-## Solo
-
+## Solo 2
