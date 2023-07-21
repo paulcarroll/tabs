@@ -4,7 +4,7 @@ title: The way
 tags: [learning, lively, easy]
 layout: page
 capo: 2
-columns: 2
+columns: 3
 links: 
   - type: Spotify
     title: Spotify
