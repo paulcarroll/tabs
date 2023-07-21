@@ -23,20 +23,14 @@ layout: default
     {% assign tags = page.tags %}
     <div class="song__divider"></div>
     <div class="song__tags">
-      <section>
-        <span>Tags: </span>
-        <strong>{{ tags | join: ', ' | default: 'none' }}</strong>
-      </section>
-
-      <div>
-        <span>Capo: </span>
-        <strong>{{ page.capo | default: 'open' }} </strong>
-      </div>
-
-      <div>
-        <span>Tuning: </span>
-        <strong>{{ page.tuning | default: 'standard' }}</strong>
-      </div>
+      <span>Tags: </span>
+      <strong>{{ tags | join: ', ' | default: 'none' }}</strong>
+      
+      <span>Capo: </span>
+      <strong>{{ page.capo | default: 'open' }} </strong>
+      
+      <span>Tuning: </span>
+      <strong>{{ page.tuning | default: 'standard' }}</strong>
     </div>
 
     {% assign links = page.links %}

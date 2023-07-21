@@ -17,11 +17,17 @@
     }
 
     .song__tags {
+      display: grid;
+      grid-template-columns: 6rem 1fr;
       text-transform: capitalize;
 
       section {
         display: flex;
         gap: 0 .5rem;
+      }
+
+      > section, > div {
+
       }
     }
 
