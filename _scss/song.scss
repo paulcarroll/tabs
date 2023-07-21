@@ -12,6 +12,8 @@
 
     .song__nav {
       display: flex;
+      flex-direction: column;
+      row-gap: 1rem;
     }
 
     .song__tags {
