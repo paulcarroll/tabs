@@ -10,6 +10,9 @@ links:
     title: Spotify
     url: https://open.spotify.com/track/7IsEXPk6qqt30FfQv4SZMa?si=1TnIXaT0SkyPEaVB03mQMQ
   - type: Youtube
+    title: Official video
+    url: https://www.youtube.com/watch?v=X5jlTlUTWfQ&ab_channel=fastball
+  - type: Youtube
     title: Adam Pearce
     url: https://www.youtube.com/watch?v=9DEKZYErl9k
 ---
