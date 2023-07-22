@@ -25,10 +25,6 @@
         display: flex;
         gap: 0 .5rem;
       }
-
-      > section, > div {
-
-      }
     }
 
     .song__columns {
@@ -121,10 +117,11 @@
   }
   
   .song-body {
+    font-family: monospace;
+    font-weight: bold;
     column-gap: 2rem;
     margin: 1rem 0 8rem 0;
     line-height: 1.3rem;
-    font-weight: bold;
 
     em {
       font-weight: normal;
@@ -162,35 +159,35 @@
     > h1, > h2, > h3 {
       line-height: 1.5rem;
       padding-left: .5rem;
-      font-weight: bold;
       margin-block-start: 0em;
       margin-block-end: 0.4rem;
-      color: #808080;
+      color: #777;
       background-color: #f4f3f3;
-
-      @media (min-width: 640px) {
-        font-size: 1.2rem;
-        line-height: 1.5rem;
-      }
-    
-      @media (min-width: 1024px) {
-        font-size: 1.2rem;
-      }
-    
-      @media (min-width: 1281px) {
-        font-size: .9rem;        
-      }
+      font-weight: bold;
     }
 
     p {
       white-space: pre-wrap;
-      font-family: monospace;
       margin-block-start: .5em;
       margin-bottom: 1rem;
     }
 
     code {
       font-family: monospace;
+    }
+
+    code, > h1, > h2, > h3 {
+      @media (min-width: 640px) {
+        font-size: calc(18px + .3vw);
+      }
+
+      @media (min-width: 1024px) {
+        font-size: calc(16px + .3vw);
+      }
+
+      @media (min-width: 1281px) {
+        font-size: 16px;
+      }
     }
   }
 }
