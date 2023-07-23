@@ -15,7 +15,7 @@ links:
 
 ## Intro
 
-```chordpro
+```
 (drums)
 | Am G | Dm Am | Am G | Dm Am |
 ```
@@ -63,7 +63,7 @@ She's my priestess, I'm your priest, yeah, yeah
 
 ## Instrumental
 
-```chordpro
+```
 | Am G | Dm Am | Am G | Dm Am |
 ```
 
@@ -141,7 +141,7 @@ She's my priestess, I'm your priest, yeah, yeah
 
 ## Outro
 
-```chordpro
+```
 | F C | Dm G | F C | Dm G |
 | F C | Dm G | F C | Dm G |
 | Dm  |

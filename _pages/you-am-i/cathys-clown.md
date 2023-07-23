@@ -15,6 +15,8 @@ links:
     url: https://www.youtube.com/watch?v=xkGrYetTmjg
 ---
 
+## Chords
+
 ```chordpro
 D5    00023x    Cadd9 x32030    E5 222xxx    A     x0222x
 DMaj7 000222    D#5   1113xx    F5 3335xx    Asus4 x0223x

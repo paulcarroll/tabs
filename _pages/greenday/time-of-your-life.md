@@ -50,9 +50,10 @@ I hope you have the time of your life...
 
 ## Instrumental
 
-```chordpro
-G G C9 Dsus4, G G C9 Dsus4
-Em Dsus C9 G, Em Dsus C9 G
+```
+G   G   C9   Dsus4,   G   G   C9   Dsus4
+
+Em   Dsus   C9   G,   Em   Dsus   C9   G
 ```
 
 ## Chorus
@@ -64,7 +65,7 @@ I hope you have the time of your life...
 
 ## Outro
 
-*<quiet>*
+*quiet*
       Em           G                 Em       G
 It's something unpredictable in the end it's right,
 Em                  D            G     G C9 Dsus4 G, G G C9 Dsus4 G.

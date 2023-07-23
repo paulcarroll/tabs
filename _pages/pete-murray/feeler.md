@@ -13,7 +13,7 @@ links:
 
 ## Intro
 
-```chordpro
+```
 G slide up quick to A slide down to G  (G-A-G)
 C slide up quick to D slide down to C (C-D-C)
 

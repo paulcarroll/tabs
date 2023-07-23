@@ -14,6 +14,8 @@ links:
     url: https://www.youtube.com/watch?v=aMfTR9Ckh4Y
 ---
 
+## Chords
+
 ```chordpro
 [Verse]
 E: 022100

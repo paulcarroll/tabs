@@ -19,6 +19,8 @@ links:
     url: https://www.youtube.com/watch?v=8oLMO2UjCLw
 ---
 
+## Chords
+
 ```chordpro
 C#4/E 044000    Em7   055000    E     022100
 C     032010    G     320003    D     000232

@@ -51,7 +51,7 @@ Long after the thrill of livin' is gone, oh walk on...
 
 ## Instrumental
 
-```chordpro
+```
 A E6 A E6 D (DD), A E6 A E6 D (DD),
 ```
 
@@ -90,7 +90,7 @@ Changes come around real soon make us women and men...
 
 ## Instrumental
 
-```chordpro
+```
 A Asus A Amsus2 A, D D E Esus E, A Asus A Amsus2 A, D E A
 ```
 

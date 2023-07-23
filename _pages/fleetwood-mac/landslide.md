@@ -19,6 +19,8 @@ links:
     url: https://www.youtube.com/watch?v=yIoAn5ySHeQ&ab_channel=101WKQX
 ---
 
+## Chords
+
 ```chordpro
 Travis picking or strum...
 

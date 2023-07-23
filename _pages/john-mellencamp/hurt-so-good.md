@@ -13,7 +13,7 @@ links:
 
 ## Intro
 
-```chordpro
+```
 D A. D A, DDD A E A * A, DDD A E A * A, DDD A E A * A, DDD A E A * A
 ```
 
@@ -39,7 +39,7 @@ D          F#m        D                               E         A
 
 ## Instrumental
 
-```chordpro
+```
 DDD A E A * A, DDD A E A * A
 ```
 
@@ -65,7 +65,7 @@ D          F#m        D                               E         A
 
 ## Instrumental Break
 
-```chordpro
+```
 DDD A E A * A
 ```
 
@@ -94,6 +94,6 @@ D          F#m        D                               E         A
 
 ## Outro
 
-```chordpro
+```
 DDD A E A * A, DDD A E A * A
 ```

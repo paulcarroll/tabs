@@ -10,6 +10,8 @@ links:
     url: https://open.spotify.com/track/2B98ljvzqpCVgt5reTHq28?si=iZsJ0mRtTWmf9OFGs7emow
 ---
 
+## Intro
+
 ```chordpro
 e|---------------------------------------------------------
 B|---3---0--------3---0-----------4---0-------4---4---4----

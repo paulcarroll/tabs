@@ -10,6 +10,8 @@ links:
     url: https://open.spotify.com/track/63OQupATfueTdZMWTxW03A?si=S1BmPorpSD2-agUCqIFfGQ
 ---
 
+## Chords
+
 ```chordpro
 D/F#: 2x0232
 G/F#: 200033

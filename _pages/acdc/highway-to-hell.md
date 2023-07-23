@@ -16,7 +16,7 @@ links:
 
 *(G in riff is really G5, A can be played as A5)*
 
-```chordpro
+```
      A              D/F# G          D/F# G  D/F# G  D/F# A
 e|-----------------------------------------------------------------|
 B|---2-2-2-----------3-3-3-----------3-3-3---3-3-3---3---2-2-------|
@@ -29,6 +29,7 @@ E|-------------------2-2-3-----------2-2-3---2-2-3---2-------------|
 
 ## Verse
 
+```
 A A A          D/F# D/F# G            D/F# D/F# G
          Livin' easy,         livin' free
 D/F# D/F# G    D/F#   A A
@@ -46,10 +47,12 @@ A A A         D/F# D/F# G           D/F# D/F# G
       Goin' down,         party time
 D/F# D/F# G      D/F#      E
       My friends are gonna be there too
+```
 
 ## Chorus
 
-&nbsp;          A   A   A  D/A      G
+```
+           A   A   A  D/A      G
 I'm on the highway to hell
     D/F#   A   A   A  D/A      G
     On the highway to hell
@@ -57,9 +60,11 @@ I'm on the highway to hell
            Highway to hell
     D/F#   A   A   A  D/A
 I'm on the highway to hell
+```
 
 ## Verse
 
+```
 A A A         D/F# D/F# G           D/F# D/F# G
       No stop signs,      speed limit
 D/F# D/F# G     D/F#  A A
@@ -77,10 +82,12 @@ A A A        D/F# D/F# G          D/F# D/F# G
       Hey mama,          look at me
 D/F# D/F# G    D/F#     E
    I'm on my way to the promised land
+```
 
 ## Chorus
 
-&nbsp;          A   A   A  D/A      G
+```
+           A   A   A  D/A      G
 I'm on the highway to hell
     D/F#   A   A   A  D/A      G
            Highway to hell
@@ -88,20 +95,26 @@ I'm on the highway to hell
 I'm on the highway to hell
     D/F#   A   A   A  D/A
            Highway to hell
+```
 
 ## Bridge
 
+```
 D  Dsus4  D             D  Dsus4  D  Dsus4  D
             Don't stop me
+```
 
 ## Solo
 
+```
 A   D/A  (D/A)    G  D/F# | x3
 A   D/A  (D/A)    G
+```
 
 ## Chorus
 
-&nbsp;   D/F#   A   A   A  D/A      G
+```
+    D/F#   A   A   A  D/A      G
 I'm on the highway to hell
     D/F#   A   A   A  D/A      G
     On the highway to hell
@@ -109,9 +122,11 @@ I'm on the highway to hell
 I'm on the highway to hell
     D/F#   A   A   A  D/A N.C. G
     On the highway to          hell!
+```
 
 ## Outro
 
+```
 D/F#     A   A   A  D/A              G
          Highway to hell (I'm on the highway
 D/F#     A   A   A  D/A   G
@@ -122,3 +137,5 @@ D/F#     A   A   A  D/A
 to hell) Highway to hell
                                          A                            A N.C.
 An' I'm goin' down... all the way... whoa...... on the highway to hell
+```
+

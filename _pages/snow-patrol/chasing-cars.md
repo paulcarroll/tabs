@@ -10,7 +10,7 @@ links:
     url: https://open.spotify.com/track/11bD1JtSjlIgKgZG2134DZ?si=xVtuH52aQw-0_pK7sHzv9g
 ---
 
-## Riff
+## Intro Riff
 
 ```chordpro
 [Intro]
@@ -45,15 +45,15 @@ A E D A
 We'll do it all, everything, on our own.
 A E D A
 We don't need, anything, or anyone...
-*<strum>*  A E
+*strum*  A E
 If I lay here, if I just lay here,
 D A 
 Would you lie with me and, just forget the world.
-*<pick>*  A E D A
+*pick*  A E D A
 I don't quite know, how to say, how I feel,
 A E D A  
 Those three words, I said too much, but not enough...
-*<strum>*  A E
+*strum*  A E
 If I lay here, if I just lay here,
  D A 
 Would you lie with me and, just forget the world.  
@@ -61,11 +61,11 @@ A E
 Forget what we're told, before we get too old,
  D A
 Show me a garden that's, bursting into life...
-*<quiet>*  A E D A  
+*quiet*  A E D A  
 Let's waste time, chasing cars, around our heads
 A E D A.  
 I need your grace, to re-mind me, to find my own.
-*<loud>*  A E
+*loud*  A E
 If I lay here, if I just lay here,
  D A
 Would you lie with me and, just forget the world.  
@@ -75,7 +75,7 @@ Forget what we're told, before we get too old,
 Show me a garden that's, bursting into life.
  A E
 All that I am, all that I ever was,
- D A 
+ D A
 Is here in your perfect eyes, they're all I can see.  
 A E
 I don't know where, confused about how as well,
@@ -84,7 +84,7 @@ I don't know where, confused about how as well,
 
 ## Outro
 
-*<quiet>* A E
+*quiet* A E
 If I lay here, if I just lay here,
  D A A
 Would you lie with me and, just forget the world.

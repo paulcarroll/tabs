@@ -16,7 +16,9 @@ links:
     url: https://www.youtube.com/watch?v=0DpY9zh9f4Q
 ---
 
-```chordpro
+## Chords
+
+```
    Bm A G B D Aadd9 Em C Em7
 e|-2--0-3-2-2---7---0--0--3--|
 B|-3--2-3-4-3---5---0--1--3--|

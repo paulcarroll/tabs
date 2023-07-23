@@ -15,7 +15,7 @@ links:
 
 ## Intro
 
-```chordpro
+```
 E A A B
 ```
 

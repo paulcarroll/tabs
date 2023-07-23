@@ -12,7 +12,7 @@ links:
 
 ## Intro
 
-```chordpro
+```
 C Em Am Em x2
 ```
 
@@ -28,7 +28,7 @@ Well, you just laughed it off, it was all okay
 
 ## Pre-chorus
 
-```chordpro
+```
 C Em Am Em
 ```
 
@@ -60,7 +60,7 @@ Well we'll float on good news is on the way
 
 ## Pre-chorus
 
-```chordpro
+```
 C Em Am Em
 ```
 

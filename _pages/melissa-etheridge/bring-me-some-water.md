@@ -61,7 +61,7 @@ But tonight the sweet Devil's, sweet Devils got my s o u l...
 
 ## Instrumental
 
-```chordpro
+```
 <barre> F# G Am, F# G Am, F# G Am, G, D, E
 ```
 

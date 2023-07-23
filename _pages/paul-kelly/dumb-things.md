@@ -12,7 +12,7 @@ links:
 
 ## Intro
 
-```chordpro
+```
 Am Em, Am Em, Am Em, Am C G D,
 Am Em, Am Em, Am Em, Am C G D,
 ```
@@ -57,7 +57,7 @@ G         D       Am         Em, Am Em, Am Em, Am C G D
 
 ## Instrumental
 
-```chordpro
+```
 F C Em F G, Am Em F C G D
 Am Em, Am Em, Am Em, Am C G D (Am)
 ```

@@ -13,6 +13,8 @@ links:
     url: https://www.youtube.com/watch?v=y-Czmh-2-k8&ab_channel=kxtradio
 ---
 
+##  Riff
+
 ```chordpro
    [Riff 1]           [Riff 2]
 e|---0---0-------2--0-0--0-0-0-0-0-0-0-0-2------|
@@ -73,13 +75,13 @@ You could smell the whiskey burnin' down Copperhead Road
 
 ## Break
 
-```chordpro
+```
 D  N.C. x4
 ```
 
 ## Instrumental
 
-```chordpro
+```
 G  C G  D   |   G  C G  D
 ```
 
@@ -105,7 +107,7 @@ You better stay away from Copperhead Road
 
 ## Break
 
-```chordpro
+```
 D  N.C. 4x
 ```
 

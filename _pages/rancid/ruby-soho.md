@@ -17,8 +17,9 @@ links:
     url: https://www.youtube.com/watch?v=canuECyA4Bg
 ---
 
+## Chords
+
 ```chordpro
-Chords used:
 G -    320033
 D -    xx0232
 Em -   022000
@@ -33,7 +34,7 @@ B -    x24442
 
 ## Intro
 
-```chordpro
+```
 G(hold)  D/F#(Hold)  Em(Hold)  D(Hold)  G  Bm  C  G
 G  D/F#  Em  D  G  Bm  C  G
 ```
@@ -104,7 +105,7 @@ it's time time to say goodbye
 
 ## Interlude
 
-```chordpro
+```
 C--Bb-C--C--Bb-B-C-G-- x2
 ```
 

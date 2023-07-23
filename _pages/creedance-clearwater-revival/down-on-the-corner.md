@@ -10,6 +10,8 @@ links:
     url: https://open.spotify.com/track/2gE95JskwQ1pCACTpGe1Db?si=38e3b19159984990
 ---
 
+## Intro
+
 ```chordpro
 Guitar 1:
      C                 G        C         C                 G        C
@@ -27,6 +29,8 @@ D|--3--0-----3--3--0---------2--5--5----------------------------------------|
 A|--------3------------3--3---------------3--0-----3--3--0--------0--3--3---|
 E|----------------------------------------------3-----------3--3------------|
 ```
+
+## Verse
 
 C                     G                 C
 Early in the evenin', just about supper time, over by the courthouse,

@@ -16,6 +16,8 @@ links:
     url: https://www.youtube.com/watch?v=qWIr_srwvK0&ab_channel=HitsOnAcousticGuitar
 ---
 
+## Chords
+
 ```chordpro
 G#5       (x,11,x,13,x,x) or (x,6,6,4,0,0)
 F#5       (x,9,x,11,x,x) or F#m7add11

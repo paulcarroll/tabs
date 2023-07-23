@@ -88,7 +88,7 @@ Creole                (Creole)                   (ah, ah)
 
 ## Interlude
 
-```chordpro
+```
 Dm          C  Bb    A   A7
 Dm          C  Bb    A   A
 F           C

@@ -13,6 +13,8 @@ links:
     url: https://www.youtube.com/watch?v=VSVSlOBSLCs&ab_channel=Let%27sPlayAll
 ---
 
+## Chords
+
 ```chordpro
 **SIMPLE TUNING: Just drop the B a full step to A**
 

@@ -10,9 +10,10 @@ links:
     url: https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz?si=nkobjVTWQPi3GK-s4jKKJg
 ---
 
-&nbsp;  Fmaj7    Am     G/C
+## Chords
 
 ```chordpro
+   Fmaj7    Am     G/C
 e|----0------0------0------|
 B|----1------1------1------|
 G|----2------2------0------|

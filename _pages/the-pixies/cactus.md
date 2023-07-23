@@ -10,6 +10,8 @@ links:
     url: https://open.spotify.com/track/4S3XYcZFs6FbsiLwH13Z63?si=a0af8847bf4b4087
 ---
 
+## Chords
+
 ```chordpro
     E5      G5      Am  C   D
 e|------------------0---0---2---|

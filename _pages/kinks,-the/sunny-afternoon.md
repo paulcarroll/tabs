@@ -15,7 +15,7 @@ links:
 
 ## Intro
 
-```chordpro
+```
 Dm  Dm/C  Dm/B  Dm/Bb   A  A/G
 A/F  A/E
 Dm  Dm/C  Dm/B  Dm/Bb   A  A/G
@@ -111,7 +111,7 @@ In a summertime
 
 Chords:
 
-```chordpro
+```
   Dm/C  Dm/B  Dm/Bb  A   A/G  A/F  A/E
 E|--1------1-----1------------------------|
 B|--3------3-----3----2----2----2----2----|

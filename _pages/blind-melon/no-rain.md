@@ -12,22 +12,22 @@ links:
     url: https://www.youtube.com/watch?v=xdCSTSwEyzA&ab_channel=HitsOnAcousticGuitar
 ---
 
-*Figure 1 ( played x 3 as the intro)*
+## Riffs
 
 ```chordpro
+*Figure 1 ( played x 3 as the intro)*
+
 ---------------I---------------I----|
 -10-----10/12--I---------------I----|
 ---------------I-9-------------I----|
 ---------------I---------------I----|
 ---------------I---------------I----|
 ---------------I---------------I----|
-```
 
 Third time, the last note is cut into a half note and rhythm plays A-based barre chords at faster strum
 
 Figure 2 (played 2 and a half times)
 
-```chordpro
  E           D               E
 ---------------I----------------|I
 -----10-9-10---I----------------|I
@@ -35,11 +35,9 @@ Figure 2 (played 2 and a half times)
 ---------------I----------------|I
 ---------------I----------------|I
 ---------------I----------------|I
-```
 
 End Fill for Figure 2
 
-```chordpro
  D  h
 ---9-10-9-------|I
 ----------10----|I
@@ -51,42 +49,46 @@ End Fill for Figure 2
 
 ## Verse
 
+```
 E                       Em
 All I can say is that my
 D                     Dsus4 D
 Life is pretty plain
-&nbsp; A                         G5     E    E7 E E7 E
+  A                         G5     E    E7 E E7 E
 I like watching the puddles gather rain
-&nbsp;   E
+    E
 And all I can do is just
 D                     Dsus4 D
 Pour some tea for two
-&nbsp;   A
+    A
 And speak my point of view
-&nbsp;   G        E    E E7
+    G        E    E E7
 But it's not sane
 E
 It's not sane
+```
 
 **Figure 1 then Figure 2 played with verses and rhythm strum**
 
 ## Chorus
 
+```
 E           D          E
 I just want someone to say to me
 D
 No oh oh oh
 E             D              E         D
 I'll always be there when you wake     Yeah eh
-E
-You know I'd like to
-Keep my cheeks dry today
-So stay with me and I'll have it made.
-(I'll have it made)
+E            D            E           D         
+You know I'd like to  Keep my cheeks dry today
+E             D          E         D
+So stay with me and I'll have it made (I'll have it made)
+```
 
 ## Verse
 
-&nbsp;       E
+```
+        E
 (And I) don't understand why I
 D             Dsus4 D
 sleep all day.
@@ -100,6 +102,9 @@ book to stay awake
 It rips my life away but it's a great escape
 E              E             E
 escape         escape        escape
+```
+
+## Solo
 
 ```chordpro
  E      h        D                   E                   D
@@ -161,19 +166,37 @@ escape         escape        escape
 -----------------------------I------------------------------------------|
 ```
 
-## Chorus 3
+## Verse
 
-*Note: Play quietly*
+*Quietly*
 
-All I can say is that my life is pretty plain
-You don't like my point of view you think that I'm insane
-It's not sane       It's not sane
-
+```
+E                       Em
+All I can say is that my
+D                     Dsus4 D
+Life is pretty plain
+  A                         G5     E    E7 E E7 E
+I like watching the puddles gather rain
+    E
+And all I can do is just
+D                     Dsus4 D
+Pour some tea for two
+    A
+And speak my point of view
+    G        E    E E7
+But it's not sane
+E
+It's not sane
 D                 E
 I'll have it made (I'll have it made)
+D                 E
 I'll have it made (I'll have it made)
+D                 E
 I'll have it made (I'll have it made)
+D                 E
 No no no
 You know I'm really gonna really gonna
-have it made (I'll have it made)
-(I'll have it made) (I'll have it made)
+D                 E
+have it made (I'll have it made) (I'll have it made) (I'll have it made)
+```
+

@@ -20,7 +20,7 @@ links:
     url: https://www.youtube.com/watch?v=Q-MVwosff80&ab_channel=ErnestoSchnack
 ---
 
-```chordpro
+```
 e|------------------------------------------------------------|
 G|------------------------------------------------------------|
 B|---x---x----------13---11---14---11---13---11---14---16-----|
@@ -130,7 +130,7 @@ Why can’t we not be sober?
   D             F
 I just want to start things over.
 D              F
-Why can’t we drink forever.
+Why can’t wwe drink forever.
 D               F
 I just want to start this over.
 

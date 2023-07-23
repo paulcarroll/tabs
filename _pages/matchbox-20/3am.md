@@ -12,7 +12,7 @@ links:
 
 ## Intro
 
-```chordpro
+```
 G C, * G C, ^ G C, G C, G C, G C, * D
 ```
 
@@ -62,7 +62,7 @@ The rain's gonna wash away I believe it...
 
 ## Instrumental
 
-```chordpro
+```
 <quiet>  C, * C, * C, * C,
 G C, G C, G C, G C, * D  (C)
 ```

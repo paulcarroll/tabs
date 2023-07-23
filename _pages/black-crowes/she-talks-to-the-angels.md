@@ -10,7 +10,7 @@ links:
     url: https://open.spotify.com/track/5NK8jad728pj6YeqM5VJD4?si=045af399c9f84641
 ---
 
-```chordpro
+```
 e|-0-0-0-0-0-0-|
 B|-0-0-0-0-0-0-|
 G|-1-1-2-1-2-1-|

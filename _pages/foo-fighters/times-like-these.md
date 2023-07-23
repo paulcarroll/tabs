@@ -12,15 +12,15 @@ links:
     url: https://www.youtube.com/watch?v=u8xKv3qlNbc
 ---
 
+## Chords & intro
+
 ```chordpro
 D    xx0232     C    x32010
 Am   x02210     Em   022000
 Am7  x02213     Em7  022033
-```
 
 A plain D while hammering the A (2nd fret) on the G sting.
 
-```chordpro
 e||---2-2-2---2-----2-----2-----2-2---||
 B||o--3-3-3---3-----3-----3-----3-3--o||
 G||---0-2-2-0-2---0-2---0-2---0-2-2---||

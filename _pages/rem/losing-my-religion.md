@@ -15,94 +15,106 @@ links:
 
 ## Intro
 
-```chordpro
+```
 F           Dm G     Am    Am/B     Am/C   Am/D Am
 F           Dm G     Am       G
 ```
 
 ## Verse
 
-&nbsp;   Am              Em
+```
+    Am              Em
 Oh, life is bigger
 
 It's bigger than you
-&nbsp;           Am
+            Am
 And you are not me.
-&nbsp;                       Em
+                        Em
 The lengths that I will go to,
-&nbsp;                    Am      Em
+                     Am      Em
 The distance in your eyes,
-&nbsp;                    Dm
+                     Dm
 Oh no, I've said too much,
-&nbsp;        G
+         G
 I set it up.
+```
 
 ## Chorus
 
-&nbsp;                Am
+```
+                 Am
 That's me in the corner,
-&nbsp;                Em
+                 Em
 That's me in the spotlight
-&nbsp;           Am
+            Am
 Losing my religion.
-&nbsp;         Em
+          Em
 Trying to keep up with you.
-&nbsp;     Am                          Em
+      Am                          Em
 And I don't know if I can do it.
-&nbsp;                    Dm
+                     Dm
 Oh no, I've said too much,
-&nbsp;               G
+                G
 I haven't said enough.
+```
 
 ## Bridge
 
-&nbsp; G                        F
+```
+  G                        F
 I thought that I heard you laughing,
-&nbsp; Dm             G         Am   Am/B   Am/C   Am/D
+  Dm             G         Am   Am/B   Am/C   Am/D
 I thought that I heard you sing.
 Am   F               Dm   G   Am     G
 I  think I thought I saw  you try.
+```
 
 ## Verse
 
-&nbsp;         Am                   Em
+```
+          Am                   Em
 Every whisper of every waking hour
-&nbsp;                  Am
+                   Am
 I'm choosing my confessions,
-&nbsp;         Em
+          Em
 Trying to keep an eye on you
-&nbsp;      Am                                 Em
+       Am                                 Em
 Like a hurt lost and blinded fool, fool
-&nbsp;                    Dm
+                     Dm
 Oh no, I've said too much,
-&nbsp;        G
+         G
 I set it up.
+```
 
 ## Verse
 
-&nbsp;        Am
+```
+         Am
 Consider this, consider this,
-&nbsp;   Em
+    Em
 The hint of a century,
-&nbsp;        Am
+         Am
 Consider this: the slip
-&nbsp;    Em
+     Em
 That brought me to my knees failed.
 Am
 What if all these fantasies
-&nbsp;    Em
+     Em
 Come    flailing around?
-&nbsp;        Dm       G
+         Dm       G
 Now I've said too much.
+```
 
 ## Bridge
 
-&nbsp;   G                       F
+```
+    G                       F
 I thought that I heard you laughing,
-&nbsp;       Dm        G         Am   Am/B   Am/C   Am/D
+        Dm        G         Am   Am/B   Am/C   Am/D
 I thought that I heard you sing.
 Am   F               Dm  G   Am    G
 I  think I thought I saw you try.
+```
 
 ## Link
 
@@ -114,10 +126,8 @@ G|-----------------------------------------|
 D|-----------------------------------------|
 A|-----------------------------------------|
 E|-----------------------------------------|
-```
 
-&nbsp;  F                       G
-```chordpro
+   F                       G
 e|-12-12-12-10-10-10-10-10-8-8-8-5-5-5-5-5-|
 B|-----------------------------------------|
 G|-----------------------------------------|
@@ -126,46 +136,52 @@ A|-----------------------------------------|
 E|-----------------------------------------|
 ```
 
-&nbsp;   C               Dm
+```
+    C               Dm
 But that was just a dream,
 C               Dm
 That was just a dream.
+```
 
 ## Chorus
 
-&nbsp;                Am
+```
+                 Am
 That's me in the corner,
-&nbsp;                Em
+                 Em
 That's me in the spotlight
-&nbsp;           Am
+            Am
 Losing my religion.
-&nbsp;         Em
+          Em
 Trying to keep up with you.
-&nbsp;     Am                           Em
+      Am                           Em
 And I don't know if I can do it.
-&nbsp;                    Dm
+                     Dm
 Oh no, I've said too much,
-&nbsp;               G
+                G
 I haven't said enough.
+```
 
 ## Bridge
 
-&nbsp;   G                        F
+```
+    G                        F
 I thought that I heard you laughing,
-&nbsp; Dm             G         Am   Am/B   Am/C   Am/D
+  Dm             G         Am   Am/B   Am/C   Am/D
 I thought that I heard you sing.
 Am F                  Dm  G   Am   Am/B   Am/C   Am/D   Am
 I  think I thought I saw you try.
-&nbsp;   F               Dm   G
+    F               Dm   G
 But that was just a dream,
 Am   Am/B   Am/C   Am/D   Am
 Try, cry,   why,   try.
 F                      Dm  G      Am            G
 That was just a dream,    just a dream, just a dream, dream.
+```
 
 ## Outro
 
-```chordpro
+```
    Am
 e|-12-12-12-12-12-12-12-12-|
 B|-------------------------|

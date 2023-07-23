@@ -14,7 +14,7 @@ links:
 
 ## Intro
 
-```chordpro
+```
 A  F#   E  G    x2
 A   F   D   Bb G# x2
 ```
@@ -87,7 +87,7 @@ Ooh.   Mm.
 
 ## Solo
 
-```chordpro
+```
 A   F   D   Bb G# x3
 A   F   D   Bb C#
 ```

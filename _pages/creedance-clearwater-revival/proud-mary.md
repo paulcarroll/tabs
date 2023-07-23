@@ -46,8 +46,9 @@ Rollin', rollin, rollin on the river...
 
 ## Instrumental
 
-```chordpro
+```
 C A, C A, C A G F F E, D
+
 D D D D A Bm (D)
 ```
 
@@ -56,7 +57,7 @@ Rollin', rollin, rollin on the river...
 
 ## Instrumental
 
-```chordpro
+```
 C A, C A, C A G F F E, D
 ```
 

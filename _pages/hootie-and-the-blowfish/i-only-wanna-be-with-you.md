@@ -16,8 +16,9 @@ links:
     url: https://www.youtube.com/watch?v=SQ7t3EzPyRg&ab_channel=JustinArmstrong
 ---
 
+## Chords
+
 ```chordpro
-[Chords]
 E            (022100)
 F#m7add11/C# (x44200)
 Aadd9        (x02420)

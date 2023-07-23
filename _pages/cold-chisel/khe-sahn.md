@@ -83,7 +83,7 @@ And I've been back to South East Asia, and the answer sure ain't there,
 
 ## Instrumental
 
-```chordpro
+```
 Em C G C G, Em C D, Em C G C, Am D G C G D
 ```
 

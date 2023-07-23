@@ -16,8 +16,8 @@ links:
     url: https://www.youtube.com/watch?v=2AWWaUEVhHc
 ---
 
-
 ## Intro
+
 ```chordpro
    G                         F       C
 E|-----------------------------------------|
@@ -26,20 +26,17 @@ G|------3(bend)-0-3(bend)-0--0h2-0-2-0-----|
 D|------0-------0-0-------0--3---3-3-0h2---|
 A|-----------------------------------3-----|
 E|--3-3------------------------------------|
-```
 
-&nbsp;                G              F       C
-```chordpro
+                 G              F       C
 E|-----------------------------------------|
 B|------------------------------1---1-1-1--|
 G|---------------3(b)-0-3(b)-0--0h2-0-2-0--|
 D|-0-0h2p0-------0----0-0----0--3---3-3-0h2|
 A|--------3-----------------------------3--|
 E|-----------3-3---------------------------|
-```
 
 [End intro and end verse] (My kielbasa sausage has just got to perform)
-```chordpro
+
         G                 F     C
 e|----------------------------------------|
 B|------------------------1---1-1---------|
@@ -77,13 +74,16 @@ I'm shooting my juice-ah,
 &nbsp;     F       C
 Right in your caboose. Now, fuckin' get it on!
 
+## Solo
+
 G        F   C
-[Solo]             Now, get it on.
+                  Now, get it on.
 G        F   C
-[End of solo]           Get it on!
+                 Get it on!
+
+## Interlude
 
 G        F   C     G        F   C
-&nbsp;    [Interlude-kinda-thing]
 G                                   F        C
  Dianetics cure ya much better than Krishna,
 G                                     F       C

@@ -16,7 +16,7 @@ links:
 
 ## Intro
 
-```chordpro
+```
 F5  G5  B5  2x
 F5  G5  B5  A5(½)  C5
 ```
@@ -53,7 +53,7 @@ Cause when a lover aches,   that's when a lover breaks
  C5        G5    B5     C5        G5    B5
 I want to  go    home..I want to  go    home..
 
-```chordpro
+```
 F5 E5 F5 G5 F5 E5 F5 G5
 ```
 

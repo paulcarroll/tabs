@@ -55,9 +55,9 @@ They say you gotta toe the line they want the water not the wine
 &nbsp;          E               B             A            (E)
 But when I see the signs I jump on that lightning bolt
 
-Guitar Break:
+## Guitar Break
 
-```chordpro
+```
   (E)       B     A          E
 e|-7-7-7-10-12-12-10-12-    -7-7-7-|
 B|---------------------- x4 -------|
@@ -94,13 +94,12 @@ They say you gotta toe the line they want the water not the wine
 &nbsp;          E               B             A            (E)
 But when I see the signs I jump on that lightning bolt
 
-Guitar Break:
+## Guitar Break
 
-```chordpro
+```
   (E)       B     A          E
 e|-7-7-7-10-12-12-10-12-    -7-7-7-|
 B|---------------------- x4 -------|
-```
 
 E                     B     A            E
 It was silent, I was lying back gazing skyward
@@ -110,6 +109,9 @@ When the moment got shattered
 I remembered what she said
 &nbsp;             E           B         A         E
 And then she fled in the path of a lightning bolt
+```
 
-Outro: E B A x3 E
+## Outro
+
+E B A x3 E
 

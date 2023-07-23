@@ -10,7 +10,7 @@ links:
     url: https://open.spotify.com/track/60CirPlTOEWOUBus7HxV3B?si=ea08fe5626174ac5
 ---
 
-```chordpro
+```
 D/F#:    2x0232  D:   xx0232
 Asus4/E: 002230  Em7: 022030
 Asus4:   x02240  Bm:  x24432

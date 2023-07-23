@@ -13,8 +13,9 @@ links:
     url: https://www.youtube.com/watch?v=wn_ETYe09Wc
 ---
 
+## Intro
+
 ```chordpro
-Opening
 C   B7(open E)  Em     |  C    B7    Em
     e|--0--|                e|--2--|
     B|--0--|                B|--0--|

@@ -11,6 +11,8 @@ links:
     url: https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY?si=a11403f860384848
 ---
 
+## Chords
+
 ```chordpro
 Asus4 x-0-2-2-3-0   Gsus4  3-x-0-0-1-3
 G/B   x-2-0-0-0-3   Cadd9  x-3-2-0-3-0

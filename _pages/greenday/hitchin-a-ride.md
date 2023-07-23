@@ -9,6 +9,8 @@ links:
     url: https://open.spotify.com/track/6WlmA3HPHuNIR2mxI8LkZF?si=nluZKae3TVOuKEncxSgOwg
 ---
 
+## Chords
+
 ```chordpro
      B5      A5      G#5     G5      E       F#5     B6/9    D5
 e|-----------------------------------0---------------4-----------------------|
@@ -21,7 +23,7 @@ E|---7-------5-------4-------3-------0-------2-------2-----------------------|
 
 ## Intro
 
-```chordpro
+```
 B5  A5  G#5  G5    x2
 ```
 
@@ -58,7 +60,7 @@ There's a drought at the fountain of youth, and now I'm dehydrating.
 B5  A5       G#5      G5        B5  A5  G#5  G5
 My tongue is swelling up, as say 1, 2. 1, 2, 3, 4.
 
-```chordpro
+```
 B5  A5  G#5  G5    x4
 ```
 
@@ -69,7 +71,7 @@ Troubled times, you know I can not lie.
 E                         F#5
 I'm off the wagon and I'm hitchin' a ride.
 
-```chordpro
+```
 B5  A5  G#5  G5    x2
 ```
 
@@ -82,7 +84,7 @@ My tongue is swelling up, I say shit!
 
 ## Solo
 
-```chordpro
+```
 B5  D5  G5   F#5    x8
 ```
 

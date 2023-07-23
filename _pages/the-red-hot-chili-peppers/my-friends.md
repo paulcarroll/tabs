@@ -13,6 +13,8 @@ links:
     url: https://www.youtube.com/watch?v=_U-VcuQKfJc&ab_channel=HitsOnAcousticGuitar
 ---
 
+## Chords
+
 ```chordpro
 Dsus2     232200
 Dsus2/F   032300

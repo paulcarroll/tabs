@@ -19,6 +19,8 @@ links:
     url: https://www.youtube.com/watch?v=uAfowgCvl9w&ab_channel=RappaNui-Musicalizando
 ---
 
+## Chords
+
 ```chordpro
     C#    A    B    Eb/E   F#
 e|--0-----0----0-----0-----0---|

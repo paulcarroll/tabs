@@ -9,7 +9,9 @@ links:
     url: https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul?si=gJD8fhPLQumZOmJabqDfEg
 ---
 
-```chordpro
+## Intro
+
+```
      G                  C                      G                   D
 e |--7--8--10----8--7-|-12--13--15---13--12-|--7--8--10----8--7-|--5--2--3--5-----|
 B |--8-10--12---10--8-|-13--15--17---15--13-|--8-10--12---10--8-|-----------------|

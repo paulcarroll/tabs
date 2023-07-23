@@ -11,6 +11,8 @@ links:
     url: https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA?si=f81e4828e0a04a00
 ---
 
+## Chords
+
 ```chordpro
 G   = 320003   Gsus4 = 320013   F/C   = x33211   Cm7    = x35343
 Bm7 = x24232   Fmaj7 = 133210   Bb/D  = xx0221   Gb     = 244322

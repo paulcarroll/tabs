@@ -77,7 +77,7 @@ Am            G           F     G
 
 ## Solo 1
 
-```chordpro
+```
 Am   G   F   G   x4
 ```
 
@@ -104,7 +104,7 @@ Am            G         F    G
 
 ## Solo 2
 
-```chordpro
+```
 Am   G   F   G   x16
 ```
 

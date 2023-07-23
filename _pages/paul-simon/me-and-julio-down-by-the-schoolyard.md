@@ -80,7 +80,7 @@ down by the schoolyard
 
 ## Instrumental
 
-```chordpro
+```
 D A D A B7 E D G A  A G D E A  A G D E A
 ```
 

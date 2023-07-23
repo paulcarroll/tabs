@@ -36,7 +36,7 @@ A#m7b5  x1212x
 
 ## Intro
 
-```chordpro 
+``` 
 C#m7   E
 Asus2  G#sus4 G#
 A      E
@@ -88,7 +88,7 @@ Reply?
 
 ## Instrumental
 
-```chordpro 
+``` 
 E  F#m11/E  E
 E  F#m11/E  E*
 
@@ -116,7 +116,7 @@ Only watched the time go by,
 A                   E
 All of these things you said to me.
 
-```chordpro
+```
 e|---0--0----0----0---------0-|
 B|-2b3--3r2--0------------0---|
 G|--------------2----1h2------|
@@ -151,7 +151,7 @@ Goodbye
 
 ## Instrumental
 
-```chordpro
+```
 E  F#m11/E  E
 E  F#m11/E  E*
 ```
@@ -171,7 +171,7 @@ all of these things I said to you.
 
 ## Outro
 
-```chordpro
+```
 e|---0--0----0----0---------0-|
 B|-2b3--3r2--0------------0---|
 G|--------------2----1h2------|

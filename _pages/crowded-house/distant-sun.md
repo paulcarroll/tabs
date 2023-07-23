@@ -10,6 +10,7 @@ links:
     url: https://open.spotify.com/track/4oh6NKtMdiXIhgGGQBR09b?si=3b5a6d1f86964253
 ---
 
+## Chords
 
 ```chordpro
 C        332010    F        133211
@@ -21,7 +22,7 @@ Fsus2    133111
 
 ## Intro
 
-```chordpro
+```
 C | Fmaj7 | C | Fmaj7 | C | Fmaj7 | C | Fmaj7
 ```
 
@@ -54,7 +55,7 @@ Dust from a distant sun
 F                G    C
 Will shower over everyone
 
-```chordpro
+```
 Fmaj7| C | Fmaj7
 ```
 
@@ -88,7 +89,7 @@ Dust from a distant sun
 F                 G
 Will shower over everyone
 
-```chordpro
+```
 Fmaj7| C | Fmaj7
 ```
 
@@ -102,7 +103,7 @@ Am                 D9           F
 I don't pretend to know what you want
 But I offer love...
 
-```chordpro
+```
 G | Dm7 | F | G | C
 G | Dm7 | F | G | C
 ```

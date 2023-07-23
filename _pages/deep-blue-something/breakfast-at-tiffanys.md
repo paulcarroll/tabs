@@ -101,7 +101,7 @@ And I said "Well that's, the one thing we've got..."
 
 ## Instrumental
 
-```chordpro
+```
 D G A, D G A, D G A, D G A,
 ```
 
@@ -129,6 +129,6 @@ And I said "Well that's, the one thing we've got..."
 
 ## Outro
 
-```chordpro
+```
 D G A, D G A, D G A, D G A, D.
 ```

@@ -10,6 +10,8 @@ links:
     url: https://open.spotify.com/track/7ieCsfrxC9ssTGUzCL8BHv?si=TN96gr20RNm2uMdj_CZTSA
 ---
 
+## Intro
+
 ```chordpro
 e ------7-5-4-2-4-0-0h2--
 B ----5------------------
@@ -19,9 +21,7 @@ A -----------------------
 E -----------------------
 ```
 
-## Intro
-
-```chordpro
+```
 E A C#m B, E A C#m B
 ```
 
@@ -74,7 +74,7 @@ I've been high and I've been low, but I got nowhere else to go,
 
 ## Instrumental
 
-```chordpro
+```
 E A C#m B, E A C#m B
 ```
 
@@ -89,6 +89,6 @@ I'm still here,   I'm still a fool for the holy grail...
 
 ## Outro
 
-```chordpro
+```
 E A C#m B, E A C#m B, E A C#m B
 ```

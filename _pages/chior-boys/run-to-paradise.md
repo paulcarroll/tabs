@@ -12,7 +12,7 @@ links:
 
 ## Intro
 
-```chordpro
+```
 A E D E, A E D E, A E D E, A E D D
 ```
 
@@ -29,7 +29,7 @@ You don't need a friend when you can score, but you run to paradise,
 
 ## Instrumental
 
-```chordpro
+```
 A E D E, A E D E, A E D E, A E D D
 ```
 
@@ -83,7 +83,7 @@ A E D E          A  E D E          A  E D E          A  E D <loud> D
 
 ## Instrumental
 
-```chordpro
+```
 A E D E, A E D E, A E D E, A D. E.
 ```
 

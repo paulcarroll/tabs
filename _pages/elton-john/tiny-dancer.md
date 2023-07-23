@@ -10,6 +10,8 @@ links:
     url: https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO?si=8f84a8c62d0b4901
 ---
 
+## Chords
+
 ```chordpro
 C   (x32010)    D7  (xx0212)    Em  (022000)    G/B   (x2003x)
 F   (133211)    D   (xx0232)    Ab  (466544)    G/B*  (x2303x)

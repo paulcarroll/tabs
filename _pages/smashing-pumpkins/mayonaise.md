@@ -12,6 +12,8 @@ links:
     url: https://www.youtube.com/watch?v=23NSK0j1pf8
 ---
 
+## Chords
+
 ```chordpro
    A  F#m  D   B5  G   E
 e|-0---2---2---x---3---0---|

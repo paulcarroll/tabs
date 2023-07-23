@@ -11,6 +11,8 @@ links:
     url: https://open.spotify.com/track/2pDXMhXlzg67zhXKZVlefy?si=Cf9z-hvOTriBmimKGKc9fg
 ---
 
+## Chords
+
 ```chordpro
 Am:    x02210
 C:     x32010
