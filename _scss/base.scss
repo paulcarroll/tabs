@@ -19,3 +19,9 @@ body {
   max-width: 90rem;
   margin: 0 auto;
 }
+
+.btn:focus,.btn:active {
+  outline: none !important;
+  box-shadow: none;
+}
+

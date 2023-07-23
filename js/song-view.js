@@ -16,6 +16,23 @@ function initSongView({ columns }) {
     $('.song-body').addClass(`--force-columns-${columns}`);
   });
 
+  $('.song-body code.language-chordpro').before(`<a href="#" class="shadow-none solo-expand" data-expanded="false" role="button">Expand</a><br/>`);
+  $('.song-body .solo-expand').on('click', e => {
+    const $el = $(e.target);
+
+    if ($el.data('expanded')) {
+      $el.siblings('code.language-chordpro').hide();
+      $el.data('expanded', false);
+      $el.text('Expand');
+    }
+    else {
+      $el.siblings('code.language-chordpro').show();
+      $el.data('expanded', true);
+      $el.text('Collapse');
+    }
+    return false;
+  });
+
   // Set the playlist controls
   const playlist = getPlaylist();
 
