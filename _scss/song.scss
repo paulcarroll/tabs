@@ -172,15 +172,22 @@
       margin-bottom: 1rem;
     }
 
+    pre {
+      display: table;
+      padding-bottom: 16px;
+    }
+
     code {
       font-family: monospace;
+      font-size: 1rem;
 
       &.language-chordpro {
         display: none;
+        font-size: .9rem
       }
     }
 
-    code, > h1, > h2, > h3 {
+    > h1, > h2, > h3 {
       @media (min-width: 640px) {
         font-size: calc(18px + .3vw);
       }

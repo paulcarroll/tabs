@@ -20,7 +20,9 @@ links:
     url: https://www.youtube.com/watch?v=3pTHHfWNETo
 ---
 
-```
+## Notes
+
+```chordpro
 Alternate chords: Cm   B♭   A♭
 or just use them in the intro to mix the tone up a bit in the solos
 
