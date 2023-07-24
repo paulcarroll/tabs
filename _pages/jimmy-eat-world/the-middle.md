@@ -14,6 +14,9 @@ links:
     title: WillHayGuitar
     url: https://www.youtube.com/watch?v=AqZv5Lr-w20&ab_channel=WillHayGuitar
     highlight: true
+  - type: Youtube
+    title: JimmyEatWorld
+    url: https://www.youtube.com/watch?v=TZO0oIHbv0c&ab_channel=JimmyEatWorld
 ---
 
 ## Intro
@@ -84,6 +87,8 @@ A    D
 G    D
 A
 ```
+
+**Electric solo**
 
 ```chordpro
 e|------------------------------------------------------------------------
