@@ -73,13 +73,13 @@ E  F#m G#m  F#m
 
 ## Bridge
 
-E                                                   F#m
+E                                     F#m
 And I told myself boy away you go, it rained so hard it felt like snow
-G#m                              F#m
+G#m                                 F#m
 Everything came tumbling down on me
-E                                                   F#m
+E
 In the back of the woods in the dark of the night
-G#m                                             F#m
+F#m                              G#m                    F#m
 Paleness of the old moonlight everything just felt so incomplete
 
 ## Outro

@@ -62,7 +62,7 @@ Bring a nickel, tap your feet.
 
 ## Instrumental
 
-```chordpro
+```
 Guitar 1:
 C                 G        C         C                 G        C
 

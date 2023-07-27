@@ -8,6 +8,9 @@ links:
   - type: Spotify
     title: Spotify
     url: https://open.spotify.com/track/1GjbTNFImFrjFsNdleDe78?si=91108940b8dd40a7
+  - type: Youtube
+    title: GuitarZero2Hero
+    url: https://www.youtube.com/watch?v=mkh3c9E2U64&t=309s&ab_channel=GuitarZero2Hero
 ---
 
 ## Intro
@@ -70,18 +73,36 @@ E------------------------------
 
 Am F Dm F
 
+```chordpro
+e|----------------------------------------------------------------------
+B|-15/17----17-16-15---13-----------------------------------------------
+G|--------------------------14p12-14------------------------------------
+D|----------------------------------------------------------------------
+A|----------------------------------------------------------------------
+E|----------------------------------------------------------------------
+
+e|--12/15--12------12-12----------------12---13----15-------------------
+B|-------------15----------15-13---15-----------------------------------
+G|----------------------------------------------------------------------
+D|----------------------------------------------------------------------
+A|----------------------------------------------------------------------
+E|----------------------------------------------------------------------
+```
+
+
 ## Chorus
 
 ```
+C        F            C             F               C             F
 I,             I was standing,             you were there,
  [Don't ask me]          [you know its true]          [worlds colliding]
-
+             C            F                        G
 Two worlds collided,               and they could never tear us apart...
                   [shining through]
-
+C        F            C             F               C             F
 You,        you were standing,              you were there,
 [Don't ask me]             [you know its true]        [worlds colliding]
-
+             C            F                       G
 Two worlds collided,             and they could never tear us apart...
                   [shining through]
 ```
