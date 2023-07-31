@@ -3,7 +3,8 @@ group: Soundgarden
 title: Blackhole sun
 tags: [learning]
 layout: page
-capo: 3
+capo: none
+columns: 1
 links:
   - type: Spotify
     title: Spotify
