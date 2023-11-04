@@ -12,6 +12,14 @@ links:
   - type: YouTube
     title: GuitarZero2Hero
     url: https://www.youtube.com/watch?v=Zc047e84ho8&ab_channel=GuitarZero2Hero
+  - type: YouTube
+    title: Nathan Wesley ver 1 
+    url: https://www.youtube.com/watch?v=YRVIm8u_BaM
+    comment: Accurate to the recording
+  - type: YouTube
+    title: Nathan Wesley ver 2
+    url: https://www.youtube.com/watch?v=Pt2TZSkmucU
+    comment: Easier to play
 ---
 
 ## Intro
