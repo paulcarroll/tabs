@@ -15,6 +15,10 @@ links:
     title: JohnStearns 
     highlight: true
     url: https://www.youtube.com/watch?v=W8UsgqfX2SQ
+  - type: YouTube
+    title: Marc Durkee
+    highlight: true
+    url: https://www.youtube.com/watch?v=-D8C3eVl_yM
 ---
 
 

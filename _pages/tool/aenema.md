@@ -16,6 +16,12 @@ links:
     title: DrewAngell
     highlight: true
     url: https://www.youtube.com/watch?v=OE7nBgTy0Cg
+  - type: YouTube
+    title: BackAlleyAxeBoy
+    url: https://www.youtube.com/watch?v=kFLT5A47wRc&ab_channel=BackAlleyAxeBoy%F0%9F%8E%B8
+  - type: YouTube
+    title: LavishLucy
+    url: https://www.youtube.com/watch?v=wAmfFsDRJjw&ab_channel=LavishLucy
 ---
 
 Power chords
